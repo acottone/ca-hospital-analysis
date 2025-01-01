@@ -1,0 +1,401 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "Department of Health Care Access and Information:  The California Elective Percutaneous Coronary Intervention Program Report, 2016:  The California Elective Percutaneous Coronary Intervention Program Report, 2017:  The California Elective Percutaneous Coronary Intervention Program Report, 2018:  The California Elective Percutaneous Coronary Intervention Program Report, 2019:   The California Elective Percutaneous Coronary Intervention Program Report, 2020:    The California Elective Percutaneous Coronary Intervention Program Report, 2021: The California Elective Percutaneous Coronary Intervention Program Report, 2022",
+  "contact_email": "DataandReports@hcai.ca.gov",
+  "data_collection_tool": "HCAI obtains data from the American College of Cardiology’s National Cardiovascular Data Registry (ACC-NCDR)",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "This dataset contains the location of California hospitals that are certified to perform elective percutaneous coronary interventions (PCIs) without on-site cardiac surgery.  The data provides performance ratings for three outcome measures: mortality, post-PCI stroke, and post-PCI emergency coronary artery bypass graft surgery.  It includes the number of cases, adverse events and risk-adjusted rates for certified hospitals compared to the overall observed statewide rates. ",
+  "geo_coverage": "Statewide",
+  "geographic_granularity": "location point",
+  "keywords": [
+    "PCI",
+    "PCI mortality",
+    "cardiac surgery",
+    "deaths",
+    "elective PCI",
+    "healthcare",
+    "hospital quality.",
+    "measures",
+    "performance rating",
+    "post-PCI CABG surgery",
+    "post-PCI cabg surgery",
+    "post-PCI stroke",
+    "primary PCI",
+    "ratings",
+    "risk-adjusted"
+  ],
+  "limitations": "Limitations",
+  "name": "elective-percutaneous-coronary-intervention-pci-program-reports",
+  "program_web_page": "https://hcai.ca.gov/data/healthcare-quality/elective-percutaneous-coronary-intervention-pci-program-reports/",
+  "related_resources": "ACC-NCDR CathPCI Registry",
+  "resources": [
+    {
+      "description": "This dataset contains the location of California hospitals that are certified to perform elective percutaneous coronary interventions (PCIs) without on-site cardiac surgery. The data provides performance ratings for three outcome measures: mortality, post-PCI stroke, and post-PCI emergency coronary artery bypass graft surgery. It includes the number of cases, adverse events and risk-adjusted rates for certified hospitals compared to the overall observed statewide rates. ",
+      "format": "CSV",
+      "hash": "6009a64364a5fc0df675ac8241f21d3f",
+      "name": "elective-percutaneous-coronary-interventions-pcis-without-on-site-cardiac-surgery",
+      "path": "elective-percutaneous-coronary-interventions-pcis-without-on-site-cardiac-surgery.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "County",
+            "type": "string"
+          },
+          {
+            "name": "Hospital",
+            "type": "string"
+          },
+          {
+            "name": "Hospital ID",
+            "type": "string"
+          },
+          {
+            "name": "Performance Measure",
+            "type": "string"
+          },
+          {
+            "name": "Statewide All PCI Cases",
+            "type": "string"
+          },
+          {
+            "name": "Statewide Elective PCIs",
+            "type": "string"
+          },
+          {
+            "name": "Statewide Adverse Events",
+            "type": "string"
+          },
+          {
+            "name": "Statewide ObservedAdverse Events Rate (%)",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Total PCI Cases",
+            "type": "string"
+          },
+          {
+            "name": "Hospital All/Elective PCI Cases",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Elective PCI Cases",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Primary PCI Cases",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Adverse Events",
+            "type": "string"
+          },
+          {
+            "name": "Hospital ObservedAdverse Events Rate (%)",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Expected Adverse Events Rate (%)",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Risk-Adjusted Adverse Events Rate (%, RAAER)",
+            "type": "string"
+          },
+          {
+            "name": "Latitude",
+            "type": "string"
+          },
+          {
+            "name": "Longitude",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/cc39bbc7-8247-43dd-803a-cb54ebfa7b2c/download/elective_pci_hospital_table.csv",
+          "title": "Elective Percutaneous Coronary Interventions (PCIs) Without On-Site Cardiac Surgery"
+        }
+      ],
+      "title": "Elective Percutaneous Coronary Interventions (PCIs) Without On-Site Cardiac Surgery"
+    },
+    {
+      "format": "PDF",
+      "name": "data-dictionary",
+      "path": "data-dictionary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/dc0a83ba-12a4-4a54-a577-03581331e80d/download/data_dictionary.pdf",
+          "title": "Data Dictionary"
+        }
+      ],
+      "title": "Data Dictionary"
+    },
+    {
+      "format": "PDF",
+      "name": "2022-executive-summary",
+      "path": "2022-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/36c7b949-ac06-4b18-a5b1-87d6124fda16/download/2022-executive-summary.pdf",
+          "title": "2022 Executive Summary"
+        }
+      ],
+      "title": "2022 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2022-pci-hospital-outcomes-table",
+      "path": "2022-pci-hospital-outcomes-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/3e5fd5ed-6569-4b59-85df-932f91a038ca/download/2022-pci-hospital-outcomes-table.pdf",
+          "title": "2022 PCI Hospital Outcomes Table"
+        }
+      ],
+      "title": "2022 PCI Hospital Outcomes Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2022-hcai-technical-note",
+      "path": "2022-hcai-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/403dbde9-7eee-45f3-b035-2e61921ce55d/download/2022-hcai-technical-note.pdf",
+          "title": "2022 HCAI Technical Note"
+        }
+      ],
+      "title": "2022 HCAI Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2021-executive-summary",
+      "path": "2021-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/54eab2b0-d3dc-49de-a69a-3f3744a584fd/download/2021_executive_summary.pdf",
+          "title": "2021 Executive Summary"
+        }
+      ],
+      "title": "2021 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2021-pci-hospital-outcomes-table",
+      "path": "2021-pci-hospital-outcomes-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/07b06339-179b-4bde-9e42-50e72bf03364/download/2021_pci_hospital_-outcomes_table.pdf",
+          "title": "2021 PCI Hospital Outcomes Table"
+        }
+      ],
+      "title": "2021 PCI Hospital Outcomes Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2021-hcai-technical-note",
+      "path": "2021-hcai-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/de16daed-207b-435d-9a08-95418a9afa81/download/2021_hcai_technical_note.pdf",
+          "title": "2021 HCAI Technical Note"
+        }
+      ],
+      "title": "2021 HCAI Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2020-executive-summary",
+      "path": "2020-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/fe4af695-bde1-45b4-a696-d34bc0f915dc/download/2020_executive_summary_.pdf",
+          "title": "2020 Executive Summary"
+        }
+      ],
+      "title": "2020 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2020-pci-hospital-outcomes-table",
+      "path": "2020-pci-hospital-outcomes-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/1e5281df-7083-4cb8-a505-586d32aff6a7/download/2020_pci_hospital_outcomes_table.pdf",
+          "title": "2020 PCI Hospital Outcomes Table"
+        }
+      ],
+      "title": "2020 PCI Hospital Outcomes Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2020-hcai-technical-note",
+      "path": "2020-hcai-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/f6689c27-f181-4a48-ac2a-0629eff82425/download/2020_hcai_technical_note.pdf",
+          "title": "2020 HCAI Technical Note"
+        }
+      ],
+      "title": "2020 HCAI Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2019-executive-summary",
+      "path": "2019-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/e6c064f7-34bd-4772-8f93-e505503d2a58/download/2019_executive_summary.pdf",
+          "title": "2019 Executive Summary"
+        }
+      ],
+      "title": "2019 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2019-pci-hospital-outcomes-table",
+      "path": "2019-pci-hospital-outcomes-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/b2a518b5-11bb-4a30-8c30-748b4a91a01d/download/2019_pci_hospital_outcomes_table.pdf",
+          "title": "2019 PCI Hospital Outcomes Table"
+        }
+      ],
+      "title": "2019 PCI Hospital Outcomes Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2019-hcai-technical-note",
+      "path": "2019-hcai-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/70671c11-773c-41da-aeba-a04dc3b07358/download/2019_oshpd_technical_note.pdf",
+          "title": "2019 HCAI Technical Note"
+        }
+      ],
+      "title": "2019 HCAI Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2018-executive-summary",
+      "path": "2018-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/7c12a6fe-19bd-4f25-85c5-827ff8c33bc1/download/2018_executive_summary.pdf",
+          "title": "2018 Executive Summary"
+        }
+      ],
+      "title": "2018 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2018-pci-hospital-outcomes-table",
+      "path": "2018-pci-hospital-outcomes-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/7bed6919-5186-40ca-a232-239ab2d51de8/download/2018_pci_outcomes_table_pdf.pdf",
+          "title": "2018 PCI Hospital Outcomes Table "
+        }
+      ],
+      "title": "2018 PCI Hospital Outcomes Table "
+    },
+    {
+      "format": "PDF",
+      "name": "2018-hcai-technical-note",
+      "path": "2018-hcai-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/217503e6-8598-4950-81e9-1c84ff676e97/download/2018_oshpd_technical_note.pdf",
+          "title": "2018 HCAI Technical Note"
+        }
+      ],
+      "title": "2018 HCAI Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2017-executive-summary",
+      "path": "2017-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/69ca5409-c76e-4606-9ec0-923301dbbbff/download/pci-2017-exec-summary.pdf",
+          "title": "2017 Executive Summary"
+        }
+      ],
+      "title": "2017 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2017-hospital-outcomes-table",
+      "path": "2017-hospital-outcomes-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/0c1cd117-19ef-4e3b-b798-4019274caefc/download/pci-2017-summary-table-w-logo-.pdf",
+          "title": "2017 Hospital Outcomes Table"
+        }
+      ],
+      "title": "2017 Hospital Outcomes Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2017-technical-note",
+      "path": "2017-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/55619795-2170-48a1-9789-bf21e486e190/download/pci-2017-technical-note.pdf",
+          "title": "2017 Technical Note"
+        }
+      ],
+      "title": "2017 Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2016-executive-summary",
+      "path": "2016-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/a21d241c-9d02-417d-956f-d11495cdcfa9/download/pci-2016-exec-summary-2016.pdf",
+          "title": "2016 Executive Summary"
+        }
+      ],
+      "title": "2016 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2016-hospital-outcomes-table",
+      "path": "2016-hospital-outcomes-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/1a83d580-3851-4505-8204-86750aa9c0e7/download/pci-2016-summary-table-rv.pdf",
+          "title": "2016 Hospital Outcomes Table"
+        }
+      ],
+      "title": "2016 Hospital Outcomes Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2016-technical-note",
+      "path": "2016-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/d8c7432b-89f5-4300-8a0c-aad6eb7303af/resource/382e32fe-e0f1-43d5-8872-c2b54d7c9465/download/pci-2016-technical-noterv.pdf",
+          "title": "2016 Technical Note"
+        }
+      ],
+      "title": "2016 Technical Note"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Health Care Access and Information, Information Services Division, Healthcare Analytics Branch, Clinical Data Group"
+    }
+  ],
+  "temporal_coverage": "2016-2022",
+  "title": "Elective Percutaneous Coronary Intervention (PCI) Program Reports"
+}

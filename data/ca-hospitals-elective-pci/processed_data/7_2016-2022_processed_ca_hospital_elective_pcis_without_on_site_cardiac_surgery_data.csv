@@ -1,0 +1,667 @@
+year,county,hospital,oshpd_id,performance_measure,#_of_cases,hospital_elective_pci_cases,hospital_primary_pci_cases,hospital_adverse_events,risk_adjusted_rate
+2017,alameda,highland hospital,106010846,elective pci mortality,161,0,161,0,0.0
+2017,alameda,highland hospital,106010846,elective pci stroke,161,0,161,0,0.0
+2017,alameda,highland hospital,106010846,elective pci emergency cabg,161,0,161,0,0.0
+2017,alameda,highland hospital,106010846,all pci mortality,161,0,161,4,2.23
+2017,alameda,highland hospital,106010846,all pci stroke,161,0,161,1,0.55
+2017,alameda,highland hospital,106010846,all pci emergency cabg,161,0,161,0,0.0
+2018,alameda,highland hospital,106010846,elective pci mortality,132,9,123,0,0.0
+2018,alameda,highland hospital,106010846,elective pci stroke,132,9,123,0,0.0
+2018,alameda,highland hospital,106010846,elective pci emergency cabg,132,9,123,0,
+2018,alameda,highland hospital,106010846,all pci mortality,132,9,123,4,1.48
+2018,alameda,highland hospital,106010846,all pci stroke,132,9,123,1,0.46
+2018,alameda,highland hospital,106010846,all pci emergency cabg,132,9,123,0,
+2019,alameda,highland hospital,106010846,elective pci mortality,164,10,154,0,0.0
+2019,alameda,highland hospital,106010846,elective pci stroke,164,10,154,0,0.0
+2019,alameda,highland hospital,106010846,elective pci emergency cabg,164,10,154,0,
+2019,alameda,highland hospital,106010846,all pci mortality,164,10,154,8,2.42
+2019,alameda,highland hospital,106010846,all pci stroke,164,10,154,0,0.0
+2019,alameda,highland hospital,106010846,all pci emergency cabg,164,10,154,1,
+2020,alameda,highland hospital,106010846,elective pci mortality,130,14,116,0,0.0
+2020,alameda,highland hospital,106010846,elective pci stroke,130,14,116,0,0.0
+2020,alameda,highland hospital,106010846,elective pci emergency cabg,130,14,116,0,
+2020,alameda,highland hospital,106010846,all pci mortality,130,14,116,5,1.84
+2020,alameda,highland hospital,106010846,all pci stroke,130,14,116,0,0.0
+2020,alameda,highland hospital,106010846,all pci emergency cabg,130,14,116,0,
+2021,alameda,highland hospital,106010846,elective pci mortality,150,13,137,0,0.0
+2021,alameda,highland hospital,106010846,elective pci stroke,150,13,137,0,0.0
+2021,alameda,highland hospital,106010846,elective pci emergency cabg,150,13,137,0,
+2021,alameda,highland hospital,106010846,all pci mortality,150,13,137,6,1.64
+2021,alameda,highland hospital,106010846,all pci stroke,150,13,137,1,0.48
+2021,alameda,highland hospital,106010846,all pci emergency cabg,150,13,137,0,
+2022,alameda,highland hospital,106010846,elective pci mortality,131,13,118,0,0.0
+2022,alameda,highland hospital,106010846,elective pci stroke,131,13,118,0,0.0
+2022,alameda,highland hospital,106010846,elective pci emergency cabg,131,13,118,0,
+2022,alameda,highland hospital,106010846,all pci mortality,131,13,118,5,1.97
+2022,alameda,highland hospital,106010846,all pci stroke,131,13,118,0,0.0
+2022,alameda,highland hospital,106010846,all pci emergency cabg,131,13,118,0,
+2019,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci mortality,319,76,243,0,0.0
+2019,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci stroke,319,76,243,0,0.0
+2019,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci emergency cabg,319,76,243,0,
+2019,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci mortality,319,76,243,10,2.56
+2019,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci stroke,319,76,243,2,0.64
+2019,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci emergency cabg,319,76,243,0,
+2020,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci mortality,257,41,216,0,0.0
+2020,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci stroke,257,41,216,0,0.0
+2020,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci emergency cabg,257,41,216,0,
+2020,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci mortality,257,41,216,8,2.47
+2020,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci stroke,257,41,216,2,0.61
+2020,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci emergency cabg,257,41,216,0,
+2021,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci mortality,284,53,231,0,0.0
+2021,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci stroke,284,53,231,0,0.0
+2021,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci emergency cabg,284,53,231,0,
+2021,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci mortality,284,53,231,6,1.92
+2021,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci stroke,284,53,231,2,0.55
+2021,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci emergency cabg,284,53,231,0,
+2022,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci mortality,269,31,238,0,0.0
+2022,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci stroke,269,31,238,0,0.0
+2022,alameda,kaiser foundation hospital â oakland/richmond,106014326,elective pci emergency cabg,269,31,238,0,
+2022,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci mortality,269,31,238,11,3.32
+2022,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci stroke,269,31,238,1,0.22
+2022,alameda,kaiser foundation hospital â oakland/richmond,106014326,all pci emergency cabg,269,31,238,0,
+2016,alameda,st. rose hospital,106010967,elective pci mortality,224,21,203,0,0.0
+2016,alameda,st. rose hospital,106010967,elective pci stroke,224,21,203,0,0.0
+2016,alameda,st. rose hospital,106010967,elective pci emergency cabg,224,21,203,0,0.0
+2016,alameda,st. rose hospital,106010967,all pci mortality,224,21,203,7,1.98
+2016,alameda,st. rose hospital,106010967,all pci stroke,224,21,203,2,0.59
+2016,alameda,st. rose hospital,106010967,all pci emergency cabg,224,21,203,0,0.0
+2017,alameda,st. rose hospital,106010967,elective pci mortality,215,26,189,0,0.0
+2017,alameda,st. rose hospital,106010967,elective pci stroke,215,26,189,0,0.0
+2017,alameda,st. rose hospital,106010967,elective pci emergency cabg,215,26,189,0,0.0
+2017,alameda,st. rose hospital,106010967,all pci mortality,215,26,189,9,1.75
+2017,alameda,st. rose hospital,106010967,all pci stroke,215,26,189,0,0.0
+2017,alameda,st. rose hospital,106010967,all pci emergency cabg,215,26,189,0,0.0
+2018,alameda,st. rose hospital,106010967,elective pci mortality,157,20,137,0,0.0
+2018,alameda,st. rose hospital,106010967,elective pci stroke,157,20,137,0,0.0
+2018,alameda,st. rose hospital,106010967,elective pci emergency cabg,157,20,137,0,
+2018,alameda,st. rose hospital,106010967,all pci mortality,157,20,137,8,1.69
+2018,alameda,st. rose hospital,106010967,all pci stroke,157,20,137,2,0.67
+2018,alameda,st. rose hospital,106010967,all pci emergency cabg,157,20,137,0,
+2019,alameda,st. rose hospital,106010967,elective pci mortality,235,21,214,0,0.0
+2019,alameda,st. rose hospital,106010967,elective pci stroke,235,21,214,0,0.0
+2019,alameda,st. rose hospital,106010967,elective pci emergency cabg,235,21,214,0,
+2019,alameda,st. rose hospital,106010967,all pci mortality,235,21,214,9,1.69
+2019,alameda,st. rose hospital,106010967,all pci stroke,235,21,214,1,0.27
+2019,alameda,st. rose hospital,106010967,all pci emergency cabg,235,21,214,0,
+2020,alameda,st. rose hospital,106010967,elective pci mortality,187,13,174,0,0.0
+2020,alameda,st. rose hospital,106010967,elective pci stroke,187,13,174,0,0.0
+2020,alameda,st. rose hospital,106010967,elective pci emergency cabg,187,13,174,0,
+2020,alameda,st. rose hospital,106010967,all pci mortality,187,13,174,15,3.56
+2020,alameda,st. rose hospital,106010967,all pci stroke,187,13,174,2,0.64
+2020,alameda,st. rose hospital,106010967,all pci emergency cabg,187,13,174,1,
+2021,alameda,st. rose hospital,106010967,elective pci mortality,182,15,167,0,0.0
+2021,alameda,st. rose hospital,106010967,elective pci stroke,182,15,167,0,0.0
+2021,alameda,st. rose hospital,106010967,elective pci emergency cabg,182,15,167,0,
+2021,alameda,st. rose hospital,106010967,all pci mortality,182,15,167,11,1.79
+2021,alameda,st. rose hospital,106010967,all pci stroke,182,15,167,0,0.0
+2021,alameda,st. rose hospital,106010967,all pci emergency cabg,182,15,167,0,
+2022,alameda,st. rose hospital,106010967,elective pci mortality,181,8,173,0,0.0
+2022,alameda,st. rose hospital,106010967,elective pci stroke,181,8,173,0,0.0
+2022,alameda,st. rose hospital,106010967,elective pci emergency cabg,181,8,173,0,
+2022,alameda,st. rose hospital,106010967,all pci mortality,181,8,173,9,1.58
+2022,alameda,st. rose hospital,106010967,all pci stroke,181,8,173,1,0.27
+2022,alameda,st. rose hospital,106010967,all pci emergency cabg,181,8,173,0,
+2016,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci mortality,395,171,224,0,0.0
+2016,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci stroke,395,171,224,0,0.0
+2016,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci emergency cabg,395,171,224,0,0.0
+2016,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci mortality,395,171,224,6,3.08
+2016,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci stroke,395,171,224,0,0.0
+2016,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci emergency cabg,395,171,224,0,0.0
+2017,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci mortality,408,148,260,1,1.0
+2017,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci stroke,408,148,260,0,0.0
+2017,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci emergency cabg,408,148,260,1,0.65
+2017,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci mortality,408,148,260,2,0.76
+2017,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci stroke,408,148,260,1,0.26
+2017,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci emergency cabg,408,148,260,1,0.25
+2018,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci mortality,105,38,67,0,0.0
+2018,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci stroke,105,38,67,0,0.0
+2018,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci emergency cabg,105,38,67,0,
+2018,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci mortality,105,38,67,1,1.64
+2018,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci stroke,105,38,67,0,0.0
+2018,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci emergency cabg,105,38,67,1,
+2019,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci mortality,475,141,334,0,0.0
+2019,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci stroke,475,141,334,1,0.62
+2019,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci emergency cabg,475,141,334,0,
+2019,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci mortality,475,141,334,4,1.35
+2019,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci stroke,475,141,334,2,0.46
+2019,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci emergency cabg,475,141,334,0,
+2020,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci mortality,363,83,280,0,0.0
+2020,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci stroke,363,83,280,0,0.0
+2020,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci emergency cabg,363,83,280,0,
+2020,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci mortality,363,83,280,10,3.38
+2020,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci stroke,363,83,280,2,0.59
+2020,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci emergency cabg,363,83,280,0,
+2021,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci mortality,430,131,299,0,0.0
+2021,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci stroke,430,131,299,0,0.0
+2021,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci emergency cabg,430,131,299,0,
+2021,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci mortality,430,131,299,5,2.25
+2021,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci stroke,430,131,299,0,0.0
+2021,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci emergency cabg,430,131,299,0,
+2022,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci mortality,398,99,299,0,0.0
+2022,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci stroke,398,99,299,0,0.0
+2022,contra costa,kaiser foundation hospital â walnut creek,10607099,elective pci emergency cabg,398,99,299,0,
+2022,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci mortality,398,99,299,5,2.5
+2022,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci stroke,398,99,299,1,0.31
+2022,contra costa,kaiser foundation hospital â walnut creek,10607099,all pci emergency cabg,398,99,299,0,
+2017,contra costa,sutter delta medical center,106070934,elective pci mortality,241,11,230,0,0.0
+2017,contra costa,sutter delta medical center,106070934,elective pci stroke,241,11,230,0,0.0
+2017,contra costa,sutter delta medical center,106070934,elective pci emergency cabg,241,11,230,0,0.0
+2017,contra costa,sutter delta medical center,106070934,all pci mortality,241,11,230,5,3.24
+2017,contra costa,sutter delta medical center,106070934,all pci stroke,241,11,230,1,0.43
+2017,contra costa,sutter delta medical center,106070934,all pci emergency cabg,241,11,230,0,0.0
+2018,contra costa,sutter delta medical center,106070934,elective pci mortality,205,30,175,0,0.0
+2018,contra costa,sutter delta medical center,106070934,elective pci stroke,205,30,175,0,0.0
+2018,contra costa,sutter delta medical center,106070934,elective pci emergency cabg,205,30,175,0,
+2018,contra costa,sutter delta medical center,106070934,all pci mortality,205,30,175,6,2.41
+2018,contra costa,sutter delta medical center,106070934,all pci stroke,205,30,175,0,0.0
+2018,contra costa,sutter delta medical center,106070934,all pci emergency cabg,205,30,175,0,
+2019,contra costa,sutter delta medical center,106070934,elective pci mortality,293,43,250,0,0.0
+2019,contra costa,sutter delta medical center,106070934,elective pci stroke,293,43,250,0,0.0
+2019,contra costa,sutter delta medical center,106070934,elective pci emergency cabg,293,43,250,0,
+2019,contra costa,sutter delta medical center,106070934,all pci mortality,293,43,250,7,2.46
+2019,contra costa,sutter delta medical center,106070934,all pci stroke,293,43,250,0,0.0
+2019,contra costa,sutter delta medical center,106070934,all pci emergency cabg,293,43,250,1,
+2020,contra costa,sutter delta medical center,106070934,elective pci mortality,329,56,273,0,0.0
+2020,contra costa,sutter delta medical center,106070934,elective pci stroke,329,56,273,0,0.0
+2020,contra costa,sutter delta medical center,106070934,elective pci emergency cabg,329,56,273,0,
+2020,contra costa,sutter delta medical center,106070934,all pci mortality,329,56,273,5,2.16
+2020,contra costa,sutter delta medical center,106070934,all pci stroke,329,56,273,0,0.0
+2020,contra costa,sutter delta medical center,106070934,all pci emergency cabg,329,56,273,0,
+2021,contra costa,sutter delta medical center,106070934,elective pci mortality,327,51,276,0,0.0
+2021,contra costa,sutter delta medical center,106070934,elective pci stroke,327,51,276,0,0.0
+2021,contra costa,sutter delta medical center,106070934,elective pci emergency cabg,327,51,276,0,
+2021,contra costa,sutter delta medical center,106070934,all pci mortality,327,51,276,9,2.87
+2021,contra costa,sutter delta medical center,106070934,all pci stroke,327,51,276,2,0.4
+2021,contra costa,sutter delta medical center,106070934,all pci emergency cabg,327,51,276,0,
+2022,contra costa,sutter delta medical center,106070934,elective pci mortality,305,51,254,1,4.82
+2022,contra costa,sutter delta medical center,106070934,elective pci stroke,305,51,254,0,0.0
+2022,contra costa,sutter delta medical center,106070934,elective pci emergency cabg,305,51,254,0,
+2022,contra costa,sutter delta medical center,106070934,all pci mortality,305,51,254,11,3.64
+2022,contra costa,sutter delta medical center,106070934,all pci stroke,305,51,254,2,0.46
+2022,contra costa,sutter delta medical center,106070934,all pci emergency cabg,305,51,254,1,
+2016,fresno,clovis community medical center,106100005,elective pci mortality,302,118,184,0,0.0
+2016,fresno,clovis community medical center,106100005,elective pci stroke,302,118,184,0,0.0
+2016,fresno,clovis community medical center,106100005,elective pci emergency cabg,302,118,184,0,0.0
+2016,fresno,clovis community medical center,106100005,all pci mortality,302,118,184,6,3.57
+2016,fresno,clovis community medical center,106100005,all pci stroke,302,118,184,2,0.7
+2016,fresno,clovis community medical center,106100005,all pci emergency cabg,302,118,184,1,0.48
+2017,fresno,clovis community medical center,106100005,elective pci mortality,270,110,160,0,0.0
+2017,fresno,clovis community medical center,106100005,elective pci stroke,270,110,160,0,0.0
+2017,fresno,clovis community medical center,106100005,elective pci emergency cabg,270,110,160,0,0.0
+2017,fresno,clovis community medical center,106100005,all pci mortality,270,110,160,10,6.13
+2017,fresno,clovis community medical center,106100005,all pci stroke,270,110,160,1,0.41
+2017,fresno,clovis community medical center,106100005,all pci emergency cabg,270,110,160,2,0.83
+2018,fresno,clovis community medical center,106100005,elective pci mortality,208,121,87,0,0.0
+2018,fresno,clovis community medical center,106100005,elective pci stroke,208,121,87,0,0.0
+2018,fresno,clovis community medical center,106100005,elective pci emergency cabg,208,121,87,0,
+2018,fresno,clovis community medical center,106100005,all pci mortality,208,121,87,3,2.11
+2018,fresno,clovis community medical center,106100005,all pci stroke,208,121,87,0,0.0
+2018,fresno,clovis community medical center,106100005,all pci emergency cabg,208,121,87,1,
+2019,fresno,clovis community medical center,106100005,elective pci mortality,458,297,161,0,0.0
+2019,fresno,clovis community medical center,106100005,elective pci stroke,458,297,161,0,0.0
+2019,fresno,clovis community medical center,106100005,elective pci emergency cabg,458,297,161,2,
+2019,fresno,clovis community medical center,106100005,all pci mortality,458,297,161,7,3.91
+2019,fresno,clovis community medical center,106100005,all pci stroke,458,297,161,0,0.0
+2019,fresno,clovis community medical center,106100005,all pci emergency cabg,458,297,161,4,
+2020,fresno,clovis community medical center,106100005,elective pci mortality,377,222,155,1,0.52
+2020,fresno,clovis community medical center,106100005,elective pci stroke,377,222,155,0,0.0
+2020,fresno,clovis community medical center,106100005,elective pci emergency cabg,377,222,155,0,
+2020,fresno,clovis community medical center,106100005,all pci mortality,377,222,155,8,3.36
+2020,fresno,clovis community medical center,106100005,all pci stroke,377,222,155,1,0.38
+2020,fresno,clovis community medical center,106100005,all pci emergency cabg,377,222,155,1,
+2021,fresno,clovis community medical center,106100005,elective pci mortality,347,218,129,1,0.57
+2021,fresno,clovis community medical center,106100005,elective pci stroke,347,218,129,1,0.41
+2021,fresno,clovis community medical center,106100005,elective pci emergency cabg,347,218,129,1,
+2021,fresno,clovis community medical center,106100005,all pci mortality,347,218,129,8,3.17
+2021,fresno,clovis community medical center,106100005,all pci stroke,347,218,129,2,0.77
+2021,fresno,clovis community medical center,106100005,all pci emergency cabg,347,218,129,2,
+2022,fresno,clovis community medical center,106100005,elective pci mortality,322,166,156,1,0.81
+2022,fresno,clovis community medical center,106100005,elective pci stroke,322,166,156,0,0.0
+2022,fresno,clovis community medical center,106100005,elective pci emergency cabg,322,166,156,1,
+2022,fresno,clovis community medical center,106100005,all pci mortality,322,166,156,8,2.56
+2022,fresno,clovis community medical center,106100005,all pci stroke,322,166,156,1,0.31
+2022,fresno,clovis community medical center,106100005,all pci emergency cabg,322,166,156,2,
+2020,merced,mercy medical center â merced,106240942,elective pci mortality,59,28,31,0,0.0
+2020,merced,mercy medical center â merced,106240942,elective pci stroke,59,28,31,0,0.0
+2020,merced,mercy medical center â merced,106240942,elective pci emergency cabg,59,28,31,0,
+2020,merced,mercy medical center â merced,106240942,all pci mortality,59,28,31,2,6.45
+2020,merced,mercy medical center â merced,106240942,all pci stroke,59,28,31,2,5.56
+2020,merced,mercy medical center â merced,106240942,all pci emergency cabg,59,28,31,0,
+2021,merced,mercy medical center â merced,106240942,elective pci mortality,29,15,14,0,0.0
+2021,merced,mercy medical center â merced,106240942,elective pci stroke,29,15,14,0,0.0
+2021,merced,mercy medical center â merced,106240942,elective pci emergency cabg,29,15,14,0,
+2021,merced,mercy medical center â merced,106240942,all pci mortality,29,15,14,0,0.0
+2021,merced,mercy medical center â merced,106240942,all pci stroke,29,15,14,0,0.0
+2021,merced,mercy medical center â merced,106240942,all pci emergency cabg,29,15,14,0,
+2022,merced,mercy medical center â merced,106240942,elective pci mortality,28,21,7,0,0.0
+2022,merced,mercy medical center â merced,106240942,elective pci stroke,28,21,7,0,0.0
+2022,merced,mercy medical center â merced,106240942,elective pci emergency cabg,28,21,7,0,
+2022,merced,mercy medical center â merced,106240942,all pci mortality,28,21,7,0,0.0
+2022,merced,mercy medical center â merced,106240942,all pci stroke,28,21,7,0,0.0
+2022,merced,mercy medical center â merced,106240942,all pci emergency cabg,28,21,7,0,
+2017,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci mortality,373,150,223,0,0.0
+2017,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci stroke,373,150,223,0,0.0
+2017,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci emergency cabg,373,150,223,0,0.0
+2017,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci mortality,373,150,223,3,2.39
+2017,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci stroke,373,150,223,2,0.85
+2017,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci emergency cabg,373,150,223,0,0.0
+2018,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci mortality,320,127,193,0,0.0
+2018,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci stroke,320,127,193,0,0.0
+2018,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci emergency cabg,320,127,193,0,
+2018,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci mortality,320,127,193,0,0.0
+2018,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci stroke,320,127,193,0,0.0
+2018,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci emergency cabg,320,127,193,0,
+2019,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci mortality,455,176,279,0,0.0
+2019,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci stroke,455,176,279,0,0.0
+2019,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci emergency cabg,455,176,279,0,
+2019,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci mortality,455,176,279,1,0.75
+2019,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci stroke,455,176,279,2,0.72
+2019,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci emergency cabg,455,176,279,1,
+2020,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci mortality,362,143,219,0,0.0
+2020,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci stroke,362,143,219,0,0.0
+2020,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci emergency cabg,362,143,219,0,
+2020,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci mortality,362,143,219,3,2.56
+2020,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci stroke,362,143,219,0,0.0
+2020,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci emergency cabg,362,143,219,1,
+2021,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci mortality,356,144,212,0,0.0
+2021,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci stroke,356,144,212,0,0.0
+2021,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci emergency cabg,356,144,212,0,
+2021,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci mortality,356,144,212,2,1.28
+2021,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci stroke,356,144,212,1,0.44
+2021,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci emergency cabg,356,144,212,0,
+2022,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci mortality,396,175,221,0,0.0
+2022,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci stroke,396,175,221,1,0.7
+2022,orange,kaiser foundation hospital â orange county â irvine,106304306,elective pci emergency cabg,396,175,221,0,
+2022,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci mortality,396,175,221,2,1.56
+2022,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci stroke,396,175,221,2,0.88
+2022,orange,kaiser foundation hospital â orange county â irvine,106304306,all pci emergency cabg,396,175,221,0,
+2016,orange,los alamitos medical center,106301248,elective pci mortality,216,59,157,0,0.0
+2016,orange,los alamitos medical center,106301248,elective pci stroke,216,59,157,0,0.0
+2016,orange,los alamitos medical center,106301248,elective pci emergency cabg,216,59,157,0,0.0
+2016,orange,los alamitos medical center,106301248,all pci mortality,216,59,157,6,3.08
+2016,orange,los alamitos medical center,106301248,all pci stroke,216,59,157,2,0.84
+2016,orange,los alamitos medical center,106301248,all pci emergency cabg,216,59,157,0,0.0
+2017,orange,los alamitos medical center,106301248,elective pci mortality,256,74,182,2,1.56
+2017,orange,los alamitos medical center,106301248,elective pci stroke,256,74,182,0,0.0
+2017,orange,los alamitos medical center,106301248,elective pci emergency cabg,256,74,182,0,0.0
+2017,orange,los alamitos medical center,106301248,all pci mortality,256,74,182,9,2.43
+2017,orange,los alamitos medical center,106301248,all pci stroke,256,74,182,0,0.0
+2017,orange,los alamitos medical center,106301248,all pci emergency cabg,256,74,182,0,0.0
+2018,orange,los alamitos medical center,106301248,elective pci mortality,168,54,114,1,1.2
+2018,orange,los alamitos medical center,106301248,elective pci stroke,168,54,114,0,0.0
+2018,orange,los alamitos medical center,106301248,elective pci emergency cabg,168,54,114,0,
+2018,orange,los alamitos medical center,106301248,all pci mortality,168,54,114,9,2.7
+2018,orange,los alamitos medical center,106301248,all pci stroke,168,54,114,0,0.0
+2018,orange,los alamitos medical center,106301248,all pci emergency cabg,168,54,114,0,
+2019,orange,los alamitos medical center,106301248,elective pci mortality,219,42,177,0,0.0
+2019,orange,los alamitos medical center,106301248,elective pci stroke,219,42,177,0,0.0
+2019,orange,los alamitos medical center,106301248,elective pci emergency cabg,219,42,177,0,
+2019,orange,los alamitos medical center,106301248,all pci mortality,219,42,177,14,3.05
+2019,orange,los alamitos medical center,106301248,all pci stroke,219,42,177,0,0.0
+2019,orange,los alamitos medical center,106301248,all pci emergency cabg,219,42,177,0,
+2020,orange,los alamitos medical center,106301248,elective pci mortality,182,33,149,0,0.0
+2020,orange,los alamitos medical center,106301248,elective pci stroke,182,33,149,0,0.0
+2020,orange,los alamitos medical center,106301248,elective pci emergency cabg,182,33,149,0,
+2020,orange,los alamitos medical center,106301248,all pci mortality,182,33,149,4,1.91
+2020,orange,los alamitos medical center,106301248,all pci stroke,182,33,149,1,0.41
+2020,orange,los alamitos medical center,106301248,all pci emergency cabg,182,33,149,0,
+2021,orange,los alamitos medical center,106301248,elective pci mortality,188,41,147,0,0.0
+2021,orange,los alamitos medical center,106301248,elective pci stroke,188,41,147,0,0.0
+2021,orange,los alamitos medical center,106301248,elective pci emergency cabg,188,41,147,0,
+2021,orange,los alamitos medical center,106301248,all pci mortality,188,41,147,7,2.84
+2021,orange,los alamitos medical center,106301248,all pci stroke,188,41,147,0,0.0
+2021,orange,los alamitos medical center,106301248,all pci emergency cabg,188,41,147,0,
+2022,orange,los alamitos medical center,106301248,elective pci mortality,206,52,154,0,0.0
+2022,orange,los alamitos medical center,106301248,elective pci stroke,206,52,154,1,2.39
+2022,orange,los alamitos medical center,106301248,elective pci emergency cabg,206,52,154,0,
+2022,orange,los alamitos medical center,106301248,all pci mortality,206,52,154,8,3.07
+2022,orange,los alamitos medical center,106301248,all pci stroke,206,52,154,3,1.25
+2022,orange,los alamitos medical center,106301248,all pci emergency cabg,206,52,154,0,
+2016,placer,kaiser foundation hospital â roseville,106314024,elective pci mortality,487,135,352,0,0.0
+2016,placer,kaiser foundation hospital â roseville,106314024,elective pci stroke,487,135,352,0,0.0
+2016,placer,kaiser foundation hospital â roseville,106314024,elective pci emergency cabg,487,135,352,0,0.0
+2016,placer,kaiser foundation hospital â roseville,106314024,all pci mortality,487,135,352,0,0.0
+2016,placer,kaiser foundation hospital â roseville,106314024,all pci stroke,487,135,352,1,0.23
+2016,placer,kaiser foundation hospital â roseville,106314024,all pci emergency cabg,487,135,352,0,0.0
+2017,placer,kaiser foundation hospital â roseville,106314024,elective pci mortality,599,127,472,0,0.0
+2017,placer,kaiser foundation hospital â roseville,106314024,elective pci stroke,599,127,472,0,0.0
+2017,placer,kaiser foundation hospital â roseville,106314024,elective pci emergency cabg,599,127,472,0,0.0
+2017,placer,kaiser foundation hospital â roseville,106314024,all pci mortality,599,127,472,14,2.63
+2017,placer,kaiser foundation hospital â roseville,106314024,all pci stroke,599,127,472,0,0.0
+2017,placer,kaiser foundation hospital â roseville,106314024,all pci emergency cabg,599,127,472,0,0.0
+2018,placer,kaiser foundation hospital â roseville,106314024,elective pci mortality,425,93,332,0,0.0
+2018,placer,kaiser foundation hospital â roseville,106314024,elective pci stroke,425,93,332,0,0.0
+2018,placer,kaiser foundation hospital â roseville,106314024,elective pci emergency cabg,425,93,332,0,
+2018,placer,kaiser foundation hospital â roseville,106314024,all pci mortality,425,93,332,5,1.68
+2018,placer,kaiser foundation hospital â roseville,106314024,all pci stroke,425,93,332,0,0.0
+2018,placer,kaiser foundation hospital â roseville,106314024,all pci emergency cabg,425,93,332,3,
+2019,placer,kaiser foundation hospital â roseville,106314024,elective pci mortality,532,111,421,0,0.0
+2019,placer,kaiser foundation hospital â roseville,106314024,elective pci stroke,532,111,421,0,0.0
+2019,placer,kaiser foundation hospital â roseville,106314024,elective pci emergency cabg,532,111,421,0,
+2019,placer,kaiser foundation hospital â roseville,106314024,all pci mortality,532,111,421,5,1.59
+2019,placer,kaiser foundation hospital â roseville,106314024,all pci stroke,532,111,421,0,0.0
+2019,placer,kaiser foundation hospital â roseville,106314024,all pci emergency cabg,532,111,421,1,
+2020,placer,kaiser foundation hospital â roseville,106314024,elective pci mortality,496,80,416,0,0.0
+2020,placer,kaiser foundation hospital â roseville,106314024,elective pci stroke,496,80,416,0,0.0
+2020,placer,kaiser foundation hospital â roseville,106314024,elective pci emergency cabg,496,80,416,0,
+2020,placer,kaiser foundation hospital â roseville,106314024,all pci mortality,496,80,416,9,2.84
+2020,placer,kaiser foundation hospital â roseville,106314024,all pci stroke,496,80,416,0,0.0
+2020,placer,kaiser foundation hospital â roseville,106314024,all pci emergency cabg,496,80,416,0,
+2021,placer,kaiser foundation hospital â roseville,106314024,elective pci mortality,499,95,404,0,0.0
+2021,placer,kaiser foundation hospital â roseville,106314024,elective pci stroke,499,95,404,0,0.0
+2021,placer,kaiser foundation hospital â roseville,106314024,elective pci emergency cabg,499,95,404,0,
+2021,placer,kaiser foundation hospital â roseville,106314024,all pci mortality,499,95,404,2,0.6
+2021,placer,kaiser foundation hospital â roseville,106314024,all pci stroke,499,95,404,1,0.2
+2021,placer,kaiser foundation hospital â roseville,106314024,all pci emergency cabg,499,95,404,0,
+2022,placer,kaiser foundation hospital â roseville,106314024,elective pci mortality,461,55,406,0,0.0
+2022,placer,kaiser foundation hospital â roseville,106314024,elective pci stroke,461,55,406,0,0.0
+2022,placer,kaiser foundation hospital â roseville,106314024,elective pci emergency cabg,461,55,406,0,
+2022,placer,kaiser foundation hospital â roseville,106314024,all pci mortality,461,55,406,7,2.49
+2022,placer,kaiser foundation hospital â roseville,106314024,all pci stroke,461,55,406,3,0.72
+2022,placer,kaiser foundation hospital â roseville,106314024,all pci emergency cabg,461,55,406,1,
+2016,placer,sutter roseville medical center,106311,elective pci mortality,334,58,276,0,0.0
+2016,placer,sutter roseville medical center,106311,elective pci stroke,334,58,276,0,0.0
+2016,placer,sutter roseville medical center,106311,elective pci emergency cabg,334,58,276,0,0.0
+2016,placer,sutter roseville medical center,106311,all pci mortality,334,58,276,9,1.79
+2016,placer,sutter roseville medical center,106311,all pci stroke,334,58,276,2,0.5
+2016,placer,sutter roseville medical center,106311,all pci emergency cabg,334,58,276,1,0.26
+2017,placer,sutter roseville medical center,106311,elective pci mortality,402,70,332,0,0.0
+2017,placer,sutter roseville medical center,106311,elective pci stroke,402,70,332,0,0.0
+2017,placer,sutter roseville medical center,106311,elective pci emergency cabg,402,70,332,0,0.0
+2017,placer,sutter roseville medical center,106311,all pci mortality,402,70,332,8,1.93
+2017,placer,sutter roseville medical center,106311,all pci stroke,402,70,332,0,0.0
+2017,placer,sutter roseville medical center,106311,all pci emergency cabg,402,70,332,0,0.0
+2018,placer,sutter roseville medical center,106311,elective pci mortality,310,72,238,0,0.0
+2018,placer,sutter roseville medical center,106311,elective pci stroke,310,72,238,0,0.0
+2018,placer,sutter roseville medical center,106311,elective pci emergency cabg,310,72,238,0,
+2018,placer,sutter roseville medical center,106311,all pci mortality,310,72,238,7,1.53
+2018,placer,sutter roseville medical center,106311,all pci stroke,310,72,238,1,0.27
+2018,placer,sutter roseville medical center,106311,all pci emergency cabg,310,72,238,0,
+2019,placer,sutter roseville medical center,106311,elective pci mortality,398,65,333,0,0.0
+2019,placer,sutter roseville medical center,106311,elective pci stroke,398,65,333,0,0.0
+2019,placer,sutter roseville medical center,106311,elective pci emergency cabg,398,65,333,0,
+2019,placer,sutter roseville medical center,106311,all pci mortality,398,65,333,8,1.28
+2019,placer,sutter roseville medical center,106311,all pci stroke,398,65,333,2,0.34
+2019,placer,sutter roseville medical center,106311,all pci emergency cabg,398,65,333,1,
+2020,placer,sutter roseville medical center,106311,elective pci mortality,449,89,360,0,0.0
+2020,placer,sutter roseville medical center,106311,elective pci stroke,449,89,360,0,0.0
+2020,placer,sutter roseville medical center,106311,elective pci emergency cabg,449,89,360,0,
+2020,placer,sutter roseville medical center,106311,all pci mortality,449,89,360,12,2.33
+2020,placer,sutter roseville medical center,106311,all pci stroke,449,89,360,2,0.33
+2020,placer,sutter roseville medical center,106311,all pci emergency cabg,449,89,360,0,
+2021,placer,sutter roseville medical center,106311,elective pci mortality,517,141,376,0,0.0
+2021,placer,sutter roseville medical center,106311,elective pci stroke,517,141,376,0,0.0
+2021,placer,sutter roseville medical center,106311,elective pci emergency cabg,517,141,376,0,
+2021,placer,sutter roseville medical center,106311,all pci mortality,517,141,376,13,1.52
+2021,placer,sutter roseville medical center,106311,all pci stroke,517,141,376,2,0.25
+2021,placer,sutter roseville medical center,106311,all pci emergency cabg,517,141,376,0,
+2022,placer,sutter roseville medical center,106311,elective pci mortality,466,135,331,1,1.38
+2022,placer,sutter roseville medical center,106311,elective pci stroke,466,135,331,1,0.69
+2022,placer,sutter roseville medical center,106311,elective pci emergency cabg,466,135,331,0,
+2022,placer,sutter roseville medical center,106311,all pci mortality,466,135,331,17,3.31
+2022,placer,sutter roseville medical center,106311,all pci stroke,466,135,331,4,0.72
+2022,placer,sutter roseville medical center,106311,all pci emergency cabg,466,135,331,0,
+2019,riverside,corona regional medical center â main,106331152,elective pci mortality,138,40,98,0,0.0
+2019,riverside,corona regional medical center â main,106331152,elective pci stroke,138,40,98,0,0.0
+2019,riverside,corona regional medical center â main,106331152,elective pci emergency cabg,138,40,98,0,
+2019,riverside,corona regional medical center â main,106331152,all pci mortality,138,40,98,2,1.56
+2019,riverside,corona regional medical center â main,106331152,all pci stroke,138,40,98,0,0.0
+2019,riverside,corona regional medical center â main,106331152,all pci emergency cabg,138,40,98,0,
+2020,riverside,corona regional medical center â main,106331152,elective pci mortality,76,32,44,1,3.18
+2020,riverside,corona regional medical center â main,106331152,elective pci stroke,76,32,44,0,0.0
+2020,riverside,corona regional medical center â main,106331152,elective pci emergency cabg,76,32,44,0,
+2020,riverside,corona regional medical center â main,106331152,all pci mortality,76,32,44,3,3.16
+2020,riverside,corona regional medical center â main,106331152,all pci stroke,76,32,44,0,0.0
+2020,riverside,corona regional medical center â main,106331152,all pci emergency cabg,76,32,44,0,
+2021,riverside,corona regional medical center â main,106331152,elective pci mortality,133,49,84,0,0.0
+2021,riverside,corona regional medical center â main,106331152,elective pci stroke,133,49,84,0,0.0
+2021,riverside,corona regional medical center â main,106331152,elective pci emergency cabg,133,49,84,0,
+2021,riverside,corona regional medical center â main,106331152,all pci mortality,133,49,84,4,5.22
+2021,riverside,corona regional medical center â main,106331152,all pci stroke,133,49,84,0,0.0
+2021,riverside,corona regional medical center â main,106331152,all pci emergency cabg,133,49,84,0,
+2022,riverside,corona regional medical center â main,106331152,elective pci mortality,114,45,69,0,0.0
+2022,riverside,corona regional medical center â main,106331152,elective pci stroke,114,45,69,0,0.0
+2022,riverside,corona regional medical center â main,106331152,elective pci emergency cabg,114,45,69,0,
+2022,riverside,corona regional medical center â main,106331152,all pci mortality,114,45,69,4,5.33
+2022,riverside,corona regional medical center â main,106331152,all pci stroke,114,45,69,0,0.0
+2022,riverside,corona regional medical center â main,106331152,all pci emergency cabg,114,45,69,1,
+2019,riverside,john f. kennedy memorial hospital,106331216,elective pci mortality,116,3,113,0,0.0
+2019,riverside,john f. kennedy memorial hospital,106331216,elective pci stroke,116,3,113,0,0.0
+2019,riverside,john f. kennedy memorial hospital,106331216,elective pci emergency cabg,116,3,113,0,
+2019,riverside,john f. kennedy memorial hospital,106331216,all pci mortality,116,3,113,2,1.12
+2019,riverside,john f. kennedy memorial hospital,106331216,all pci stroke,116,3,113,1,0.55
+2019,riverside,john f. kennedy memorial hospital,106331216,all pci emergency cabg,116,3,113,0,
+2020,riverside,john f. kennedy memorial hospital,106331216,elective pci mortality,82,0,82,0,
+2020,riverside,john f. kennedy memorial hospital,106331216,elective pci stroke,82,0,82,0,
+2020,riverside,john f. kennedy memorial hospital,106331216,elective pci emergency cabg,82,0,82,0,
+2020,riverside,john f. kennedy memorial hospital,106331216,all pci mortality,82,0,82,4,3.3
+2020,riverside,john f. kennedy memorial hospital,106331216,all pci stroke,82,0,82,0,0.0
+2020,riverside,john f. kennedy memorial hospital,106331216,all pci emergency cabg,82,0,82,1,
+2021,riverside,john f. kennedy memorial hospital,106331216,elective pci mortality,80,2,78,0,0.0
+2021,riverside,john f. kennedy memorial hospital,106331216,elective pci stroke,80,2,78,0,0.0
+2021,riverside,john f. kennedy memorial hospital,106331216,elective pci emergency cabg,80,2,78,0,
+2021,riverside,john f. kennedy memorial hospital,106331216,all pci mortality,80,2,78,4,3.36
+2021,riverside,john f. kennedy memorial hospital,106331216,all pci stroke,80,2,78,0,0.0
+2021,riverside,john f. kennedy memorial hospital,106331216,all pci emergency cabg,80,2,78,0,
+2022,riverside,john f. kennedy memorial hospital,106331216,elective pci mortality,109,8,101,0,0.0
+2022,riverside,john f. kennedy memorial hospital,106331216,elective pci stroke,109,8,101,0,0.0
+2022,riverside,john f. kennedy memorial hospital,106331216,elective pci emergency cabg,109,8,101,0,
+2022,riverside,john f. kennedy memorial hospital,106331216,all pci mortality,109,8,101,3,1.73
+2022,riverside,john f. kennedy memorial hospital,106331216,all pci stroke,109,8,101,1,0.65
+2022,riverside,john f. kennedy memorial hospital,106331216,all pci emergency cabg,109,8,101,0,
+2016,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci mortality,490,75,415,0,0.0
+2016,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci stroke,490,75,415,0,0.0
+2016,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci emergency cabg,490,75,415,0,0.0
+2016,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci mortality,490,75,415,12,2.13
+2016,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci stroke,490,75,415,3,0.57
+2016,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci emergency cabg,490,75,415,0,0.0
+2017,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci mortality,530,95,435,1,0.96
+2017,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci stroke,530,95,435,0,0.0
+2017,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci emergency cabg,530,95,435,0,0.0
+2017,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci mortality,530,95,435,10,1.37
+2017,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci stroke,530,95,435,2,0.32
+2017,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci emergency cabg,530,95,435,0,0.0
+2018,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci mortality,364,64,300,0,0.0
+2018,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci stroke,364,64,300,0,0.0
+2018,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci emergency cabg,364,64,300,0,
+2018,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci mortality,364,64,300,7,1.14
+2018,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci stroke,364,64,300,2,0.42
+2018,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci emergency cabg,364,64,300,0,
+2019,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci mortality,499,74,425,0,0.0
+2019,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci stroke,499,74,425,0,0.0
+2019,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci emergency cabg,499,74,425,0,
+2019,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci mortality,499,74,425,8,1.61
+2019,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci stroke,499,74,425,2,0.37
+2019,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci emergency cabg,499,74,425,1,
+2020,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci mortality,394,44,350,0,0.0
+2020,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci stroke,394,44,350,0,0.0
+2020,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci emergency cabg,394,44,350,0,
+2020,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci mortality,394,44,350,9,1.86
+2020,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci stroke,394,44,350,0,0.0
+2020,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci emergency cabg,394,44,350,0,
+2021,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci mortality,464,57,407,0,0.0
+2021,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci stroke,464,57,407,0,0.0
+2021,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci emergency cabg,464,57,407,0,
+2021,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci mortality,464,57,407,15,2.2
+2021,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci stroke,464,57,407,2,0.33
+2021,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci emergency cabg,464,57,407,0,
+2022,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci mortality,432,57,375,0,0.0
+2022,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci stroke,432,57,375,0,0.0
+2022,sacramento,kaiser foundation hospital â south sacramento,106342344,elective pci emergency cabg,432,57,375,0,
+2022,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci mortality,432,57,375,17,2.3
+2022,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci stroke,432,57,375,3,0.53
+2022,sacramento,kaiser foundation hospital â south sacramento,106342344,all pci emergency cabg,432,57,375,0,
+2020,san bernardino,desert valley hospital,106364144,elective pci mortality,248,69,179,0,0.0
+2020,san bernardino,desert valley hospital,106364144,elective pci stroke,248,69,179,0,0.0
+2020,san bernardino,desert valley hospital,106364144,elective pci emergency cabg,248,69,179,1,
+2020,san bernardino,desert valley hospital,106364144,all pci mortality,248,69,179,9,5.25
+2020,san bernardino,desert valley hospital,106364144,all pci stroke,248,69,179,0,0.0
+2020,san bernardino,desert valley hospital,106364144,all pci emergency cabg,248,69,179,1,
+2021,san bernardino,desert valley hospital,106364144,elective pci mortality,147,35,112,0,0.0
+2021,san bernardino,desert valley hospital,106364144,elective pci stroke,147,35,112,0,0.0
+2021,san bernardino,desert valley hospital,106364144,elective pci emergency cabg,147,35,112,0,
+2021,san bernardino,desert valley hospital,106364144,all pci mortality,147,35,112,5,4.56
+2021,san bernardino,desert valley hospital,106364144,all pci stroke,147,35,112,0,0.0
+2021,san bernardino,desert valley hospital,106364144,all pci emergency cabg,147,35,112,0,
+2022,san bernardino,desert valley hospital,106364144,elective pci mortality,270,80,190,1,0.98
+2022,san bernardino,desert valley hospital,106364144,elective pci stroke,270,80,190,0,0.0
+2022,san bernardino,desert valley hospital,106364144,elective pci emergency cabg,270,80,190,0,
+2022,san bernardino,desert valley hospital,106364144,all pci mortality,270,80,190,9,6.0
+2022,san bernardino,desert valley hospital,106364144,all pci stroke,270,80,190,0,0.0
+2022,san bernardino,desert valley hospital,106364144,all pci emergency cabg,270,80,190,0,
+2018,santa clara,kaiser foundation hospital â san jose,106431506,elective pci mortality,112,14,98,0,0.0
+2018,santa clara,kaiser foundation hospital â san jose,106431506,elective pci stroke,112,14,98,0,0.0
+2018,santa clara,kaiser foundation hospital â san jose,106431506,elective pci emergency cabg,112,14,98,0,
+2018,santa clara,kaiser foundation hospital â san jose,106431506,all pci mortality,112,14,98,8,3.47
+2018,santa clara,kaiser foundation hospital â san jose,106431506,all pci stroke,112,14,98,0,0.0
+2018,santa clara,kaiser foundation hospital â san jose,106431506,all pci emergency cabg,112,14,98,0,
+2019,santa clara,kaiser foundation hospital â san jose,106431506,elective pci mortality,108,8,100,0,0.0
+2019,santa clara,kaiser foundation hospital â san jose,106431506,elective pci stroke,108,8,100,0,0.0
+2019,santa clara,kaiser foundation hospital â san jose,106431506,elective pci emergency cabg,108,8,100,0,
+2019,santa clara,kaiser foundation hospital â san jose,106431506,all pci mortality,108,8,100,4,2.49
+2019,santa clara,kaiser foundation hospital â san jose,106431506,all pci stroke,108,8,100,1,0.76
+2019,santa clara,kaiser foundation hospital â san jose,106431506,all pci emergency cabg,108,8,100,1,
+2020,santa clara,kaiser foundation hospital â san jose,106431506,elective pci mortality,173,10,163,0,0.0
+2020,santa clara,kaiser foundation hospital â san jose,106431506,elective pci stroke,173,10,163,0,0.0
+2020,santa clara,kaiser foundation hospital â san jose,106431506,elective pci emergency cabg,173,10,163,0,
+2020,santa clara,kaiser foundation hospital â san jose,106431506,all pci mortality,173,10,163,11,4.02
+2020,santa clara,kaiser foundation hospital â san jose,106431506,all pci stroke,173,10,163,0,0.0
+2020,santa clara,kaiser foundation hospital â san jose,106431506,all pci emergency cabg,173,10,163,0,
+2021,santa clara,kaiser foundation hospital â san jose,106431506,elective pci mortality,196,15,181,0,0.0
+2021,santa clara,kaiser foundation hospital â san jose,106431506,elective pci stroke,196,15,181,0,0.0
+2021,santa clara,kaiser foundation hospital â san jose,106431506,elective pci emergency cabg,196,15,181,0,
+2021,santa clara,kaiser foundation hospital â san jose,106431506,all pci mortality,196,15,181,5,1.82
+2021,santa clara,kaiser foundation hospital â san jose,106431506,all pci stroke,196,15,181,1,0.33
+2021,santa clara,kaiser foundation hospital â san jose,106431506,all pci emergency cabg,196,15,181,1,
+2022,santa clara,kaiser foundation hospital â san jose,106431506,elective pci mortality,197,51,146,0,0.0
+2022,santa clara,kaiser foundation hospital â san jose,106431506,elective pci stroke,197,51,146,0,0.0
+2022,santa clara,kaiser foundation hospital â san jose,106431506,elective pci emergency cabg,197,51,146,0,
+2022,santa clara,kaiser foundation hospital â san jose,106431506,all pci mortality,197,51,146,5,1.79
+2022,santa clara,kaiser foundation hospital â san jose,106431506,all pci stroke,197,51,146,0,0.0
+2022,santa clara,kaiser foundation hospital â san jose,106431506,all pci emergency cabg,197,51,146,0,
+2016,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci mortality,385,117,268,0,0.0
+2016,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci stroke,385,117,268,0,0.0
+2016,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci emergency cabg,385,117,268,0,0.0
+2016,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci mortality,385,117,268,5,1.36
+2016,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci stroke,385,117,268,2,0.49
+2016,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci emergency cabg,385,117,268,0,0.0
+2017,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci mortality,357,110,247,0,0.0
+2017,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci stroke,357,110,247,0,0.0
+2017,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci emergency cabg,357,110,247,0,0.0
+2017,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci mortality,357,110,247,5,1.91
+2017,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci stroke,357,110,247,1,0.27
+2017,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci emergency cabg,357,110,247,0,0.0
+2018,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci mortality,260,73,187,0,0.0
+2018,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci stroke,260,73,187,0,0.0
+2018,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci emergency cabg,260,73,187,0,
+2018,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci mortality,260,73,187,2,1.44
+2018,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci stroke,260,73,187,4,2.0
+2018,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci emergency cabg,260,73,187,0,
+2019,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci mortality,356,89,267,0,0.0
+2019,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci stroke,356,89,267,1,1.21
+2019,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci emergency cabg,356,89,267,0,
+2019,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci mortality,356,89,267,5,2.51
+2019,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci stroke,356,89,267,4,1.35
+2019,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci emergency cabg,356,89,267,0,
+2020,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci mortality,342,70,272,1,2.44
+2020,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci stroke,342,70,272,0,0.0
+2020,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci emergency cabg,342,70,272,0,
+2020,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci mortality,342,70,272,5,1.89
+2020,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci stroke,342,70,272,1,0.26
+2020,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci emergency cabg,342,70,272,1,
+2021,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci mortality,297,79,218,0,0.0
+2021,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci stroke,297,79,218,0,0.0
+2021,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci emergency cabg,297,79,218,0,
+2021,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci mortality,297,79,218,4,1.53
+2021,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci stroke,297,79,218,0,0.0
+2021,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci emergency cabg,297,79,218,0,
+2022,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci mortality,304,76,228,0,0.0
+2022,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci stroke,304,76,228,0,0.0
+2022,solano,kaiser foundation hospital & rehab center â vallejo,106480989,elective pci emergency cabg,304,76,228,0,
+2022,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci mortality,304,76,228,3,2.01
+2022,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci stroke,304,76,228,0,0.0
+2022,solano,kaiser foundation hospital & rehab center â vallejo,106480989,all pci emergency cabg,304,76,228,0,
+2017,stanislaus,emanuel medical center,106500867,elective pci mortality,414,56,358,0,0.0
+2017,stanislaus,emanuel medical center,106500867,elective pci stroke,414,56,358,0,0.0
+2017,stanislaus,emanuel medical center,106500867,elective pci emergency cabg,414,56,358,0,0.0
+2017,stanislaus,emanuel medical center,106500867,all pci mortality,414,56,358,10,2.93
+2017,stanislaus,emanuel medical center,106500867,all pci stroke,414,56,358,2,0.39
+2017,stanislaus,emanuel medical center,106500867,all pci emergency cabg,414,56,358,3,0.9
+2018,stanislaus,emanuel medical center,106500867,elective pci mortality,243,33,210,0,0.0
+2018,stanislaus,emanuel medical center,106500867,elective pci stroke,243,33,210,0,0.0
+2018,stanislaus,emanuel medical center,106500867,elective pci emergency cabg,243,33,210,0,
+2018,stanislaus,emanuel medical center,106500867,all pci mortality,243,33,210,3,1.29
+2018,stanislaus,emanuel medical center,106500867,all pci stroke,243,33,210,0,0.0
+2018,stanislaus,emanuel medical center,106500867,all pci emergency cabg,243,33,210,1,
+2019,stanislaus,emanuel medical center,106500867,elective pci mortality,324,68,256,0,0.0
+2019,stanislaus,emanuel medical center,106500867,elective pci stroke,324,68,256,0,0.0
+2019,stanislaus,emanuel medical center,106500867,elective pci emergency cabg,324,68,256,0,
+2019,stanislaus,emanuel medical center,106500867,all pci mortality,324,68,256,5,1.46
+2019,stanislaus,emanuel medical center,106500867,all pci stroke,324,68,256,3,0.92
+2019,stanislaus,emanuel medical center,106500867,all pci emergency cabg,324,68,256,1,
+2020,stanislaus,emanuel medical center,106500867,elective pci mortality,393,94,299,0,0.0
+2020,stanislaus,emanuel medical center,106500867,elective pci stroke,393,94,299,0,0.0
+2020,stanislaus,emanuel medical center,106500867,elective pci emergency cabg,393,94,299,0,
+2020,stanislaus,emanuel medical center,106500867,all pci mortality,393,94,299,11,2.69
+2020,stanislaus,emanuel medical center,106500867,all pci stroke,393,94,299,1,0.23
+2020,stanislaus,emanuel medical center,106500867,all pci emergency cabg,393,94,299,2,
+2021,stanislaus,emanuel medical center,106500867,elective pci mortality,346,100,246,0,0.0
+2021,stanislaus,emanuel medical center,106500867,elective pci stroke,346,100,246,0,0.0
+2021,stanislaus,emanuel medical center,106500867,elective pci emergency cabg,346,100,246,0,
+2021,stanislaus,emanuel medical center,106500867,all pci mortality,346,100,246,14,3.57
+2021,stanislaus,emanuel medical center,106500867,all pci stroke,346,100,246,1,0.24
+2021,stanislaus,emanuel medical center,106500867,all pci emergency cabg,346,100,246,4,
+2022,stanislaus,emanuel medical center,106500867,elective pci mortality,318,97,221,0,0.0
+2022,stanislaus,emanuel medical center,106500867,elective pci stroke,318,97,221,0,0.0
+2022,stanislaus,emanuel medical center,106500867,elective pci emergency cabg,318,97,221,0,
+2022,stanislaus,emanuel medical center,106500867,all pci mortality,318,97,221,6,1.78
+2022,stanislaus,emanuel medical center,106500867,all pci stroke,318,97,221,1,0.32
+2022,stanislaus,emanuel medical center,106500867,all pci emergency cabg,318,97,221,2,
+2021,stanislaus,kaiser foundation hospital â modesto,106504042,elective pci mortality,124,9,115,0,0.0
+2021,stanislaus,kaiser foundation hospital â modesto,106504042,elective pci stroke,124,9,115,0,0.0
+2021,stanislaus,kaiser foundation hospital â modesto,106504042,elective pci emergency cabg,124,9,115,0,
+2021,stanislaus,kaiser foundation hospital â modesto,106504042,all pci mortality,124,9,115,4,2.39
+2021,stanislaus,kaiser foundation hospital â modesto,106504042,all pci stroke,124,9,115,1,0.54
+2021,stanislaus,kaiser foundation hospital â modesto,106504042,all pci emergency cabg,124,9,115,0,
+2022,stanislaus,kaiser foundation hospital â modesto,106504042,elective pci mortality,184,25,159,0,0.0
+2022,stanislaus,kaiser foundation hospital â modesto,106504042,elective pci stroke,184,25,159,0,0.0
+2022,stanislaus,kaiser foundation hospital â modesto,106504042,elective pci emergency cabg,184,25,159,0,
+2022,stanislaus,kaiser foundation hospital â modesto,106504042,all pci mortality,184,25,159,1,0.86
+2022,stanislaus,kaiser foundation hospital â modesto,106504042,all pci stroke,184,25,159,1,0.54
+2022,stanislaus,kaiser foundation hospital â modesto,106504042,all pci emergency cabg,184,25,159,0,
+2020,tulare,sierra view medical center,106540798,elective pci mortality,59,35,24,0,0.0
+2020,tulare,sierra view medical center,106540798,elective pci stroke,59,35,24,0,0.0
+2020,tulare,sierra view medical center,106540798,elective pci emergency cabg,59,35,24,0,
+2020,tulare,sierra view medical center,106540798,all pci mortality,59,35,24,0,0.0
+2020,tulare,sierra view medical center,106540798,all pci stroke,59,35,24,0,0.0
+2020,tulare,sierra view medical center,106540798,all pci emergency cabg,59,35,24,0,
+2021,tulare,sierra view medical center,106540798,elective pci mortality,89,52,37,0,0.0
+2021,tulare,sierra view medical center,106540798,elective pci stroke,89,52,37,0,0.0
+2021,tulare,sierra view medical center,106540798,elective pci emergency cabg,89,52,37,0,
+2021,tulare,sierra view medical center,106540798,all pci mortality,89,52,37,1,1.85
+2021,tulare,sierra view medical center,106540798,all pci stroke,89,52,37,0,0.0
+2021,tulare,sierra view medical center,106540798,all pci emergency cabg,89,52,37,0,
+2022,tulare,sierra view medical center,106540798,elective pci mortality,120,90,30,0,0.0
+2022,tulare,sierra view medical center,106540798,elective pci stroke,120,90,30,0,0.0
+2022,tulare,sierra view medical center,106540798,elective pci emergency cabg,120,90,30,0,
+2022,tulare,sierra view medical center,106540798,all pci mortality,120,90,30,0,0.0
+2022,tulare,sierra view medical center,106540798,all pci stroke,120,90,30,0,0.0
+2022,tulare,sierra view medical center,106540798,all pci emergency cabg,120,90,30,0,
+2020,ventura,adventist health simi valley,106560525,elective pci mortality,197,64,133,0,0.0
+2020,ventura,adventist health simi valley,106560525,elective pci stroke,197,64,133,0,0.0
+2020,ventura,adventist health simi valley,106560525,elective pci emergency cabg,197,64,133,0,
+2020,ventura,adventist health simi valley,106560525,all pci mortality,197,64,133,3,3.9
+2020,ventura,adventist health simi valley,106560525,all pci stroke,197,64,133,0,0.0
+2020,ventura,adventist health simi valley,106560525,all pci emergency cabg,197,64,133,0,
+2021,ventura,adventist health simi valley,106560525,elective pci mortality,238,92,146,0,0.0
+2021,ventura,adventist health simi valley,106560525,elective pci stroke,238,92,146,0,0.0
+2021,ventura,adventist health simi valley,106560525,elective pci emergency cabg,238,92,146,0,
+2021,ventura,adventist health simi valley,106560525,all pci mortality,238,92,146,13,8.54
+2021,ventura,adventist health simi valley,106560525,all pci stroke,238,92,146,1,0.49
+2021,ventura,adventist health simi valley,106560525,all pci emergency cabg,238,92,146,0,
+2022,ventura,adventist health simi valley,106560525,elective pci mortality,244,73,171,0,0.0
+2022,ventura,adventist health simi valley,106560525,elective pci stroke,244,73,171,0,0.0
+2022,ventura,adventist health simi valley,106560525,elective pci emergency cabg,244,73,171,0,
+2022,ventura,adventist health simi valley,106560525,all pci mortality,244,73,171,8,3.69
+2022,ventura,adventist health simi valley,106560525,all pci stroke,244,73,171,2,0.85
+2022,ventura,adventist health simi valley,106560525,all pci emergency cabg,244,73,171,0,

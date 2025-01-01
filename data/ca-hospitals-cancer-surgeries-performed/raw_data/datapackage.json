@@ -1,0 +1,261 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "HCAI Patient Discharge Data and Ambulatory Surgery Data (for breast cancer only), 2013 - 2019",
+  "contact_email": "dataandreports@hcai.ca.gov",
+  "data_collection_tool": "https://hcai.ca.gov/data-and-reports/submit-data/patient-data/",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "The dataset contains the number (volume) for 11 types of cancer (bladder, breast, brain, colon, esophagus, liver, lung, pancreas, prostate, rectum, and stomach) surgeries performed in California hospitals.  Data are reported for January – September 2015 due to coding changes from ICD-9-CM to ICD-10-CM/PCS for procedures, which began 10/1/2015. Comparisons across years should be made with caution since previous years’ results are based on 12 months of data, while this analysis is based on 9 months of data. The 2015 data may differ from previous years due to the coding change.  For all types of cancer surgeries, except breast cancer, the dataset contains surgeries performed in the inpatient hospital setting.  For breast cancer surgeries, this dataset includes procedures performed in inpatient and outpatient settings.",
+  "geo_coverage": "Statewide and county",
+  "geographic_granularity": "location point",
+  "keywords": [
+    "bladder",
+    "brain",
+    "breast",
+    "cancer",
+    "cancer treatment",
+    "colon",
+    "esophagus",
+    "healthcare outcomes",
+    "liver",
+    "lung",
+    "pancreas",
+    "prostate",
+    "rectum",
+    "stomach",
+    "surgery",
+    "volume"
+  ],
+  "limitations": "Limitations",
+  "name": "number-of-cancer-surgeries-volume-performed-in-california-hospitals",
+  "program_web_page": "https://hcai.ca.gov/data-and-reports/healthcare-quality/volume-cancer-surgery-reports/",
+  "related_resources": "http://www.chcf.org/publications/2015/11/safety-cancer-surgeries-hospitals ",
+  "resources": [
+    {
+      "description": "The dataset contains the number (volume) for 11 types of cancer (bladder, breast, brain, colon, esophagus, liver, lung, pancreas, prostate, rectum, and stomach) surgeries performed in California hospitals annually.  Data are reported for January – September 2015 due to coding changes from ICD-9-CM to ICD-10-CM/PCS for procedures, which began 10/1/2015. Comparisons across years should be made with caution since previous years’ results are based on 12 months of data, while this analysis is based on 9 months of data. The 2015 data may differ from previous years due to the coding change.  For all types of cancer surgeries, except breast cancer, the dataset contains surgeries performed in the inpatient hospital setting.  For breast cancer surgeries, this dataset includes procedures performed in inpatient and outpatient settings.",
+      "format": "CSV",
+      "hash": "21c3b81be28308762bcad80d04b27b6f",
+      "name": "number-of-cancer-surgeries-volume-performed-in-california-hospitals-csv",
+      "path": "number-of-cancer-surgeries-volume-performed-in-california-hospitals-.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "County",
+            "type": "string"
+          },
+          {
+            "name": "OSHPDID",
+            "type": "string"
+          },
+          {
+            "description": "Type of cancer surgery",
+            "name": "Surgery",
+            "title": "Surgery",
+            "type": "string"
+          },
+          {
+            "name": "# of Cases",
+            "type": "string"
+          },
+          {
+            "name": "LONGITUDE",
+            "type": "string"
+          },
+          {
+            "name": "LATITUDE",
+            "type": "string"
+          },
+          {
+            "name": "hospital",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/f3d8578f-a9bf-4f6a-a224-7e5b522cbd76/download/ca-oshpd-cancer-surgeries-gachospitals-20132023_odp1.csv",
+          "title": "Number of Cancer Surgeries (Volume) Performed in California Hospitals (CSV)"
+        }
+      ],
+      "title": "Number of Cancer Surgeries (Volume) Performed in California Hospitals (CSV)"
+    },
+    {
+      "description": "The dataset contains the number (volume) for 11 types of cancer (bladder, breast, brain, colon, esophagus, liver, lung, pancreas, prostate, rectum, and stomach) surgeries performed in California hospitals in 2013-2015.  Data are reported for January – September 2015 due to coding changes from ICD-9-CM to ICD-10-CM/PCS for procedures, which began 10/1/2015. Comparisons across years should be made with caution since previous years’ results are based on 12 months of data, while this analysis is based on 9 months of data. The 2015 data may differ from previous years due to the coding change.  For all types of cancer surgeries, except breast cancer, the dataset contains surgeries performed in the inpatient hospital setting.  For breast cancer surgeries, this dataset includes procedures performed in inpatient and outpatient settings.",
+      "format": "PDF",
+      "name": "data-dictionary-for-cancer-surgery",
+      "path": "data-dictionary-for-cancer-surgery.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/0165b232-a59c-4a3e-a384-2f525a773860/download/data_dictionary_for_cancer_surgery-2022.pdf",
+          "title": "Data Dictionary for Cancer Surgery"
+        }
+      ],
+      "title": "Data Dictionary for Cancer Surgery"
+    },
+    {
+      "format": "PDF",
+      "name": "technical-notes",
+      "path": "technical-notes.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/f6f8555d-7ffc-4cb5-8043-50c0c5efb4ff/download/technicalnotes_cancersurgeries.pdf",
+          "title": "Technical Notes"
+        }
+      ],
+      "title": "Technical Notes"
+    },
+    {
+      "format": "PDF",
+      "name": "2023-table",
+      "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/79b62919-fa85-495d-9d26-3279ac0e9104/download/california-cancer-procedure-hospital-volume-2023b.pdf",
+      "title": "2023 Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2022-table",
+      "path": "2022-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/5f50cd09-28c8-49d3-9eec-329cecb1ed4b/download/california-cancer-procedure-hospital-volume-2022.pdf",
+          "title": "2022 Table"
+        }
+      ],
+      "title": "2022 Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2021-table",
+      "path": "2021-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/08164855-3f35-4089-8dce-c32132303e63/download/california-cancer-procedure-hospital-volume-2021_ada.pdf",
+          "title": "2021 Table"
+        }
+      ],
+      "title": "2021 Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2020-table",
+      "path": "2020-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/1ca5e0c8-fbf3-4ccb-aefa-bdfa3f063019/download/california-cancer-procedure-hospital-volume-2020_ada.pdf",
+          "title": "2020 Table"
+        }
+      ],
+      "title": "2020 Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2019-table",
+      "path": "2019-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/23109789-8e9a-4df5-abf0-337c3aa37f65/download/california-cancer-procedure-hospital-volume-2019_ada.pdf",
+          "title": "2019 Table"
+        }
+      ],
+      "title": "2019 Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2018-table",
+      "path": "2018-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/170ad7a7-1b9d-471a-a4a7-f608570f687e/download/california-cancer-procedure-hospital-volume-2018_ada.pdf",
+          "title": "2018 Table"
+        }
+      ],
+      "title": "2018 Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2017-table",
+      "path": "2017-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/fc11f8b1-1026-4230-8613-9141e27031f3/download/california-cancer-procedure-hospital-volume-2017_ada.pdf",
+          "title": "2017 Table"
+        }
+      ],
+      "title": "2017 Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2016-table",
+      "path": "2016-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/c427327e-dbe8-4dd0-9c22-8e1da338e342/download/california-cancer-procedure-hospital-volume-2016_ada.pdf",
+          "title": "2016 Table"
+        }
+      ],
+      "title": "2016 Table"
+    },
+    {
+      "description": "Data is from January to September in 2015.",
+      "format": "PDF",
+      "name": "2015-table",
+      "path": "2015-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/b742d6f6-6e24-4357-aa01-36d419390a11/download/california-cancer-procedure-hospital-volume-2015.pdf",
+          "title": "2015 Table"
+        }
+      ],
+      "title": "2015 Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2014-table",
+      "path": "2014-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/eb089cf1-defb-42df-8f84-58169d68f31a/download/california-cancer-procedure-hospital-volume-2014.pdf",
+          "title": "2014 Table"
+        }
+      ],
+      "title": "2014 Table"
+    },
+    {
+      "format": "PDF",
+      "name": "2013-table",
+      "path": "2013-table.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/8ffc0d01-4778-4bd7-9136-4a0dabab6f96/download/california-cancer-procedure-hospital-volume-2013.pdf",
+          "title": "2013 Table"
+        }
+      ],
+      "title": "2013 Table"
+    },
+    {
+      "format": "PDF",
+      "name": "cancer-surgery-volume-methodology-icd-10-and-cpt-codes",
+      "path": "cancer-surgery-volume-methodology-icd-10-and-cpt-codes.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/dace89fc-69ec-4fe8-a8f4-ddfbdb053020/resource/a7db071d-c957-4e49-ba4e-9f5d400c9257/download/cancersurgeryvolume-methodologyicd10-codesjune2018final.pdf",
+          "title": "Cancer Surgery Volume Methodology - ICD 10 and CPT Codes"
+        }
+      ],
+      "title": "Cancer Surgery Volume Methodology - ICD 10 and CPT Codes"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Health Care Access and Information, Information Services Division / Healthcare Analytics Branch",
+      "web": "https://hcai.ca.gov/data-and-reports/healthcare-quality/volume-cancer-surgery-reports/"
+    }
+  ],
+  "temporal_coverage": "2013-present (contains first 3 quarters in year 2015)",
+  "title": "Number of Cancer Surgeries (Volume) Performed in California Hospitals"
+}
