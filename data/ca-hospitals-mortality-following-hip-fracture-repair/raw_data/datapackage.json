@@ -1,0 +1,262 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "Department of Health Care Access and Information Patient Discharge Data, 2012-2015",
+  "contact_email": "dataandreports@hcai.ca.gov",
+  "data_collection_tool": "https://hcai.ca.gov/data-and-reports/submit-data/patient-data/",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "This dataset contains risk-adjusted mortality rates, expected mortality rates, observed mortality rates, quality ratings, and the number of deaths and cases for hip fracture repair performed in California hospitals. This dataset does not include the procedure performed in outpatient settings.",
+  "geo_coverage": "California",
+  "geographic_granularity": "location point",
+  "keywords": [
+    "30-day deaths",
+    "30-day mortality",
+    "healthcare quality",
+    "hip fracture repair",
+    "hospital mortality",
+    "hospital quality."
+  ],
+  "limitations": "Limitations",
+  "name": "mortality-following-hip-fracture-repair-in-california-hospitals",
+  "program_web_page": "https://hcai.ca.gov/data-and-reports/healthcare-quality/hip-fracture-reports/",
+  "related_resources": "",
+  "resources": [
+    {
+      "description": "This dataset contains risk-adjusted mortality rates, expected mortality rates, observed mortality rates, quality ratings, and the number of deaths and cases for hip fracture repair performed in California hospitals. This dataset does not include the procedure performed in outpatient settings.",
+      "format": "CSV",
+      "hash": "991b7391fcfa6880794807b9f9923bd6",
+      "name": "mortality-following-hip-fracture-repair-in-california-hospitals-csv",
+      "path": "mortality-following-hip-fracture-repair-in-california-hospitals-.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Year of discharge",
+            "name": "Year",
+            "title": "Year",
+            "type": "string"
+          },
+          {
+            "description": "County in which the hospital is located",
+            "name": "County",
+            "title": "County",
+            "type": "string"
+          },
+          {
+            "description": "Name of hospital reporting",
+            "name": "Hospital",
+            "title": "Hospital",
+            "type": "string"
+          },
+          {
+            "description": "A unique number established by the Department of Health Care Access and Information (HCAI) for identifying facilities and used in the Licensed Facility Information System (LFIS).  The first three numbers identify the type of facility, the next two represent the county number, and the last five are randomly assigned within each county.",
+            "name": "OSHPDID",
+            "title": "OSHPDID",
+            "type": "string"
+          },
+          {
+            "description": "Number of patients who had hip fracture repair in this hospital",
+            "name": "# of Cases",
+            "title": "# of Cases",
+            "type": "number"
+          },
+          {
+            "description": "Number of hip fracture repair patients who died within 30 days of admission to this hospital",
+            "name": "# of Deaths",
+            "title": "# of Deaths",
+            "type": "number"
+          },
+          {
+            "description": "Observed hip fracture repair mortality rate in this hospital",
+            "name": "Observed Rate",
+            "title": "Observed Rate",
+            "type": "number"
+          },
+          {
+            "description": "The expected hip fracture repair mortality rate in this hospital if they had a mix of patients that was comparable to the average hospital in California ",
+            "name": "Expected Rate",
+            "title": "Expected Rate",
+            "type": "string"
+          },
+          {
+            "description": "The Risk Adjusted Mortality Rates (RAMR) presented here adjusts the observed mortality rates. This statistical methodology takes into account pre-existing health problems that put some patients at greater risk of death to “level the playing field” and allow fair comparisons across hospitals.",
+            "name": "Risk Adjusted Mortality Rate",
+            "title": "Risk Adjusted Mortality Rate",
+            "type": "string"
+          },
+          {
+            "description": "Comparison rating based on a 98% Confidence Interval (CI). If a hospital’s upper CI is less than the statewide observed rate, it is designated as performing “better” than the average hospital. If a hospital’s lower CI is greater than the state rate, it is designated as performing “worse” than the average state hospital.\n 1=Better\n-1=Worse\n .=Average",
+            "name": "Hospital Ratings",
+            "title": "Hospital Ratings",
+            "type": "string"
+          },
+          {
+            "description": "Longitude and Latitude of hospital",
+            "name": "Location",
+            "title": "Location",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/eb1598cf-fa7b-4453-a121-d570e1487f5d/download/mortality-following-hip-fracture-repair-in-california-hospitals.csv",
+          "title": "Mortality Following Hip Fracture Repair in California Hospitals (CSV)"
+        }
+      ],
+      "title": "Mortality Following Hip Fracture Repair in California Hospitals (CSV)"
+    },
+    {
+      "description": "This dataset contains risk-adjusted mortality rates, expected mortality rates, observed mortality rates, quality ratings, and the number of deaths and cases for hip fracture repair performed in California hospitals. This dataset does not include the procedure performed in outpatient settings.",
+      "format": "PDF",
+      "name": "hip-fracture-repair-data-dictionary",
+      "path": "hip-fracture-repair-data-dictionary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/e4ae88bd-b4fd-4417-8815-4d6749e34da6/download/hid-hoc-hipfracture-2012-2013-datadictionary.pdf",
+          "title": "Hip Fracture Repair Data Dictionary"
+        }
+      ],
+      "title": "Hip Fracture Repair Data Dictionary"
+    },
+    {
+      "description": "Validation study for hip fracture repair outcomes in California.",
+      "format": "PDF",
+      "name": "hip-fracture-repair-outcomes-validation-study",
+      "path": "hip-fracture-repair-outcomes-validation-study.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/a1e7d4c7-787b-487c-b226-6951caaca1a1/download/validationstudy2012-13.pdf",
+          "title": "Hip Fracture Repair Outcomes Validation Study"
+        }
+      ],
+      "title": "Hip Fracture Repair Outcomes Validation Study"
+    },
+    {
+      "description": "Executive summary for 2014-2015 Hip Fracture Repair report .",
+      "format": "PDF",
+      "name": "2014-2015-hip-fracture-repair-executive-summary",
+      "path": "2014-2015-hip-fracture-repair-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/3c209956-43b5-4b42-8584-7389ebdb52dd/download/hipfracturewebpageintroduction2014-2015datawordpress.pdf",
+          "title": "2014-2015 Hip Fracture Repair Executive Summary"
+        }
+      ],
+      "title": "2014-2015 Hip Fracture Repair Executive Summary"
+    },
+    {
+      "description": "This dataset contains risk-adjusted mortality rates, expected mortality rates, observed mortality rates, quality ratings, and the number of deaths and cases for hip fracture repair performed in California hospitals. This dataset does not include the procedure performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2014-2015-mortality-following-hip-fracture-repair",
+      "path": "2014-2015-mortality-following-hip-fracture-repair.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/cafe6691-b0ab-4d4f-a5d6-b1c30368ad82/download/riskadjustedmortalityresults2014-15.pdf",
+          "title": "2014-2015 Mortality Following Hip Fracture Repair"
+        }
+      ],
+      "title": "2014-2015 Mortality Following Hip Fracture Repair"
+    },
+    {
+      "description": "Technical notes for 2014-2015 Hip Fracture Repair report.",
+      "format": "PDF",
+      "name": "2014-2015-hip-fracture-repair-technical-notes",
+      "path": "2014-2015-hip-fracture-repair-technical-notes.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/22ec385b-bcc2-44c9-87da-7ed76e83ca64/download/hipfracturetechnicalnotes2014-15.pdf",
+          "title": "2014-2015 Hip Fracture Repair Technical Notes"
+        }
+      ],
+      "title": "2014-2015 Hip Fracture Repair Technical Notes"
+    },
+    {
+      "description": "Executive summary for 2013-2014 Hip Fracture Repair report .",
+      "format": "PDF",
+      "name": "2013-2014-hip-fracture-repair-executive-summary",
+      "path": "2013-2014-hip-fracture-repair-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/d843c5ff-df29-49f7-9957-d8656e832611/download/hipfractureexecutivesummary2013-2014datawordpress.pdf",
+          "title": "2013-2014 Hip Fracture Repair Executive Summary"
+        }
+      ],
+      "title": "2013-2014 Hip Fracture Repair Executive Summary"
+    },
+    {
+      "description": "This dataset contains risk-adjusted mortality rates, expected mortality rates, observed mortality rates, quality ratings, and the number of deaths and cases for hip fracture repair performed in California hospitals. This dataset does not include the procedure performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2013-2014-mortality-following-hip-fracture-repair",
+      "path": "2013-2014-mortality-following-hip-fracture-repair.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/caa4fdff-6b52-44ba-9fc5-a51293898daa/download/riskadjustedmortalityresults2013-14.pdf",
+          "title": "2013-2014 Mortality Following Hip Fracture Repair"
+        }
+      ],
+      "title": "2013-2014 Mortality Following Hip Fracture Repair"
+    },
+    {
+      "description": "Technical notes for 2013-2014 Hip Fracture Repair report.",
+      "format": "PDF",
+      "name": "2013-2014-hip-fracture-repair-technical-notes",
+      "path": "2013-2014-hip-fracture-repair-technical-notes.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/9b2efad6-8e54-4116-9209-0434a125b54d/download/hipfracturetechnicalnotes2013-14.pdf",
+          "title": "2013-2014 Hip Fracture Repair Technical Notes"
+        }
+      ],
+      "title": "2013-2014 Hip Fracture Repair Technical Notes"
+    },
+    {
+      "description": "Executive summary for 2012-2013 Hip Fracture Repair report.",
+      "format": "PDF",
+      "name": "2012-2013-hip-fracture-repair-executive-summary",
+      "path": "2012-2013-hip-fracture-repair-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/bedc9c76-e682-41e1-97f0-24af4b9c1833/download/hipfractureexecutivesummary2012-2013datawordpress.pdf",
+          "title": "2012-2013 Hip Fracture Repair Executive Summary"
+        }
+      ],
+      "title": "2012-2013 Hip Fracture Repair Executive Summary"
+    },
+    {
+      "description": "This dataset contains risk-adjusted mortality rates, expected mortality rates, observed mortality rates, quality ratings, and the number of deaths and cases for hip fracture repair performed in California hospitals. This dataset does not include the procedure performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2012-2013-mortality-following-hip-fracture-repair",
+      "path": "2012-2013-mortality-following-hip-fracture-repair.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/8fff41fa-f5d3-4eb9-9abb-e3f5507f967d/download/riskadjustedmortalityresults2012-13.pdf",
+          "title": "2012-2013 Mortality Following Hip Fracture Repair"
+        }
+      ],
+      "title": "2012-2013 Mortality Following Hip Fracture Repair"
+    },
+    {
+      "description": "Technical notes for 2014-2015 Hip Fracture Repair report.",
+      "format": "PDF",
+      "name": "2012-2013-hip-fracture-repair-technical-notes",
+      "path": "2012-2013-hip-fracture-repair-technical-notes.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/17001513-32aa-4b6e-af7a-8995924804ed/resource/eca03258-37d6-4829-922c-03b6ca39bb1e/download/hipfracturetechnicalnotes2012-13.pdf",
+          "title": "2012-2013 Hip Fracture Repair Technical Notes"
+        }
+      ],
+      "title": "2012-2013 Hip Fracture Repair Technical Notes"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Health Care Access and Information, Information Services Division/Healthcare Analytics Branch",
+      "web": "https://hcai.ca.gov/data-and-reports/healthcare-quality/hip-fracture-reports/"
+    }
+  ],
+  "temporal_coverage": "2012-2015",
+  "title": "Mortality Following Hip Fracture Repair in California Hospitals"
+}

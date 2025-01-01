@@ -1,0 +1,306 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "Department of Health Care Access and Information Patient Discharge Data, 2011-2013; Ischemic Stroke: Hospital Outcomes in California, 2011-2012;Ischemic Stroke: Hospital Outcomes in California, 2012-2013;Ischemic Stroke: Hospital Outcomes in California, 2013-2014;Ischemic Stroke: Hospital Outcomes in California, 2014-2015",
+  "contact_email": "dataandreports@hcai.ca.gov",
+  "data_collection_tool": "https://hcai.ca.gov/data/submit-data/patient-data/",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "This dataset contains risk-adjusted 30-day mortality and 30-day readmission rates, quality ratings, and number of deaths / readmissions and cases for ischemic stroke treated in California hospitals. This dataset does not include ischemic stroke treated in outpatient settings.",
+  "geo_coverage": "Statewide ",
+  "geographic_granularity": "location point",
+  "keywords": [
+    "30-day readmission rate",
+    "deaths",
+    "healthcare",
+    "healthcare quality",
+    "hospital mortality",
+    "hospital quality",
+    "hospital readmission",
+    "inpatient",
+    "ischemic stroke",
+    "measures",
+    "mortality",
+    "mortality rate",
+    "outcome",
+    "patient",
+    "patient admission and readmission",
+    "risk-adjusted rate",
+    "stroke"
+  ],
+  "limitations": "Limitations",
+  "name": "ischemic-stroke-30-day-mortality-and-30-day-readmission-rates-and-quality-ratings-for-ca-hospitals",
+  "program_web_page": "https://hcai.ca.gov/data/healthcare-quality/ischemic-stroke-reports/",
+  "related_resources": "http://www.cms.gov.  This information is provided as a courtesy. The State does not control any third-party web services or any of the material on third-party sites. It does not imply approval or endorsement of the organization represented by the website or the website content. See CalHHS Terms of Use for additional information",
+  "resources": [
+    {
+      "description": "This dataset contains risk-adjusted 30-day mortality and 30-day readmission rates, quality ratings, and number of deaths / readmissions and cases for ischemic stroke treated in California hospitals. This dataset does not include ischemic stroke treated in outpatient settings.",
+      "format": "CSV",
+      "hash": "34727ca6869bccd5e116aa080800b485",
+      "name": "ischemic-stroke-30-day-mortality-and-30-day-readmission-rates-and-quality-ratings-for-ca-hospitals-csv",
+      "path": "ischemic-stroke-30-day-mortality-and-30-day-readmission-rates-and-quality-ratings-for-ca-hospitals-.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Year of Discharge",
+            "name": "Year",
+            "title": "Year",
+            "type": "string"
+          },
+          {
+            "description": "County",
+            "name": "County",
+            "title": "County",
+            "type": "string"
+          },
+          {
+            "description": "Hospital",
+            "name": "Hospital",
+            "title": "Hospital",
+            "type": "string"
+          },
+          {
+            "description": "A unique number established by the Department of Health Care Access and Information (HCAI) for identifying facilities and used in the Licensed Facility Information System (LFIS). The first three numbers identify the type of facility, the next two represent the county number, and the last five are randomly assigned within each county.",
+            "name": "OSHPDID",
+            "title": "OSHPDID",
+            "type": "string"
+          },
+          {
+            "description": "Outcome Measure",
+            "name": "Measure",
+            "title": "Measure",
+            "type": "string"
+          },
+          {
+            "description": "Risk Adjusted 30-day Mortality/Readmission Rates presented here adjust the observed mortality rates. This statistical methodology takes into account pre-existing health problems that put some patients at greater risk of death/readmission to “level the playing field” and allow fair comparisons across hospitals.",
+            "name": "Risk Adjusted Rate",
+            "title": "Risk Adjusted Rate",
+            "type": "number"
+          },
+          {
+            "description": "Number of 30-day Deaths/Readmissions in California acute care hospitals",
+            "name": "# of Deaths/Readmissions",
+            "title": "# of Deaths/Readmissions",
+            "type": "number"
+          },
+          {
+            "description": "Number of Total Admissions with Ischemic Stroke in California acute care hospitals",
+            "name": "# of Cases",
+            "title": "# of Cases",
+            "type": "number"
+          },
+          {
+            "description": "Hospital Performance Ratings based on a 98% Confidence Interval (CI). If a hospital’s upper CI is less than the statewide observed rate, it is designated as performing “better” than the average hospital. If a hospital’s lower CI is greater than the state rate, it is designated as a performing “worse” than the average state hospital.",
+            "name": "Hospital Ratings",
+            "title": "Hospital Ratings",
+            "type": "string"
+          },
+          {
+            "description": "Latitude and  Longitude of the hospital",
+            "name": "Location 1",
+            "title": "Location 1",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/90ef0ad0-9fc0-45ba-97da-509e0e4422b6/download/ischemic-stroke-30-day-mortality-and-30-day-readmission-rates-and-quality-ratings-for-ca-hospita.csv",
+          "title": "Ischemic Stroke 30-Day Mortality and 30-Day Readmission Rates and Quality Ratings for CA Hospitals (CSV)"
+        }
+      ],
+      "title": "Ischemic Stroke 30-Day Mortality and 30-Day Readmission Rates and Quality Ratings for CA Hospitals (CSV)"
+    },
+    {
+      "description": "This dataset contains risk-adjusted 30-day mortality and 30-day readmission rates, quality ratings, and number of deaths / readmissions and cases for ischemic stroke treated in California hospitals. This dataset does not include ischemic stroke treated in outpatient settings.",
+      "format": "DOCX",
+      "name": "data-dictionary-metadata-stroke",
+      "path": "data-dictionary-metadata-stroke.docx",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/07eca9a0-f43a-4e4c-81fc-eb266e5add54/download/data-dictionary-metadata-stroke.docx",
+          "title": "data-dictionary-metadata-stroke"
+        }
+      ],
+      "title": "data-dictionary-metadata-stroke"
+    },
+    {
+      "description": "2011-2012 Ischemic Stroke  Outcomes  Executive Summary",
+      "format": "PDF",
+      "name": "2011-2012-ischemic-stroke-outcomes-executive-summary",
+      "path": "2011-2012-ischemic-stroke-outcomes-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/c40ccf3a-5c77-496a-9546-04ebe3b70c5d/download/2011-2012-ischemic-stroke-outcomes-executive-summary.pdf",
+          "title": "2011-2012 Ischemic Stroke  Outcomes  Executive Summary"
+        }
+      ],
+      "title": "2011-2012 Ischemic Stroke  Outcomes  Executive Summary"
+    },
+    {
+      "description": "2011-2012 Ischemic Stroke Outcomes Technical Notes",
+      "format": "PDF",
+      "name": "2011-2012-ischemic-stroke-outcomes-technical-notes",
+      "path": "2011-2012-ischemic-stroke-outcomes-technical-notes.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/2174876f-c598-4118-aa0b-ef3ca02eec01/download/2011-12-ischemic-stroke-outcomes-technical-notes.pdf",
+          "title": "2011-2012 Ischemic Stroke Outcomes Technical Notes"
+        }
+      ],
+      "title": "2011-2012 Ischemic Stroke Outcomes Technical Notes"
+    },
+    {
+      "description": "2011-2012 Ischemic Stroke Outcomes Result Table",
+      "format": "PDF",
+      "name": "2011-2012-ischemic-stroke-outcomes-result",
+      "path": "2011-2012-ischemic-stroke-outcomes-result.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/872f289b-9755-420b-8d2c-5c609f075e45/download/2011-12-ischemic-stroke-outcomes-result-table.pdf",
+          "title": "2011-2012 Ischemic Stroke Outcomes Result "
+        }
+      ],
+      "title": "2011-2012 Ischemic Stroke Outcomes Result "
+    },
+    {
+      "description": "Ischemic Stroke Outcomes Validation Study in California",
+      "format": "PDF",
+      "name": "ischemic-stroke-outcomes-validation-study-in-california-2006-2009",
+      "path": "ischemic-stroke-outcomes-validation-study-in-california-2006-2009.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/03e06fe6-059e-47b3-8838-e060397ca6d4/download/ischemic-stroke-outcomes-validation-study-in-california.pdf",
+          "title": "Ischemic Stroke Outcomes Validation Study in California, 2006-2009"
+        }
+      ],
+      "title": "Ischemic Stroke Outcomes Validation Study in California, 2006-2009"
+    },
+    {
+      "description": "2012-2013 Ischemic Stroke Outcomes Executive Summary",
+      "format": "PDF",
+      "name": "2012-2013-ischemic-stroke-outcomes-executive-summary",
+      "path": "2012-2013-ischemic-stroke-outcomes-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/98f680e6-a252-4e0a-9bfd-1875f83feae5/download/2012-2013-ischemic-stroke-outcomes-executive-summary.pdf",
+          "title": "2012-2013 Ischemic Stroke Outcomes Executive Summary"
+        }
+      ],
+      "title": "2012-2013 Ischemic Stroke Outcomes Executive Summary"
+    },
+    {
+      "description": "2012-2013 Ischemic Stroke Outcomes Technical Notes",
+      "format": "PDF",
+      "name": "2012-2013-ischemic-stroke-outcomes-technical-notes",
+      "path": "2012-2013-ischemic-stroke-outcomes-technical-notes.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/ba8131d3-c739-4da7-bc9b-8c1a1cabad5a/download/2012-13-ischemic-stroke-outcomes-technical-notes.pdf",
+          "title": "2012-2013 Ischemic Stroke Outcomes Technical Notes"
+        }
+      ],
+      "title": "2012-2013 Ischemic Stroke Outcomes Technical Notes"
+    },
+    {
+      "description": "2012-2013 Ischemic Stroke Outcomes Result Table",
+      "format": "PDF",
+      "name": "2012-2013-ischemic-stroke-outcomes-result",
+      "path": "2012-2013-ischemic-stroke-outcomes-result.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/b6ab6b22-a67d-4243-aa06-7c5523481516/download/2012-13-ischemic-stroke-outcomes-result-table.pdf",
+          "title": "2012-2013 Ischemic Stroke Outcomes Result "
+        }
+      ],
+      "title": "2012-2013 Ischemic Stroke Outcomes Result "
+    },
+    {
+      "description": "2013-2014 Ischemic Stroke Outcome Executive Summary ",
+      "format": "PDF",
+      "name": "2013-2014-ischemic-stroke-outcome-executive-summary",
+      "path": "2013-2014-ischemic-stroke-outcome-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/9b4d876c-89eb-4377-9514-e2440d5f4a8c/download/2013-2014-ischemic-stroke-outcome-executive-summary-.pdf",
+          "title": "2013-2014 Ischemic Stroke Outcome Executive Summary "
+        }
+      ],
+      "title": "2013-2014 Ischemic Stroke Outcome Executive Summary "
+    },
+    {
+      "description": "2013-2014 Ischemic Stroke Outcome Technical Notes",
+      "format": "PDF",
+      "name": "2013-2014-ischemic-stroke-outcome-technical-notes",
+      "path": "2013-2014-ischemic-stroke-outcome-technical-notes.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/ec9c205c-eada-4316-b247-77eadfb0e2f8/download/2013-2014-ischemic-stroke-outcome-technical-notes.pdf",
+          "title": "2013-2014 Ischemic Stroke Outcome Technical Notes"
+        }
+      ],
+      "title": "2013-2014 Ischemic Stroke Outcome Technical Notes"
+    },
+    {
+      "description": "2013-2014 Ischemic Stroke Outcome Result Table",
+      "format": "PDF",
+      "name": "2013-2014-ischemic-stroke-outcome-result",
+      "path": "2013-2014-ischemic-stroke-outcome-result.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/0db51118-ff08-4d0f-a3a5-2e93c9a3a793/download/2013-2014-ischemic-stroke-outcome-result-table.pdf",
+          "title": "2013-2014 Ischemic Stroke Outcome Result"
+        }
+      ],
+      "title": "2013-2014 Ischemic Stroke Outcome Result"
+    },
+    {
+      "description": "2014-2015 Ischemic Stroke Outcomes Executive Summary ",
+      "format": "PDF",
+      "name": "2014-2015-ischemic-stroke-outcomes-executive-summary",
+      "path": "2014-2015-ischemic-stroke-outcomes-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/e2184a9c-0421-4daf-9baa-b8c745523a14/download/2014-2015-ischemic-stroke-outcomes-executive-summary-.pdf",
+          "title": "2014-2015 Ischemic Stroke Outcomes Executive Summary "
+        }
+      ],
+      "title": "2014-2015 Ischemic Stroke Outcomes Executive Summary "
+    },
+    {
+      "description": "2014-2015 Ischemic Stroke Outcomes Technical Notes",
+      "format": "PDF",
+      "name": "2014-2015-ischemic-stroke-outcomes-technical-notes",
+      "path": "2014-2015-ischemic-stroke-outcomes-technical-notes.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/7a54baac-852d-41c9-a7a2-772123d59b0b/download/2014-2015-ischemic-stroke-outcomes-technical-notes.pdf",
+          "title": "2014-2015 Ischemic Stroke Outcomes Technical Notes"
+        }
+      ],
+      "title": "2014-2015 Ischemic Stroke Outcomes Technical Notes"
+    },
+    {
+      "description": "2014-2015 Ischemic Stroke Outcomes Result Table",
+      "format": "PDF",
+      "name": "2014-2015-ischemic-stroke-outcomes-result",
+      "path": "2014-2015-ischemic-stroke-outcomes-result.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/06ed38d3-b047-4ae2-aa00-2e43b5491d6e/resource/a43ce890-42b6-4a30-a1a3-d5941a6ca6c7/download/2014-2015-ischemic-stroke-outcomes-result-table.pdf",
+          "title": "2014-2015 Ischemic Stroke Outcomes Result "
+        }
+      ],
+      "title": "2014-2015 Ischemic Stroke Outcomes Result "
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Health Care Access and Information,  Information Services Division/Healthcare Analytics Branch",
+      "web": "https://hcai.ca.gov/data/healthcare-quality/ischemic-stroke-reports/"
+    }
+  ],
+  "temporal_coverage": "2011-2012, 2012-2013,2013-2014,2014-2015",
+  "title": "Ischemic Stroke 30-Day Mortality and 30-Day Readmission Rates and Quality Ratings for CA Hospitals"
+}
