@@ -1,0 +1,169 @@
+Year,County,Hospital System,Hospital,Hospital ID,Performance Measure,Total Statewide TAVR Cases,Statewide Adverse Events,Statewide Observed Adverse Event Rate (%),Total Hospital TAVR Cases, Hospital Adverse Events,Hospital Observed Adverse Event Rate (%),"Hospital Expected Adverse Event Rate (%)
+","Hospital Risk-Adjusted Adverse Event Rate (%, RAAER)",Hospital Lower 95% CI for RAAER,Hospital Upper 95% CI for RAAER,"Performance
+ Rating",Latitude,Longitude
+2022,Los Angeles,Adventist Health Systems,Adventist Health Glendale,106190323,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,95,1,1.05,1.71,1.40,0.04,7.80,Average,34.14951,-118.23109
+2022,Los Angeles,Adventist Health Systems,Adventist Health Glendale,106190323,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,95,0,0.00,1.55,0.00,0.00,4.90,Average,34.14951,-118.23109
+2022,Napa,Adventist Health Systems,Adventist Health St. Helena,106281078,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,67,3,4.48,1.34,7.56,1.56,22.10,Average,38.53937349,-122.473003
+2022,Napa,Adventist Health Systems,Adventist Health St. Helena,106281078,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,67,2,2.99,1.54,3.79,0.46,13.68,Average,38.53937349,-122.473003
+2022,Los Angeles,Adventist Health Systems,Adventist Health White Memorial,106190878,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,32,1,3.13,1.53,4.63,0.12,25.79,Average,34.05085,-118.21691
+2022,Los Angeles,Adventist Health Systems,Adventist Health White Memorial,106190878,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,32,0,0.00,1.37,0.00,0.00,16.48,Average,34.05085,-118.21691
+2022,Alameda,Sutter Health,Alta Bates Summit Medical Center,106010937,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,81,1,1.23,2.08,1.35,0.03,7.49,Average,37.82106,-122.26257
+2022,Alameda,Sutter Health,Alta Bates Summit Medical Center,106010937,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,81,0,0.00,1.52,0.00,0.00,5.88,Average,37.82106,-122.26257
+2022,Los Angeles,Independent/Other,Antelope Valley Hospital,106190034,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,44,2,4.55,4.12,2.50,0.30,9.04,Average,34.6878,-118.157981
+2022,Los Angeles,Independent/Other,Antelope Valley Hospital,106190034,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,44,1,2.27,1.58,2.81,0.07,15.67,Average,34.6878,-118.157981
+2022,Kern,Independent/Other,Bakersfield Heart Hospital,106154101,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,7,0,0.00,1.23,0.00,0.00,97.07,Average,35.38619,-119.04314
+2022,Kern,Independent/Other,Bakersfield Heart Hospital,106154101,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,7,0,0.00,1.29,0.00,0.00,80.24,Average,35.38619,-119.04314
+2022,Kern,Dignity Health,Bakersfield Memorial Hospital,106150722,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,98,0,0.00,1.27,0.00,0.00,6.72,Average,35.39051,-119.00658
+2022,Kern,Dignity Health,Bakersfield Memorial Hospital,106150722,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,98,0,0.00,1.24,0.00,0.00,5.94,Average,35.39051,-119.00658
+2022,San Francisco,Sutter Health,California Pacific Medical Center – Van Ness Campus,106384176,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,140,7,5.00,3.86,2.94,1.18,6.05,Average,37.78584,-122.42175
+2022,San Francisco,Sutter Health,California Pacific Medical Center – Van Ness Campus,106384176,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,140,3,2.14,2.62,1.60,0.33,4.69,Average,37.78584,-122.42175
+2022,Los Angeles,Cedars-Sinai Health System,Cedars – Sinai Medical Center,106190555,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,610,15,2.46,2.54,2.20,1.23,3.63,Average,34.07681,-118.38061
+2022,Los Angeles,Cedars-Sinai Health System,Cedars – Sinai Medical Center,106190555,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,610,12,1.97,2.11,1.83,0.94,3.19,Average,34.07681,-118.38061
+2022,Monterey,Independent/Other,Community Hospital of the Monterey Peninsula,106270744,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,32,0,0.00,1.63,0.00,0.00,16.07,Average,36.59827,-121.92488
+2022,Monterey,Independent/Other,Community Hospital of the Monterey Peninsula,106270744,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,32,2,6.25,1.79,6.84,0.83,24.72,Average,36.59827,-121.92488
+2022,Ventura,Independent/Other,Community Memorial Hospital – San Buenaventura,106560473,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,102,7,6.86,2.10,7.41,2.98,15.26,Worse,34.274589,-119.258124
+2022,Ventura,Independent/Other,Community Memorial Hospital – San Buenaventura,106560473,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,102,5,4.90,1.83,5.24,1.70,12.23,Average,34.274589,-119.258124
+2022,Stanislaus,Tenet Healthcare Corporation,Doctors Medical Center,106500852,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,121,3,2.48,1.68,3.34,0.69,9.76,Average,37.66439,-120.99631
+2022,Stanislaus,Tenet Healthcare Corporation,Doctors Medical Center,106500852,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,121,2,1.65,1.59,2.03,0.25,7.35,Average,37.66439,-120.99631
+2022,Santa Cruz,Dignity Health,Dominican Hospital,106440755,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,43,1,2.33,1.61,3.28,0.08,18.29,Average,36.98806,-121.98489
+2022,Santa Cruz,Dignity Health,Dominican Hospital,106440755,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,43,0,0.00,1.78,0.00,0.00,9.45,Average,36.98806,-121.98489
+2022,Riverside,Independent/Other,Eisenhower Medical Center,106331168,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,192,4,2.08,2.50,1.89,0.52,4.84,Average,33.76418,-116.40808
+2022,Riverside,Independent/Other,Eisenhower Medical Center,106331168,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,192,0,0.00,2.28,0.00,0.00,1.65,Better,33.76418,-116.40808
+2022,Santa Clara,Independent/Other,El Camino Health,106430763,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,96,1,1.04,1.58,1.50,0.04,8.35,Average,37.36779,-122.07801
+2022,Santa Clara,Independent/Other,El Camino Health,106430763,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,96,2,2.08,1.66,2.46,0.30,8.88,Average,37.36779,-122.07801
+2022,Los Angeles,Independent/Other,Emanate Health Inter – Community Hospital,106190413,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,52,1,1.92,1.57,2.79,0.07,15.52,Average,34.08993,-117.89264
+2022,Los Angeles,Independent/Other,Emanate Health Inter – Community Hospital,106190413,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,52,1,1.92,1.50,2.52,0.06,14.03,Average,34.08993,-117.89264
+2022,Butte,Independent/Other,Enloe Medical Center– Esplanade,106040962,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,105,1,0.95,1.31,1.65,0.04,9.18,Average,39.74226,-121.84918
+2022,Butte,Independent/Other,Enloe Medical Center– Esplanade,106040962,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,105,3,2.86,1.48,3.79,0.78,11.08,Average,39.74226,-121.84918
+2022,San Luis Obispo,Dignity Health,French Hospital Medical Center,106400480,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,97,2,2.06,1.43,3.27,0.40,11.82,Average,35.27801,-120.64977
+2022,San Luis Obispo,Dignity Health,French Hospital Medical Center,106400480,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,97,3,3.09,1.36,4.44,0.92,12.98,Average,35.27801,-120.64977
+2022,Fresno,Independent/Other,Fresno Heart and Surgical Hospital,106105029,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,120,4,3.33,2.14,3.54,0.97,9.07,Average,36.860919,-119.788856
+2022,Fresno,Independent/Other,Fresno Heart and Surgical Hospital,106105029,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,120,4,3.33,1.95,3.35,0.91,8.57,Average,36.860919,-119.788856
+2022,Los Angeles,"AHMC Healthcare, Inc.",Garfield Medical Center,106190315,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,9,0,0.00,1.22,0.00,0.00,76.35,Average,34.06826,-118.12302
+2022,Los Angeles,"AHMC Healthcare, Inc.",Garfield Medical Center,106190315,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,9,0,0.00,1.52,0.00,0.00,53.00,Average,34.06826,-118.12302
+2022,Santa Clara,HCA Healthcare Corporation,Good Samaritan Hospital – San Jose,106430779,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,34,0,0.00,3.06,0.00,0.00,8.04,Average,37.25116,-121.9449
+2022,Santa Clara,HCA Healthcare Corporation,Good Samaritan Hospital – San Jose,106430779,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,34,1,2.94,2.28,2.53,0.06,14.08,Average,37.25116,-121.9449
+2022,San Diego,Sharp Healthcare,Grossmont Hospital,106370714,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,79,2,2.53,2.71,2.12,0.26,7.66,Average,32.77963,-117.00924
+2022,San Diego,Sharp Healthcare,Grossmont Hospital,106370714,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,79,1,1.27,1.99,1.24,0.03,6.94,Average,32.77963,-117.00924
+2022,Los Angeles,Independent/Other,Henry Mayo Newhall Hospital,106190949,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,37,0,0.00,1.64,0.00,0.00,13.78,Average,34.39545,-118.55476
+2022,Los Angeles,Independent/Other,Henry Mayo Newhall Hospital,106190949,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,37,1,2.70,1.85,2.87,0.07,15.97,Average,34.39545,-118.55476
+2022,Orange,Providence St. Joseph Health,Hoag Memorial Hospital Presbyterian,106301205,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,148,2,1.35,1.46,2.11,0.26,7.62,Average,33.62526,-117.92949
+2022,Orange,Providence St. Joseph Health,Hoag Memorial Hospital Presbyterian,106301205,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,148,3,2.03,1.67,2.37,0.49,6.93,Average,33.62526,-117.92949
+2022,Los Angeles,Independent/Other,Huntington Hospital,106190400,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,103,4,3.88,4.51,1.96,0.53,5.01,Average,34.13565,-118.1518
+2022,Los Angeles,Independent/Other,Huntington Hospital,106190400,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,103,0,0.00,1.89,0.00,0.00,3.71,Average,34.13565,-118.1518
+2022,Contra Costa,John Muir Health,John Muir Medical Center – Concord Campus,106071018,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,119,1,0.84,2.40,0.79,0.02,4.43,Average,37.98615,-122.03874
+2022,Contra Costa,John Muir Health,John Muir Medical Center – Concord Campus,106071018,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,119,2,1.68,2.16,1.52,0.18,5.50,Average,37.98615,-122.03874
+2022,San Bernardino,Kaiser Foundation Hospitals,Kaiser Foundation Hospital – Fontana,106361223,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,130,4,3.08,1.89,3.70,1.01,9.48,Average,34.0725,-117.43549
+2022,San Bernardino,Kaiser Foundation Hospitals,Kaiser Foundation Hospital – Fontana,106361223,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,130,5,3.85,2.01,3.74,1.22,8.73,Average,34.0725,-117.43549
+2022,San Francisco,Kaiser Foundation Hospitals,Kaiser Foundation Hospital – San Francisco,106380857,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,432,4,0.93,1.88,1.12,0.31,2.87,Average,37.78274,-122.44289
+2022,San Francisco,Kaiser Foundation Hospitals,Kaiser Foundation Hospital – San Francisco,106380857,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,432,10,2.31,1.83,2.48,1.19,4.56,Average,37.78274,-122.44289
+2022,Santa Clara,Kaiser Foundation Hospitals,Kaiser Foundation Hospital – Santa Clara,106434153,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,246,2,0.81,1.54,1.20,0.15,4.33,Average,37.334597,-121.995774
+2022,Santa Clara,Kaiser Foundation Hospitals,Kaiser Foundation Hospital – Santa Clara,106434153,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,246,5,2.03,1.79,2.23,0.72,5.20,Average,37.334597,-121.995774
+2022,Tulare,Independent/Other,Kaweah Health Medical Center,106540734,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,57,1,1.75,2.06,1.94,0.05,10.80,Average,36.32753,-119.29345
+2022,Tulare,Independent/Other,Kaweah Health Medical Center,106540734,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,57,0,0.00,1.81,0.00,0.00,7.01,Average,36.32753,-119.29345
+2022,Los Angeles,University of Southern California,Keck Hospital of USC,106194219,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,84,3,3.57,2.92,2.77,0.57,8.10,Average,34.06284,-118.20287
+2022,Los Angeles,University of Southern California,Keck Hospital of USC,106194219,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,84,1,1.19,1.57,1.48,0.04,8.26,Average,34.06284,-118.20287
+2022,Los Angeles,Tenet Healthcare Corporation,Lakewood Regional Medical Center,106190240,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,25,1,4.00,1.74,5.23,0.13,29.13,Average,33.859731,-118.1492012
+2022,Los Angeles,Tenet Healthcare Corporation,Lakewood Regional Medical Center,106190240,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,25,2,8.00,1.63,9.64,1.17,34.83,Average,33.859731,-118.1492012
+2022,San Bernardino,Loma Linda University,Loma Linda University Medical Center,106361246,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,143,1,0.70,2.11,0.75,0.02,4.19,Average,34.05164,-117.26146
+2022,San Bernardino,Loma Linda University,Loma Linda University Medical Center,106361246,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,143,3,2.10,1.88,2.19,0.45,6.40,Average,34.05164,-117.26146
+2022,Riverside,Loma Linda University,Loma Linda University Medical Center – Murrieta,106334589,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,76,3,3.95,2.63,3.40,0.70,9.95,Average,33.6122263,-117.1624483
+2022,Riverside,Loma Linda University,Loma Linda University Medical Center – Murrieta,106334589,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,76,1,1.32,1.96,1.32,0.03,7.33,Average,33.6122263,-117.1624483
+2022,Ventura,HCA Healthcare Corporation,Los Robles Hospital & Medical Center,106560492,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,86,3,3.49,2.92,2.71,0.56,7.92,Average,34.20762,-118.882411
+2022,Ventura,HCA Healthcare Corporation,Los Robles Hospital & Medical Center,106560492,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,86,6,6.98,2.29,5.96,2.19,12.98,Worse,34.20762,-118.882411
+2022,Marin,Independent/Other,MarinHealth Medical Center,106211006,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,67,1,1.49,1.48,2.28,0.06,12.72,Average,37.94651,-122.53715
+2022,Marin,Independent/Other,MarinHealth Medical Center,106211006,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,67,1,1.49,1.60,1.83,0.05,10.21,Average,37.94651,-122.53715
+2022,Stanislaus,Sutter Health,Memorial Medical Center – Modesto,106500939,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,91,0,0.00,1.49,0.00,0.00,6.19,Average,37.66868,-120.973381
+2022,Stanislaus,Sutter Health,Memorial Medical Center – Modesto,106500939,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,91,0,0.00,1.56,0.00,0.00,5.10,Average,37.66868,-120.973381
+2022,Los Angeles,MemorialCare,MemorialCare Long Beach Medical Center,106190525,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,85,2,2.35,3.81,1.40,0.17,5.06,Average,33.80801,-118.1852
+2022,Los Angeles,MemorialCare,MemorialCare Long Beach Medical Center,106190525,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,85,2,2.35,2.14,2.15,0.26,7.78,Average,33.80801,-118.1852
+2022,Orange,MemorialCare,MemorialCare Orange Coast Medical Center,106300225,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,50,0,0.00,2.04,0.00,0.00,8.21,Average,33.70162,-117.95524
+2022,Orange,MemorialCare,MemorialCare Orange Coast Medical Center,106300225,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,50,1,2.00,1.78,2.20,0.06,12.27,Average,33.70162,-117.95524
+2022,Orange,MemorialCare,MemorialCare Saddleback Medical Center,106301317,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,44,1,2.27,1.68,3.08,0.08,17.16,Average,33.60802,-117.70825
+2022,Orange,MemorialCare,MemorialCare Saddleback Medical Center,106301317,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,44,1,2.27,1.60,2.78,0.07,15.50,Average,33.60802,-117.70825
+2022,Sacramento,Dignity Health,Mercy General Hospital,106340947,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,352,5,1.42,1.66,1.95,0.63,4.54,Average,38.56955,-121.45271
+2022,Sacramento,Dignity Health,Mercy General Hospital,106340947,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,352,3,0.85,1.74,0.96,0.20,2.81,Average,38.56955,-121.45271
+2022,San Mateo,Sutter Health,Mills-Peninsula Medical Center,106410852,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,75,1,1.33,1.78,1.70,0.04,9.46,Average,37.5944692,-122.3832465
+2022,San Mateo,Sutter Health,Mills-Peninsula Medical Center,106410852,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,75,2,2.67,1.86,2.80,0.34,10.13,Average,37.5944692,-122.3832465
+2022,Solano,Independent/Other,NorthBay Medical Center,106481357,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,34,1,2.94,3.00,2.22,0.06,12.38,Average,38.26097,-122.05076
+2022,Solano,Independent/Other,NorthBay Medical Center,106481357,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,34,1,2.94,1.68,3.42,0.09,19.08,Average,38.26097,-122.05076
+2022,Los Angeles,Dignity Health,Northridge Hospital Medical Center,106190568,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,27,0,0.00,2.32,0.00,0.00,13.36,Average,34.22075,-118.53186
+2022,Los Angeles,Dignity Health,Northridge Hospital Medical Center,106190568,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,27,0,0.00,1.61,0.00,0.00,16.65,Average,34.22075,-118.53186
+2022,Santa Clara,Verity Health System,O'Connor Hospital,106430837,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,26,1,3.85,1.89,4.62,0.12,25.76,Average,37.32714,-121.93727
+2022,Santa Clara,Verity Health System,O'Connor Hospital,106430837,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,26,1,3.85,1.56,4.83,0.12,26.92,Average,37.32714,-121.93727
+2022,San Diego,Independent/Other,Palomar Medical Center,106374382,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,56,3,5.36,3.12,3.90,0.80,11.39,Average,33.12158,-117.11961
+2022,San Diego,Independent/Other,Palomar Medical Center,106374382,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,56,2,3.57,1.67,4.20,0.51,15.18,Average,33.12158,-117.11961
+2022,Los Angeles,Independent/Other,PIH Health Good Samaritan Hospital,106190392,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,133,5,3.76,4.62,1.85,0.60,4.31,Average,34.05324,-118.26522
+2022,Los Angeles,Independent/Other,PIH Health Good Samaritan Hospital,106190392,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,133,2,1.50,2.11,1.40,0.17,5.04,Average,34.05324,-118.26522
+2022,Los Angeles,Independent/Other,PIH Health Hospital – Whittier,106190631,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,31,3,9.68,3.26,6.74,1.39,19.71,Average,33.9697943,-118.049255
+2022,Los Angeles,Independent/Other,PIH Health Hospital – Whittier,106190631,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,31,2,6.45,1.66,7.63,0.92,27.56,Average,33.9697943,-118.049255
+2022,Los Angeles,Independent/Other,Pomona Valley Hospital Medical Center,106190630,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,27,2,7.41,3.59,4.68,0.57,16.92,Average,34.07709,-117.750621
+2022,Los Angeles,Independent/Other,Pomona Valley Hospital Medical Center,106190630,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,27,1,3.70,1.86,3.90,0.10,21.74,Average,34.07709,-117.750621
+2022,Los Angeles,Providence St. Joseph Health,Providence Little Company of Mary Medical Center – Torrance,106190470,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,23,0,0.00,2.31,0.00,0.00,15.77,Average,33.83891,-118.356771
+2022,Los Angeles,Providence St. Joseph Health,Providence Little Company of Mary Medical Center – Torrance,106190470,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,23,1,4.35,2.67,3.20,0.08,17.80,Average,33.83891,-118.356771
+2022,Orange,Providence St. Joseph Health,Providence Mission Hospital,106301262,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,34,0,0.00,2.01,0.00,0.00,12.27,Average,33.56279,-117.66768
+2022,Orange,Providence St. Joseph Health,Providence Mission Hospital,106301262,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,34,0,0.00,1.59,0.00,0.00,13.41,Average,33.56279,-117.66768
+2022,Los Angeles,Providence St. Joseph Health,Providence Saint John's Health Center,106190756,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,82,2,2.44,1.99,2.78,0.34,10.05,Average,34.029804,-118.478668
+2022,Los Angeles,Providence St. Joseph Health,Providence Saint John's Health Center,106190756,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,82,1,1.22,1.91,1.25,0.03,6.96,Average,34.029804,-118.478668
+2022,Los Angeles,Providence St. Joseph Health,Providence Saint Joseph Medical Center,106190758,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,31,0,0.00,1.29,0.00,0.00,20.87,Average,34.15486,-118.32655
+2022,Los Angeles,Providence St. Joseph Health,Providence Saint Joseph Medical Center,106190758,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,31,0,0.00,1.81,0.00,0.00,12.85,Average,34.15486,-118.32655
+2022,Sonoma,Providence St. Joseph Health,Providence Santa Rosa Memorial Hospital – Montgomery,106491064,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,96,3,3.13,2.11,3.37,0.69,9.84,Average,38.4429,-122.70149
+2022,Sonoma,Providence St. Joseph Health,Providence Santa Rosa Memorial Hospital – Montgomery,106491064,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,96,3,3.13,1.93,3.18,0.66,9.28,Average,38.4429,-122.70149
+2022,Orange,Providence St. Joseph Health,Providence St. Joseph Hospital,106301340,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,153,4,2.61,2.77,2.14,0.58,5.49,Average,33.7823,-117.86516
+2022,Orange,Providence St. Joseph Health,Providence St. Joseph Hospital,106301340,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,153,4,2.61,1.90,2.69,0.73,6.90,Average,33.7823,-117.86516
+2022,Orange,Providence St. Joseph Health,Providence St. Jude Medical Center,106301342,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,63,1,1.59,2.48,1.45,0.04,8.09,Average,33.89349,-117.92851
+2022,Orange,Providence St. Joseph Health,Providence St. Jude Medical Center,106301342,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,63,2,3.17,2.00,3.11,0.38,11.22,Average,33.89349,-117.92851
+2022,Riverside,HCA Healthcare Corporation,Riverside Community Hospital,106331312,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,44,3,6.82,2.11,7.35,1.51,21.47,Average,33.97641,-117.37997
+2022,Riverside,HCA Healthcare Corporation,Riverside Community Hospital,106331312,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,44,1,2.27,1.76,2.54,0.06,14.13,Average,33.97641,-117.37997
+2022,Los Angeles,University of California,Ronald Reagan UCLA Medical Center,106190796,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,136,2,1.47,2.33,1.43,0.17,5.18,Average,34.068889,-118.445
+2022,Los Angeles,University of California,Ronald Reagan UCLA Medical Center,106190796,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,136,1,0.74,1.64,0.88,0.02,4.89,Average,34.068889,-118.445
+2022,Fresno,Independent/Other,Saint Agnes Medical Center,106100899,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,143,1,0.70,2.95,0.54,0.01,3.00,Average,36.8370782,-119.7649963
+2022,Fresno,Independent/Other,Saint Agnes Medical Center,106100899,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,143,1,0.70,2.00,0.69,0.02,3.83,Average,36.8370782,-119.7649963
+2022,Monterey,Independent/Other,Salinas Valley Health Medical Center,106270875,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,39,1,2.56,1.23,4.71,0.12,26.26,Average,36.65909,-121.646291
+2022,Monterey,Independent/Other,Salinas Valley Health Medical Center,106270875,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,39,2,5.13,1.45,6.94,0.84,25.09,Average,36.65909,-121.646291
+2022,San Bernardino,Independent/Other,San Antonio Regional Hospital,106361318,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,71,1,1.41,1.52,2.11,0.05,11.76,Average,34.10056,-117.63828
+2022,San Bernardino,Independent/Other,San Antonio Regional Hospital,106361318,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,71,2,2.82,1.63,3.39,0.41,12.26,Average,34.10056,-117.63828
+2022,Santa Barbara,Independent/Other,Santa Barbara Cottage Hospital,106420514,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,140,2,1.43,2.51,1.29,0.16,4.66,Average,34.42948,-119.72317
+2022,Santa Barbara,Independent/Other,Santa Barbara Cottage Hospital,106420514,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,140,5,3.57,2.03,3.44,1.12,8.04,Average,34.42948,-119.72317
+2022,San Diego,Scripps Health,Scripps Memorial Hospital – La Jolla,106370771,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,434,9,2.07,2.04,2.30,1.05,4.38,Average,32.88506,-117.22279
+2022,San Diego,Scripps Health,Scripps Memorial Hospital – La Jolla,106370771,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,434,7,1.61,2.11,1.50,0.60,3.08,Average,32.88506,-117.22279
+2022,San Diego,Scripps Health,Scripps Mercy Hospital,106370744,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,85,3,3.53,3.00,2.67,0.55,7.79,Average,32.75128,-117.1609
+2022,San Diego,Scripps Health,Scripps Mercy Hospital,106370744,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,85,4,4.71,2.30,4.00,1.09,10.25,Average,32.75128,-117.1609
+2022,San Mateo,Dignity Health,Sequoia Hospital,106410891,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,25,1,4.00,2.35,3.86,0.10,21.50,Average,37.48129,-122.25377
+2022,San Mateo,Dignity Health,Sequoia Hospital,106410891,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,25,1,4.00,1.91,4.10,0.10,22.84,Average,37.48129,-122.25377
+2022,San Diego,Sharp Healthcare,Sharp Chula Vista Medical Center,106370875,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,68,5,7.35,2.81,5.95,1.93,13.88,Average,32.61909,-117.02488
+2022,San Diego,Sharp Healthcare,Sharp Chula Vista Medical Center,106370875,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,68,0,0.00,2.03,0.00,0.00,5.24,Average,32.61909,-117.02488
+2022,San Diego,Sharp Healthcare,Sharp Memorial Hospital,106370694,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,131,7,5.34,2.75,4.41,1.77,9.08,Average,32.80016,-117.15531
+2022,San Diego,Sharp Healthcare,Sharp Memorial Hospital,106370694,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,131,3,2.29,2.23,2.01,0.42,5.89,Average,32.80016,-117.15531
+2022,Shasta,Prime Healthcare Services,Shasta Regional Medical Center,106450940,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,93,0,0.00,1.12,0.00,0.00,8.03,Average,40.58562,-122.387731
+2022,Shasta,Prime Healthcare Services,Shasta Regional Medical Center,106450940,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,93,0,0.00,1.26,0.00,0.00,6.19,Average,40.58562,-122.387731
+2022,San Bernardino,Dignity Health,St. Bernardine Medical Center,106361339,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,108,4,3.70,1.64,5.13,1.40,13.13,Average,34.1341,-117.27865
+2022,San Bernardino,Dignity Health,St. Bernardine Medical Center,106361339,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,108,4,3.70,1.47,4.93,1.34,12.63,Average,34.1341,-117.27865
+2022,Ventura,Dignity Health,St. John's Regional Medical Center,106560529,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,29,1,3.45,2.14,3.66,0.09,20.40,Average,34.21687,-119.15819
+2022,Ventura,Dignity Health,St. John's Regional Medical Center,106560529,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,29,1,3.45,1.55,4.36,0.11,24.32,Average,34.21687,-119.15819
+2022,San Joaquin,Dignity Health,St. Joseph's Medical Center of Stockton,106391042,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,79,3,3.80,1.29,6.67,1.37,19.48,Average,37.97075,-121.2891
+2022,San Joaquin,Dignity Health,St. Joseph's Medical Center of Stockton,106391042,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,79,0,0.00,1.76,0.00,0.00,5.20,Average,37.97075,-121.2891
+2022,Santa Clara,Independent/Other,Stanford Health Care,106430905,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,250,4,1.60,1.84,1.98,0.54,5.07,Average,37.433,-122.175881
+2022,Santa Clara,Independent/Other,Stanford Health Care,106430905,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,250,5,2.00,1.49,2.63,0.85,6.13,Average,37.433,-122.175881
+2022,Alameda,Independent/Other,Stanford Health Care Tri-Valley,106014050,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,16,0,0.00,1.29,0.00,0.00,40.42,Average,37.69206,-121.88095
+2022,Alameda,Independent/Other,Stanford Health Care Tri-Valley,106014050,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,16,1,6.25,1.69,7.25,0.18,40.39,Average,37.69206,-121.88095
+2022,Sacramento,Sutter Health,Sutter Medical Center – Sacramento,106341051,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,212,8,3.77,2.06,4.15,1.79,8.18,Average,38.57045,-121.47028
+2022,Sacramento,Sutter Health,Sutter Medical Center – Sacramento,106341051,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,212,1,0.47,1.90,0.49,0.01,2.71,Average,38.57045,-121.47028
+2022,Riverside,"Universal Health Services, Inc.",Temecula Valley Hospital,106334564,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,18,0,0.00,2.06,0.00,0.00,22.61,Average,33.4795943,-117.1048018
+2022,Riverside,"Universal Health Services, Inc.",Temecula Valley Hospital,106334564,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,18,0,0.00,1.90,0.00,0.00,21.17,Average,33.4795943,-117.1048018
+2022,Los Angeles,Cedars-Sinai Health System,Torrance Memorial Medical Center,106190422,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,110,2,1.82,2.03,2.03,0.25,7.34,Average,33.8119157,-118.3434945
+2022,Los Angeles,Cedars-Sinai Health System,Torrance Memorial Medical Center,106190422,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,110,2,1.82,1.83,1.95,0.24,7.04,Average,33.8119157,-118.3434945
+2022,San Diego,Independent/Other,Tri-City Medical Center,106370780,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,39,0,0.00,1.84,0.00,0.00,11.69,Average,33.18394,-117.29027
+2022,San Diego,Independent/Other,Tri-City Medical Center,106370780,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,39,0,0.00,1.64,0.00,0.00,11.33,Average,33.18394,-117.29027
+2022,Sacramento,University of California,UC Davis Medical Center,106341006,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,135,3,2.22,2.02,2.49,0.51,7.29,Average,38.55438,-121.45738
+2022,Sacramento,University of California,UC Davis Medical Center,106341006,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,135,3,2.22,1.82,2.39,0.49,6.99,Average,38.55438,-121.45738
+2022,Orange,University of California,UC Irvine Medical Center,106301279,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,65,2,3.08,4.14,1.69,0.20,6.09,Average,33.7879885,-117.8901339
+2022,Orange,University of California,UC Irvine Medical Center,106301279,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,65,3,4.62,1.77,5.12,1.05,14.95,Average,33.7879885,-117.8901339
+2022,San Diego,University of California,UC San Diego Health La Jolla – Jacobs Medical Center & Sulpizio Cardiovascular Center,106374141,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,93,2,2.15,1.88,2.59,0.31,9.36,Average,32.87799,-117.22331
+2022,San Diego,University of California,UC San Diego Health La Jolla – Jacobs Medical Center & Sulpizio Cardiovascular Center,106374141,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,93,0,0.00,1.70,0.00,0.00,4.57,Average,32.87799,-117.22331
+2022,San Francisco,University of California,UC San Francisco Medical Center,106381154,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,103,3,2.91,3.69,1.79,0.37,5.24,Average,37.7635148,-122.4576564
+2022,San Francisco,University of California,UC San Francisco Medical Center,106381154,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,103,2,1.94,2.02,1.89,0.23,6.81,Average,37.7635148,-122.4576564
+2022,Alameda,Independent/Other,Washington Hospital – Fremont,106010987,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,27,0,0.00,1.95,0.00,0.00,15.90,Average,37.55847,-121.98006
+2022,Alameda,Independent/Other,Washington Hospital – Fremont,106010987,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,27,1,3.70,1.35,5.37,0.14,29.93,Average,37.55847,-121.98006
+2022,Los Angeles,HCA Healthcare Corporation,West Hills Hospital and Medical Center,106190859,TAVR In-hospital/30-day Mortality,"8,223",187,2.27,8,0,0.00,2.77,0.00,0.00,37.83,Average,34.20337,-118.62939
+2022,Los Angeles,HCA Healthcare Corporation,West Hills Hospital and Medical Center,106190859,TAVR In-hospital/30-day Stroke,"8,223",161,1.96,8,0,0.00,2.16,0.00,0.00,41.79,Average,34.20337,-118.62939

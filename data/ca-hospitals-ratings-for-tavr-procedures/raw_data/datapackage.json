@@ -1,0 +1,194 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "Department of Health Care Access and Information: California Transcatheter Aortic Valve Replacement (TAVR) Outcomes Report, 2022",
+  "contact_email": "dataandreports@hcai.ca.gov",
+  "data_collection_tool": "HCAI obtains data from the Society for Thoracic Surgeons/American College of Cardiology’s National Cardiovascular Data Registry (STS/ACC-NCDR)\r\n",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "The dataset provides performance ratings for two outcome measures for transcatheter aortic valve replacement (TAVR) procedures: in-hospital/30-day mortality and in-hospital/30-day stroke. It includes the number of cases, adverse events, risk-adjusted rates, and performance ratings for hospitals compared to the overall statewide rates. This dataset also contains the location of hospitals that perform TAVR procedures in California. ",
+  "geo_coverage": "Statewide",
+  "geographic_granularity": "location point",
+  "keywords": [
+    "cardiac intervention",
+    "deaths",
+    "healthcare",
+    "healthcare outcomes",
+    "hospital quality",
+    "measure",
+    "mortality",
+    "performance ratings",
+    "post-operative stroke",
+    "risk-adjusted rates",
+    "tavr",
+    "transcatheter aortic valve procedures"
+  ],
+  "limitations": "Limitations",
+  "name": "california-hospital-ratings-for-transcatheter-aortic-valve-replacement-tavr-procedures",
+  "program_web_page": "https://hcai.ca.gov/data/healthcare-quality/transcatheter-aortic-valve-replacement-outcomes-reports/",
+  "related_resources": "STS/ACC-NCDR TVT Registry",
+  "resources": [
+    {
+      "format": "CSV",
+      "hash": "f2d673ceadb1cc65eb61a75080aca6a5",
+      "name": "california-hospital-performance-ratings-for-transcatheter-aortic-valve-replacement-procedures",
+      "path": "california-hospital-performance-ratings-for-transcatheter-aortic-valve-replacement-procedures.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "County",
+            "type": "string"
+          },
+          {
+            "name": "Hospital System",
+            "type": "string"
+          },
+          {
+            "name": "Hospital",
+            "type": "string"
+          },
+          {
+            "name": "Hospital ID",
+            "type": "string"
+          },
+          {
+            "name": "Performance Measure",
+            "type": "string"
+          },
+          {
+            "name": "Total Statewide TAVR Cases",
+            "type": "string"
+          },
+          {
+            "name": "Statewide Adverse Events",
+            "type": "string"
+          },
+          {
+            "name": "Statewide Observed Adverse Event Rate (%)",
+            "type": "string"
+          },
+          {
+            "name": "Total Hospital TAVR Cases",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Adverse Events",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Observed Adverse Event Rate (%)",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Expected Adverse Event Rate (%)",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Risk-Adjusted Adverse Event Rate (%, RAAER)",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Lower 95% CI for RAAER",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Upper 95% CI for RAAER",
+            "type": "string"
+          },
+          {
+            "name": "Performance\n Rating",
+            "type": "string"
+          },
+          {
+            "name": "Latitude",
+            "type": "string"
+          },
+          {
+            "name": "Longitude",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/8a359148-1b78-4ca0-ac9c-560eacd33a08/resource/05aef64e-d3f4-438b-bc49-17769e9cfd5f/download/2022-tavr-hospital-performance-ratings.csv",
+          "title": "California Hospital Performance Ratings for Transcatheter Aortic Valve Replacement Procedures"
+        }
+      ],
+      "title": "California Hospital Performance Ratings for Transcatheter Aortic Valve Replacement Procedures"
+    },
+    {
+      "format": "PDF",
+      "name": "data-dictionary",
+      "path": "data-dictionary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/8a359148-1b78-4ca0-ac9c-560eacd33a08/resource/1315f31f-0f43-4304-a7e1-fdc7a02955fd/download/data-dictionary.pdf",
+          "title": "Data Dictionary"
+        }
+      ],
+      "title": "Data Dictionary"
+    },
+    {
+      "format": "PDF",
+      "name": "2022-executive-summary",
+      "path": "2022-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/8a359148-1b78-4ca0-ac9c-560eacd33a08/resource/111004bb-c267-4373-90ae-bbe89feca7b7/download/2022-executive-summary.pdf",
+          "title": "2022 Executive Summary"
+        }
+      ],
+      "title": "2022 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2022-hospital-results",
+      "path": "2022-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/8a359148-1b78-4ca0-ac9c-560eacd33a08/resource/4e552090-75dc-4a06-bf6e-d71eaa054f32/download/2022-hospital-results.pdf",
+          "title": "2022 Hospital Results"
+        }
+      ],
+      "title": "2022 Hospital Results"
+    },
+    {
+      "format": "PDF",
+      "name": "2022-technical-note",
+      "path": "2022-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/8a359148-1b78-4ca0-ac9c-560eacd33a08/resource/8dbb1770-b536-4937-97c8-ed9847ca986b/download/2022-technical-note.pdf",
+          "title": "2022 Technical Note"
+        }
+      ],
+      "title": "2022 Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2022-hospital-statement",
+      "path": "2022-hospital-statement.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/8a359148-1b78-4ca0-ac9c-560eacd33a08/resource/d720d086-58c1-495a-bdad-98632065d0e2/download/2022-hospital-statement.pdf",
+          "title": "2022 Hospital Statement"
+        }
+      ],
+      "title": "2022 Hospital Statement"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Health Care Access and Information, Information Services Division, Healthcare Analytics Branch, Clinical Data Group",
+      "web": "https://hcai.ca.gov/data/healthcare-quality/transcatheter-aortic-valve-replacement-outcomes-reports/\t"
+    }
+  ],
+  "temporal_coverage": "2022",
+  "title": "California Hospital Ratings for Transcatheter Aortic Valve Replacement (TAVR) Procedures"
+}

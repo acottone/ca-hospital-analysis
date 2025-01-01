@@ -1,0 +1,461 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "Department of Health Care Access and Information Patient Discharge Data, 2005-2016; Agency for Healthcare Research and Quality (AHRQ) Inpatient Quality Indicators, SAS Software. ",
+  "contact_email": "dataandreports@hcai.ca.gov",
+  "data_collection_tool": "https://hcai.ca.gov/data-and-reports/submit-data/patient-data/",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. Data are reported for January – September 2015 due to coding changes from ICD-9-CM to ICD-10-CM/PCS for procedures, which began 10/1/2015. Comparisons across years should be made with caution since other years’ results are based on 12 months of data, while 2015 analysis is based on 9 months of data. The data starting 2015 may differ from previous years due to the coding change. This dataset does not include procedures performed in outpatient settings.",
+  "geo_coverage": "Statewide",
+  "geographic_granularity": "location point",
+  "keywords": [
+    "aaa repair",
+    "abdominal aortic aneurysm repair",
+    "agency for healthcare research and quality",
+    "ahrq",
+    "angioplasty",
+    "cabg",
+    "carotid endarterectomy",
+    "coronary artery bypass graft surgery",
+    "esophageal cancer surgery",
+    "esophageal resection",
+    "healthcare quality",
+    "heart bypass",
+    "hospital quality",
+    "hospital volume",
+    "indicators",
+    "inpatient quality",
+    "inpatient quality indicators",
+    "pancreatic cancer surgery",
+    "pancreatic resection",
+    "pci",
+    "percutaneous coronary intervention",
+    "stents",
+    "volume"
+  ],
+  "limitations": "Limitations",
+  "name": "number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+  "program_web_page": "https://hcai.ca.gov/data-and-reports/healthcare-quality/ahrq-quality-indicators/#voluti",
+  "related_resources": "http://www.qualityindicators.ahrq.gov/     This information is provided as a courtesy.  The State does not control any third party web services or any of the material on their sites.  It does not imply approval or endorsement of the organization represented by the website or the website content.  See CalHHS Terms of Use for additional information.",
+  "resources": [
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals.  This dataset does not include procedures performed in outpatient settings.",
+      "format": "CSV",
+      "hash": "70639294353e4e0757f4452a6a6a76fa",
+      "name": "number-of-selected-inpatient-medical-procedures-in-california-hospitals-2016-2017-csv",
+      "path": "number-of-selected-inpatient-medical-procedures-in-california-hospitals-2016-2017-.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Year of discharge",
+            "name": "YEAR",
+            "title": "Year",
+            "type": "string"
+          },
+          {
+            "description": "County in which the hospital is located",
+            "name": "COUNTY",
+            "title": "County",
+            "type": "string"
+          },
+          {
+            "description": "Name of hospital reporting",
+            "name": "HOSPITAL",
+            "title": "Hospital",
+            "type": "string"
+          },
+          {
+            "description": "A unique number established by the Department of Health Care Access and Information (HCAI) for identifying facilities and used in the Licensed Facility Information System (LFIS).  The first three numbers identify the type of facility, the next two represent the county number, and the last five are randomly assigned within each county.",
+            "name": "OSHPDID",
+            "title": "OSHPDID",
+            "type": "string"
+          },
+          {
+            "description": "Procedure that was performed",
+            "name": "Procedure",
+            "title": "Procedure",
+            "type": "string"
+          },
+          {
+            "description": "Number of procedures that was performed",
+            "name": "Volume",
+            "title": "Volume",
+            "type": "string"
+          },
+          {
+            "description": "Longitude of hospital",
+            "name": "Longitude",
+            "title": "Longitude",
+            "type": "string"
+          },
+          {
+            "description": "Latitude of hospital",
+            "name": "Latitude",
+            "title": "Latitude",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/cbc646c9-36b3-4b5d-9d73-63a3e6018ba2/download/ca-oshpd-ahrq-v2018-vol-1617.csv",
+          "title": "Number of Selected Inpatient Medical Procedures in California Hospitals, 2016-2017 (CSV)"
+        }
+      ],
+      "title": "Number of Selected Inpatient Medical Procedures in California Hospitals, 2016-2017 (CSV)"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. Data are reported for January – September 2015 due to coding changes from ICD-9-CM to ICD-10-CM/PCS for procedures, which began 10/1/2015. Comparisons across years should be made with caution since previous years’ results are based on 12 months of data, while 2015 analysis is based on 9 months of data. The 2015 data may differ from previous years due to the coding change. This dataset does not include procedures performed in outpatient settings.",
+      "format": "CSV",
+      "hash": "9054482da154e008716ac3d29b9dc3fb",
+      "name": "number-of-selected-inpatient-medical-procedures-in-california-hospitals-2005-2015-csv",
+      "path": "number-of-selected-inpatient-medical-procedures-in-california-hospitals-2005-2015-.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Year of discharge",
+            "name": "Year",
+            "title": "Year",
+            "type": "string"
+          },
+          {
+            "description": "County in which the hospital is located",
+            "name": "County",
+            "title": "County",
+            "type": "string"
+          },
+          {
+            "description": "Name of hospital reporting",
+            "name": "Hospital Name",
+            "title": "Hospital Name",
+            "type": "string"
+          },
+          {
+            "description": "A unique number established by the Department of Health Care Access and Information (HCAI) for identifying facilities and used in the Licensed Facility Information System (LFIS).  The first three numbers identify the type of facility, the next two represent the county number, and the last five are randomly assigned within each county.",
+            "name": "OSHPDID",
+            "title": "OSHPDID",
+            "type": "string"
+          },
+          {
+            "description": "Procedure that was performed",
+            "name": "Procedure",
+            "title": "Procedure",
+            "type": "string"
+          },
+          {
+            "description": "Number of procedures that was performed",
+            "name": "Volume",
+            "title": "Volume",
+            "type": "number"
+          },
+          {
+            "description": "Longitude of hospital",
+            "name": "Longitude",
+            "title": "Longitude",
+            "type": "number"
+          },
+          {
+            "description": "Latitude of hospital",
+            "name": "Latitude",
+            "title": "Latitude",
+            "type": "number"
+          },
+          {
+            "description": "Location of hospital",
+            "name": "Location",
+            "title": "Location",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/c5878b88-5c7d-4354-8cbe-ebd490d9c546/download/number-of-selected-inpatient-medical-procedures-in-california-hospitals.csv",
+          "title": "Number of Selected Inpatient Medical Procedures in California Hospitals, 2005 - 2015 (CSV)"
+        }
+      ],
+      "title": "Number of Selected Inpatient Medical Procedures in California Hospitals, 2005 - 2015 (CSV)"
+    },
+    {
+      "description": "This document provides definitions of six selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. Data are reported for January – September 2015 due to coding changes from ICD-9-CM to ICD-10-CM/PCS for procedures, which began 10/1/2015. Comparisons across years should be made with caution since previous years’ results are based on 12 months of data, while this analysis is based on 9 months of data. The 2015 data may differ from previous years due to the coding change. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "definitions-of-volume-indicators",
+      "path": "definitions-of-volume-indicators.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/c4fb589b-9635-4427-bfb8-5e251eb7a98c/download/definitions-of-volume-indicators.pdf",
+          "title": "Definitions of Volume Indicators"
+        }
+      ],
+      "title": "Definitions of Volume Indicators"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2017-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2017-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "schema": {
+        "fields": [
+          {
+            "name": "Numbe",
+            "type": "string"
+          },
+          {
+            "name": "r of Selected Medical Pr",
+            "type": "string"
+          },
+          {
+            "name": "oce",
+            "type": "string"
+          },
+          {
+            "name": "dures",
+            "type": "string"
+          },
+          {
+            "name": "(",
+            "type": "string"
+          },
+          {
+            "name": "Vol",
+            "type": "string"
+          },
+          {
+            "name": "u",
+            "type": "string"
+          },
+          {
+            "name": "me)",
+            "type": "string"
+          },
+          {
+            "name": "Perf",
+            "type": "string"
+          },
+          {
+            "name": "o",
+            "type": "string"
+          },
+          {
+            "name": "rm",
+            "type": "string"
+          },
+          {
+            "name": "e",
+            "type": "string"
+          },
+          {
+            "name": "d in C",
+            "type": "string"
+          },
+          {
+            "name": "a",
+            "type": "string"
+          },
+          {
+            "name": "lifornia",
+            "type": "string"
+          },
+          {
+            "name": "Hospital",
+            "type": "string"
+          },
+          {
+            "name": "s",
+            "type": "string"
+          },
+          {
+            "name": ", 2017",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/32574c1c-712f-412b-866a-11851359c0d0/download/volume_final_2017_formatted.pdf",
+          "title": "2017 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2017 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2016-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2016-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/32c7ab30-ae99-47b9-951a-aa9b2aacf8ab/download/volume_final_2016_formatted.pdf",
+          "title": "2016 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2016 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    },
+    {
+      "description": "This document provides the dictionary for the dataset contains the number (volume) of six selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. Data are reported for January – September 2015 due to coding changes from ICD-9-CM to ICD-10-CM/PCS for procedures, which began 10/1/2015. Comparisons across years should be made with caution since previous years’ results are based on 12 months of data, while this analysis is based on 9 months of data. The 2015 data may differ from previous years due to the coding change. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "data-dictionary-for-volume-indicators",
+      "path": "data-dictionary-for-volume-indicators.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/a7c786f7-8932-4f53-ac97-c2f80ecb258a/download/data-dictionary-volume.pdf",
+          "title": "Data Dictionary for Volume Indicators"
+        }
+      ],
+      "title": "Data Dictionary for Volume Indicators"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2015-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2015-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/dbf02cb3-4fbb-4441-a378-85f3b4439068/download/2015vol.pdf",
+          "title": "2015 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2015 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2014-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2014-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/36af6ba0-67cc-4c1f-89fd-14e82f214ba2/download/2014vol.pdf",
+          "title": "2014 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2014 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2013-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2013-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/4aecbc44-ef5a-4aef-8da4-d54de64618b7/download/2013vol.pdf",
+          "title": "2013 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2013 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2012-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2012-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/b828574b-73cc-45b9-8047-99115196b71f/download/2012vol.pdf",
+          "title": "2012 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2012 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2011-number-of-selected-inpatient-medical-procedures-in-california-hopitals",
+      "path": "2011-number-of-selected-inpatient-medical-procedures-in-california-hopitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/88d83e21-fc52-4f0b-8b95-00422e7a1f7d/download/2011vol.pdf",
+          "title": "2011 Number of Selected Inpatient Medical Procedures in California Hopitals"
+        }
+      ],
+      "title": "2011 Number of Selected Inpatient Medical Procedures in California Hopitals"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2010-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2010-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/86a425a3-1715-4141-92d4-4a5840b1e118/download/2010vol.pdf",
+          "title": "2010 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2010 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2009-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2009-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/a493e1fd-3fab-4466-922e-970734aaeb86/download/2009vol.pdf",
+          "title": "2009 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2009 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2008-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2008-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/c61beadc-ae10-4b6a-9801-ca165db1ff9b/download/2008vol.pdf",
+          "title": "2008 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2008 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2007-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2007-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/0fca8da9-7b7d-4fae-98de-e0e569cbf468/download/2007vol.pdf",
+          "title": "2007 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2007 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2006-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2006-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/e8285534-c124-4a56-b567-5e84c118e032/download/2006vol.pdf",
+          "title": "2006 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2006 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    },
+    {
+      "description": "This dataset contains the number (volume) of 6 selected inpatient procedures (Esophageal Resection, Pancreatic Resection, Abdominal Aortic Aneurysm Repairs (AAA Repairs), Carotid Endarterectomy, Coronary Artery Bypass Graft Surgery, Percutaneous Coronary Intervention) performed in California hospitals. This dataset does not include procedures performed in outpatient settings.",
+      "format": "PDF",
+      "name": "2005-number-of-selected-inpatient-medical-procedures-in-california-hospitals",
+      "path": "2005-number-of-selected-inpatient-medical-procedures-in-california-hospitals.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/6fe470cc-074f-49ce-8adc-882027076d19/resource/a99145fd-5cda-4925-8930-6b97bedc4e15/download/2005vol.pdf",
+          "title": "2005 Number of Selected Inpatient Medical Procedures in California Hospitals"
+        }
+      ],
+      "title": "2005 Number of Selected Inpatient Medical Procedures in California Hospitals"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Health Care Access and Information, Healthcare Information Division/Healthcare Outcomes Center",
+      "web": "https://hcai.ca.gov/data-and-reports/healthcare-quality/ahrq-quality-indicators/#voluti"
+    }
+  ],
+  "temporal_coverage": "2005 - 2016",
+  "title": "Number of Selected Inpatient Medical Procedures in California Hospitals"
+}

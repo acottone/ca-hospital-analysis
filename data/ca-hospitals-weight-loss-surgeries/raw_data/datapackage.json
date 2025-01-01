@@ -1,0 +1,155 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "HCAI Patient Discharge Data, 2005-2015",
+  "contact_email": "opendata@hcai.ca.gov",
+  "data_collection_tool": "https://hcai.ca.gov/data-and-reports/submit-data/patient-data/",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "The dataset contains the number for five types of weight loss (bariatric) surgeries (Open Roux-en-Y gastric bypass, laparoscopic Roux-en-Y gastric bypass , laparoscopic adjustable gastric banding, vertical sleeve gastrectomy , and biliopancreatic diversion ) performed in California hospitals.  The 2015 Data are reported for January-September due to coding changes from ICD-9-CM to ICD-10-CM/PCS, which began October 1, 2015. Caution should be taken before making comparisons  across years  since previous years' results are based on 12 months of data, while results for year 2015 are based on 9 months of data. This dataset does not include surgeries performed in outpatient settings.",
+  "geo_coverage": "Statewide",
+  "geographic_granularity": "location point",
+  "keywords": [
+    "bariatric surgery",
+    "bariatric surgery procedures",
+    "biliopancreatic diversion",
+    "bpd",
+    "gastric bypass",
+    "lap band",
+    "lap rygb",
+    "laparoscopic adjustable gastric banding",
+    "metabolic surgery",
+    "morbid obesity",
+    "obesity",
+    "open rygb",
+    "roux-en-y gastric bypass",
+    "rygb",
+    "stomach stapling",
+    "vertical sleeve gastrectomy",
+    "vsg",
+    "weight loss",
+    "weight loss surgery",
+    "weight reduction"
+  ],
+  "limitations": "Limitations",
+  "name": "number-of-weight-loss-surgeries-performed-in-california-hospitals",
+  "program_web_page": "https://hcai.ca.gov/visualizations/number-of-weight-loss-surgeries-performed-in-california-hospitals/",
+  "related_resources": "",
+  "resources": [
+    {
+      "description": "The dataset contains the number for five types of weight loss (bariatric) surgeries (Open Roux-en-Y gastric bypass, laparoscopic Roux-en-Y gastric bypass , laparoscopic adjustable gastric banding, vertical sleeve gastrectomy , and biliopancreatic diversion ) performed in California hospitals.  The 2015 Data are reported for January-September due to coding changes from ICD-9-CM to ICD-10-CM/PCS, which began October 1, 2015. Caution should be taken before making comparisons  across years  since previous years' results are based on 12 months of data, while results for year 2015 are based on 9 months of data. This dataset does not include surgeries performed in outpatient settings.",
+      "format": "CSV",
+      "hash": "7df0f008d0533206ee0144e8e2fc4644",
+      "name": "number-of-weight-loss-surgeries-performed-in-california-hospitals-csv",
+      "path": "number-of-weight-loss-surgeries-performed-in-california-hospitals-.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Year of Discharge\n",
+            "name": "Year",
+            "title": "Year",
+            "type": "string"
+          },
+          {
+            "description": "County in which the hospital is located",
+            "name": "County",
+            "title": "County",
+            "type": "string"
+          },
+          {
+            "description": "Name of Hospital Reporting",
+            "name": "Hospital",
+            "title": "Hospital",
+            "type": "string"
+          },
+          {
+            "description": "A unique number established by the Department of Health Care Access and Information (HCAI) for identifying facilities and used in the Licensed Facility Information System (LFIS). The first three numbers identify the type of facility, the next two represent the county number, and the last five are randomly assigned within each county.",
+            "name": "OSHPDID",
+            "title": "OSHPDID",
+            "type": "string"
+          },
+          {
+            "description": "Type of Weight Loss (Bariatric) Surgeries",
+            "name": "Surgery",
+            "title": "Surgery",
+            "type": "string"
+          },
+          {
+            "description": "Type of Weight Loss (Bariatric) Procedure Counts",
+            "name": "# of Cases",
+            "title": "# of Cases",
+            "type": "number"
+          },
+          {
+            "description": "Longitude and Latitude of hospital location",
+            "name": "Location 1",
+            "title": "Location 1",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/4cc2a061-d633-4983-8e43-94598d95d1dd/resource/2b34d53f-0d5e-4446-ad47-9af1e19bb9f1/download/number-of-weight-loss-surgeries-performed-in-california-hospitals.csv",
+          "title": "Number of Weight Loss Surgeries Performed in California Hospitals (CSV)"
+        }
+      ],
+      "title": "Number of Weight Loss Surgeries Performed in California Hospitals (CSV)"
+    },
+    {
+      "description": "The dataset contains the number for five types of weight loss (bariatric) surgeries (Open Roux-en-Y gastric bypass, laparoscopic Roux-en-Y gastric bypass , laparoscopic adjustable gastric banding, vertical sleeve gastrectomy , and biliopancreatic diversion ) performed in California hospitals.  The 2015 Data are reported for January-September due to coding changes from ICD-9-CM to ICD-10-CM/PCS, which began October 1, 2015. Caution should be taken before making comparisons  across years  since previous years' results are based on 12 months of data, while results for year 2015 are based on 9 months of data. This dataset does not include surgeries performed in outpatient settings.",
+      "format": "CSV",
+      "hash": "1e904c0f139e5e6f02fe04c9a1a2eac2",
+      "name": "data-dictionary-for-bariatric-surgery",
+      "path": "data-dictionary-for-bariatric-surgery.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Field Title",
+            "type": "string"
+          },
+          {
+            "name": "Field Name",
+            "type": "string"
+          },
+          {
+            "name": "Data Type",
+            "type": "string"
+          },
+          {
+            "name": "Description",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/4cc2a061-d633-4983-8e43-94598d95d1dd/resource/b16ce25e-dec6-4332-89d1-26398818b6eb/download/datadictionaryforbariatricsurgery.csv",
+          "title": "data-dictionary-for-bariatric-surgery"
+        }
+      ],
+      "title": "data-dictionary-for-bariatric-surgery"
+    },
+    {
+      "format": "PDF",
+      "name": "trends-in-bariatric-surgery-in-california-hospitals-2005-to-2009",
+      "path": "trends-in-bariatric-surgery-in-california-hospitals-2005-to-2009.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/4cc2a061-d633-4983-8e43-94598d95d1dd/resource/e650ed8b-1d73-437d-b949-f7166be9501f/download/healthfacts_bariatric_web.pdf",
+          "title": "Trends in Bariatric Surgery in California Hospitals, 2005 to 2009"
+        }
+      ],
+      "title": "Trends in Bariatric Surgery in California Hospitals, 2005 to 2009"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Health Care Access and Information, Healthcare Information Division/Healthcare Outcomes Center",
+      "web": "https://hcai.ca.gov/visualizations/number-of-weight-loss-surgeries-performed-in-california-hospitals/"
+    }
+  ],
+  "temporal_coverage": "2005-2015",
+  "title": "Number of Weight Loss Surgeries Performed in California Hospitals"
+}

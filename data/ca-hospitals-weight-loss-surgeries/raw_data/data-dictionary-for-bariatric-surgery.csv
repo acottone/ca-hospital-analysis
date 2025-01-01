@@ -1,0 +1,27 @@
+Volume of Bariatric Surgeries Performed in California Hospitals,,,
+Field Title,Field Name,Data Type,Description
+Year,Year,Plain text,Year of Discharge
+County,County,Plain text,County in which the hospital is located
+Hospital,Hospital Name,Plain text,Name of Hospital Reporting
+OSHPDID,OSHPDID,Plain text,"A unique number established by the Office of Statewide Health Planning and Development (OSHPD) for identifying facilities and used in the Licensed Facility Information System (LFIS). The first three numbers identify the type of facility, the next two represent the county number, and the last five are randomly assigned within each county."
+Surgery,Type of Surgeries,Plain text,Type of Weight Loss (Bariatric) Surgeries
+,,,Lap Band – Laparoscopic adjustable gastric banding
+,,,Lap RYGB – Laparoscopic Roux-en-Y gastric bypass
+,,,Open RYGB – Open Roux-en-Y gastric bypass
+,,,BPD – Biliopancreatic diversion
+,,,VSG – Vertical sleeve gastrectomy
+# of Cases,Number of Surgeries,Number,Type of Weight Loss (Bariatric) Procedure Counts
+Longitude,Longitude,Number,Longitude of hospital location
+Latitude,Latitude,Number,Latitude of hospital location
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

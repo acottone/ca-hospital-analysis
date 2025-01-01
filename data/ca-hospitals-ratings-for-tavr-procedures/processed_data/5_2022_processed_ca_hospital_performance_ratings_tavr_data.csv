@@ -1,0 +1,167 @@
+year,county,system,hospital,oshpd_id,performance_measure,#_of_cases,#_of_adverse_events,risk_adjusted_rate,hospital_rating
+2022,alameda,sutter health,alta bates summit medical center,106010937,tavr in-hospital/30-day mortality,81,1,1.35,average
+2022,alameda,sutter health,alta bates summit medical center,106010937,tavr in-hospital/30-day stroke,81,0,0.0,average
+2022,alameda,independent/other,stanford health care tri-valley,10601405,tavr in-hospital/30-day mortality,16,0,0.0,average
+2022,alameda,independent/other,stanford health care tri-valley,10601405,tavr in-hospital/30-day stroke,16,1,7.25,average
+2022,alameda,independent/other,washington hospital  fremont,106010987,tavr in-hospital/30-day mortality,27,0,0.0,average
+2022,alameda,independent/other,washington hospital  fremont,106010987,tavr in-hospital/30-day stroke,27,1,5.37,average
+2022,butte,independent/other,enloe medical center esplanade,106040962,tavr in-hospital/30-day mortality,105,1,1.65,average
+2022,butte,independent/other,enloe medical center esplanade,106040962,tavr in-hospital/30-day stroke,105,3,3.79,average
+2022,contra costa,john muir health,john muir medical center  concord campus,106071018,tavr in-hospital/30-day mortality,119,1,0.79,average
+2022,contra costa,john muir health,john muir medical center  concord campus,106071018,tavr in-hospital/30-day stroke,119,2,1.52,average
+2022,fresno,independent/other,fresno heart and surgical hospital,106105029,tavr in-hospital/30-day mortality,120,4,3.54,average
+2022,fresno,independent/other,fresno heart and surgical hospital,106105029,tavr in-hospital/30-day stroke,120,4,3.35,average
+2022,fresno,independent/other,saint agnes medical center,106100899,tavr in-hospital/30-day mortality,143,1,0.54,average
+2022,fresno,independent/other,saint agnes medical center,106100899,tavr in-hospital/30-day stroke,143,1,0.69,average
+2022,kern,independent/other,bakersfield heart hospital,106154101,tavr in-hospital/30-day mortality,7,0,0.0,average
+2022,kern,independent/other,bakersfield heart hospital,106154101,tavr in-hospital/30-day stroke,7,0,0.0,average
+2022,kern,dignity health,bakersfield memorial hospital,106150722,tavr in-hospital/30-day mortality,98,0,0.0,average
+2022,kern,dignity health,bakersfield memorial hospital,106150722,tavr in-hospital/30-day stroke,98,0,0.0,average
+2022,los angeles,adventist health systems,adventist health glendale,106190323,tavr in-hospital/30-day mortality,95,1,1.4,average
+2022,los angeles,adventist health systems,adventist health glendale,106190323,tavr in-hospital/30-day stroke,95,0,0.0,average
+2022,los angeles,adventist health systems,adventist health white memorial,106190878,tavr in-hospital/30-day mortality,32,1,4.63,average
+2022,los angeles,adventist health systems,adventist health white memorial,106190878,tavr in-hospital/30-day stroke,32,0,0.0,average
+2022,los angeles,independent/other,antelope valley hospital,106190034,tavr in-hospital/30-day mortality,44,2,2.5,average
+2022,los angeles,independent/other,antelope valley hospital,106190034,tavr in-hospital/30-day stroke,44,1,2.81,average
+2022,los angeles,cedars-sinai health system,cedars  sinai medical center,106190555,tavr in-hospital/30-day mortality,610,15,2.2,average
+2022,los angeles,cedars-sinai health system,cedars  sinai medical center,106190555,tavr in-hospital/30-day stroke,610,12,1.83,average
+2022,los angeles,independent/other,emanate health inter  community hospital,106190413,tavr in-hospital/30-day mortality,52,1,2.79,average
+2022,los angeles,independent/other,emanate health inter  community hospital,106190413,tavr in-hospital/30-day stroke,52,1,2.52,average
+2022,los angeles,"ahmc healthcare, inc.",garfield medical center,106190315,tavr in-hospital/30-day mortality,9,0,0.0,average
+2022,los angeles,"ahmc healthcare, inc.",garfield medical center,106190315,tavr in-hospital/30-day stroke,9,0,0.0,average
+2022,los angeles,independent/other,henry mayo newhall hospital,106190949,tavr in-hospital/30-day mortality,37,0,0.0,average
+2022,los angeles,independent/other,henry mayo newhall hospital,106190949,tavr in-hospital/30-day stroke,37,1,2.87,average
+2022,los angeles,independent/other,huntington hospital,1061904,tavr in-hospital/30-day mortality,103,4,1.96,average
+2022,los angeles,independent/other,huntington hospital,1061904,tavr in-hospital/30-day stroke,103,0,0.0,average
+2022,los angeles,university of southern california,keck hospital of usc,106194219,tavr in-hospital/30-day mortality,84,3,2.77,average
+2022,los angeles,university of southern california,keck hospital of usc,106194219,tavr in-hospital/30-day stroke,84,1,1.48,average
+2022,los angeles,tenet healthcare corporation,lakewood regional medical center,10619024,tavr in-hospital/30-day mortality,25,1,5.23,average
+2022,los angeles,tenet healthcare corporation,lakewood regional medical center,10619024,tavr in-hospital/30-day stroke,25,2,9.64,average
+2022,los angeles,memorialcare,memorialcare long beach medical center,106190525,tavr in-hospital/30-day mortality,85,2,1.4,average
+2022,los angeles,memorialcare,memorialcare long beach medical center,106190525,tavr in-hospital/30-day stroke,85,2,2.15,average
+2022,los angeles,dignity health,northridge hospital medical center,106190568,tavr in-hospital/30-day mortality,27,0,0.0,average
+2022,los angeles,dignity health,northridge hospital medical center,106190568,tavr in-hospital/30-day stroke,27,0,0.0,average
+2022,los angeles,independent/other,pih health good samaritan hospital,106190392,tavr in-hospital/30-day mortality,133,5,1.85,average
+2022,los angeles,independent/other,pih health good samaritan hospital,106190392,tavr in-hospital/30-day stroke,133,2,1.4,average
+2022,los angeles,independent/other,pih health hospital  whittier,106190631,tavr in-hospital/30-day mortality,31,3,6.74,average
+2022,los angeles,independent/other,pih health hospital  whittier,106190631,tavr in-hospital/30-day stroke,31,2,7.63,average
+2022,los angeles,independent/other,pomona valley hospital medical center,10619063,tavr in-hospital/30-day mortality,27,2,4.68,average
+2022,los angeles,independent/other,pomona valley hospital medical center,10619063,tavr in-hospital/30-day stroke,27,1,3.9,average
+2022,los angeles,providence st. joseph health,providence little company of mary medical center  torrance,10619047,tavr in-hospital/30-day mortality,23,0,0.0,average
+2022,los angeles,providence st. joseph health,providence little company of mary medical center  torrance,10619047,tavr in-hospital/30-day stroke,23,1,3.2,average
+2022,los angeles,providence st. joseph health,providence saint john's health center,106190756,tavr in-hospital/30-day mortality,82,2,2.78,average
+2022,los angeles,providence st. joseph health,providence saint john's health center,106190756,tavr in-hospital/30-day stroke,82,1,1.25,average
+2022,los angeles,providence st. joseph health,providence saint joseph medical center,106190758,tavr in-hospital/30-day mortality,31,0,0.0,average
+2022,los angeles,providence st. joseph health,providence saint joseph medical center,106190758,tavr in-hospital/30-day stroke,31,0,0.0,average
+2022,los angeles,university of california,ronald reagan ucla medical center,106190796,tavr in-hospital/30-day mortality,136,2,1.43,average
+2022,los angeles,university of california,ronald reagan ucla medical center,106190796,tavr in-hospital/30-day stroke,136,1,0.88,average
+2022,los angeles,cedars-sinai health system,torrance memorial medical center,106190422,tavr in-hospital/30-day mortality,110,2,2.03,average
+2022,los angeles,cedars-sinai health system,torrance memorial medical center,106190422,tavr in-hospital/30-day stroke,110,2,1.95,average
+2022,los angeles,hca healthcare corporation,west hills hospital and medical center,106190859,tavr in-hospital/30-day mortality,8,0,0.0,average
+2022,los angeles,hca healthcare corporation,west hills hospital and medical center,106190859,tavr in-hospital/30-day stroke,8,0,0.0,average
+2022,marin,independent/other,marinhealth medical center,106211006,tavr in-hospital/30-day mortality,67,1,2.28,average
+2022,marin,independent/other,marinhealth medical center,106211006,tavr in-hospital/30-day stroke,67,1,1.83,average
+2022,monterey,independent/other,community hospital of the monterey peninsula,106270744,tavr in-hospital/30-day mortality,32,0,0.0,average
+2022,monterey,independent/other,community hospital of the monterey peninsula,106270744,tavr in-hospital/30-day stroke,32,2,6.84,average
+2022,monterey,independent/other,salinas valley health medical center,106270875,tavr in-hospital/30-day mortality,39,1,4.71,average
+2022,monterey,independent/other,salinas valley health medical center,106270875,tavr in-hospital/30-day stroke,39,2,6.94,average
+2022,napa,adventist health systems,adventist health st. helena,106281078,tavr in-hospital/30-day mortality,67,3,7.56,average
+2022,napa,adventist health systems,adventist health st. helena,106281078,tavr in-hospital/30-day stroke,67,2,3.79,average
+2022,orange,providence st. joseph health,hoag memorial hospital presbyterian,106301205,tavr in-hospital/30-day mortality,148,2,2.11,average
+2022,orange,providence st. joseph health,hoag memorial hospital presbyterian,106301205,tavr in-hospital/30-day stroke,148,3,2.37,average
+2022,orange,memorialcare,memorialcare orange coast medical center,106300225,tavr in-hospital/30-day mortality,50,0,0.0,average
+2022,orange,memorialcare,memorialcare orange coast medical center,106300225,tavr in-hospital/30-day stroke,50,1,2.2,average
+2022,orange,memorialcare,memorialcare saddleback medical center,106301317,tavr in-hospital/30-day mortality,44,1,3.08,average
+2022,orange,memorialcare,memorialcare saddleback medical center,106301317,tavr in-hospital/30-day stroke,44,1,2.78,average
+2022,orange,providence st. joseph health,providence mission hospital,106301262,tavr in-hospital/30-day mortality,34,0,0.0,average
+2022,orange,providence st. joseph health,providence mission hospital,106301262,tavr in-hospital/30-day stroke,34,0,0.0,average
+2022,orange,providence st. joseph health,providence st. joseph hospital,10630134,tavr in-hospital/30-day mortality,153,4,2.14,average
+2022,orange,providence st. joseph health,providence st. joseph hospital,10630134,tavr in-hospital/30-day stroke,153,4,2.69,average
+2022,orange,providence st. joseph health,providence st. jude medical center,106301342,tavr in-hospital/30-day mortality,63,1,1.45,average
+2022,orange,providence st. joseph health,providence st. jude medical center,106301342,tavr in-hospital/30-day stroke,63,2,3.11,average
+2022,orange,university of california,uc irvine medical center,106301279,tavr in-hospital/30-day mortality,65,2,1.69,average
+2022,orange,university of california,uc irvine medical center,106301279,tavr in-hospital/30-day stroke,65,3,5.12,average
+2022,riverside,independent/other,eisenhower medical center,106331168,tavr in-hospital/30-day mortality,192,4,1.89,average
+2022,riverside,independent/other,eisenhower medical center,106331168,tavr in-hospital/30-day stroke,192,0,0.0,better
+2022,riverside,loma linda university,loma linda university medical center  murrieta,106334589,tavr in-hospital/30-day mortality,76,3,3.4,average
+2022,riverside,loma linda university,loma linda university medical center  murrieta,106334589,tavr in-hospital/30-day stroke,76,1,1.32,average
+2022,riverside,hca healthcare corporation,riverside community hospital,106331312,tavr in-hospital/30-day mortality,44,3,7.35,average
+2022,riverside,hca healthcare corporation,riverside community hospital,106331312,tavr in-hospital/30-day stroke,44,1,2.54,average
+2022,riverside,"universal health services, inc.",temecula valley hospital,106334564,tavr in-hospital/30-day mortality,18,0,0.0,average
+2022,riverside,"universal health services, inc.",temecula valley hospital,106334564,tavr in-hospital/30-day stroke,18,0,0.0,average
+2022,sacramento,dignity health,mercy general hospital,106340947,tavr in-hospital/30-day mortality,352,5,1.95,average
+2022,sacramento,dignity health,mercy general hospital,106340947,tavr in-hospital/30-day stroke,352,3,0.96,average
+2022,sacramento,sutter health,sutter medical center  sacramento,106341051,tavr in-hospital/30-day mortality,212,8,4.15,average
+2022,sacramento,sutter health,sutter medical center  sacramento,106341051,tavr in-hospital/30-day stroke,212,1,0.49,average
+2022,sacramento,university of california,uc davis medical center,106341006,tavr in-hospital/30-day mortality,135,3,2.49,average
+2022,sacramento,university of california,uc davis medical center,106341006,tavr in-hospital/30-day stroke,135,3,2.39,average
+2022,san bernardino,kaiser foundation hospitals,kaiser foundation hospital  fontana,106361223,tavr in-hospital/30-day mortality,130,4,3.7,average
+2022,san bernardino,kaiser foundation hospitals,kaiser foundation hospital  fontana,106361223,tavr in-hospital/30-day stroke,130,5,3.74,average
+2022,san bernardino,loma linda university,loma linda university medical center,106361246,tavr in-hospital/30-day mortality,143,1,0.75,average
+2022,san bernardino,loma linda university,loma linda university medical center,106361246,tavr in-hospital/30-day stroke,143,3,2.19,average
+2022,san bernardino,independent/other,san antonio regional hospital,106361318,tavr in-hospital/30-day mortality,71,1,2.11,average
+2022,san bernardino,independent/other,san antonio regional hospital,106361318,tavr in-hospital/30-day stroke,71,2,3.39,average
+2022,san bernardino,dignity health,st. bernardine medical center,106361339,tavr in-hospital/30-day mortality,108,4,5.13,average
+2022,san bernardino,dignity health,st. bernardine medical center,106361339,tavr in-hospital/30-day stroke,108,4,4.93,average
+2022,san diego,sharp healthcare,grossmont hospital,106370714,tavr in-hospital/30-day mortality,79,2,2.12,average
+2022,san diego,sharp healthcare,grossmont hospital,106370714,tavr in-hospital/30-day stroke,79,1,1.24,average
+2022,san diego,independent/other,palomar medical center,106374382,tavr in-hospital/30-day mortality,56,3,3.9,average
+2022,san diego,independent/other,palomar medical center,106374382,tavr in-hospital/30-day stroke,56,2,4.2,average
+2022,san diego,scripps health,scripps memorial hospital  la jolla,106370771,tavr in-hospital/30-day mortality,434,9,2.3,average
+2022,san diego,scripps health,scripps memorial hospital  la jolla,106370771,tavr in-hospital/30-day stroke,434,7,1.5,average
+2022,san diego,scripps health,scripps mercy hospital,106370744,tavr in-hospital/30-day mortality,85,3,2.67,average
+2022,san diego,scripps health,scripps mercy hospital,106370744,tavr in-hospital/30-day stroke,85,4,4.0,average
+2022,san diego,sharp healthcare,sharp chula vista medical center,106370875,tavr in-hospital/30-day mortality,68,5,5.95,average
+2022,san diego,sharp healthcare,sharp chula vista medical center,106370875,tavr in-hospital/30-day stroke,68,0,0.0,average
+2022,san diego,sharp healthcare,sharp memorial hospital,106370694,tavr in-hospital/30-day mortality,131,7,4.41,average
+2022,san diego,sharp healthcare,sharp memorial hospital,106370694,tavr in-hospital/30-day stroke,131,3,2.01,average
+2022,san diego,independent/other,tri-city medical center,10637078,tavr in-hospital/30-day mortality,39,0,0.0,average
+2022,san diego,independent/other,tri-city medical center,10637078,tavr in-hospital/30-day stroke,39,0,0.0,average
+2022,san diego,university of california,uc san diego health la jolla  jacobs medical center & sulpizio cardiovascular center,106374141,tavr in-hospital/30-day mortality,93,2,2.59,average
+2022,san diego,university of california,uc san diego health la jolla  jacobs medical center & sulpizio cardiovascular center,106374141,tavr in-hospital/30-day stroke,93,0,0.0,average
+2022,san francisco,sutter health,california pacific medical center  van ness campus,106384176,tavr in-hospital/30-day mortality,140,7,2.94,average
+2022,san francisco,sutter health,california pacific medical center  van ness campus,106384176,tavr in-hospital/30-day stroke,140,3,1.6,average
+2022,san francisco,kaiser foundation hospitals,kaiser foundation hospital  san francisco,106380857,tavr in-hospital/30-day mortality,432,4,1.12,average
+2022,san francisco,kaiser foundation hospitals,kaiser foundation hospital  san francisco,106380857,tavr in-hospital/30-day stroke,432,10,2.48,average
+2022,san francisco,university of california,uc san francisco medical center,106381154,tavr in-hospital/30-day mortality,103,3,1.79,average
+2022,san francisco,university of california,uc san francisco medical center,106381154,tavr in-hospital/30-day stroke,103,2,1.89,average
+2022,san joaquin,dignity health,st. joseph's medical center of stockton,106391042,tavr in-hospital/30-day mortality,79,3,6.67,average
+2022,san joaquin,dignity health,st. joseph's medical center of stockton,106391042,tavr in-hospital/30-day stroke,79,0,0.0,average
+2022,san luis obispo,dignity health,french hospital medical center,10640048,tavr in-hospital/30-day mortality,97,2,3.27,average
+2022,san luis obispo,dignity health,french hospital medical center,10640048,tavr in-hospital/30-day stroke,97,3,4.44,average
+2022,san mateo,sutter health,mills-peninsula medical center,106410852,tavr in-hospital/30-day mortality,75,1,1.7,average
+2022,san mateo,sutter health,mills-peninsula medical center,106410852,tavr in-hospital/30-day stroke,75,2,2.8,average
+2022,san mateo,dignity health,sequoia hospital,106410891,tavr in-hospital/30-day mortality,25,1,3.86,average
+2022,san mateo,dignity health,sequoia hospital,106410891,tavr in-hospital/30-day stroke,25,1,4.1,average
+2022,santa barbara,independent/other,santa barbara cottage hospital,106420514,tavr in-hospital/30-day mortality,140,2,1.29,average
+2022,santa barbara,independent/other,santa barbara cottage hospital,106420514,tavr in-hospital/30-day stroke,140,5,3.44,average
+2022,santa clara,independent/other,el camino health,106430763,tavr in-hospital/30-day mortality,96,1,1.5,average
+2022,santa clara,independent/other,el camino health,106430763,tavr in-hospital/30-day stroke,96,2,2.46,average
+2022,santa clara,hca healthcare corporation,good samaritan hospital  san jose,106430779,tavr in-hospital/30-day mortality,34,0,0.0,average
+2022,santa clara,hca healthcare corporation,good samaritan hospital  san jose,106430779,tavr in-hospital/30-day stroke,34,1,2.53,average
+2022,santa clara,kaiser foundation hospitals,kaiser foundation hospital  santa clara,106434153,tavr in-hospital/30-day mortality,246,2,1.2,average
+2022,santa clara,kaiser foundation hospitals,kaiser foundation hospital  santa clara,106434153,tavr in-hospital/30-day stroke,246,5,2.23,average
+2022,santa clara,verity health system,o'connor hospital,106430837,tavr in-hospital/30-day mortality,26,1,4.62,average
+2022,santa clara,verity health system,o'connor hospital,106430837,tavr in-hospital/30-day stroke,26,1,4.83,average
+2022,santa clara,independent/other,stanford health care,106430905,tavr in-hospital/30-day mortality,250,4,1.98,average
+2022,santa clara,independent/other,stanford health care,106430905,tavr in-hospital/30-day stroke,250,5,2.63,average
+2022,santa cruz,dignity health,dominican hospital,106440755,tavr in-hospital/30-day mortality,43,1,3.28,average
+2022,santa cruz,dignity health,dominican hospital,106440755,tavr in-hospital/30-day stroke,43,0,0.0,average
+2022,shasta,prime healthcare services,shasta regional medical center,10645094,tavr in-hospital/30-day mortality,93,0,0.0,average
+2022,shasta,prime healthcare services,shasta regional medical center,10645094,tavr in-hospital/30-day stroke,93,0,0.0,average
+2022,solano,independent/other,northbay medical center,106481357,tavr in-hospital/30-day mortality,34,1,2.22,average
+2022,solano,independent/other,northbay medical center,106481357,tavr in-hospital/30-day stroke,34,1,3.42,average
+2022,sonoma,providence st. joseph health,providence santa rosa memorial hospital  montgomery,106491064,tavr in-hospital/30-day mortality,96,3,3.37,average
+2022,sonoma,providence st. joseph health,providence santa rosa memorial hospital  montgomery,106491064,tavr in-hospital/30-day stroke,96,3,3.18,average
+2022,stanislaus,tenet healthcare corporation,doctors medical center,106500852,tavr in-hospital/30-day mortality,121,3,3.34,average
+2022,stanislaus,tenet healthcare corporation,doctors medical center,106500852,tavr in-hospital/30-day stroke,121,2,2.03,average
+2022,stanislaus,sutter health,memorial medical center  modesto,106500939,tavr in-hospital/30-day mortality,91,0,0.0,average
+2022,stanislaus,sutter health,memorial medical center  modesto,106500939,tavr in-hospital/30-day stroke,91,0,0.0,average
+2022,tulare,independent/other,kaweah health medical center,106540734,tavr in-hospital/30-day mortality,57,1,1.94,average
+2022,tulare,independent/other,kaweah health medical center,106540734,tavr in-hospital/30-day stroke,57,0,0.0,average
+2022,ventura,independent/other,community memorial hospital  san buenaventura,106560473,tavr in-hospital/30-day mortality,102,7,7.41,worse
+2022,ventura,independent/other,community memorial hospital  san buenaventura,106560473,tavr in-hospital/30-day stroke,102,5,5.24,average
+2022,ventura,hca healthcare corporation,los robles hospital & medical center,106560492,tavr in-hospital/30-day mortality,86,3,2.71,average
+2022,ventura,hca healthcare corporation,los robles hospital & medical center,106560492,tavr in-hospital/30-day stroke,86,6,5.96,worse
+2022,ventura,dignity health,st. john's regional medical center,106560529,tavr in-hospital/30-day mortality,29,1,3.66,average
+2022,ventura,dignity health,st. john's regional medical center,106560529,tavr in-hospital/30-day stroke,29,1,4.36,average
