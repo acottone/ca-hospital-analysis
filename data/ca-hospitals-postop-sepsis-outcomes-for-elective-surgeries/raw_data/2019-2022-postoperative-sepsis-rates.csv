@@ -1,0 +1,1188 @@
+Year,County,OSHPDID,Hospital Name,Postoperative Sepsis Cases,Elective Surgical Discharges,Risk-adjusted Postoperative Sepsis Rate,Risk-adjusted Performance Rating,Latitude,Longitude
+2019,STATEWIDE,n/a,n/a,1328,299027,0.44,n/a,n/a,n/a
+2019,Alameda,106010735,Alameda Hospital,0,84,0,Average,37.76266,-122.253991
+2019,Alameda,106010739,Alta Bates Summit Medical Center – Alta Bates Campus,3,733,0.65,Average,37.85645,-122.25743
+2019,Alameda,106010846,Highland Hospital,0,77,0,Average,37.79925,-122.23138
+2019,Alameda,106010937,Alta Bates Summit Medical Center,16,1464,1.01,Below Average,37.82106,-122.26257
+2019,Alameda,106010967,Saint Rose Hospital,0,388,0,Average,37.63291,-122.08962
+2019,Alameda,106010987,Washington Hospital – Fremont,1,1440,0.14,Average,37.55847,-121.98006
+2019,Alameda,106013619,San Leandro Hospital,1,72,0.88,Average,37.71364,-122.14067
+2019,Alameda,106014050,Stanford Health Care – ValleyCare,4,879,0.67,Average,37.69206,-121.88095
+2019,Alameda,106014132,Kaiser Foundation Hospital – Fremont,2,480,0.38,Average,37.55055,-121.97483
+2019,Alameda,106014233,Eden Medical Center,1,488,0.32,Average,37.6983769,-122.0874055
+2019,Alameda,106014326,Kaiser Foundation Hospital – Oakland/Richmond,12,3061,0.21,Above Average,37.82402,-122.25791
+2019,Alameda,106014337,Kaiser Foundation Hospital – San Leandro,6,1313,0.57,Average,37.70611,-122.16917
+2019,Amador,106034002,Sutter Amador Hospital,2,90,1.56,Average,38.34743,-120.77272
+2019,Butte,106040802,Orchard Hospital,0,3,0,Average,39.36701,-121.68955
+2019,Butte,106040937,Oroville Hospital,8,526,0.55,Average,39.50485,-121.5428
+2019,Butte,106040962,Enloe Medical Center – Esplanade,3,1838,0.26,Average,39.74226,-121.84918
+2019,Calaveras,106050932,Mark Twain Medical Center,0,63,0,Average,38.19057,-120.67095
+2019,Contra Costa,106070924,Contra Costa Regional Medical Center,0,255,0,Average,38.00646,-122.13101
+2019,Contra Costa,106070934,Sutter Delta Medical Center,1,116,0.83,Average,37.98222,-121.8054
+2019,Contra Costa,106070988,John Muir Medical Center – Walnut Creek Campus,8,2390,0.43,Average,37.91304,-122.040781
+2019,Contra Costa,106070990,Kaiser Foundation Hospital – Walnut Creek,5,445,0.43,Average,37.8923,-122.05828
+2019,Contra Costa,106071018,John Muir Medical Center – Concord Campus,10,1726,0.61,Average,37.98615,-122.03874
+2019,Contra Costa,106074017,San Ramon Regional Medical Center,1,633,0.19,Average,37.77549,-121.95884
+2019,Contra Costa,106074097,Kaiser Foundation Hospital – Antioch,3,835,0.5,Average,37.951975,-121.776854
+2019,Del Norte,106084001,Sutter Coast Hospital,0,59,0,Average,41.77278,-124.19514
+2019,El Dorado,106090793,Barton Memorial Hospital,1,269,0.81,Average,38.91228,-119.99758
+2019,El Dorado,106090933,Marshall Medical Center,1,385,0.32,Average,38.72556,-120.79092
+2019,Fresno,106100005,Clovis Community Medical Center,3,1269,0.31,Average,36.83745,-119.66072
+2019,Fresno,106100717,Community Regional Medical Center – Fresno,21,3450,0.58,Average,36.74252,-119.784071
+2019,Fresno,106100797,Adventist Health Reedley,0,26,0,Average,36.60789,-119.45145
+2019,Fresno,106100899,Saint Agnes Medical Center,3,2232,0.16,Average,36.8370782,-119.7649963
+2019,Fresno,106104047,Fresno Surgical Hospital,0,1743,0,Average,36.82531,-119.78155
+2019,Fresno,106104062,Kaiser Foundation Hospital – Fresno,3,651,0.49,Average,36.84246,-119.7832
+2019,Humboldt,106121002,Mad River Community Hospital,0,68,0,Average,40.90351,-124.09038
+2019,Humboldt,106121051,Redwood Memorial Hospital,0,38,0,Average,40.58267,-124.13549
+2019,Humboldt,106121080,Saint Joseph Hospital – Eureka,3,667,0.42,Average,40.7832,-124.14216
+2019,Imperial,106130699,El Centro Regional Medical Center,1,176,1.03,Average,32.78138,-115.49824
+2019,Imperial,106130760,Pioneers Memorial Healthcare District,1,128,1.19,Average,32.96003,-115.55183
+2019,Inyo,106141273,Northern Inyo Hospital,0,52,0,Average,37.36207,-118.40756
+2019,Kern,106150706,Delano Regional Medical Center,0,98,0,Average,35.76143,-119.23706
+2019,Kern,106150722,Bakersfield Memorial Hospital,7,1530,0.65,Average,35.39051,-119.00658
+2019,Kern,106150736,Kern Medical Center,0,454,0,Average,35.380833,-118.967222
+2019,Kern,106150737,Kern Valley Healthcare District,0,3,0,Average,35.63486,-118.40509
+2019,Kern,106150761,Mercy Hospital – Bakersfield,2,943,0.35,Average,35.37323,-119.02715
+2019,Kern,106150775,Good Samaritan Hospital – Bakersfield,0,7,0,Average,35.41216,-119.03913
+2019,Kern,106150782,Ridgecrest Regional Hospital,0,67,0,Average,35.6404,-117.66996
+2019,Kern,106150788,Adventist Health Bakersfield,6,1570,0.58,Average,35.383064,-119.018775
+2019,Kern,106154101,Bakersfield Heart Hospital,1,149,0.39,Average,35.38619,-119.04314
+2019,Kings,106164029,Adventist Health Hanford,2,892,0.46,Average,36.3256247,-119.6683912
+2019,Lake,106171049,Adventist Health Clearlake,0,10,0,Average,38.93619,-122.6202
+2019,Lake,106171395,Sutter Lakeside Hospital,3,59,3.19,Below Average,39.10232,-122.91003
+2019,Lassen,106184008,Banner Lassen Medical Center,0,12,0,Average,40.42306,-120.64609
+2019,Los Angeles,106190017,Alhambra Hospital Medical Center,1,76,1.12,Average,34.08988,-118.1449
+2019,Los Angeles,106190034,Antelope Valley Hospital,2,759,0.38,Average,34.6878,-118.157981
+2019,Los Angeles,106190053,Saint Mary Medical Center – Long Beach,3,753,0.71,Average,33.7802376,-118.1866412
+2019,Los Angeles,106190081,Beverly Hospital,2,471,0.49,Average,34.01614,-118.10132
+2019,Los Angeles,106190110,Southern California Hospital at Culver City,4,544,1.09,Average,34.0231953,-118.3969429
+2019,Los Angeles,106190125,California Hospital Medical Center – Los Angeles,4,576,0.87,Average,34.03721,-118.26551
+2019,Los Angeles,106190137,Casa Colina Hospital,0,491,0,Average,34.096265,-117.745655
+2019,Los Angeles,106190148,Centinela Hospital Medical Center,0,239,0,Average,33.94917,-118.34788
+2019,Los Angeles,106190176,City of Hope Helford Clinical Research Hospital,23,1360,0.78,Below Average,34.13219,-117.97356
+2019,Los Angeles,106190197,Community and Mission Hospital of Huntington Park – Slauson,0,10,0,Average,33.98929,-118.22466
+2019,Los Angeles,106190198,Los Angeles Community Hospital,0,28,0,Average,34.01897,-118.1875
+2019,Los Angeles,106190200,San Gabriel Valley Medical Center,4,742,0.9,Average,34.1024,-118.10503
+2019,Los Angeles,106190240,Lakewood Regional Medical Center,0,444,0,Average,33.859731,-118.1492012
+2019,Los Angeles,106190243,PIH Health Hospital – Downey,0,426,0,Average,33.93515,-118.13196
+2019,Los Angeles,106190256,East Los Angeles Doctors Hospital,0,26,0,Average,34.02383,-118.18377
+2019,Los Angeles,106190280,Encino Hospital Medical Center,0,9,0,Average,34.15686,-118.48662
+2019,Los Angeles,106190298,Emanate Health Foothill Presbyterian Hospital,3,321,0.57,Average,34.13384,-117.87244
+2019,Los Angeles,106190315,Garfield Medical Center,4,700,0.62,Average,34.06826,-118.12302
+2019,Los Angeles,106190323,Adventist Health Glendale,4,1488,0.35,Average,34.14951,-118.23109
+2019,Los Angeles,106190352,Greater El Monte Community Hospital,0,5,0,Average,34.04827,-118.04257
+2019,Los Angeles,106190380,Southern California Hospital at Hollywood,1,13,4.04,Average,34.09628,-118.32501
+2019,Los Angeles,106190382,Hollywood Presbyterian Medical Center,3,572,0.35,Average,34.09557,-118.29163
+2019,Los Angeles,106190385,Providence Holy Cross Medical Center,17,1838,0.79,Below Average,34.2791,-118.45951
+2019,Los Angeles,106190392,Good Samaritan Hospital – Los Angeles,7,993,0.63,Average,34.05324,-118.26522
+2019,Los Angeles,106190400,Huntington Memorial Hospital,9,3722,0.29,Average,34.13565,-118.1518
+2019,Los Angeles,106190413,Emanate Health Inter - Community Hospital,4,645,0.62,Average,34.08993,-117.89264
+2019,Los Angeles,106190422,Torrance Memorial Medical Center,12,3208,0.5,Average,33.8119157,-118.3434945
+2019,Los Angeles,106190429,Kaiser Foundation Hospital – Sunset,26,4192,0.38,Average,34.09875,-118.295371
+2019,Los Angeles,106190431,Kaiser Foundation Hospital – South Bay,8,1780,0.48,Average,33.78926,-118.29373
+2019,Los Angeles,106190432,Kaiser Foundation Hospital – Panorama City,5,1009,0.37,Average,34.2198,-118.43103
+2019,Los Angeles,106190434,Kaiser Foundation Hospital – West Los Angeles,5,1831,0.31,Average,34.03793,-118.37568
+2019,Los Angeles,106190470,Providence Little Company of Mary Medical Center – Torrance,6,1290,0.48,Average,33.83891,-118.356771
+2019,Los Angeles,106190500,Cedars-Sinai Marina Del Rey Hospital,2,1234,0.45,Average,33.98125,-118.43971
+2019,Los Angeles,106190517,Providence Tarzana Medical Center,6,1155,0.64,Average,34.17067,-118.532001
+2019,Los Angeles,106190521,Memorial Hospital of Gardena,1,99,1.02,Average,33.89246,-118.29493
+2019,Los Angeles,106190522,Glendale Memorial Hospital and Medical Center,3,596,0.63,Average,34.1284,-118.25769
+2019,Los Angeles,106190524,Mission Community Hospital – Panorama Campus,2,510,0.95,Average,34.22138,-118.45639
+2019,Los Angeles,106190525,MemorialCare Long Beach Medical Center,15,3672,0.44,Average,33.80801,-118.1852
+2019,Los Angeles,106190529,Methodist Hospital of Southern California,7,1494,0.58,Average,34.13603,-118.03879
+2019,Los Angeles,106190547,Monterey Park Hospital,1,243,0.75,Average,34.05308,-118.13665
+2019,Los Angeles,106190555,Cedars-Sinai Medical Center,69,8720,0.69,Below Average,34.07681,-118.38061
+2019,Los Angeles,106190568,Northridge Hospital Medical Center,1,893,0.16,Average,34.22075,-118.53186
+2019,Los Angeles,106190570,Norwalk Community Hospital,0,20,0,Average,33.91108,-118.0644
+2019,Los Angeles,106190587,College Medical Center,0,17,0,Average,33.80759,-118.19355
+2019,Los Angeles,106190630,Pomona Valley Hospital Medical Center,4,765,0.59,Average,34.07709,-117.750621
+2019,Los Angeles,106190631,PIH Health Hospital - Whittier,4,1370,0.41,Average,33.9697943,-118.049255
+2019,Los Angeles,106190636,Emanate Health Queen of the Valley Hospital,4,1001,0.66,Average,34.06242,-117.94528
+2019,Los Angeles,106190661,L.A. Downtown Medical Center,0,45,0,Average,34.06879,-118.26324
+2019,Los Angeles,106190673,San Dimas Community Hospital,0,78,0,Average,34.099076,-117.834328
+2019,Los Angeles,106190680,Providence Little Company of Mary Medical Center – San Pedro,1,173,0.59,Average,33.737939,-118.303893
+2019,Los Angeles,106190681,DOCS Surgical Hospital,0,274,0,Average,34.0572,-118.36195
+2019,Los Angeles,106190687,Santa Monica – UCLA Medical Center and Orthopedic Hospital,16,1798,0.94,Below Average,34.027539,-118.486123
+2019,Los Angeles,106190696,Pacifica Hospital of the Valley,0,44,0,Average,34.24088,-118.39555
+2019,Los Angeles,106190708,Sherman Oaks Hospital,0,135,0,Average,34.15995,-118.4488
+2019,Los Angeles,106190754,Saint Francis Medical Center,3,502,0.85,Average,33.93085,-118.20415
+2019,Los Angeles,106190756,Providence Saint John’s Health Center,14,3499,0.64,Average,34.029804,-118.478668
+2019,Los Angeles,106190758,Providence Saint Joseph Medical Center,6,1615,0.47,Average,34.15486,-118.32655
+2019,Los Angeles,106190762,Saint Vincent Medical Center,5,978,0.41,Average,34.06311,-118.27302
+2019,Los Angeles,106190766,Coast Plaza Hospital,1,28,3.3,Average,33.91255,-118.09915
+2019,Los Angeles,106190796,Ronald Reagan UCLA Medical Center,41,4349,0.62,Below Average,34.068889,-118.445
+2019,Los Angeles,106190812,Valley Presbyterian Hospital,8,998,1.57,Below Average,34.19396,-118.4632
+2019,Los Angeles,106190818,University of Southern California Verdugo Hills Hospital,2,484,0.55,Average,34.20557,-118.2152
+2019,Los Angeles,106190857,West Covina Medical Center,0,53,0,Average,34.07042,-117.94505
+2019,Los Angeles,106190859,West Hills Hospital and Medical Center,0,430,0,Average,34.20337,-118.62939
+2019,Los Angeles,106190878,Adventist Health White Memorial,1,1350,0.12,Average,34.05085,-118.21691
+2019,Los Angeles,106190883,Whittier Hospital Medical Center,1,104,1.48,Average,33.95379,-118.00303
+2019,Los Angeles,106190949,Henry Mayo Newhall Hospital,1,473,0.23,Average,34.39545,-118.55476
+2019,Los Angeles,106191227,Los Angeles County/Harbor – UCLA Medical Center,7,1632,0.41,Average,33.83155,-118.29353
+2019,Los Angeles,106191228,Los Angeles County/University of Southern California Medical Center,13,2195,0.56,Average,34.05982,-118.21031
+2019,Los Angeles,106191231,Los Angeles County/Olive View – UCLA Medical Center,3,858,0.35,Average,34.32418,-118.45255
+2019,Los Angeles,106191306,Los Angeles County/Rancho Los Amigos National Rehabilitation Center,0,453,0,Average,33.92723,-118.15795
+2019,Los Angeles,106191450,Kaiser Foundation Hospital – Woodland Hills,5,574,0.36,Average,34.17198,-118.58829
+2019,Los Angeles,106194219,Keck Hospital of University of Southern California,56,4813,0.61,Below Average,34.06284,-118.20287
+2019,Los Angeles,106196035,Kaiser Foundation Hospital – Baldwin Park,3,638,0.28,Average,34.06348,-117.986
+2019,Los Angeles,106196403,Kaiser Foundation Hospital – Downey,11,1073,0.71,Average,33.9171234,-118.1290216
+2019,Los Angeles,106196405,Palmdale Regional Medical Center,5,746,0.92,Average,34.5843754,-118.1443461
+2019,Madera,106201281,Madera Community Hospital,1,193,0.5,Average,36.94538,-120.0447
+2019,Marin,106210992,Kaiser Foundation Hospital – San Rafael,0,371,0,Average,38.0041,-122.55376
+2019,Marin,106211006,MarinHealth Medical Center,1,753,0.17,Average,37.94651,-122.53715
+2019,Marin,106214034,Novato Community Hospital,0,524,0,Average,38.09827,-122.55974
+2019,Mendocino,106231013,Mendocino Coast District Hospital,0,4,0,Average,39.4326,-123.80068
+2019,Mendocino,106231396,Adventist Health Ukiah Valley,1,159,0.34,Average,39.15216,-123.202741
+2019,Mendocino,106234038,Adventist Health Howard Memorial,0,289,0,Average,39.39927,-123.35486
+2019,Merced,106240924,Memorial Hospital Los Banos,1,15,13.71,Average,37.06273,-120.86147
+2019,Merced,106240942,Mercy Medical Center – Merced,3,713,1,Average,37.3402309,-120.4651815
+2019,Mono,106260011,Mammoth Hospital,0,182,0,Average,37.64524,-118.96408
+2019,Monterey,106270744,Community Hospital of The Monterey Peninsula,7,1647,0.46,Average,36.59827,-121.92488
+2019,Monterey,106270777,George L. Mee Memorial Hospital,0,13,0,Average,36.2071,-121.1325
+2019,Monterey,106270875,Salinas Valley Memorial Hospital,5,751,0.58,Average,36.65909,-121.646291
+2019,Monterey,106274043,Natividad Medical Center,0,168,0,Average,36.69686,-121.6297
+2019,Napa,106281047,Queen of the Valley Medical Center,3,369,1.55,Average,38.32363,-122.296
+2019,Napa,106281078,Adventist Health Saint Helena,2,948,0.26,Average,38.53937349,-122.473003
+2019,Nevada,106291023,Sierra Nevada Memorial Hospital,0,73,0,Average,39.22808,-121.047201
+2019,Nevada,106291053,Tahoe Forest Hospital,1,242,0.92,Average,39.324536,-120.201516
+2019,Orange,106300225,MemorialCare Orange Coast Medical Center,13,2086,0.78,Average,33.70162,-117.95524
+2019,Orange,106301098,AHMC Anaheim Regional Medical Center,0,623,0,Average,33.84725,-117.93248
+2019,Orange,106301140,Chapman Global Medical Center,0,612,0,Average,33.78785,-117.82586
+2019,Orange,106301175,Fountain Valley Regional Hospital and Medical Center – Euclid,5,1354,0.54,Average,33.71546,-117.93694
+2019,Orange,106301188,Anaheim Global Medical Center,1,104,1.05,Average,33.8209,-117.90921
+2019,Orange,106301205,Hoag Memorial Hospital Presbyterian,14,2569,0.31,Average,33.62526,-117.92949
+2019,Orange,106301209,Huntington Beach Hospital,0,6,0,Average,33.70442,-117.98895
+2019,Orange,106301234,La Palma Intercommunity Hospital,0,11,0,Average,33.84755,-118.0373
+2019,Orange,106301248,Los Alamitos Medical Center,5,507,1.43,Below Average,33.80327,-118.0674
+2019,Orange,106301258,South Coast Global Medical Center,0,162,0,Average,33.71112,-117.88539
+2019,Orange,106301262,Mission Hospital Regional Medical Center,10,1506,0.65,Average,33.56279,-117.66768
+2019,Orange,106301279,UC Irvine Medical Center,19,2987,0.41,Average,33.7879885,-117.8901339
+2019,Orange,106301283,Garden Grove Hospital and Medical Center,0,22,0,Average,33.7745089,-117.9130315
+2019,Orange,106301297,Placentia Linda Hospital,2,270,1.3,Average,33.887072,-117.8434267
+2019,Orange,106301317,MemorialCare Saddleback  Medical Center,2,1331,0.14,Average,33.60802,-117.70825
+2019,Orange,106301337,Mission Hospital Laguna Beach,0,249,0,Average,33.4997391,-117.7422502
+2019,Orange,106301340,Saint Joseph Hospital – Orange,5,2635,0.2,Average,33.7823,-117.86516
+2019,Orange,106301342,Saint Jude Medical Center,3,1268,0.23,Average,33.89349,-117.92851
+2019,Orange,106301357,Foothill Regional Medical Center,1,391,0.27,Average,33.73119,-117.82903
+2019,Orange,106301379,West Anaheim Medical Center,0,32,0,Average,33.82482,-117.99492
+2019,Orange,106301566,Orange County Global Medical Center,0,217,0,Average,33.75361,-117.83398
+2019,Orange,106304409,Kaiser Foundation Hospital – Orange County – Anaheim,18,2532,0.59,Average,33.85442,-117.84399
+2019,Orange,106304460,Hoag Orthopedic Institute,0,4432,0,Above Average,33.6617789,-117.7735916
+2019,Placer,106310791,Sutter Auburn Faith Hospital,1,596,0.33,Average,38.94432,-121.09943
+2019,Placer,106311000,Sutter Roseville Medical Center,2,2280,0.13,Average,38.76515,-121.24922
+2019,Placer,106314024,Kaiser Foundation Hospital – Roseville,6,1140,0.34,Average,38.74636,-121.25107
+2019,Plumas,106320986,Plumas District Hospital,0,4,0,Average,39.93921,-120.96214
+2019,Riverside,106331152,Corona Regional Medical Center – Main,1,540,0.35,Average,33.8733354,-117.5668015
+2019,Riverside,106331164,Desert Regional Medical Center,0,1021,0,Average,33.83932,-116.54549
+2019,Riverside,106331168,Eisenhower Medical Center,6,3781,0.25,Average,33.76418,-116.40808
+2019,Riverside,106331194,Hemet Global Medical Center,0,323,0,Average,33.75113,-116.95958
+2019,Riverside,106331216,John F. Kennedy Memorial Hospital,0,221,0,Average,33.70677,-116.23391
+2019,Riverside,106331288,Palo Verde Hospital,0,4,0,Average,33.61315,-114.5956
+2019,Riverside,106331293,Parkview Community Hospital Medical Center,0,1008,0,Average,33.92573,-117.43996
+2019,Riverside,106331312,Riverside Community Hospital,14,1595,0.74,Average,33.97641,-117.37997
+2019,Riverside,106331326,San Gorgonio Memorial Hospital,1,51,4.88,Average,33.9317494,-116.9459031
+2019,Riverside,106334018,Menifee Global Medical Center,1,235,0.56,Average,33.72146,-117.15691
+2019,Riverside,106334025,Kaiser Foundation Hospital – Riverside,6,545,0.45,Average,33.9063,-117.47082
+2019,Riverside,106334048,Kaiser Foundation Hospital – Moreno Valley,0,91,0,Average,33.89553,-117.18677
+2019,Riverside,106334068,Southwest Healthcare System – Murrieta,2,2142,0.22,Average,33.55788,-117.18488
+2019,Riverside,106334487,Riverside University Health System – Medical Center,2,788,0.34,Average,33.91187,-117.19525
+2019,Riverside,106334564,Temecula Valley Hospital,2,673,0.44,Average,33.4795943,-117.1048018
+2019,Riverside,106334589,Loma Linda University Medical Center – Murrieta,5,899,0.57,Average,33.6122263,-117.1624483
+2019,Sacramento,106340913,Kaiser Foundation Hospital – Sacramento,5,2273,0.15,Above Average,38.60197,-121.39232
+2019,Sacramento,106340947,Mercy General Hospital,9,2592,0.36,Average,38.56955,-121.45271
+2019,Sacramento,106340950,Mercy San Juan Hospital,3,1602,0.23,Average,38.66818,-121.31261
+2019,Sacramento,106340951,Methodist Hospital of Sacramento,1,812,0.41,Average,38.46416,-121.41744
+2019,Sacramento,106341006,UC Davis Medical Center,13,2689,0.38,Average,38.55438,-121.45738
+2019,Sacramento,106341051,"Sutter Medical Center, Sacramento",18,4286,0.42,Average,38.57045,-121.47028
+2019,Sacramento,106342344,Kaiser Foundation Hospital – South Sacramento,2,1912,0.07,Above Average,38.47144,-121.42409
+2019,Sacramento,106344029,Mercy Hospital of Folsom,1,595,0.35,Average,38.67223,-121.1428
+2019,San Benito,106350784,Hazel Hawkins Memorial Hospital,0,72,0,Average,36.835,-121.38609
+2019,San Bernardino,106361166,Montclair Hospital Medical Center,0,9,0,Average,34.07774,-117.69603
+2019,San Bernardino,106361223,Kaiser Foundation Hospital – Fontana,9,3170,0.23,Above Average,34.0725,-117.43549
+2019,San Bernardino,106361246,Loma Linda University Medical Center,17,4293,0.29,Average,34.05164,-117.26146
+2019,San Bernardino,106361308,Redlands Community Hospital,3,2110,0.27,Average,34.03699,-117.2044
+2019,San Bernardino,106361318,San Antonio Regional Hospital,5,1287,0.53,Average,34.10056,-117.63828
+2019,San Bernardino,106361323,Community Hospital of San Bernardino,1,210,0.87,Average,34.13138,-117.32245
+2019,San Bernardino,106361339,Saint Bernardine Medical Center,11,1914,0.61,Average,34.1341,-117.27865
+2019,San Bernardino,106361343,Saint Mary Medical Center – Apple Valley,4,753,0.61,Average,34.54053,-117.26535
+2019,San Bernardino,106361370,Victor Valley Global Medical Center,0,6,0,Average,34.5281768,-117.2925622
+2019,San Bernardino,106361458,Colorado River Medical Center,0,5,0,Average,34.8325,-114.61818
+2019,San Bernardino,106362041,Hi-Desert Medical Center,0,31,0,Average,34.13323,-116.27654
+2019,San Bernardino,106364231,Arrowhead Regional Medical Center,1,59,1.79,Average,34.07163215,-117.3527761
+2019,San Bernardino,106364430,Barstow Community Hospital,0,50,0,Average,34.8935263,-117.0168841
+2019,San Diego,106370652,Alvarado Hospital,1,512,0.16,Average,32.7766415,-117.0573188
+2019,San Diego,106370689,Sharp Coronado Hospital and Healthcare Center,0,762,0,Average,32.69427,-117.16808
+2019,San Diego,106370694,Sharp Memorial Hospital,15,3409,0.34,Average,32.80016,-117.15531
+2019,San Diego,106370714,Grossmont Hospital,6,1692,0.48,Average,32.77963,-117.00924
+2019,San Diego,106370730,Kaiser Foundation Hospital – San Diego – Zion,23,2502,0.67,Average,32.79287,-117.09447
+2019,San Diego,106370744,Scripps Mercy Hospital,13,3077,0.65,Average,32.75128,-117.1609
+2019,San Diego,106370755,Palomar Health Downtown Campus,3,2305,0.2,Average,33.12586,-117.07628
+2019,San Diego,106370759,Paradise Valley Hospital,0,168,0,Average,32.6863293,-117.0830382
+2019,San Diego,106370771,Scripps Memorial Hospital – La Jolla,15,3358,0.44,Average,32.88506,-117.22279
+2019,San Diego,106370780,Tri-City Medical Center – Oceanside,4,881,0.56,Average,33.18394,-117.29027
+2019,San Diego,106370782,UC San Diego Health System – Hillcrest Medical Center,35,5605,0.43,Average,32.75387,-117.16498
+2019,San Diego,106370875,Sharp Chula Vista Medical Center,5,588,0.76,Average,32.61909,-117.02488
+2019,San Diego,106370977,Pomerado Hospital,1,424,0.32,Average,32.99563,-117.05784
+2019,San Diego,106371256,Scripps Green Hospital,4,3546,0.17,Above Average,32.89654,-117.2419
+2019,San Diego,106371394,Scripps Memorial Hospital – Encinitas,0,969,0,Average,33.0363,-117.28495
+2019,San Francisco,106380857,Kaiser Foundation Hospital – San Francisco,12,2085,0.33,Average,37.78274,-122.44289
+2019,San Francisco,106380929,California Pacific Medical Center – D/P APH,0,249,0,Average,37.79149,-122.43102
+2019,San Francisco,106380933,California Pacific Medical Center – Davies Campus Hospital,3,687,0.5,Average,37.7691,-122.43465
+2019,San Francisco,106380939,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,0,592,0,Average,37.75657,-122.40637
+2019,San Francisco,106380960,Saint Francis Memorial Hospital,2,600,0.67,Average,37.78917,-122.41695
+2019,San Francisco,106380965,"Saint Mary’s Medical Center, San Francisco",8,897,1.03,Below Average,37.77408,-122.45441
+2019,San Francisco,106381154,UC San Francisco Medical Center,52,7277,0.6,Below Average,37.7635148,-122.4576564
+2019,San Francisco,106382715,Chinese Hospital,0,95,0,Average,37.79565,-122.40926
+2019,San Francisco,106384176,California Pacific Medical Center –Van Ness Campus,10,1307,0.37,Average,37.78584,-122.42175
+2019,San Francisco,106384202,California Pacific Medical Center – Mission Bernal Campus,3,1039,0.77,Average,37.74804,-122.42094
+2019,San Joaquin,106390846,Dameron Hospital,1,553,0.46,Average,37.96125,-121.30067
+2019,San Joaquin,106390923,Adventist Health Lodi Memorial,1,225,0.4,Average,38.12146,-121.2859
+2019,San Joaquin,106391010,San Joaquin General Hospital,3,613,0.7,Average,37.88594,-121.28918
+2019,San Joaquin,106391042,Saint Joseph’s Medical Center of Stockton,8,892,0.8,Average,37.97075,-121.2891
+2019,San Joaquin,106391056,Sutter Tracy Community Hospital,2,176,2.63,Average,37.74366,-121.43482
+2019,San Joaquin,106392287,Doctors Hospital of Manteca,1,338,0.77,Average,37.80111,-121.19746
+2019,San Joaquin,106394009,Kaiser Foundation Hospital – Manteca,0,582,0,Above Average,37.79736,-121.24614
+2019,San Luis Obispo,106400466,Marian Regional Medical Center – Arroyo Grande,0,271,0,Average,35.11369,-120.59147
+2019,San Luis Obispo,106400480,French Hospital Medical Center,0,981,0,Average,35.27801,-120.64977
+2019,San Luis Obispo,106400524,Sierra Vista Regional Medical Center,2,673,0.45,Average,35.290986,-120.666309
+2019,San Luis Obispo,106400548,Twin Cities Community Hospital,0,368,0,Average,35.5543,-120.71967
+2019,San Mateo,106410782,San Mateo Medical Center,0,144,0,Average,37.53017,-122.29951
+2019,San Mateo,106410806,Kaiser Foundation Hospital – South San Francisco,1,728,0.08,Above Average,37.65806,-122.43837
+2019,San Mateo,106410817,Seton Medical Center,1,244,0.55,Average,37.68172,-122.47283
+2019,San Mateo,106410852,Peninsula Medical Center,6,1531,0.38,Average,37.5944692,-122.3832465
+2019,San Mateo,106410891,Sequoia Hospital,3,1471,0.39,Average,37.48129,-122.25377
+2019,San Mateo,106414018,Menlo Park Surgical Hospital,0,178,0,Average,37.45797,-122.16212
+2019,San Mateo,106414139,Kaiser Foundation Hospital – Redwood City,1,1384,0.07,Above Average,37.48967,-122.22463
+2019,Santa Barbara,106420483,Goleta Valley Cottage Hospital,1,1220,0.45,Average,34.43336,-119.80929
+2019,Santa Barbara,106420491,Lompoc Valley Medical Center,0,123,0,Average,34.639252,-120.4396497
+2019,Santa Barbara,106420493,Marian Regional Medical Center,7,1324,0.79,Average,34.95198,-120.41338
+2019,Santa Barbara,106420514,Santa Barbara Cottage Hospital,3,2133,0.15,Above Average,34.42948,-119.72317
+2019,Santa Clara,106430705,Regional Medical Center of San Jose,4,280,0.99,Average,37.36332,-121.84837
+2019,Santa Clara,106430763,El Camino Health,5,2662,0.23,Average,37.36779,-122.07801
+2019,Santa Clara,106430779,Good Samaritan Hospital – San Jose,2,1527,0.15,Average,37.25116,-121.9449
+2019,Santa Clara,106430837,O’Connor Hospital,1,524,0.26,Average,37.32714,-121.93727
+2019,Santa Clara,106430883,Santa Clara Valley Medical Center,6,1162,0.49,Average,37.31346,-121.93202
+2019,Santa Clara,106430905,Stanford Health Care,68,7012,0.55,Average,37.433,-122.175881
+2019,Santa Clara,106431506,Kaiser Foundation Hospital – San Jose,2,1438,0.1,Above Average,37.23924,-121.80269
+2019,Santa Clara,106434138,Saint Louise Regional Hospital,0,17,0,Average,37.03731,-121.57411
+2019,Santa Clara,106434153,Kaiser Foundation Hospital – Santa Clara,14,2196,0.35,Average,37.334597,-121.995774
+2019,Santa Cruz,106440755,Dominican Hospital,4,764,0.6,Average,36.98806,-121.98489
+2019,Santa Cruz,106444013,Watsonville Community Hospital,1,90,1.23,Average,36.92839,-121.79173
+2019,Shasta,106450936,Mayers Memorial Hospital,0,4,0,Average,41.02423,-121.42442
+2019,Shasta,106450940,Shasta Regional Medical Center,1,744,0.18,Average,40.58562,-122.387731
+2019,Shasta,106450949,Mercy Medical Center – Redding,4,1335,0.46,Average,40.57204,-122.39742
+2019,Shasta,106454013,Patients’ Hospital of Redding,0,173,0,Average,40.58563,-122.41632
+2019,Siskiyou,106470871,Mercy Medical Center Mt. Shasta,0,140,0,Average,41.31894,-122.32309
+2019,Siskiyou,106474007,Fairchild Medical Center,0,106,0,Average,41.71949,-122.645801
+2019,Solano,106480989,Kaiser Foundation Hospital & Rehabilitation Center – Vallejo,2,306,0.23,Average,38.12839,-122.24761
+2019,Solano,106481094,Sutter Solano Medical Center,6,463,1.22,Below Average,38.13109,-122.23852
+2019,Solano,106481357,NorthBay Medical Center,2,459,0.53,Average,38.26097,-122.05076
+2019,Solano,106484044,Kaiser Foundation Hospital – Vacaville,1,507,0.18,Average,38.3894968,-121.9373177
+2019,Sonoma,106490964,Healdsburg District Hospital,0,109,0,Average,38.62764,-122.86385
+2019,Sonoma,106491001,Petaluma Valley Hospital,0,106,0,Average,38.25323,-122.63302
+2019,Sonoma,106491064,Santa Rosa Memorial Hospital – Montgomery,0,1141,0,Average,38.4429,-122.70149
+2019,Sonoma,106491076,Sonoma Valley Hospital,1,168,1.46,Average,38.28841,-122.46524
+2019,Sonoma,106494019,Kaiser Foundation Hospital – Santa Rosa,4,686,0.53,Average,38.47087,-122.73119
+2019,Sonoma,106494106,Sutter Santa Rosa Regional Hospital,3,1142,0.46,Average,38.49636,-122.7514
+2019,Stanislaus,106500852,Doctors Medical Center,4,805,0.7,Average,37.66439,-120.99631
+2019,Stanislaus,106500867,Emanuel Medical Center,2,287,0.86,Average,37.51052,-120.83966
+2019,Stanislaus,106500939,Memorial Medical Center – Modesto,8,1785,0.68,Average,37.66868,-120.973381
+2019,Stanislaus,106504038,Stanislaus Surgical Hospital,0,369,0,Average,37.66395,-120.95756
+2019,Sutter,106514030,Sutter Surgical Hospital – North Valley,1,463,0.37,Average,39.13216,-121.61354
+2019,Tehama,106521041,Saint Elizabeth Community Hospital,0,160,0,Average,40.1495,-122.21887
+2019,Tulare,106540734,Kaweah Delta Medical Center,4,811,0.61,Average,36.32753,-119.29345
+2019,Tulare,106540798,Sierra View Medical Center,0,253,0,Average,36.06948,-119.02727
+2019,Tuolumne,106554011,Adventist Health Sonora – Greenley,1,422,0.34,Average,37.97568,-120.369
+2019,Ventura,106560473,Community Memorial Hospital – San Buenaventura,3,1678,0.3,Average,34.274589,-119.258124
+2019,Ventura,106560492,Los Robles Hospital and Medical Center,7,2357,0.47,Average,34.20762,-118.882411
+2019,Ventura,106560508,Saint John’s Pleasant Valley Hospital,2,150,1.86,Average,34.24177,-119.018
+2019,Ventura,106560525,Adventist Health Simi Valley,1,277,0.53,Average,34.28973,-118.74394
+2019,Ventura,106560529,Saint John’s Regional Medical Center,6,883,0.76,Average,34.21687,-119.15819
+2019,Yolo,106571086,Woodland Memorial Hospital,1,461,0.43,Average,38.66284,-121.7933
+2019,Yolo,106574010,Sutter Davis Hospital,0,295,0,Average,38.56289,-121.77164
+2019,Yuba,106580996,Adventist Health and Rideout,2,391,0.44,Average,39.138805,-121.593602
+2020,STATEWIDE,n/a,n/a,1197,226512,0.53,n/a,n/a,n/a
+2020,Alameda,106010735,Alameda Hospital,0,71,0,Average,37.76266,-122.253991
+2020,Alameda,106010739,Alta Bates Summit Medical Center – Alta Bates Campus,3,521,0.9,Average,37.85645,-122.25743
+2020,Alameda,106010846,Highland Hospital,0,373,0,Average,37.79925,-122.23138
+2020,Alameda,106010937,Alta Bates Summit Medical Center,13,1079,1.1,Below Average,37.82106,-122.26257
+2020,Alameda,106010967,Saint Rose Hospital,0,212,0,Average,37.63291,-122.08962
+2020,Alameda,106010987,Washington Hospital – Fremont,2,1016,0.43,Average,37.55847,-121.98006
+2020,Alameda,106014050,Stanford Health Care – ValleyCare,3,665,0.6,Average,37.69206,-121.88095
+2020,Alameda,106014132,Kaiser Foundation Hospital – Fremont,1,285,0.3,Average,37.55055,-121.97483
+2020,Alameda,106014233,Eden Medical Center,2,425,0.73,Average,37.6983769,-122.0874055
+2020,Alameda,106014326,Kaiser Foundation Hospital – Oakland/Richmond,11,2589,0.23,Above Average,37.82402,-122.25791
+2020,Alameda,106014337,Kaiser Foundation Hospital – San Leandro,3,504,0.45,Average,37.70611,-122.16917
+2020,Amador,106034002,Sutter Amador Hospital,1,93,1.13,Average,38.34743,-120.77272
+2020,Butte,106040937,Oroville Hospital,11,490,0.97,Average,39.50485,-121.5428
+2020,Butte,106040962,Enloe Medical Center – Esplanade,4,1602,0.35,Average,39.74226,-121.84918
+2020,Calaveras,106050932,Mark Twain Medical Center,0,40,0,Average,38.19057,-120.67095
+2020,Contra Costa,106070924,Contra Costa Regional Medical Center,0,183,0,Average,38.00646,-122.13101
+2020,Contra Costa,106070934,Sutter Delta Medical Center,2,81,2.27,Average,37.98222,-121.8054
+2020,Contra Costa,106070988,John Muir Medical Center – Walnut Creek Campus,6,2066,0.39,Average,37.91304,-122.040781
+2020,Contra Costa,106070990,Kaiser Foundation Hospital – Walnut Creek,5,341,0.59,Average,37.8923,-122.05828
+2020,Contra Costa,106071018,John Muir Medical Center – Concord Campus,11,1395,0.73,Average,37.98615,-122.03874
+2020,Contra Costa,106074017,San Ramon Regional Medical Center,1,476,0.3,Average,37.77549,-121.95884
+2020,Contra Costa,106074097,Kaiser Foundation Hospital – Antioch,3,330,0.42,Average,37.951975,-121.776854
+2020,Del Norte,106084001,Sutter Coast Hospital,0,76,0,Average,41.77278,-124.19514
+2020,El Dorado,106090793,Barton Memorial Hospital,0,157,0,Average,38.91228,-119.99758
+2020,El Dorado,106090933,Marshall Medical Center,0,283,0,Average,38.72556,-120.79092
+2020,Fresno,106100005,Clovis Community Medical Center,1,622,0.2,Average,36.83745,-119.66072
+2020,Fresno,106100717,Community Regional Medical Center – Fresno,23,3010,0.83,Average,36.74252,-119.784071
+2020,Fresno,106100797,Adventist Health Reedley,0,13,0,Average,36.60789,-119.45145
+2020,Fresno,106100899,Saint Agnes Medical Center,3,1781,0.19,Average,36.8370782,-119.7649963
+2020,Fresno,106104047,Fresno Surgical Hospital,0,1524,0,Average,36.82531,-119.78155
+2020,Fresno,106104062,Kaiser Foundation Hospital – Fresno,1,410,0.21,Average,36.84246,-119.7832
+2020,Humboldt,106121002,Mad River Community Hospital,0,31,0,Average,40.90351,-124.09038
+2020,Humboldt,106121051,Redwood Memorial Hospital,2,23,2.71,Average,40.58267,-124.13549
+2020,Humboldt,106121080,Saint Joseph Hospital – Eureka,3,518,0.44,Average,40.7832,-124.14216
+2020,Imperial,106130699,El Centro Regional Medical Center,1,65,1.68,Average,32.78138,-115.49824
+2020,Imperial,106130760,Pioneers Memorial Healthcare District,0,74,0,Average,32.96003,-115.55183
+2020,Inyo,106141273,Northern Inyo Hospital,0,55,0,Average,37.36207,-118.40756
+2020,Kern,106150706,Adventist Health Delano,1,75,2.08,Average,35.76143,-119.23706
+2020,Kern,106150722,Bakersfield Memorial Hospital,10,1298,1.22,Below Average,35.39051,-119.00658
+2020,Kern,106150736,Kern Medical Center,3,408,1.28,Average,35.380833,-118.967222
+2020,Kern,106150761,Mercy Hospital – Bakersfield,4,747,0.88,Average,35.37323,-119.02715
+2020,Kern,106150782,Ridgecrest Regional Hospital,1,63,1.2,Average,35.6404,-117.66996
+2020,Kern,106150788,Adventist Health Bakersfield,0,1057,0,Above Average,35.383064,-119.018775
+2020,Kern,106154101,Bakersfield Heart Hospital,0,347,0,Average,35.38619,-119.04314
+2020,Kings,106164029,Adventist Health Hanford,2,483,0.86,Average,36.3256247,-119.6683912
+2020,Lake,106171049,Adventist Health Clearlake,0,11,0,Average,38.93619,-122.6202
+2020,Lake,106171395,Sutter Lakeside Hospital,0,32,0,Average,39.10232,-122.91003
+2020,Lassen,106184008,Banner Lassen Medical Center,0,5,0,Average,40.42306,-120.64609
+2020,Los Angeles,106190017,Alhambra Hospital Medical Center,0,87,0,Average,34.08988,-118.1449
+2020,Los Angeles,106190034,Antelope Valley Hospital,1,613,0.24,Average,34.6878,-118.157981
+2020,Los Angeles,106190053,Saint Mary Medical Center – Long Beach,1,566,0.31,Average,33.7802376,-118.1866412
+2020,Los Angeles,106190081,Beverly Hospital,2,392,0.76,Average,34.01614,-118.10132
+2020,Los Angeles,106190110,Southern California Hospital at Culver City,0,526,0,Average,34.0231953,-118.3969429
+2020,Los Angeles,106190125,California Hospital Medical Center – Los Angeles,0,363,0,Average,34.03721,-118.26551
+2020,Los Angeles,106190137,Casa Colina Hospital,2,474,0.69,Average,34.096265,-117.745655
+2020,Los Angeles,106190148,Centinela Hospital Medical Center,0,204,0,Average,33.94917,-118.34788
+2020,Los Angeles,106190176,City of Hope Helford Clinical Research Hospital,16,1333,0.56,Average,34.13219,-117.97356
+2020,Los Angeles,106190197,Community and Mission Hospital of Huntington Park – Slauson,0,9,0,Average,33.98929,-118.22466
+2020,Los Angeles,106190198,Los Angeles Community Hospital,0,44,0,Average,34.01897,-118.1875
+2020,Los Angeles,106190200,San Gabriel Valley Medical Center,2,430,1,Average,34.1024,-118.10503
+2020,Los Angeles,106190240,Lakewood Regional Medical Center,1,235,0.39,Average,33.859731,-118.1492012
+2020,Los Angeles,106190243,PIH Health Hospital – Downey,0,295,0,Average,33.93515,-118.13196
+2020,Los Angeles,106190256,East Los Angeles Doctors Hospital,0,77,0,Average,34.02383,-118.18377
+2020,Los Angeles,106190280,Encino Hospital Medical Center,0,7,0,Average,34.15686,-118.48662
+2020,Los Angeles,106190298,Emanate Health Foothill Presbyterian Hospital,5,185,1.57,Average,34.13384,-117.87244
+2020,Los Angeles,106190315,Garfield Medical Center,6,689,0.99,Average,34.06826,-118.12302
+2020,Los Angeles,106190323,Adventist Health Glendale,4,1048,0.5,Average,34.14951,-118.23109
+2020,Los Angeles,106190352,Greater El Monte Community Hospital,0,9,0,Average,34.04827,-118.04257
+2020,Los Angeles,106190382,Hollywood Presbyterian Medical Center,7,775,0.69,Average,34.09557,-118.29163
+2020,Los Angeles,106190385,Providence Holy Cross Medical Center,11,1392,0.58,Average,34.2791,-118.45951
+2020,Los Angeles,106190392,Good Samaritan Hospital – Los Angeles,14,861,1.63,Below Average,34.05324,-118.26522
+2020,Los Angeles,106190400,Huntington Memorial Hospital,14,2310,0.64,Average,34.13565,-118.1518
+2020,Los Angeles,106190413,Emanate Health Inter - Community Hospital,3,524,0.65,Average,34.08993,-117.89264
+2020,Los Angeles,106190422,Torrance Memorial Medical Center,15,2646,0.73,Average,33.8119157,-118.3434945
+2020,Los Angeles,106190429,Kaiser Foundation Hospital – Sunset,26,3277,0.53,Average,34.09875,-118.295371
+2020,Los Angeles,106190431,Kaiser Foundation Hospital – South Bay,3,933,0.3,Average,33.78926,-118.29373
+2020,Los Angeles,106190432,Kaiser Foundation Hospital – Panorama City,2,715,0.28,Average,34.2198,-118.43103
+2020,Los Angeles,106190434,Kaiser Foundation Hospital – West Los Angeles,8,981,0.63,Average,34.03793,-118.37568
+2020,Los Angeles,106190470,Providence Little Company of Mary Medical Center – Torrance,8,1065,0.77,Average,33.83891,-118.356771
+2020,Los Angeles,106190500,Cedars-Sinai Marina Del Rey Hospital,0,742,0,Average,33.98125,-118.43971
+2020,Los Angeles,106190517,Providence Cedars-Sinai Tarzana Medical Center,2,875,0.25,Average,34.17067,-118.532001
+2020,Los Angeles,106190521,Memorial Hospital of Gardena,0,75,0,Average,33.89246,-118.29493
+2020,Los Angeles,106190522,Glendale Memorial Hospital and Medical Center,2,421,0.82,Average,34.1284,-118.25769
+2020,Los Angeles,106190524,Mission Community Hospital – Panorama Campus,0,596,0,Average,34.22138,-118.45639
+2020,Los Angeles,106190525,MemorialCare Long Beach Medical Center,13,2611,0.6,Average,33.80801,-118.1852
+2020,Los Angeles,106190529,Methodist Hospital of Southern California,4,1192,0.44,Average,34.13603,-118.03879
+2020,Los Angeles,106190547,Monterey Park Hospital,1,155,1.17,Average,34.05308,-118.13665
+2020,Los Angeles,106190555,Cedars-Sinai Medical Center,77,6208,1.03,Below Average,34.07681,-118.38061
+2020,Los Angeles,106190568,Northridge Hospital Medical Center,0,507,0,Average,34.22075,-118.53186
+2020,Los Angeles,106190570,Norwalk Community Hospital,2,7,1.8,Average,33.91108,-118.0644
+2020,Los Angeles,106190587,College Medical Center,0,5,0,Average,33.80759,-118.19355
+2020,Los Angeles,106190630,Pomona Valley Hospital Medical Center,1,550,0.2,Average,34.07709,-117.750621
+2020,Los Angeles,106190631,PIH Health Hospital - Whittier,4,947,0.62,Average,33.9697943,-118.049255
+2020,Los Angeles,106190636,Emanate Health Queen of the Valley Hospital,3,879,0.64,Average,34.06242,-117.94528
+2020,Los Angeles,106190673,San Dimas Community Hospital,0,58,0,Average,34.099076,-117.834328
+2020,Los Angeles,106190680,Providence Little Company of Mary Medical Center – San Pedro,1,110,1.07,Average,33.737939,-118.303893
+2020,Los Angeles,106190681,DOCS Surgical Hospital,0,434,0,Average,34.0572,-118.36195
+2020,Los Angeles,106190687,Santa Monica – UCLA Medical Center and Orthopedic Hospital,14,1108,1.07,Below Average,34.027539,-118.486123
+2020,Los Angeles,106190696,Pacifica Hospital of the Valley,0,48,0,Average,34.24088,-118.39555
+2020,Los Angeles,106190708,Sherman Oaks Hospital,0,78,0,Average,34.15995,-118.4488
+2020,Los Angeles,106190754,Saint Francis Medical Center,2,236,1.03,Average,33.93085,-118.20415
+2020,Los Angeles,106190756,Providence Saint John’s Health Center,7,2036,0.44,Average,34.029804,-118.478668
+2020,Los Angeles,106190758,Providence Saint Joseph Medical Center,2,1169,0.23,Average,34.15486,-118.32655
+2020,Los Angeles,106190762,Saint Vincent Medical Center,0,18,0,Average,34.06311,-118.27302
+2020,Los Angeles,106190766,Coast Plaza Hospital,0,28,0,Average,33.91255,-118.09915
+2020,Los Angeles,106190796,Ronald Reagan UCLA Medical Center,38,3699,0.67,Average,34.068889,-118.445
+2020,Los Angeles,106190812,Valley Presbyterian Hospital,4,751,1.33,Average,34.19396,-118.4632
+2020,Los Angeles,106190818,University of Southern California Verdugo Hills Hospital,0,355,0,Average,34.20557,-118.2152
+2020,Los Angeles,106190857,West Covina Medical Center,0,53,0,Average,34.07042,-117.94505
+2020,Los Angeles,106190859,West Hills Hospital and Medical Center,1,315,0.42,Average,34.20337,-118.62939
+2020,Los Angeles,106190878,Adventist Health White Memorial,0,1145,0,Average,34.05085,-118.21691
+2020,Los Angeles,106190883,Whittier Hospital Medical Center,0,107,0,Average,33.95379,-118.00303
+2020,Los Angeles,106190949,Henry Mayo Newhall Hospital,1,336,0.39,Average,34.39545,-118.55476
+2020,Los Angeles,106191227,Los Angeles County/Harbor – UCLA Medical Center,1,971,0.12,Average,33.83155,-118.29353
+2020,Los Angeles,106191228,Los Angeles County/University of Southern California Medical Center,17,1625,1.04,Below Average,34.05982,-118.21031
+2020,Los Angeles,106191231,Los Angeles County/Olive View – UCLA Medical Center,2,625,0.35,Average,34.32418,-118.45255
+2020,Los Angeles,106191306,Los Angeles County/Rancho Los Amigos National Rehabilitation Center,1,287,0.68,Average,33.92723,-118.15795
+2020,Los Angeles,106191450,Kaiser Foundation Hospital – Woodland Hills,3,350,0.46,Average,34.17198,-118.58829
+2020,Los Angeles,106194219,Keck Hospital of University of Southern California,19,3914,0.26,Above Average,34.06284,-118.20287
+2020,Los Angeles,106196035,Kaiser Foundation Hospital – Baldwin Park,5,509,0.63,Average,34.06348,-117.986
+2020,Los Angeles,106196403,Kaiser Foundation Hospital – Downey,9,804,0.71,Average,33.9171234,-118.1290216
+2020,Los Angeles,106196405,Palmdale Regional Medical Center,0,595,0,Average,34.5843754,-118.1443461
+2020,Madera,106201281,Madera Community Hospital,2,99,1.87,Average,36.94538,-120.0447
+2020,Marin,106210992,Kaiser Foundation Hospital – San Rafael,2,170,0.49,Average,38.0041,-122.55376
+2020,Marin,106211006,MarinHealth Medical Center,4,630,0.9,Average,37.94651,-122.53715
+2020,Marin,106214034,Novato Community Hospital,1,448,0.91,Average,38.09827,-122.55974
+2020,Mendocino,106231396,Adventist Health Ukiah Valley,0,152,0,Average,39.15216,-123.202741
+2020,Mendocino,106234038,Adventist Health Howard Memorial,1,356,0.79,Average,39.39927,-123.35486
+2020,Merced,106240924,Memorial Hospital Los Banos,0,16,0,Average,37.06273,-120.86147
+2020,Merced,106240942,Mercy Medical Center – Merced,1,464,0.39,Average,37.3402309,-120.4651815
+2020,Mono,106260011,Mammoth Hospital,0,152,0,Average,37.64524,-118.96408
+2020,Monterey,106270744,Community Hospital of The Monterey Peninsula,7,1379,0.58,Average,36.59827,-121.92488
+2020,Monterey,106270875,Salinas Valley Memorial Hospital,1,500,0.23,Average,36.65909,-121.646291
+2020,Monterey,106274043,Natividad Medical Center,0,128,0,Average,36.69686,-121.6297
+2020,Napa,106281047,Queen of the Valley Medical Center,1,226,0.65,Average,38.32363,-122.296
+2020,Napa,106281078,Adventist Health Saint Helena,1,482,0.27,Average,38.53937349,-122.473003
+2020,Nevada,106291023,Sierra Nevada Memorial Hospital,1,91,1.48,Average,39.22808,-121.047201
+2020,Nevada,106291053,Tahoe Forest Hospital,0,98,0,Average,39.324536,-120.201516
+2020,Orange,106300225,MemorialCare Orange Coast Medical Center,7,1273,0.68,Average,33.70162,-117.95524
+2020,Orange,106301098,AHMC Anaheim Regional Medical Center,1,318,0.32,Average,33.84725,-117.93248
+2020,Orange,106301140,Chapman Global Medical Center,1,486,0.69,Average,33.78785,-117.82586
+2020,Orange,106301175,Fountain Valley Regional Hospital and Medical Center – Euclid,11,994,1.31,Below Average,33.71546,-117.93694
+2020,Orange,106301188,Anaheim Global Medical Center,2,99,2.66,Average,33.8209,-117.90921
+2020,Orange,106301205,Hoag Memorial Hospital Presbyterian,15,2196,0.44,Average,33.62526,-117.92949
+2020,Orange,106301209,Huntington Beach Hospital,1,5,4.63,Average,33.70442,-117.98895
+2020,Orange,106301234,La Palma Intercommunity Hospital,0,7,0,Average,33.84755,-118.0373
+2020,Orange,106301248,Los Alamitos Medical Center,2,454,0.55,Average,33.80327,-118.0674
+2020,Orange,106301258,South Coast Global Medical Center,0,128,0,Average,33.71112,-117.88539
+2020,Orange,106301262,Providence Mission Hospital,15,1108,1.2,Below Average,33.56279,-117.66768
+2020,Orange,106301279,UC Irvine Medical Center,21,2754,0.47,Average,33.7879885,-117.8901339
+2020,Orange,106301283,Garden Grove Hospital and Medical Center,0,13,0,Average,33.7745089,-117.9130315
+2020,Orange,106301297,Placentia Linda Hospital,1,237,0.82,Average,33.887072,-117.8434267
+2020,Orange,106301317,MemorialCare Saddleback Medical Center,3,1028,0.29,Average,33.60802,-117.70825
+2020,Orange,106301337,Providence Mission Hospital - Laguna Beach,0,186,0,Average,33.4997391,-117.7422502
+2020,Orange,106301340,Providence St. Joseph Hospital,7,2000,0.4,Average,33.7823,-117.86516
+2020,Orange,106301342,Providence St. Jude Medical Center,5,909,0.49,Average,33.89349,-117.92851
+2020,Orange,106301357,Foothill Regional Medical Center,0,393,0,Average,33.73119,-117.82903
+2020,Orange,106301379,West Anaheim Medical Center,0,29,0,Average,33.82482,-117.99492
+2020,Orange,106301566,Orange County Global Medical Center,1,192,0.69,Average,33.75361,-117.83398
+2020,Orange,106304409,Kaiser Foundation Hospital – Orange County – Anaheim,17,1705,0.85,Average,33.85442,-117.84399
+2020,Orange,106304460,Hoag Orthopedic Institute,2,2307,0.31,Average,33.6617789,-117.7735916
+2020,Placer,106310791,Sutter Auburn Faith Hospital,2,671,0.68,Average,38.94432,-121.09943
+2020,Placer,106311000,Sutter Roseville Medical Center,4,1770,0.35,Average,38.76515,-121.24922
+2020,Placer,106314024,Kaiser Foundation Hospital – Roseville,3,526,0.24,Average,38.74636,-121.25107
+2020,Plumas,106320986,Plumas District Hospital,0,4,0,Average,39.93921,-120.96214
+2020,Riverside,106331152,Corona Regional Medical Center – Main,0,462,0,Average,33.8733354,-117.5668015
+2020,Riverside,106331164,Desert Regional Medical Center,3,500,1.02,Average,33.83932,-116.54549
+2020,Riverside,106331168,Eisenhower Medical Center,7,3026,0.32,Average,33.76418,-116.40808
+2020,Riverside,106331194,Hemet Global Medical Center,4,278,1.56,Average,33.75113,-116.95958
+2020,Riverside,106331216,John F. Kennedy Memorial Hospital,0,218,0,Average,33.70677,-116.23391
+2020,Riverside,106331288,Palo Verde Hospital,0,4,0,Average,33.61315,-114.5956
+2020,Riverside,106331293,Doctors Hospital Of Riverside,1,634,0.63,Average,33.92573,-117.43996
+2020,Riverside,106331312,Riverside Community Hospital,11,1360,0.74,Average,33.97641,-117.37997
+2020,Riverside,106331326,San Gorgonio Memorial Hospital,0,27,0,Average,33.9317494,-116.9459031
+2020,Riverside,106334018,Menifee Global Medical Center,0,241,0,Average,33.72146,-117.15691
+2020,Riverside,106334025,Kaiser Foundation Hospital – Riverside,0,402,0,Above Average,33.9063,-117.47082
+2020,Riverside,106334048,Kaiser Foundation Hospital – Moreno Valley,0,54,0,Average,33.89553,-117.18677
+2020,Riverside,106334068,Southwest Healthcare System – Murrieta,2,1445,0.3,Average,33.55788,-117.18488
+2020,Riverside,106334487,Riverside University Health System – Medical Center,3,708,0.58,Average,33.91187,-117.19525
+2020,Riverside,106334564,Temecula Valley Hospital,3,531,0.75,Average,33.4795943,-117.1048018
+2020,Riverside,106334589,Loma Linda University Medical Center – Murrieta,1,585,0.24,Average,33.6122263,-117.1624483
+2020,Sacramento,106340913,Kaiser Foundation Hospital – Sacramento,4,1799,0.16,Above Average,38.60197,-121.39232
+2020,Sacramento,106340947,Mercy General Hospital,2,1982,0.12,Above Average,38.56955,-121.45271
+2020,Sacramento,106340950,Mercy San Juan Medical Center,4,1226,0.38,Average,38.66818,-121.31261
+2020,Sacramento,106340951,Methodist Hospital of Sacramento,2,572,1.17,Average,38.46416,-121.41744
+2020,Sacramento,106341006,UC Davis Medical Center,34,2700,0.97,Below Average,38.55438,-121.45738
+2020,Sacramento,106341051,"Sutter Medical Center, Sacramento",17,3321,0.57,Average,38.57045,-121.47028
+2020,Sacramento,106342344,Kaiser Foundation Hospital – South Sacramento,3,1200,0.14,Above Average,38.47144,-121.42409
+2020,Sacramento,106344029,Mercy Hospital of Folsom,1,442,0.43,Average,38.67223,-121.1428
+2020,San Benito,106350784,Hazel Hawkins Memorial Hospital,0,47,0,Average,36.835,-121.38609
+2020,San Bernardino,106361144,Chino Valley Medical Center,0,4,0,Average,34.02626,-117.687
+2020,San Bernardino,106361166,Montclair Hospital Medical Center,0,9,0,Average,34.07774,-117.69603
+2020,San Bernardino,106361223,Kaiser Foundation Hospital – Fontana,10,2035,0.46,Average,34.0725,-117.43549
+2020,San Bernardino,106361246,Loma Linda University Medical Center,8,3346,0.2,Above Average,34.05164,-117.26146
+2020,San Bernardino,106361308,Redlands Community Hospital,2,1357,0.35,Average,34.03699,-117.2044
+2020,San Bernardino,106361318,San Antonio Regional Hospital,4,1030,0.49,Average,34.10056,-117.63828
+2020,San Bernardino,106361323,Community Hospital of San Bernardino,0,102,0,Average,34.13138,-117.32245
+2020,San Bernardino,106361339,Saint Bernardine Medical Center,5,1555,0.4,Average,34.1341,-117.27865
+2020,San Bernardino,106361343,Saint Mary Medical Center – Apple Valley,6,523,1.62,Below Average,34.54053,-117.26535
+2020,San Bernardino,106362041,Hi-Desert Medical Center,0,13,0,Average,34.13323,-116.27654
+2020,San Bernardino,106364231,Arrowhead Regional Medical Center,5,480,1.35,Average,34.07163215,-117.3527761
+2020,San Bernardino,106364430,Barstow Community Hospital,0,18,0,Average,34.8935263,-117.0168841
+2020,San Diego,106370652,Alvarado Hospital,1,478,0.31,Average,32.7766415,-117.0573188
+2020,San Diego,106370689,Sharp Coronado Hospital and Healthcare Center,0,338,0,Average,32.69427,-117.16808
+2020,San Diego,106370694,Sharp Memorial Hospital,10,2503,0.35,Average,32.80016,-117.15531
+2020,San Diego,106370714,Grossmont Hospital,5,1101,0.54,Average,32.77963,-117.00924
+2020,San Diego,106370730,Kaiser Foundation Hospital – San Diego – Zion,20,1981,0.76,Average,32.79287,-117.09447
+2020,San Diego,106370744,Scripps Mercy Hospital,15,2172,1.05,Below Average,32.75128,-117.1609
+2020,San Diego,106370755,Palomar Health Downtown Campus,3,1032,0.39,Average,33.12586,-117.07628
+2020,San Diego,106370759,Paradise Valley Hospital,0,80,0,Average,32.6863293,-117.0830382
+2020,San Diego,106370771,Scripps Memorial Hospital – La Jolla,9,2769,0.37,Average,32.88506,-117.22279
+2020,San Diego,106370780,Tri-City Medical Center – Oceanside,3,542,0.71,Average,33.18394,-117.29027
+2020,San Diego,106370782,UC San Diego Health System – Hillcrest Medical Center,31,4950,0.47,Average,32.75387,-117.16498
+2020,San Diego,106370875,Sharp Chula Vista Medical Center,3,452,0.56,Average,32.61909,-117.02488
+2020,San Diego,106370977,Palomar Medical Center Poway,1,247,0.58,Average,32.99563,-117.05784
+2020,San Diego,106371256,Scripps Green Hospital,5,2567,0.27,Average,32.89654,-117.2419
+2020,San Diego,106371394,Scripps Memorial Hospital – Encinitas,2,780,0.39,Average,33.0363,-117.28495
+2020,San Francisco,106380857,Kaiser Foundation Hospital – San Francisco,14,1765,0.46,Average,37.78274,-122.44289
+2020,San Francisco,106380933,California Pacific Medical Center – Davies Campus Hospital,2,526,0.54,Average,37.7691,-122.43465
+2020,San Francisco,106380939,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,1,521,0.2,Average,37.75657,-122.40637
+2020,San Francisco,106380960,Saint Francis Memorial Hospital,0,483,0,Average,37.78917,-122.41695
+2020,San Francisco,106380965,St. Mary'S Medical Center,4,494,1.13,Average,37.77408,-122.45441
+2020,San Francisco,106381154,UC San Francisco Medical Center,41,6994,0.53,Average,37.7635148,-122.4576564
+2020,San Francisco,106382715,Chinese Hospital,0,77,0,Average,37.79565,-122.40926
+2020,San Francisco,106384176,California Pacific Medical Center – Van Ness Campus,13,1333,0.58,Average,37.78584,-122.42175
+2020,San Francisco,106384202,California Pacific Medical Center – Mission Bernal Campus,1,721,0.44,Average,37.74804,-122.42094
+2020,San Joaquin,106390846,Dameron Hospital,0,291,0,Average,37.96125,-121.30067
+2020,San Joaquin,106390923,Adventist Health Lodi Memorial,1,140,0.69,Average,38.12146,-121.2859
+2020,San Joaquin,106391010,San Joaquin General Hospital,2,379,0.65,Average,37.88594,-121.28918
+2020,San Joaquin,106391042,Saint Joseph’s Medical Center of Stockton,11,787,1.35,Below Average,37.97075,-121.2891
+2020,San Joaquin,106391056,Sutter Tracy Community Hospital,0,115,0,Average,37.74366,-121.43482
+2020,San Joaquin,106392287,Doctors Hospital of Manteca,0,237,0,Average,37.80111,-121.19746
+2020,San Joaquin,106394009,Kaiser Foundation Hospital – Manteca,1,388,0.13,Average,37.79736,-121.24614
+2020,San Luis Obispo,106400466,Marian Regional Medical Center – Arroyo Grande,0,233,0,Average,35.11369,-120.59147
+2020,San Luis Obispo,106400480,French Hospital Medical Center,0,620,0,Average,35.27801,-120.64977
+2020,San Luis Obispo,106400524,Sierra Vista Regional Medical Center,2,292,1.14,Average,35.290986,-120.666309
+2020,San Luis Obispo,106400548,Tenet Health Central Coast Twin Cities Community Hospital,0,218,0,Average,35.5543,-120.71967
+2020,San Mateo,106410782,San Mateo Medical Center,0,56,0,Average,37.53017,-122.29951
+2020,San Mateo,106410806,Kaiser Foundation Hospital – South San Francisco,1,403,0.14,Average,37.65806,-122.43837
+2020,San Mateo,106410817,Seton Medical Center,0,135,0,Average,37.68172,-122.47283
+2020,San Mateo,106410852,Peninsula Medical Center,7,1279,0.56,Average,37.5944692,-122.3832465
+2020,San Mateo,106410891,Sequoia Hospital,3,1074,0.49,Average,37.48129,-122.25377
+2020,San Mateo,106414018,Menlo Park Surgical Hospital,0,137,0,Average,37.45797,-122.16212
+2020,San Mateo,106414139,Kaiser Foundation Hospital – Redwood City,1,1061,0.09,Above Average,37.48967,-122.22463
+2020,Santa Barbara,106420483,Goleta Valley Cottage Hospital,0,969,0,Average,34.43336,-119.80929
+2020,Santa Barbara,106420491,Lompoc Valley Medical Center,0,129,0,Average,34.639252,-120.4396497
+2020,Santa Barbara,106420493,Marian Regional Medical Center,0,956,0,Average,34.95198,-120.41338
+2020,Santa Barbara,106420514,Santa Barbara Cottage Hospital,8,1852,0.48,Average,34.42948,-119.72317
+2020,Santa Clara,106430705,Regional Medical Center Of San Jose,3,236,1.1,Average,37.36332,-121.84837
+2020,Santa Clara,106430763,El Camino Health,2,1960,0.12,Above Average,37.36779,-122.07801
+2020,Santa Clara,106430779,Good Samaritan Hospital – San Jose,5,996,0.51,Average,37.25116,-121.9449
+2020,Santa Clara,106430837,O’Connor Hospital,1,333,0.49,Average,37.32714,-121.93727
+2020,Santa Clara,106430883,Santa Clara Valley Medical Center,9,915,1,Average,37.31346,-121.93202
+2020,Santa Clara,106430905,Stanford Health Care,76,7179,0.64,Average,37.433,-122.175881
+2020,Santa Clara,106431506,Kaiser Foundation Hospital – San Jose,2,1060,0.11,Above Average,37.23924,-121.80269
+2020,Santa Clara,106434138,Saint Louise Regional Hospital,0,28,0,Average,37.03731,-121.57411
+2020,Santa Clara,106434153,Kaiser Foundation Hospital – Santa Clara,9,1433,0.28,Above Average,37.334597,-121.995774
+2020,Santa Cruz,106440755,Dominican Hospital,9,615,1.65,Below Average,36.98806,-121.98489
+2020,Santa Cruz,106444013,Watsonville Community Hospital,0,45,0,Average,36.92839,-121.79173
+2020,Shasta,106450940,Shasta Regional Medical Center,0,652,0,Average,40.58562,-122.387731
+2020,Shasta,106450949,Mercy Medical Center – Redding,2,800,0.34,Average,40.57204,-122.39742
+2020,Shasta,106454013,Patients’ Hospital of Redding,0,143,0,Average,40.58563,-122.41632
+2020,Siskiyou,106470871,Mercy Medical Center Mt. Shasta,0,61,0,Average,41.31894,-122.32309
+2020,Siskiyou,106474007,Fairchild Medical Center,0,88,0,Average,41.71949,-122.645801
+2020,Solano,106480989,Kaiser Foundation Hospital & Rehabilitation Center – Vallejo,1,220,0.15,Average,38.12839,-122.24761
+2020,Solano,106481094,Sutter Solano Medical Center,1,346,0.32,Average,38.13109,-122.23852
+2020,Solano,106481357,NorthBay Medical Center,3,340,0.99,Average,38.26097,-122.05076
+2020,Solano,106484044,Kaiser Foundation Hospital – Vacaville,1,407,0.23,Average,38.3894968,-121.9373177
+2020,Sonoma,106490964,Healdsburg District Hospital,0,60,0,Average,38.62764,-122.86385
+2020,Sonoma,106491001,Petaluma Valley Hospital,0,41,0,Average,38.25323,-122.63302
+2020,Sonoma,106491064,Santa Rosa Memorial Hospital – Montgomery,0,778,0,Average,38.4429,-122.70149
+2020,Sonoma,106491076,Sonoma Valley Hospital,0,103,0,Average,38.28841,-122.46524
+2020,Sonoma,106491338,Sonoma Specialty Hospital,0,3,0,Average,38.39825,-122.82115
+2020,Sonoma,106494019,Kaiser Foundation Hospital – Santa Rosa,2,280,0.46,Average,38.47087,-122.73119
+2020,Sonoma,106494106,Sutter Santa Rosa Regional Hospital,4,1078,0.78,Average,38.49636,-122.7514
+2020,Stanislaus,106500852,Doctors Medical Center,3,608,0.96,Average,37.66439,-120.99631
+2020,Stanislaus,106500867,Emanuel Medical Center,1,139,0.69,Average,37.51052,-120.83966
+2020,Stanislaus,106500939,Memorial Medical Center – Modesto,10,1228,1.25,Below Average,37.66868,-120.973381
+2020,Stanislaus,106504038,Stanislaus Surgical Hospital,0,336,0,Average,37.66395,-120.95756
+2020,Sutter,106514030,Sutter Surgical Hospital – North Valley,0,379,0,Average,39.13216,-121.61354
+2020,Tehama,106521041,Saint Elizabeth Community Hospital,0,113,0,Average,40.1495,-122.21887
+2020,Tulare,106540734,Kaweah Delta Medical Center,5,1185,0.56,Average,36.32753,-119.29345
+2020,Tulare,106540798,Sierra View Medical Center,1,206,1.42,Average,36.06948,-119.02727
+2020,Tulare,106540816,Adventist Health Tulare,0,12,0,Average,36.2210166,-119.3385341
+2020,Tuolumne,106554011,Adventist Health Sonora – Greenley,1,274,0.57,Average,37.97568,-120.369
+2020,Ventura,106560473,Community Memorial Hospital – San Buenaventura,7,1241,0.82,Average,34.274589,-119.258124
+2020,Ventura,106560492,Los Robles Hospital and Medical Center,2,2167,0.19,Average,34.20762,-118.882411
+2020,Ventura,106560501,Ojai Valley Community Hospital,0,24,0,Average,34.44221,-119.26311
+2020,Ventura,106560508,Saint John’s Pleasant Valley Hospital,2,108,1.99,Average,34.24177,-119.018
+2020,Ventura,106560525,Adventist Health Simi Valley,1,198,0.81,Average,34.28973,-118.74394
+2020,Ventura,106560529,Saint John’s Regional Medical Center,2,669,0.49,Average,34.21687,-119.15819
+2020,Yolo,106571086,Woodland Memorial Hospital,0,282,0,Average,38.66284,-121.7933
+2020,Yolo,106574010,Sutter Davis Hospital,0,120,0,Average,38.56289,-121.77164
+2020,Yuba,106580996,Adventist Health and Rideout,2,338,0.74,Average,39.138805,-121.593602
+2021,STATEWIDE,n/a,n/a,1054,219063,0.48,n/a,n/a,n/a
+2021,Alameda,106010735,Alameda Hospital,0,96,0,Average,37.76266,-122.253991
+2021,Alameda,106010937,Alta Bates Summit Medical Center,10,1141,1.07,Below Average,37.82106,-122.26257
+2021,Alameda,106010739,Alta Bates Summit Medical Center – Alta Bates Campus,4,592,0.97,Average,37.85645,-122.25743
+2021,Alameda,106014233,Eden Medical Center,5,396,2.03,Below Average,37.6983769,-122.0874055
+2021,Alameda,106010846,Highland Hospital,1,445,0.22,Average,37.79925,-122.23138
+2021,Alameda,106014132,Kaiser Foundation Hospital – Fremont,1,242,0.36,Average,37.55055,-121.97483
+2021,Alameda,106014326,Kaiser Foundation Hospital – Oakland/Richmond,8,2655,0.2,Above Average,37.82402,-122.25791
+2021,Alameda,106014337,Kaiser Foundation Hospital – San Leandro,5,610,0.53,Average,37.70611,-122.16917
+2021,Alameda,106010967,St. Rose Hospital,1,215,2.11,Average,37.63291,-122.08962
+2021,Alameda,106014050,Stanford Health Care Tri-Valley,4,611,0.59,Average,37.69206,-121.88095
+2021,Alameda,106010987,Washington Hospital – Fremont,3,571,0.95,Average,37.55847,-121.98006
+2021,Amador,106034002,Sutter Amador Hospital,0,79,0,Average,38.34743,-120.77272
+2021,Butte,106040962,Enloe Medical Center– Esplanade,2,1287,0.26,Average,39.74226,-121.84918
+2021,Butte,106040937,Oroville Hospital,11,407,1.17,Below Average,39.50485,-121.5428
+2021,Calaveras,106050932,Mark Twain Medical Center,0,32,0,Average,38.19057,-120.67095
+2021,Contra Costa,106070924,Contra Costa Regional Medical Center,0,156,0,Average,38.00646,-122.13101
+2021,Contra Costa,106071018,John Muir Medical Center – Concord Campus,17,1441,0.99,Below Average,37.98615,-122.03874
+2021,Contra Costa,106070988,John Muir Medical Center – Walnut Creek Campus,6,1964,0.4,Average,37.91304,-122.040781
+2021,Contra Costa,106074097,Kaiser Foundation Hospital – Antioch,3,321,0.58,Average,37.951975,-121.776854
+2021,Contra Costa,106070990,Kaiser Foundation Hospital – Walnut Creek,1,371,0.12,Average,37.8923,-122.05828
+2021,Contra Costa,106074017,San Ramon Regional Medical Center,0,424,0,Average,37.77549,-121.95884
+2021,Contra Costa,106070934,Sutter Delta Medical Center,0,62,0,Average,37.98222,-121.8054
+2021,Del Norte,106084001,Sutter Coast Hospital,0,53,0,Average,41.77278,-124.19514
+2021,El Dorado,106090793,Barton Memorial Hospital,1,79,1.63,Average,38.91228,-119.99758
+2021,El Dorado,106090933,Marshall Medical Center,0,220,0,Average,38.72556,-120.79092
+2021,Fresno,106100797,Adventist Health Reedley,0,26,0,Average,36.60789,-119.45145
+2021,Fresno,106100005,Clovis Community Medical Center,1,606,0.2,Average,36.83745,-119.66072
+2021,Fresno,106100717,Community Regional Medical Center – Fresno,15,3446,0.49,Average,36.74252,-119.784071
+2021,Fresno,106104047,Fresno Surgical Hospital,0,1052,0,Average,36.82531,-119.78155
+2021,Fresno,106104062,Kaiser Foundation Hospital – Fresno,0,329,0,Average,36.84246,-119.7832
+2021,Fresno,106100899,Saint Agnes Medical Center,7,1502,0.42,Average,36.8370782,-119.7649963
+2021,Humboldt,106121002,Mad River Community Hospital,0,17,0,Average,40.90351,-124.09038
+2021,Humboldt,106121051,Providence Redwood Memorial Hospital,0,15,0,Average,40.58267,-124.13549
+2021,Humboldt,106121080,Providence St. Joseph Hospital – Eureka,1,453,0.18,Average,40.7832,-124.14216
+2021,Imperial,106130699,El Centro Regional Medical Center,3,92,2.42,Below Average,32.78138,-115.49824
+2021,Imperial,106130760,Pioneers Memorial Healthcare District,0,108,0,Average,32.96003,-115.55183
+2021,Inyo,106141273,Northern Inyo Hospital,0,12,0,Average,37.36207,-118.40756
+2021,Kern,106150788,Adventist Health Bakersfield,4,1043,0.66,Average,35.383064,-119.018775
+2021,Kern,106150706,Adventist Health Delano,1,66,3.85,Average,35.76143,-119.23706
+2021,Kern,106154101,Bakersfield Heart Hospital,0,197,0,Average,35.38619,-119.04314
+2021,Kern,106150722,Bakersfield Memorial Hospital,2,1072,0.3,Average,35.39051,-119.00658
+2021,Kern,106150736,Kern Medical Center,3,397,0.92,Average,35.380833,-118.967222
+2021,Kern,106150761,Mercy Hospital – Bakersfield,1,620,0.32,Average,35.37323,-119.02715
+2021,Kern,106150782,Ridgecrest Regional Hospital,0,43,0,Average,35.6404,-117.66996
+2021,Kings,106164029,Adventist Health Hanford,0,431,0,Average,36.3256247,-119.6683912
+2021,Lake,106171049,Adventist Health Clearlake,0,8,0,Average,38.93619,-122.6202
+2021,Lake,106171395,Sutter Lakeside Hospital,1,44,0.88,Average,39.10232,-122.91003
+2021,Lassen,106184008,Banner Lassen Medical Center,0,6,0,Average,40.42306,-120.64609
+2021,Los Angeles,106190323,Adventist Health Glendale,5,1197,0.58,Average,34.14951,-118.23109
+2021,Los Angeles,106190878,Adventist Health White Memorial,0,1045,0,Average,34.05085,-118.21691
+2021,Los Angeles,106190017,Alhambra Hospital Medical Center,1,92,1.15,Average,34.08988,-118.1449
+2021,Los Angeles,106190034,Antelope Valley Hospital,1,456,0.34,Average,34.6878,-118.157981
+2021,Los Angeles,106190081,Beverly Hospital,5,412,1.64,Below Average,34.01614,-118.10132
+2021,Los Angeles,106190125,California Hospital Medical Center – Los Angeles,1,410,0.59,Average,34.03721,-118.26551
+2021,Los Angeles,106190137,Casa Colina Hospital,1,376,0.34,Average,34.096265,-117.745655
+2021,Los Angeles,106190500,Cedars – Sinai Marina Del Rey Hospital,2,802,0.71,Average,33.98125,-118.43971
+2021,Los Angeles,106190555,Cedars – Sinai Medical Center,61,6118,0.82,Below Average,34.07681,-118.38061
+2021,Los Angeles,106190148,Centinela Hospital Medical Center,3,187,1.25,Average,33.94917,-118.34788
+2021,Los Angeles,106190176,City of Hope Helford Clinical Research Hospital,15,1459,0.47,Average,34.13219,-117.97356
+2021,Los Angeles,106190766,Coast Plaza Hospital,0,27,0,Average,33.91255,-118.09915
+2021,Los Angeles,106190587,College Medical Center,0,5,0,Average,33.80759,-118.19355
+2021,Los Angeles,106190475,Community Hospital Long Beach,0,4,0,Average,33.78871,-118.14578
+2021,Los Angeles,106190197,Community Hospital of Huntington Park,0,11,0,Average,33.98929,-118.22466
+2021,Los Angeles,106190681,DOCS Surgical Hospital,0,599,0,Average,34.0572,-118.36195
+2021,Los Angeles,106190256,East Los Angeles Doctors Hospital,0,89,0,Average,34.02383,-118.18377
+2021,Los Angeles,106190298,Emanate Health Foothill Presbyterian Hospital,2,162,1,Average,34.13384,-117.87244
+2021,Los Angeles,106190413,Emanate Health Inter – Community Hospital,3,561,0.62,Average,34.08993,-117.89264
+2021,Los Angeles,106190636,Emanate Health Queen of the Valley Hospital,4,918,0.84,Average,34.06242,-117.94528
+2021,Los Angeles,106190280,Encino Hospital Medical Center,0,14,0,Average,34.15686,-118.48662
+2021,Los Angeles,106190315,Garfield Medical Center,5,644,0.89,Average,34.06826,-118.12302
+2021,Los Angeles,106190522,Glendale Memorial Hospital and Health Center,1,443,0.29,Average,34.1284,-118.25769
+2021,Los Angeles,106190352,Greater El Monte Community Hospital,0,4,0,Average,34.04827,-118.04257
+2021,Los Angeles,106190949,Henry Mayo Newhall Hospital,1,307,0.5,Average,34.39545,-118.55476
+2021,Los Angeles,106190382,Hollywood Presbyterian Medical Center,1,875,0.14,Average,34.09557,-118.29163
+2021,Los Angeles,106190400,Huntington Hospital,10,2143,0.53,Average,34.13565,-118.1518
+2021,Los Angeles,106196035,Kaiser Foundation Hospital – Baldwin Park,5,461,0.7,Average,34.06348,-117.986
+2021,Los Angeles,106196403,Kaiser Foundation Hospital – Downey,4,931,0.39,Average,33.9171234,-118.1290216
+2021,Los Angeles,106190429,Kaiser Foundation Hospital – Los Angeles,23,3261,0.62,Average,34.09875,-118.295371
+2021,Los Angeles,106190432,Kaiser Foundation Hospital – Panorama City,4,581,0.5,Average,34.2198,-118.43103
+2021,Los Angeles,106190431,Kaiser Foundation Hospital – South Bay,2,519,0.25,Average,33.78926,-118.29373
+2021,Los Angeles,106190434,Kaiser Foundation Hospital – West LA,8,799,0.73,Average,34.03793,-118.37568
+2021,Los Angeles,106191450,Kaiser Foundation Hospital – Woodland Hills,2,345,0.28,Average,34.17198,-118.58829
+2021,Los Angeles,106194219,Keck Hospital of USC,26,4032,0.31,Above Average,34.06284,-118.20287
+2021,Los Angeles,106190661,L.A. Downtown Medical Center,0,77,0,Average,34.06879,-118.26324
+2021,Los Angeles,106190240,Lakewood Regional Medical Center,3,160,1.5,Average,33.859731,-118.1492012
+2021,Los Angeles,106190198,Los Angeles Community Hospital,1,80,0.38,Average,34.01897,-118.1875
+2021,Los Angeles,106191231,Los Angeles County Olive View – UCLA Medical Center,5,744,0.75,Average,34.32418,-118.45255
+2021,Los Angeles,106191227,Los Angeles County/Harbor – UCLA Medical Center,2,1084,0.24,Average,33.83155,-118.29353
+2021,Los Angeles,106191306,Los Angeles County/Rancho Los Amigos National Rehab Center,2,158,0.97,Average,33.92723,-118.15795
+2021,Los Angeles,106191228,Los Angeles County+USC Medical Center,9,1964,0.5,Average,34.05982,-118.21031
+2021,Los Angeles,106190521,Memorial Hospital of Gardena,0,51,0,Average,33.89246,-118.29493
+2021,Los Angeles,106190525,MemorialCare Long Beach Medical Center,11,2450,0.61,Average,33.80801,-118.1852
+2021,Los Angeles,106190524,Mission Community Hospital – Panorama Campus,2,582,1.46,Average,34.22138,-118.45639
+2021,Los Angeles,106190547,Monterey Park Hospital,1,161,1.02,Average,34.05308,-118.13665
+2021,Los Angeles,106190568,Northridge Hospital Medical Center,1,335,0.36,Average,34.22075,-118.53186
+2021,Los Angeles,106190570,Norwalk Community Hospital,0,4,0,Average,33.91108,-118.0644
+2021,Los Angeles,106190696,Pacifica Hospital of the Valley,0,29,0,Average,34.24088,-118.39555
+2021,Los Angeles,106196405,Palmdale Regional Medical Center,4,480,1.46,Average,34.5843754,-118.1443461
+2021,Los Angeles,106190392,PIH Health Good Samaritan Hospital,5,1040,0.55,Average,34.05324,-118.26522
+2021,Los Angeles,106190243,PIH Health Hospital – Downey,0,283,0,Average,33.93515,-118.13196
+2021,Los Angeles,106190631,PIH Health Hospital – Whittier,12,855,1.48,Below Average,33.9697943,-118.049255
+2021,Los Angeles,106190630,Pomona Valley Hospital Medical Center,4,723,0.54,Average,34.07709,-117.750621
+2021,Los Angeles,106190517,Providence Cedars – Sinai Tarzana Medical Center,4,925,0.49,Average,34.17067,-118.532001
+2021,Los Angeles,106190385,Providence Holy Cross Medical Center,11,1538,0.61,Average,34.2791,-118.45951
+2021,Los Angeles,106190680,Providence Little Company of Mary Medical Center – San Pedro,2,202,1.89,Average,33.737939,-118.303893
+2021,Los Angeles,106190470,Providence Little Company of Mary Medical Center – Torrance,3,1111,0.22,Average,33.83891,-118.356771
+2021,Los Angeles,106190756,Providence Saint John's Health Center,6,2556,0.37,Average,34.029804,-118.478668
+2021,Los Angeles,106190758,Providence Saint Joseph Medical Center,3,966,0.38,Average,34.15486,-118.32655
+2021,Los Angeles,106190796,Ronald Reagan UCLA Medical Center,32,3820,0.54,Average,34.068889,-118.445
+2021,Los Angeles,106190673,San Dimas Community Hospital,0,82,0,Average,34.099076,-117.834328
+2021,Los Angeles,106190200,San Gabriel Valley Medical Center,1,565,0.33,Average,34.1024,-118.10503
+2021,Los Angeles,106190687,Santa Monica – UCLA Medical Center and Orthopaedic Hospital,7,1492,0.42,Average,34.027539,-118.486123
+2021,Los Angeles,106190708,Sherman Oaks Hospital,1,77,5.19,Average,34.15995,-118.4488
+2021,Los Angeles,106190110,Southern California Hospital at Culver City,1,675,0.22,Average,34.0231953,-118.3969429
+2021,Los Angeles,106190380,Southern California Hospital at Hollywood,0,14,0,Average,34.09628,-118.32501
+2021,Los Angeles,106190754,St. Francis Medical Center,1,262,0.71,Average,33.93085,-118.20415
+2021,Los Angeles,106190053,St. Mary Medical Center – Long Beach,0,439,0,Average,33.7802376,-118.1866412
+2021,Los Angeles,106190422,Torrance Memorial Medical Center,12,2569,0.55,Average,33.8119157,-118.3434945
+2021,Los Angeles,106190529,USC Arcadia Hospital,2,1018,0.27,Average,34.13603,-118.03879
+2021,Los Angeles,106190818,USC Verdugo Hills Hospital,2,346,0.61,Average,34.20557,-118.2152
+2021,Los Angeles,106190812,Valley Presbyterian Hospital,4,758,1.56,Average,34.19396,-118.4632
+2021,Los Angeles,106190857,West Covina Medical Center,0,81,0,Average,34.07042,-117.94505
+2021,Los Angeles,106190859,West Hills Hospital and Medical Center,5,251,1.05,Average,34.20337,-118.62939
+2021,Los Angeles,106190883,Whittier Hospital Medical Center,0,98,0,Average,33.95379,-118.00303
+2021,Madera,106201281,Madera Community Hospital,1,67,0.95,Average,36.94538,-120.0447
+2021,Marin,106210992,Kaiser Foundation Hospital – San Rafael,1,168,0.31,Average,38.0041,-122.55376
+2021,Marin,106211006,MarinHealth Medical Center,1,643,0.22,Average,37.94651,-122.53715
+2021,Marin,106214034,Novato Community Hospital,0,493,0,Average,38.09827,-122.55974
+2021,Mendocino,106234038,Adventist Health Howard Memorial,0,445,0,Average,39.39927,-123.35486
+2021,Mendocino,106231396,Adventist Health Ukiah Valley,0,140,0,Average,39.15216,-123.202741
+2021,Merced,106240924,Memorial Hospital Los Banos,0,7,0,Average,37.06273,-120.86147
+2021,Merced,106240942,Mercy Medical Center – Merced,0,225,0,Average,37.3402309,-120.4651815
+2021,Mono,106260011,Mammoth Hospital,0,104,0,Average,37.64524,-118.96408
+2021,Monterey,106270744,Community Hospital of the Monterey Peninsula,13,1360,1.22,Below Average,36.59827,-121.92488
+2021,Monterey,106274043,Natividad Medical Center,0,195,0,Average,36.69686,-121.6297
+2021,Monterey,106270875,Salinas Valley Memorial Hospital,0,518,0,Average,36.65909,-121.646291
+2021,Napa,106281078,Adventist Health St. Helena,1,528,0.23,Average,38.53937349,-122.473003
+2021,Napa,106281047,Providence Queen of the Valley Medical Center,2,345,0.6,Average,38.32363,-122.296
+2021,Nevada,106291023,Sierra Nevada Memorial Hospital,0,88,0,Average,39.22808,-121.047201
+2021,Nevada,106291053,Tahoe Forest Hospital,0,54,0,Average,39.324536,-120.201516
+2021,Orange,106301098,AHMC Anaheim Regional Medical Center,3,289,0.85,Average,33.84725,-117.93248
+2021,Orange,106301188,Anaheim Global Medical Center,1,77,0.96,Average,33.8209,-117.90921
+2021,Orange,106301140,Chapman Global Medical Center,1,492,0.82,Average,33.78785,-117.82586
+2021,Orange,106301357,Foothill Regional Medical Center,0,651,0,Average,33.73119,-117.82903
+2021,Orange,106301175,Fountain Valley Regional Hospital & Medical Center – Euclid,7,884,1.36,Below Average,33.71546,-117.93694
+2021,Orange,106301283,Garden Grove Hospital and Medical Center,0,7,0,Average,33.7745089,-117.9130315
+2021,Orange,106301205,Hoag Memorial Hospital Presbyterian,8,2175,0.25,Average,33.62526,-117.92949
+2021,Orange,106304460,Hoag Orthopedic Institute,2,1610,0.37,Average,33.6617789,-117.7735916
+2021,Orange,106304409,Kaiser Foundation Hospital – Orange County – Anaheim,16,1887,0.75,Average,33.85442,-117.84399
+2021,Orange,106301234,La Palma Intercommunity Hospital,0,9,0,Average,33.84755,-118.0373
+2021,Orange,106301248,Los Alamitos Medical Center,1,258,0.5,Average,33.80327,-118.0674
+2021,Orange,106300225,MemorialCare Orange Coast Medical Center,6,1317,0.55,Average,33.70162,-117.95524
+2021,Orange,106301317,MemorialCare Saddleback Medical Center,3,889,0.32,Average,33.60802,-117.70825
+2021,Orange,106301566,Orange County Global Medical Center,2,257,0.75,Average,33.75361,-117.83398
+2021,Orange,106301297,Placentia Linda Hospital,0,32,0,Average,33.887072,-117.8434267
+2021,Orange,106301262,Providence Mission Hospital,4,983,0.37,Average,33.56279,-117.66768
+2021,Orange,106301337,Providence Mission Hospital – Laguna Beach,0,96,0,Average,33.4997391,-117.7422502
+2021,Orange,106301340,Providence St. Joseph Hospital,1,1683,0.07,Above Average,33.7823,-117.86516
+2021,Orange,106301342,Providence St. Jude Medical Center,4,961,0.35,Average,33.89349,-117.92851
+2021,Orange,106301258,South Coast Global Medical Center,0,112,0,Average,33.71112,-117.88539
+2021,Orange,106301279,UC Irvine Medical Center,26,2805,0.67,Average,33.7879885,-117.8901339
+2021,Orange,106301379,West Anaheim Medical Center,0,20,0,Average,33.82482,-117.99492
+2021,Placer,106314024,Kaiser Foundation Hospital – Roseville,3,560,0.24,Average,38.74636,-121.25107
+2021,Placer,106310791,Sutter Auburn Faith Hospital,1,613,0.4,Average,38.94432,-121.09943
+2021,Placer,106311000,Sutter Roseville Medical Center,6,1918,0.47,Average,38.76515,-121.24922
+2021,Plumas,106320986,Plumas District Hospital,0,6,0,Average,39.93921,-120.96214
+2021,Riverside,106331152,Corona Regional Medical Center – Main,3,453,1.17,Average,33.8733354,-117.5668015
+2021,Riverside,106331164,Desert Regional Medical Center,1,270,0.67,Average,33.83932,-116.54549
+2021,Riverside,106331293,Doctors Hospital of Riverside,1,344,1.26,Average,33.92573,-117.43996
+2021,Riverside,106331168,Eisenhower Medical Center,5,2583,0.27,Average,33.76418,-116.40808
+2021,Riverside,106331194,Hemet Global Medical Center,1,197,0.69,Average,33.75113,-116.95958
+2021,Riverside,106331216,John F. Kennedy Memorial Hospital,0,119,0,Average,33.70677,-116.23391
+2021,Riverside,106334048,Kaiser Foundation Hospital – Moreno Valley,0,56,0,Average,33.89553,-117.18677
+2021,Riverside,106334025,Kaiser Foundation Hospital – Riverside,3,470,0.42,Average,33.9063,-117.47082
+2021,Riverside,106334589,Loma Linda University Medical Center – Murrieta,1,471,0.29,Average,33.6122263,-117.1624483
+2021,Riverside,106334018,Menifee Global Medical Center,1,214,0.89,Average,33.72146,-117.15691
+2021,Riverside,106331288,Palo Verde Hospital,0,7,0,Average,33.61315,-114.5956
+2021,Riverside,106331312,Riverside Community Hospital,10,1413,0.8,Average,33.97641,-117.37997
+2021,Riverside,106334487,Riverside University Health System – Medical Center,2,688,0.41,Average,33.91187,-117.19525
+2021,Riverside,106331326,San Gorgonio Memorial Hospital,0,5,0,Average,33.9317494,-116.9459031
+2021,Riverside,106334068,Southwest Healthcare System – Murrieta,2,1122,0.35,Average,33.55788,-117.18488
+2021,Riverside,106334564,Temecula Valley Hospital,1,415,0.46,Average,33.4795943,-117.1048018
+2021,Riverside,106334533,Vibra Rehab Hospital of Rancho Mirage,0,5,0,Average,33.81487,-116.43945
+2021,Sacramento,106340913,Kaiser Foundation Hospital – Sacramento,5,1743,0.24,Average,38.60197,-121.39232
+2021,Sacramento,106342344,Kaiser Foundation Hospital – South Sacramento,6,1285,0.3,Average,38.47144,-121.42409
+2021,Sacramento,106340947,Mercy General Hospital,5,1954,0.27,Average,38.56955,-121.45271
+2021,Sacramento,106344029,Mercy Hospital of Folsom,5,343,2.73,Below Average,38.67223,-121.1428
+2021,Sacramento,106340950,Mercy San Juan Medical Center,3,1034,0.33,Average,38.66818,-121.31261
+2021,Sacramento,106340951,Methodist Hospital of Sacramento,0,543,0,Average,38.46416,-121.41744
+2021,Sacramento,106341051,Sutter Medical Center – Sacramento,19,3425,0.68,Average,38.57045,-121.47028
+2021,Sacramento,106341006,UC Davis Medical Center,29,2731,0.77,Below Average,38.55438,-121.45738
+2021,San Benito,106350784,Hazel Hawkins Memorial Hospital,0,30,0,Average,36.835,-121.38609
+2021,San Bernardino,106364231,Arrowhead Regional Medical Center,2,382,0.71,Average,34.07163215,-117.3527761
+2021,San Bernardino,106364430,Barstow Community Hospital,0,16,0,Average,34.8935263,-117.0168841
+2021,San Bernardino,106361323,Community Hospital of San Bernardino,0,89,0,Average,34.13138,-117.32245
+2021,San Bernardino,106364144,Desert Valley Hospital,0,10,0,Average,34.47093,-117.29778
+2021,San Bernardino,106361223,Kaiser Foundation Hospital – Fontana,14,2102,0.65,Average,34.0725,-117.43549
+2021,San Bernardino,106361246,Loma Linda University Medical Center,10,3034,0.25,Above Average,34.05164,-117.26146
+2021,San Bernardino,106361166,Montclair Hospital Medical Center,0,10,0,Average,34.07774,-117.69603
+2021,San Bernardino,106361308,Redlands Community Hospital,7,1200,0.82,Average,34.03699,-117.2044
+2021,San Bernardino,106361318,San Antonio Regional Hospital,6,791,0.86,Average,34.10056,-117.63828
+2021,San Bernardino,106361339,St. Bernardine Medical Center,1,1555,0.08,Above Average,34.1341,-117.27865
+2021,San Bernardino,106361343,St. Mary Medical Center – Apple Valley,2,544,0.57,Average,34.54053,-117.26535
+2021,San Diego,106370652,Alvarado Hospital Medical Center,0,317,0,Average,32.7766415,-117.0573188
+2021,San Diego,106370714,Grossmont Hospital,4,1125,0.51,Average,32.77963,-117.00924
+2021,San Diego,106370730,Kaiser Foundation Hospital – San Diego – Zion,10,1961,0.44,Average,32.79287,-117.09447
+2021,San Diego,106370755,Palomar Health Downtown Campus,3,421,0.96,Average,33.12586,-117.07628
+2021,San Diego,106374382,Palomar Medical Center,2,294,0.67,Average,33.12158,-117.11961
+2021,San Diego,106370977,Palomar Medical Center Poway,1,184,0.86,Average,32.99563,-117.05784
+2021,San Diego,106370759,Paradise Valley Hospital,0,92,0,Average,32.6863293,-117.0830382
+2021,San Diego,106371256,Scripps Green Hospital,9,2276,0.62,Average,32.89654,-117.2419
+2021,San Diego,106371394,Scripps Memorial Hospital – Encinitas,2,729,0.46,Average,33.0363,-117.28495
+2021,San Diego,106370771,Scripps Memorial Hospital – La Jolla,9,2582,0.39,Average,32.88506,-117.22279
+2021,San Diego,106370744,Scripps Mercy Hospital,9,2306,0.66,Average,32.75128,-117.1609
+2021,San Diego,106370875,Sharp Chula Vista Medical Center,3,460,0.62,Average,32.61909,-117.02488
+2021,San Diego,106370689,Sharp Coronado Hospital and Healthcare Center,0,214,0,Average,32.69427,-117.16808
+2021,San Diego,106370694,Sharp Memorial Hospital,11,2615,0.38,Average,32.80016,-117.15531
+2021,San Diego,106370780,Tri-City Medical Center,2,564,0.36,Average,33.18394,-117.29027
+2021,San Diego,106370782,UC San Diego Health Hillcrest – Hillcrest Medical Center,32,4945,0.5,Average,32.75387,-117.16498
+2021,San Francisco,106380933,California Pacific Medical Center – Davies Campus Hospital,0,557,0,Average,37.7691,-122.43465
+2021,San Francisco,106384202,California Pacific Medical Center – Mission Bernal Campus,1,828,0.28,Average,37.74804,-122.42094
+2021,San Francisco,106384176,California Pacific Medical Center – Van Ness Campus,7,1477,0.27,Average,37.78584,-122.42175
+2021,San Francisco,106382715,Chinese Hospital,0,74,0,Average,37.79565,-122.40926
+2021,San Francisco,106380857,Kaiser Foundation Hospital – San Francisco,6,2042,0.2,Above Average,37.78274,-122.44289
+2021,San Francisco,106380939,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,1,584,0.16,Average,37.75657,-122.40637
+2021,San Francisco,106380960,Saint Francis Memorial Hospital,2,300,0.43,Average,37.78917,-122.41695
+2021,San Francisco,106380965,St. Mary's Medical Center,2,426,0.78,Average,37.77408,-122.45441
+2021,San Francisco,106381154,UC San Francisco Medical Center,34,7517,0.4,Average,37.7635148,-122.4576564
+2021,San Joaquin,106390923,Adventist Health Lodi Memorial,0,77,0,Average,38.12146,-121.2859
+2021,San Joaquin,106390846,Dameron Hospital,1,257,0.63,Average,37.96125,-121.30067
+2021,San Joaquin,106392287,Doctors Hospital of Manteca,0,214,0,Average,37.80111,-121.19746
+2021,San Joaquin,106394009,Kaiser Foundation Hospital – Manteca,3,580,0.34,Average,37.79736,-121.24614
+2021,San Joaquin,106391010,San Joaquin General Hospital,1,345,0.39,Average,37.88594,-121.28918
+2021,San Joaquin,106391042,St. Joseph's Medical Center of Stockton,5,619,0.58,Average,37.97075,-121.2891
+2021,San Joaquin,106391056,Sutter Tracy Community Hospital,0,145,0,Average,37.74366,-121.43482
+2021,San Luis Obispo,106400480,French Hospital Medical Center,1,429,0.22,Average,35.27801,-120.64977
+2021,San Luis Obispo,106400466,Marian Regional Medical Center – Arroyo Grande,1,171,0.99,Average,35.11369,-120.59147
+2021,San Luis Obispo,106400524,Tenet Health Central Coast Sierra Vista Regional Medical Center,0,175,0,Average,35.290986,-120.666309
+2021,San Luis Obispo,106400548,Tenet Health Central Coast Twin Cities Community Hospital,1,151,1.13,Average,35.5543,-120.71967
+2021,San Mateo,106410817,AHMC Seton Medical Center,0,109,0,Average,37.68172,-122.47283
+2021,San Mateo,106414139,Kaiser Foundation Hospital – Redwood City,3,1254,0.35,Average,37.48967,-122.22463
+2021,San Mateo,106410806,Kaiser Foundation Hospital – South San Francisco,0,576,0,Above Average,37.65806,-122.43837
+2021,San Mateo,106410852,Mills-Peninsula Medical Center,1,1290,0.07,Above Average,37.5944692,-122.3832465
+2021,San Mateo,106410782,San Mateo Medical Center,0,106,0,Average,37.53017,-122.29951
+2021,San Mateo,106410891,Sequoia Hospital,1,793,0.19,Average,37.48129,-122.25377
+2021,Santa Barbara,106420483,Goleta Valley Cottage Hospital,1,529,0.9,Average,34.43336,-119.80929
+2021,Santa Barbara,106420491,Lompoc Valley Medical Center,1,198,0.61,Average,34.639252,-120.4396497
+2021,Santa Barbara,106420493,Marian Regional Medical Center,3,905,0.56,Average,34.95198,-120.41338
+2021,Santa Barbara,106420514,Santa Barbara Cottage Hospital,6,1688,0.39,Average,34.42948,-119.72317
+2021,Santa Clara,106430763,El Camino Health,7,1866,0.4,Average,37.36779,-122.07801
+2021,Santa Clara,106430779,Good Samaritan Hospital – San Jose,4,919,0.6,Average,37.25116,-121.9449
+2021,Santa Clara,106431506,Kaiser Foundation Hospital – San Jose,3,1130,0.23,Average,37.23924,-121.80269
+2021,Santa Clara,106434153,Kaiser Foundation Hospital – Santa Clara,7,1577,0.25,Average,37.334597,-121.995774
+2021,Santa Clara,106430837,O'Connor Hospital,0,364,0,Average,37.32714,-121.93727
+2021,Santa Clara,106430705,Regional Medical Center of San Jose,2,216,1.12,Average,37.36332,-121.84837
+2021,Santa Clara,106430883,Santa Clara Valley Medical Center,3,860,0.39,Average,37.31346,-121.93202
+2021,Santa Clara,106434138,St. Louise Regional Hospital,0,50,0,Average,37.03731,-121.57411
+2021,Santa Clara,106430905,Stanford Health Care,57,7465,0.52,Average,37.433,-122.175881
+2021,Santa Cruz,106440755,Dominican Hospital,5,520,0.76,Average,36.98806,-121.98489
+2021,Santa Cruz,106444013,Watsonville Community Hospital,0,79,0,Average,36.92839,-121.79173
+2021,Shasta,106450949,Mercy Medical Center – Redding,0,387,0,Average,40.57204,-122.39742
+2021,Shasta,106454013,Patients' Hospital of Redding,0,144,0,Average,40.58563,-122.41632
+2021,Shasta,106450940,Shasta Regional Medical Center,2,705,0.37,Average,40.58562,-122.387731
+2021,Siskiyou,106474007,Fairchild Medical Center,0,67,0,Average,41.71949,-122.645801
+2021,Siskiyou,106470871,Mercy Medical Center Mt. Shasta,0,30,0,Average,41.31894,-122.32309
+2021,Solano,106484044,Kaiser Foundation Hospital – Vacaville,5,459,1.34,Average,38.3894968,-121.9373177
+2021,Solano,106480989,Kaiser Foundation Hospital & Rehab Center – Vallejo,3,240,0.53,Average,38.12839,-122.24761
+2021,Solano,106481357,NorthBay Medical Center,1,324,0.34,Average,38.26097,-122.05076
+2021,Solano,106481094,Sutter Solano Medical Center,0,391,0,Average,38.13109,-122.23852
+2021,Sonoma,106490964,Healdsburg Hospital,0,8,0,Average,38.62764,-122.86385
+2021,Sonoma,106494019,Kaiser Foundation Hospital – Santa Rosa,2,241,0.51,Average,38.47087,-122.73119
+2021,Sonoma,106491001,Petaluma Valley Hospital,0,54,0,Average,38.25323,-122.63302
+2021,Sonoma,106491064,Providence Santa Rosa Memorial Hospital – Montgomery,1,600,0.24,Average,38.4429,-122.70149
+2021,Sonoma,106491338,Sonoma Specialty Hospital,0,7,0,Average,38.39825,-122.82115
+2021,Sonoma,106491076,Sonoma Valley Hospital,0,65,0,Average,38.28841,-122.46524
+2021,Sonoma,106494106,Sutter Santa Rosa Regional Hospital,0,1101,0,Average,38.49636,-122.7514
+2021,Stanislaus,106500852,Doctors Medical Center,1,528,0.32,Average,37.66439,-120.99631
+2021,Stanislaus,106500867,Emanuel Medical Center,0,117,0,Average,37.51052,-120.83966
+2021,Stanislaus,106500939,Memorial Medical Center – Modesto,8,1370,0.91,Average,37.66868,-120.973381
+2021,Stanislaus,106504038,Stanislaus Surgical Hospital,0,298,0,Average,37.66395,-120.95756
+2021,Sutter,106514030,Sutter Surgical Hospital – North Valley,1,227,0.73,Average,39.13216,-121.61354
+2021,Tehama,106521041,St. Elizabeth Community Hospital,0,76,0,Average,40.1495,-122.21887
+2021,Tulare,106540816,Adventist Health Tulare,1,22,11.09,Average,36.2210166,-119.3385341
+2021,Tulare,106540734,Kaweah Health Medical Center,7,1010,0.65,Average,36.32753,-119.29345
+2021,Tulare,106540798,Sierra View Medical Center,1,181,1.38,Average,36.06948,-119.02727
+2021,Tuolumne,106554011,Adventist Health Sonora – Greenley,2,271,0.75,Average,37.97568,-120.369
+2021,Ventura,106560525,Adventist Health Simi Valley,2,227,1.54,Average,34.28973,-118.74394
+2021,Ventura,106560473,Community Memorial Hospital – San Buenaventura,3,1069,0.37,Average,34.274589,-119.258124
+2021,Ventura,106560492,Los Robles Hospital & Medical Center,3,1761,0.28,Average,34.20762,-118.882411
+2021,Ventura,106560501,Ojai Valley Community Hospital,0,4,0,Average,34.44221,-119.26311
+2021,Ventura,106560508,St. John's Hospital Camarillo,0,96,0,Average,34.24177,-119.018
+2021,Ventura,106560529,St. John's Regional Medical Center,3,603,0.53,Average,34.21687,-119.15819
+2021,Yolo,106574010,Sutter Davis Hospital,2,91,2.91,Average,38.56289,-121.77164
+2021,Yolo,106571086,Woodland Memorial Hospital,0,254,0,Average,38.66284,-121.7933
+2021,Yuba,106580996,Adventist Health and Rideout,3,412,1,Average,39.138805,-121.593602
+2022,STATEWIDE,n/a,n/a,1034,217046,0.48,n/a,n/a,n/a
+2022,Alameda,106010735,Alameda Hospital,0,89,0.00,Average,37.76266000,-122.25399100
+2022,Alameda,106010937,Alta Bates Summit Medical Center,12,1033,1.13,Below Average,37.82106000,-122.26257000
+2022,Alameda,106010739,Alta Bates Summit Medical Center – Alta Bates Campus,0,514,0.00,Average,37.85645000,-122.25743000
+2022,Alameda,106014233,Eden Medical Center,0,336,0.00,Average,37.69837690,-122.08740550
+2022,Alameda,106010846,Highland Hospital,1,525,0.20,Average,37.79925000,-122.23138000
+2022,Alameda,106014132,Kaiser Foundation Hospital – Fremont,0,55,0.00,Average,37.55055000,-121.97483000
+2022,Alameda,106014326,Kaiser Foundation Hospital – Oakland/Richmond,9,2442,0.31,Average,37.82402000,-122.25791000
+2022,Alameda,106014337,Kaiser Foundation Hospital – San Leandro,2,537,0.33,Average,37.70611000,-122.16917000
+2022,Alameda,106010967,St. Rose Hospital,0,198,0.00,Average,37.63291000,-122.08962000
+2022,Alameda,106014050,Stanford Health Care Tri-Valley,2,613,0.30,Average,37.69206000,-121.88095000
+2022,Alameda,106010987,Washington Hospital – Fremont,4,592,1.33,Average,37.55847000,-121.98006000
+2022,Amador,106034002,Sutter Amador Hospital,0,70,0.00,Average,38.34743000,-120.77272000
+2022,Butte,106040962,Enloe Medical Center– Esplanade,1,1245,0.10,Average,39.74226000,-121.84918000
+2022,Butte,106040937,Oroville Hospital,1,419,0.13,Average,39.50485000,-121.54280000
+2022,Calaveras,106050932,Mark Twain Medical Center,0,36,0.00,Average,38.19057000,-120.67095000
+2022,Contra Costa,106070924,Contra Costa Regional Medical Center,0,135,0.00,Average,38.00646000,-122.13101000
+2022,Contra Costa,106071018,John Muir Medical Center – Concord Campus,5,1402,0.37,Average,37.98615000,-122.03874000
+2022,Contra Costa,106070988,John Muir Medical Center – Walnut Creek Campus,6,2067,0.39,Average,37.91304000,-122.04078100
+2022,Contra Costa,106074097,Kaiser Foundation Hospital – Antioch,4,330,0.74,Average,37.95197500,-121.77685400
+2022,Contra Costa,106070990,Kaiser Foundation Hospital – Walnut Creek,4,400,0.57,Average,37.89230000,-122.05828000
+2022,Contra Costa,106074017,San Ramon Regional Medical Center,0,427,0.00,Average,37.77549000,-121.95884000
+2022,Contra Costa,106070934,Sutter Delta Medical Center,0,41,0.00,Average,37.98222000,-121.80540000
+2022,Del Norte,106084001,Sutter Coast Hospital,2,63,3.79,Average,41.77278000,-124.19514000
+2022,El Dorado,106090793,Barton Memorial Hospital,1,104,1.19,Average,38.91228000,-119.99758000
+2022,El Dorado,106090933,Marshall Medical Center,1,153,0.51,Average,38.72556000,-120.79092000
+2022,Fresno,106100797,Adventist Health Reedley,0,22,0.00,Average,36.60789000,-119.45145000
+2022,Fresno,106100005,Clovis Community Medical Center,4,676,0.77,Average,36.83745000,-119.66072000
+2022,Fresno,106100717,Community Regional Medical Center – Fresno,13,3623,0.35,Average,36.74252000,-119.78407100
+2022,Fresno,106104047,Fresno Surgical Hospital,0,877,0.00,Average,36.82531000,-119.78155000
+2022,Fresno,106104062,Kaiser Foundation Hospital – Fresno,1,421,0.30,Average,36.84246000,-119.78320000
+2022,Fresno,106100899,Saint Agnes Medical Center,5,1607,0.28,Average,36.83707820,-119.76499630
+2022,Humboldt,106121002,Mad River Community Hospital,0,48,0.00,Average,40.90351000,-124.09038000
+2022,Humboldt,106121051,Providence Redwood Memorial Hospital,0,14,0.00,Average,40.58267000,-124.13549000
+2022,Humboldt,106121080,Providence St. Joseph Hospital – Eureka,2,502,0.34,Average,40.78320000,-124.14216000
+2022,Imperial,106130699,El Centro Regional Medical Center,1,69,2.39,Average,32.78138000,-115.49824000
+2022,Imperial,106130760,Pioneers Memorial Healthcare District,0,32,0.00,Average,32.96003000,-115.55183000
+2022,Inyo,106141273,Northern Inyo Hospital,0,6,0.00,Average,37.36207000,-118.40756000
+2022,Kern,106150788,Adventist Health Bakersfield,0,1000,0.00,Average,35.38306400,-119.01877500
+2022,Kern,106150706,Adventist Health Delano,1,134,2.27,Average,35.76143000,-119.23706000
+2022,Kern,106154101,Bakersfield Heart Hospital,0,144,0.00,Average,35.38619000,-119.04314000
+2022,Kern,106150722,Bakersfield Memorial Hospital,2,1015,0.34,Average,35.39051000,-119.00658000
+2022,Kern,106150736,Kern Medical Center,2,406,0.64,Average,35.38083300,-118.96722200
+2022,Kern,106150761,Mercy Hospital – Bakersfield,1,670,0.24,Average,35.37323000,-119.02715000
+2022,Kern,106150782,Ridgecrest Regional Hospital,0,28,0.00,Average,35.64040000,-117.66996000
+2022,Kings,106164029,Adventist Health Hanford,2,336,0.81,Average,36.32562470,-119.66839120
+2022,Lake,106171049,Adventist Health Clearlake,0,11,0.00,Average,38.93619000,-122.62020000
+2022,Lake,106171395,Sutter Lakeside Hospital,0,52,0.00,Average,39.10232000,-122.91003000
+2022,Lassen,106184008,Banner Lassen Medical Center,0,3,0.00,Average,40.42306000,-120.64609000
+2022,Los Angeles,106190323,Adventist Health Glendale,5,1318,0.53,Average,34.14951000,-118.23109000
+2022,Los Angeles,106190878,Adventist Health White Memorial,0,831,0.00,Average,34.05085000,-118.21691000
+2022,Los Angeles,106190017,Alhambra Hospital Medical Center,1,118,1.26,Average,34.08988000,-118.14490000
+2022,Los Angeles,106190034,Antelope Valley Hospital,3,425,0.95,Average,34.68780000,-118.15798100
+2022,Los Angeles,106190081,Beverly Hospital,2,507,0.75,Average,34.01614000,-118.10132000
+2022,Los Angeles,106190125,California Hospital Medical Center – Los Angeles,1,466,0.40,Average,34.03721000,-118.26551000
+2022,Los Angeles,106190137,Casa Colina Hospital,1,320,0.37,Average,34.09626500,-117.74565500
+2022,Los Angeles,106190500,Cedars – Sinai Marina Del Rey Hospital,1,716,0.33,Average,33.98125000,-118.43971000
+2022,Los Angeles,106190555,Cedars – Sinai Medical Center,62,6079,0.81,Below Average,34.07681000,-118.38061000
+2022,Los Angeles,106190148,Centinela Hospital Medical Center,1,153,0.66,Average,33.94917000,-118.34788000
+2022,Los Angeles,106190176,City of Hope Helford Clinical Research Hospital,10,1386,0.31,Average,34.13219000,-117.97356000
+2022,Los Angeles,106190766,Coast Plaza Hospital,0,44,0.00,Average,33.91255000,-118.09915000
+2022,Los Angeles,106190587,College Medical Center,0,3,0.00,Average,33.80759000,-118.19355000
+2022,Los Angeles,106190197,Community Hospital of Huntington Park,1,11,4.12,Average,33.98929000,-118.22466000
+2022,Los Angeles,106190681,DOCS Surgical Hospital,0,490,0.00,Average,34.05720000,-118.36195000
+2022,Los Angeles,106190256,East Los Angeles Doctors Hospital,1,62,4.05,Average,34.02383000,-118.18377000
+2022,Los Angeles,106190298,Emanate Health Foothill Presbyterian Hospital,2,165,0.83,Average,34.13384000,-117.87244000
+2022,Los Angeles,106190413,Emanate Health Inter – Community Hospital,1,508,0.21,Average,34.08993000,-117.89264000
+2022,Los Angeles,106190636,Emanate Health Queen of the Valley Hospital,7,857,1.53,Below Average,34.06242000,-117.94528000
+2022,Los Angeles,106190280,Encino Hospital Medical Center,0,11,0.00,Average,34.15686000,-118.48662000
+2022,Los Angeles,106190315,Garfield Medical Center,9,698,1.62,Below Average,34.06826000,-118.12302000
+2022,Los Angeles,106190522,Glendale Memorial Hospital and Health Center,5,596,1.21,Average,34.12840000,-118.25769000
+2022,Los Angeles,106190352,Greater El Monte Community Hospital,0,3,0.00,Average,34.04827000,-118.04257000
+2022,Los Angeles,106190949,Henry Mayo Newhall Hospital,1,321,0.54,Average,34.39545000,-118.55476000
+2022,Los Angeles,106190382,Hollywood Presbyterian Medical Center,3,760,0.65,Average,34.09557000,-118.29163000
+2022,Los Angeles,106190400,Huntington Hospital,11,2156,0.63,Average,34.13565000,-118.15180000
+2022,Los Angeles,106196035,Kaiser Foundation Hospital – Baldwin Park,3,507,0.36,Average,34.06348000,-117.98600000
+2022,Los Angeles,106196403,Kaiser Foundation Hospital – Downey,5,945,0.47,Average,33.91712340,-118.12902160
+2022,Los Angeles,106190429,Kaiser Foundation Hospital – Los Angeles,21,3062,0.55,Average,34.09875000,-118.29537100
+2022,Los Angeles,106190432,Kaiser Foundation Hospital – Panorama City,4,590,0.52,Average,34.21980000,-118.43103000
+2022,Los Angeles,106190431,Kaiser Foundation Hospital – South Bay,5,533,0.60,Average,33.78926000,-118.29373000
+2022,Los Angeles,106190434,Kaiser Foundation Hospital – West LA,5,960,0.51,Average,34.03793000,-118.37568000
+2022,Los Angeles,106191450,Kaiser Foundation Hospital – Woodland Hills,2,692,0.28,Average,34.17198000,-118.58829000
+2022,Los Angeles,106194219,Keck Hospital of USC,32,4129,0.40,Average,34.06284000,-118.20287000
+2022,Los Angeles,106190661,L.A. Downtown Medical Center,0,170,0.00,Average,34.06879000,-118.26324000
+2022,Los Angeles,106190240,Lakewood Regional Medical Center,1,78,1.31,Average,33.85973100,-118.14920120
+2022,Los Angeles,106190198,Los Angeles Community Hospital,0,110,0.00,Average,34.01897000,-118.18750000
+2022,Los Angeles,106191231,Los Angeles County Olive View – UCLA Medical Center,4,677,0.54,Average,34.32418000,-118.45255000
+2022,Los Angeles,106191228,Los Angeles County+USC Medical Center,7,2096,0.33,Average,34.05982000,-118.21031000
+2022,Los Angeles,106191227,Los Angeles County/Harbor – UCLA Medical Center,9,1262,0.78,Average,33.83155000,-118.29353000
+2022,Los Angeles,106191306,Los Angeles County/Rancho Los Amigos National Rehab Center,2,177,1.70,Average,33.92723000,-118.15795000
+2022,Los Angeles,106190521,Memorial Hospital of Gardena,1,73,1.57,Average,33.89246000,-118.29493000
+2022,Los Angeles,106190525,MemorialCare Long Beach Medical Center,12,1861,0.60,Average,33.80801000,-118.18520000
+2022,Los Angeles,106190524,Mission Community Hospital – Panorama Campus,0,568,0.00,Average,34.22138000,-118.45639000
+2022,Los Angeles,106190547,Monterey Park Hospital,1,35,2.59,Average,34.05308000,-118.13665000
+2022,Los Angeles,106190568,Northridge Hospital Medical Center,2,435,0.47,Average,34.22075000,-118.53186000
+2022,Los Angeles,106190570,Norwalk Community Hospital,0,16,0.00,Average,33.91108000,-118.06440000
+2022,Los Angeles,106190392,PIH Health Good Samaritan Hospital,7,910,0.90,Average,34.05324000,-118.26522000
+2022,Los Angeles,106190243,PIH Health Hospital – Downey,0,120,0.00,Average,33.93515000,-118.13196000
+2022,Los Angeles,106190631,PIH Health Hospital – Whittier,13,983,1.28,Below Average,33.96979430,-118.04925500
+2022,Los Angeles,106190696,Pacifica Hospital of the Valley,0,33,0.00,Average,34.24088000,-118.39555000
+2022,Los Angeles,106196405,Palmdale Regional Medical Center,6,619,1.58,Below Average,34.58437540,-118.14434610
+2022,Los Angeles,106190630,Pomona Valley Hospital Medical Center,2,666,0.41,Average,34.07709000,-117.75062100
+2022,Los Angeles,106190517,Providence Cedars – Sinai Tarzana Medical Center,1,858,0.11,Average,34.17067000,-118.53200100
+2022,Los Angeles,106190385,Providence Holy Cross Medical Center,7,1480,0.38,Average,34.27910000,-118.45951000
+2022,Los Angeles,106190680,Providence Little Company of Mary Medical Center – San Pedro,0,196,0.00,Average,33.73793900,-118.30389300
+2022,Los Angeles,106190470,Providence Little Company of Mary Medical Center – Torrance,2,949,0.18,Average,33.83891000,-118.35677100
+2022,Los Angeles,106190756,Providence Saint John's Health Center,8,2751,0.43,Average,34.02980400,-118.47866800
+2022,Los Angeles,106190758,Providence Saint Joseph Medical Center,5,979,0.66,Average,34.15486000,-118.32655000
+2022,Los Angeles,106190796,Ronald Reagan UCLA Medical Center,24,3937,0.42,Average,34.06888900,-118.44500000
+2022,Los Angeles,106190673,San Dimas Community Hospital,0,90,0.00,Average,34.09907600,-117.83432800
+2022,Los Angeles,106190200,San Gabriel Valley Medical Center,1,517,0.53,Average,34.10240000,-118.10503000
+2022,Los Angeles,106190687,Santa Monica – UCLA Medical Center and Orthopaedic Hospital,13,1486,0.75,Average,34.02753900,-118.48612300
+2022,Los Angeles,106190708,Sherman Oaks Hospital,0,69,0.00,Average,34.15995000,-118.44880000
+2022,Los Angeles,106190110,Southern California Hospital at Culver City,4,750,0.87,Average,34.02319530,-118.39694290
+2022,Los Angeles,106190380,Southern California Hospital at Hollywood,0,5,0.00,Average,34.09628000,-118.32501000
+2022,Los Angeles,106190754,St. Francis Medical Center,0,178,0.00,Average,33.93085000,-118.20415000
+2022,Los Angeles,106190053,St. Mary Medical Center – Long Beach,0,511,0.00,Average,33.78023760,-118.18664120
+2022,Los Angeles,106190422,Torrance Memorial Medical Center,7,2847,0.30,Average,33.81191570,-118.34349450
+2022,Los Angeles,106190529,USC Arcadia Hospital,2,1017,0.27,Average,34.13603000,-118.03879000
+2022,Los Angeles,106190818,USC Verdugo Hills Hospital,3,276,1.08,Average,34.20557000,-118.21520000
+2022,Los Angeles,106190812,Valley Presbyterian Hospital,3,737,1.09,Average,34.19396000,-118.46320000
+2022,Los Angeles,106190857,West Covina Medical Center,0,45,0.00,Average,34.07042000,-117.94505000
+2022,Los Angeles,106190859,West Hills Hospital and Medical Center,3,284,0.65,Average,34.20337000,-118.62939000
+2022,Los Angeles,106190883,Whittier Hospital Medical Center,1,172,1.17,Average,33.95379000,-118.00303000
+2022,Madera,106201281,Madera Community Hospital,0,69,0.00,Average,36.94538000,-120.04470000
+2022,Marin,106210992,Kaiser Foundation Hospital – San Rafael,3,192,1.04,Average,38.00410000,-122.55376000
+2022,Marin,106211006,MarinHealth Medical Center,2,513,0.44,Average,37.94651000,-122.53715000
+2022,Marin,106214034,Novato Community Hospital,0,455,0.00,Average,38.09827000,-122.55974000
+2022,Mendocino,106234038,Adventist Health Howard Memorial,0,400,0.00,Average,39.39927000,-123.35486000
+2022,Mendocino,106231396,Adventist Health Ukiah Valley,1,167,0.43,Average,39.15216000,-123.20274100
+2022,Merced,106240924,Memorial Hospital Los Banos,0,13,0.00,Average,37.06273000,-120.86147000
+2022,Merced,106240942,Mercy Medical Center – Merced,0,272,0.00,Average,37.34023090,-120.46518150
+2022,Mono,106260011,Mammoth Hospital,0,55,0.00,Average,37.64524000,-118.96408000
+2022,Monterey,106270744,Community Hospital of the Monterey Peninsula,7,1420,0.70,Average,36.59827000,-121.92488000
+2022,Monterey,106274043,Natividad Medical Center,1,219,0.85,Average,36.69686000,-121.62970000
+2022,Monterey,106270875,Salinas Valley Health Medical Center,2,562,0.34,Average,36.65909000,-121.64629100
+2022,Napa,106281078,Adventist Health St. Helena,3,489,0.56,Average,38.53937349,-122.47300302
+2022,Napa,106281047,Providence Queen of the Valley Medical Center,1,393,0.28,Average,38.32363000,-122.29600000
+2022,Nevada,106291023,Sierra Nevada Memorial Hospital,0,98,0.00,Average,39.22808000,-121.04720100
+2022,Nevada,106291053,Tahoe Forest Hospital,2,82,3.63,Average,39.32453600,-120.20151600
+2022,Orange,106301098,AHMC Anaheim Regional Medical Center,4,220,1.55,Average,33.84725000,-117.93248000
+2022,Orange,106301188,Anaheim Global Medical Center,0,41,0.00,Average,33.82090000,-117.90921000
+2022,Orange,106301140,Chapman Global Medical Center,0,532,0.00,Average,33.78785000,-117.82586000
+2022,Orange,106301357,Foothill Regional Medical Center,1,876,0.23,Average,33.73119000,-117.82903000
+2022,Orange,106301175,Fountain Valley Regional Hospital & Medical Center – Euclid,4,753,1.03,Average,33.71546000,-117.93694000
+2022,Orange,106301283,Garden Grove Hospital and Medical Center,0,6,0.00,Average,33.77450890,-117.91303150
+2022,Orange,106301205,Hoag Memorial Hospital Presbyterian,13,2259,0.41,Average,33.62526000,-117.92949000
+2022,Orange,106304460,Hoag Orthopedic Institute,0,1554,0.00,Average,33.66177890,-117.77359160
+2022,Orange,106301209,Huntington Beach Hospital,0,3,0.00,Average,33.70442000,-117.98895000
+2022,Orange,106304409,Kaiser Foundation Hospital – Orange County – Anaheim,11,2082,0.50,Average,33.85442000,-117.84399000
+2022,Orange,106301234,La Palma Intercommunity Hospital,0,6,0.00,Average,33.84755000,-118.03730000
+2022,Orange,106301248,Los Alamitos Medical Center,2,218,1.32,Average,33.80327000,-118.06740000
+2022,Orange,106300225,MemorialCare Orange Coast Medical Center,12,1490,0.94,Below Average,33.70162000,-117.95524000
+2022,Orange,106301317,MemorialCare Saddleback Medical Center,5,792,0.56,Average,33.60802000,-117.70825000
+2022,Orange,106301566,Orange County Global Medical Center,1,220,0.42,Average,33.75361000,-117.83398000
+2022,Orange,106301262,Providence Mission Hospital,11,1192,0.65,Average,33.56279000,-117.66768000
+2022,Orange,106301337,Providence Mission Hospital – Laguna Beach,0,117,0.00,Average,33.49973910,-117.74225020
+2022,Orange,106301340,Providence St. Joseph Hospital,10,2231,0.53,Average,33.78230000,-117.86516000
+2022,Orange,106301342,Providence St. Jude Medical Center,4,1183,0.27,Average,33.89349000,-117.92851000
+2022,Orange,106301258,South Coast Global Medical Center,0,158,0.00,Average,33.71112000,-117.88539000
+2022,Orange,106301279,UC Irvine Medical Center,14,2770,0.37,Average,33.78798850,-117.89013390
+2022,Orange,106301379,West Anaheim Medical Center,0,5,0.00,Average,33.82482000,-117.99492000
+2022,Placer,106314024,Kaiser Foundation Hospital – Roseville,1,568,0.10,Average,38.74636000,-121.25107000
+2022,Placer,106310791,Sutter Auburn Faith Hospital,2,195,1.07,Average,38.94432000,-121.09943000
+2022,Placer,106311000,Sutter Roseville Medical Center,8,1843,0.63,Average,38.76515000,-121.24922000
+2022,Plumas,106320986,Plumas District Hospital,0,8,0.00,Average,39.93921000,-120.96214000
+2022,Riverside,106331152,Corona Regional Medical Center – Main,2,582,0.70,Average,33.87333540,-117.56680150
+2022,Riverside,106331164,Desert Regional Medical Center,1,405,0.61,Average,33.83932000,-116.54549000
+2022,Riverside,106331293,Doctors Hospital of Riverside,0,397,0.00,Average,33.92573000,-117.43996000
+2022,Riverside,106331168,Eisenhower Medical Center,5,2865,0.23,Average,33.76418000,-116.40808000
+2022,Riverside,106331194,Hemet Global Medical Center,1,204,0.45,Average,33.75113000,-116.95958000
+2022,Riverside,106331216,John F. Kennedy Memorial Hospital,0,102,0.00,Average,33.70677000,-116.23391000
+2022,Riverside,106334048,Kaiser Foundation Hospital – Moreno Valley,0,58,0.00,Average,33.89553000,-117.18677000
+2022,Riverside,106334025,Kaiser Foundation Hospital – Riverside,5,443,0.70,Average,33.90630000,-117.47082000
+2022,Riverside,106334589,Loma Linda University Medical Center – Murrieta,2,433,0.67,Average,33.61222630,-117.16244830
+2022,Riverside,106334018,Menifee Global Medical Center,0,24,0.00,Average,33.72146000,-117.15691000
+2022,Riverside,106331312,Riverside Community Hospital,12,1485,0.88,Average,33.97641000,-117.37997000
+2022,Riverside,106334487,Riverside University Health System – Medical Center,4,748,0.69,Average,33.91187000,-117.19525000
+2022,Riverside,106331326,San Gorgonio Memorial Hospital,0,8,0.00,Average,33.93174940,-116.94590310
+2022,Riverside,106334068,Southwest Healthcare System – Murrieta,4,1231,0.51,Average,33.55788000,-117.18488000
+2022,Riverside,106334564,Temecula Valley Hospital,5,533,1.41,Average,33.47959430,-117.10480180
+2022,Riverside,106334533,Vibra Rehab Hospital of Rancho Mirage,0,3,0.00,Average,33.81487000,-116.43945000
+2022,Sacramento,106340913,Kaiser Foundation Hospital – Sacramento,8,1735,0.46,Average,38.60197000,-121.39232000
+2022,Sacramento,106342344,Kaiser Foundation Hospital – South Sacramento,5,1308,0.29,Average,38.47144000,-121.42409000
+2022,Sacramento,106340947,Mercy General Hospital,3,2187,0.15,Above Average,38.56955000,-121.45271000
+2022,Sacramento,106344029,Mercy Hospital of Folsom,0,304,0.00,Average,38.67223000,-121.14280000
+2022,Sacramento,106340950,Mercy San Juan Medical Center,3,995,0.32,Average,38.66818000,-121.31261000
+2022,Sacramento,106340951,Methodist Hospital of Sacramento,0,370,0.00,Average,38.46416000,-121.41744000
+2022,Sacramento,106341051,Sutter Medical Center – Sacramento,12,3014,0.48,Average,38.57045000,-121.47028000
+2022,Sacramento,106341006,UC Davis Medical Center,24,2551,0.74,Average,38.55438000,-121.45738000
+2022,San Benito,106350784,Hazel Hawkins Memorial Hospital,0,45,0.00,Average,36.83500000,-121.38609000
+2022,San Bernardino,106364231,Arrowhead Regional Medical Center,0,409,0.00,Average,34.07163215,-117.35277613
+2022,San Bernardino,106364430,Barstow Community Hospital,0,31,0.00,Average,34.89352630,-117.01688410
+2022,San Bernardino,106361323,Community Hospital of San Bernardino,0,75,0.00,Average,34.13138000,-117.32245000
+2022,San Bernardino,106361223,Kaiser Foundation Hospital – Fontana,11,2170,0.52,Average,34.07250000,-117.43549000
+2022,San Bernardino,106361246,Loma Linda University Medical Center,5,2907,0.13,Above Average,34.05164000,-117.26146000
+2022,San Bernardino,106361166,Montclair Hospital Medical Center,0,12,0.00,Average,34.07774000,-117.69603000
+2022,San Bernardino,106361308,Redlands Community Hospital,4,1082,0.69,Average,34.03699000,-117.20440000
+2022,San Bernardino,106361318,San Antonio Regional Hospital,2,800,0.29,Average,34.10056000,-117.63828000
+2022,San Bernardino,106361339,St. Bernardine Medical Center,2,1621,0.16,Average,34.13410000,-117.27865000
+2022,San Bernardino,106361343,St. Mary Medical Center – Apple Valley,0,535,0.00,Average,34.54053000,-117.26535000
+2022,San Bernardino,106361370,Victor Valley Global Medical Center,0,13,0.00,Average,34.52817680,-117.29256220
+2022,San Diego,106370652,Alvarado Hospital Medical Center,0,268,0.00,Average,32.77664150,-117.05731880
+2022,San Diego,106370714,Grossmont Hospital,9,1134,0.84,Average,32.77963000,-117.00924000
+2022,San Diego,106370730,Kaiser Foundation Hospital – San Diego – Zion,13,2143,0.55,Average,32.79287000,-117.09447000
+2022,San Diego,106374382,Palomar Medical Center,2,673,0.34,Average,33.12158000,-117.11961000
+2022,San Diego,106370977,Palomar Medical Center Poway,0,188,0.00,Average,32.99563000,-117.05784000
+2022,San Diego,106370759,Paradise Valley Hospital,0,85,0.00,Average,32.68632930,-117.08303820
+2022,San Diego,106371256,Scripps Green Hospital,9,2253,0.53,Average,32.89654000,-117.24190000
+2022,San Diego,106371394,Scripps Memorial Hospital – Encinitas,7,720,1.59,Below Average,33.03630000,-117.28495000
+2022,San Diego,106370771,Scripps Memorial Hospital – La Jolla,7,2400,0.36,Average,32.88506000,-117.22279000
+2022,San Diego,106370744,Scripps Mercy Hospital,18,2505,1.22,Below Average,32.75128000,-117.16090000
+2022,San Diego,106370875,Sharp Chula Vista Medical Center,5,515,0.98,Average,32.61909000,-117.02488000
+2022,San Diego,106370689,Sharp Coronado Hospital and Healthcare Center,0,228,0.00,Average,32.69427000,-117.16808000
+2022,San Diego,106370694,Sharp Memorial Hospital,14,2518,0.54,Average,32.80016000,-117.15531000
+2022,San Diego,106370780,Tri-City Medical Center,5,603,0.95,Average,33.18394000,-117.29027000
+2022,San Diego,106370782,UC San Diego Health Hillcrest – Hillcrest Medical Center,27,5108,0.39,Average,32.75387000,-117.16498000
+2022,San Francisco,106380933,California Pacific Medical Center – Davies Campus Hospital,0,573,0.00,Average,37.76910000,-122.43465000
+2022,San Francisco,106384202,California Pacific Medical Center – Mission Bernal Campus,2,751,0.58,Average,37.74804000,-122.42094000
+2022,San Francisco,106384176,California Pacific Medical Center – Van Ness Campus,8,1418,0.36,Average,37.78584000,-122.42175000
+2022,San Francisco,106382715,Chinese Hospital,0,68,0.00,Average,37.79565000,-122.40926000
+2022,San Francisco,106380857,Kaiser Foundation Hospital – San Francisco,6,2044,0.21,Above Average,37.78274000,-122.44289000
+2022,San Francisco,106380939,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,4,588,0.57,Average,37.75657000,-122.40637000
+2022,San Francisco,106380960,Saint Francis Memorial Hospital,1,346,0.21,Average,37.78917000,-122.41695000
+2022,San Francisco,106380965,St. Mary's Medical Center,2,369,0.49,Average,37.77408000,-122.45441000
+2022,San Francisco,106381154,UC San Francisco Medical Center,36,6228,0.46,Average,37.76351480,-122.45765640
+2022,San Joaquin,106390923,Adventist Health Lodi Memorial,0,74,0.00,Average,38.12146000,-121.28590000
+2022,San Joaquin,106390846,Dameron Hospital,0,221,0.00,Average,37.96125000,-121.30067000
+2022,San Joaquin,106392287,Doctors Hospital of Manteca,2,290,2.21,Average,37.80111000,-121.19746000
+2022,San Joaquin,106394009,Kaiser Foundation Hospital – Manteca,1,581,0.12,Average,37.79736000,-121.24614000
+2022,San Joaquin,106391010,San Joaquin General Hospital,2,349,0.72,Average,37.88594000,-121.28918000
+2022,San Joaquin,106391042,St. Joseph's Medical Center of Stockton,2,585,0.36,Average,37.97075000,-121.28910000
+2022,San Joaquin,106391056,Sutter Tracy Community Hospital,2,212,2.66,Average,37.74366000,-121.43482000
+2022,San Luis Obispo,106400480,French Hospital Medical Center,0,458,0.00,Average,35.27801000,-120.64977000
+2022,San Luis Obispo,106400466,Marian Regional Medical Center – Arroyo Grande,1,211,0.82,Average,35.11369000,-120.59147000
+2022,San Luis Obispo,106400524,Tenet Health Central Coast Sierra Vista Regional Medical Center,2,122,2.16,Average,35.29098600,-120.66630900
+2022,San Luis Obispo,106400548,Tenet Health Central Coast Twin Cities Community Hospital,0,68,0.00,Average,35.55430000,-120.71967000
+2022,San Mateo,106410817,AHMC Seton Medical Center,1,98,0.97,Average,37.68172000,-122.47283000
+2022,San Mateo,106414139,Kaiser Foundation Hospital – Redwood City,3,1208,0.32,Average,37.48967000,-122.22463000
+2022,San Mateo,106410806,Kaiser Foundation Hospital – South San Francisco,1,543,0.15,Average,37.65806000,-122.43837000
+2022,San Mateo,106410852,Mills-Peninsula Medical Center,2,1281,0.16,Average,37.59446920,-122.38324650
+2022,San Mateo,106410782,San Mateo Medical Center,2,127,2.66,Average,37.53017000,-122.29951000
+2022,San Mateo,106410891,Sequoia Hospital,1,856,0.16,Average,37.48129000,-122.25377000
+2022,Santa Barbara,106420483,Goleta Valley Cottage Hospital,0,416,0.00,Average,34.43336000,-119.80929000
+2022,Santa Barbara,106420491,Lompoc Valley Medical Center,0,241,0.00,Average,34.63925200,-120.43964970
+2022,Santa Barbara,106420493,Marian Regional Medical Center,2,940,0.38,Average,34.95198000,-120.41338000
+2022,Santa Barbara,106420514,Santa Barbara Cottage Hospital,7,1649,0.44,Average,34.42948000,-119.72317000
+2022,Santa Clara,106430763,El Camino Health,3,1695,0.19,Average,37.36779000,-122.07801000
+2022,Santa Clara,106430779,Good Samaritan Hospital – San Jose,6,865,0.91,Average,37.25116000,-121.94490000
+2022,Santa Clara,106431506,Kaiser Foundation Hospital – San Jose,4,1109,0.24,Average,37.23924000,-121.80269000
+2022,Santa Clara,106434153,Kaiser Foundation Hospital – Santa Clara,10,1576,0.38,Average,37.33459700,-121.99577400
+2022,Santa Clara,106430837,O'Connor Hospital,2,373,0.77,Average,37.32714000,-121.93727000
+2022,Santa Clara,106430705,Regional Medical Center of San Jose,0,241,0.00,Average,37.36332000,-121.84837000
+2022,Santa Clara,106430883,Santa Clara Valley Medical Center,2,772,0.30,Average,37.31346000,-121.93202000
+2022,Santa Clara,106434138,St. Louise Regional Hospital,0,46,0.00,Average,37.03731000,-121.57411000
+2022,Santa Clara,106430905,Stanford Health Care,51,7210,0.50,Average,37.43300000,-122.17588100
+2022,Santa Cruz,106440755,Dominican Hospital,7,446,1.24,Below Average,36.98806000,-121.98489000
+2022,Santa Cruz,106444013,Watsonville Community Hospital,0,73,0.00,Average,36.92839000,-121.79173000
+2022,Shasta,106450949,Mercy Medical Center – Redding,3,538,0.59,Average,40.57204000,-122.39742000
+2022,Shasta,106454013,Patients' Hospital of Redding,0,55,0.00,Average,40.58563000,-122.41632000
+2022,Shasta,106450940,Shasta Regional Medical Center,1,866,0.18,Average,40.58562000,-122.38773100
+2022,Siskiyou,106474007,Fairchild Medical Center,1,71,3.33,Average,41.71949000,-122.64580100
+2022,Siskiyou,106470871,Mercy Medical Center Mt. Shasta,0,46,0.00,Average,41.31894000,-122.32309000
+2022,Solano,106480989,Kaiser Foundation Hospital & Rehab Center – Vallejo,2,207,0.33,Average,38.12839000,-122.24761000
+2022,Solano,106484044,Kaiser Foundation Hospital – Vacaville,1,488,0.35,Average,38.38949680,-121.93731770
+2022,Solano,106481357,NorthBay Medical Center,2,233,0.84,Average,38.26097000,-122.05076000
+2022,Solano,106481094,Sutter Solano Medical Center,5,420,1.83,Below Average,38.13109000,-122.23852000
+2022,Sonoma,106490964,Healdsburg Hospital,0,6,0.00,Average,38.62764000,-122.86385000
+2022,Sonoma,106494019,Kaiser Foundation Hospital – Santa Rosa,1,310,0.26,Average,38.47087000,-122.73119000
+2022,Sonoma,106491001,Petaluma Valley Hospital,0,77,0.00,Average,38.25323000,-122.63302000
+2022,Sonoma,106491064,Providence Santa Rosa Memorial Hospital – Montgomery,1,718,0.14,Average,38.44290000,-122.70149000
+2022,Sonoma,106491338,Sonoma Specialty Hospital,0,5,0.00,Average,38.39825000,-122.82115000
+2022,Sonoma,106491076,Sonoma Valley Hospital,0,72,0.00,Average,38.28841000,-122.46524000
+2022,Sonoma,106494106,Sutter Santa Rosa Regional Hospital,5,739,1.16,Average,38.49636000,-122.75140000
+2022,Stanislaus,106500852,Doctors Medical Center,1,369,0.49,Average,37.66439000,-120.99631000
+2022,Stanislaus,106500867,Emanuel Medical Center,0,4,0.00,Average,37.51052000,-120.83966000
+2022,Stanislaus,106500939,Memorial Medical Center – Modesto,7,1477,0.86,Average,37.66868000,-120.97338100
+2022,Stanislaus,106504038,Stanislaus Surgical Hospital,0,219,0.00,Average,37.66395000,-120.95756000
+2022,Sutter,106514030,Sutter Surgical Hospital – North Valley,0,174,0.00,Average,39.13216000,-121.61354000
+2022,Tehama,106521041,St. Elizabeth Community Hospital,0,74,0.00,Average,40.14950000,-122.21887000
+2022,Tulare,106540816,Adventist Health Tulare,0,54,0.00,Average,36.22101660,-119.33853410
+2022,Tulare,106540734,Kaweah Health Medical Center,7,1190,0.69,Average,36.32753000,-119.29345000
+2022,Tulare,106540798,Sierra View Medical Center,0,108,0.00,Average,36.06948000,-119.02727000
+2022,Tuolumne,106554011,Adventist Health Sonora – Greenley,2,226,0.88,Average,37.97568000,-120.36900000
+2022,Ventura,106560525,Adventist Health Simi Valley,1,195,0.77,Average,34.28973000,-118.74394000
+2022,Ventura,106560473,Community Memorial Hospital – San Buenaventura,5,1062,0.59,Average,34.27458900,-119.25812400
+2022,Ventura,106560492,Los Robles Hospital & Medical Center,5,1643,0.55,Average,34.20762000,-118.88241100
+2022,Ventura,106560501,Ojai Valley Community Hospital,0,4,0.00,Average,34.44221000,-119.26311000
+2022,Ventura,106560508,St. John's Hospital Camarillo,0,83,0.00,Average,34.24177000,-119.01800000
+2022,Ventura,106560529,St. John's Regional Medical Center,2,651,0.31,Average,34.21687000,-119.15819000
+2022,Yolo,106574010,Sutter Davis Hospital,0,57,0.00,Average,38.56289000,-121.77164000
+2022,Yolo,106571086,Woodland Memorial Hospital,0,243,0.00,Average,38.66284000,-121.79330000
+2022,Yuba,106580996,Adventist Health and Rideout,1,315,0.50,Average,39.13880500,-121.59360200

@@ -1,0 +1,874 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "Department of Health Care Access and Information: California Hospital Performance Ratings for Coronary Artery Bypass Graft (CABG) Surgery Data",
+  "contact_email": "dataandreports@hcai.ca.gov",
+  "data_collection_tool": "https://hcai.ca.gov/data/submit-data/coronary-artery-bypass-grafts/",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "This dataset contains the location of hospitals that performed Coronary Artery Bypass Graft (CABG) surgery in California from 2011 to 2022. It also provides performance ratings for the following risk-adjusted outcome measures related to the CABG surgery: operative mortality for isolated CABG and CABG plus valve, post-operative stroke, and 30-day all cause readmission. The dataset also includes the number of cases and adverse events for each CABG outcome measure. The methodology, including risk models that generated the rates and performance ratings differed among years. Users should exercise caution when comparing trends of rates over time (see metadata for more information).",
+  "geo_coverage": "Statewide",
+  "geographic_granularity": "location point",
+  "keywords": [
+    "30-day readmission rate",
+    "cardiac bypass",
+    "cardiac surgery",
+    "coronary artery bypass graft",
+    "deaths",
+    "healthcare",
+    "healthcare quality",
+    "heart bypass",
+    "hospital quality",
+    "hospital readmission",
+    "measures",
+    "mortality rate",
+    "outcome",
+    "patient",
+    "performance rating",
+    "post-operative stroke",
+    "risk-adjusted rate"
+  ],
+  "limitations": "Limitations",
+  "name": "california-hospital-performance-ratings-for-coronary-artery-bypass-graft-cabg-surgery",
+  "program_web_page": "https://hcai.ca.gov/data/healthcare-quality/coronary-artery-bypass-graft-outcomes-reports/",
+  "related_resources": "The Society of Thoracic Surgeons: http://www.sts.org/. This information is provided as a courtesy. The State does not control any third-party web services or any of the material on third-party sites. It does not imply approval or endorsement of the organization represented by the website or the website content. See CalHHS Terms of Use for additional information",
+  "resources": [
+    {
+      "format": "CSV",
+      "hash": "5045fe5f69820c867b19ff4328846f72",
+      "name": "2018-2022-california-hospital-performance-ratings-for-coronary-artery-bypass-graft-cabg-surgery",
+      "path": "2018-2022-california-hospital-performance-ratings-for-coronary-artery-bypass-graft-cabg-surgery.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "County",
+            "type": "string"
+          },
+          {
+            "name": "Hospital",
+            "type": "string"
+          },
+          {
+            "name": "Hospital ID",
+            "type": "string"
+          },
+          {
+            "name": "Performance Measure",
+            "type": "string"
+          },
+          {
+            "name": "Total Statewide CABG Cases",
+            "type": "string"
+          },
+          {
+            "name": "Total Statewide CABG Cases for Performance Measure Reporting",
+            "type": "string"
+          },
+          {
+            "name": "Statewide Adverse Events",
+            "type": "string"
+          },
+          {
+            "name": "Statewide Adverse Events Rate (%)",
+            "type": "string"
+          },
+          {
+            "name": "Total Hospital CABG Cases",
+            "type": "string"
+          },
+          {
+            "name": "Total Hospital CABG Cases for Performance Measure Reporting",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Adverse Events",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Observed Adverse Events Rate (%)",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Expected Adverse Events Rate (%)",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Risk-Adjusted Adverse Events Rate (%,RAAER)",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Lower 95% CI for RAAER",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Upper 95% CI for RAAER",
+            "type": "string"
+          },
+          {
+            "name": "Performance Rating",
+            "type": "string"
+          },
+          {
+            "name": "Longitude",
+            "type": "string"
+          },
+          {
+            "name": "Latitude",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/3855214d-a9da-4802-ba92-c3880f36d1a3/download/2018-2022-california-hospital-performance-ratings-for-coronary-artery-bypass-graft-surgery.csv",
+          "title": "2018-2022 California Hospital Performance Ratings for Coronary Artery Bypass Graft (CABG) Surgery"
+        }
+      ],
+      "title": "2018-2022 California Hospital Performance Ratings for Coronary Artery Bypass Graft (CABG) Surgery"
+    },
+    {
+      "format": "PDF",
+      "name": "2018-2022-data-dictionary",
+      "path": "2018-2022-data-dictionary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/d01574ee-04cc-422e-8280-ca88987f2582/download/2018-2022-data-dictionary.pdf",
+          "title": "2018-2022 Data Dictionary"
+        }
+      ],
+      "title": "2018-2022 Data Dictionary"
+    },
+    {
+      "format": "PDF",
+      "name": "2022-executive-summary",
+      "path": "2022-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/86773748-705f-4d8c-b862-4d7b76a8f8e7/download/2022-executive-summary.pdf",
+          "title": "2022 Executive Summary"
+        }
+      ],
+      "title": "2022 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2022-hospital-results",
+      "path": "2022-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/e0a47519-3c69-44be-a26f-f355e2e4ce56/download/2022-hospital-results.pdf",
+          "title": "2022 Hospital Results"
+        }
+      ],
+      "title": "2022 Hospital Results"
+    },
+    {
+      "format": "PDF",
+      "name": "2022-technical-note",
+      "path": "2022-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/f837b9bf-88f6-4277-9a59-b72f2ed71cd7/download/2022-technical-note.pdf",
+          "title": "2022 Technical Note"
+        }
+      ],
+      "title": "2022 Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2021-executive-summary",
+      "path": "2021-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/889abc39-43dc-4d15-bd44-e8ae0dc7d2a3/download/2021_executive_summary.pdf",
+          "title": "2021 Executive Summary"
+        }
+      ],
+      "title": "2021 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2021-hospital-results",
+      "path": "2021-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/3a7bf4bf-7488-4649-851a-cac77f1da98e/download/2021_hospital_results.pdf",
+          "title": "2021 Hospital Results"
+        }
+      ],
+      "title": "2021 Hospital Results"
+    },
+    {
+      "format": "PDF",
+      "name": "2021-technical-note",
+      "path": "2021-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/42677cf5-3b12-4f67-bc2b-1d6e3e939f3b/download/2021_technical_note.pdf",
+          "title": "2021 Technical Note"
+        }
+      ],
+      "title": "2021 Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2020-executive-summary",
+      "path": "2020-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/463973d8-86ce-4b54-9c53-49d1e30dd355/download/2020_executive_summary.pdf",
+          "title": "2020 Executive Summary"
+        }
+      ],
+      "title": "2020 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2020-hospital-results",
+      "path": "2020-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/a56efbca-2e24-4df9-b816-3e4ec05475cb/download/2020_hospital_results.pdf",
+          "title": "2020 Hospital Results"
+        }
+      ],
+      "title": "2020 Hospital Results"
+    },
+    {
+      "format": "PDF",
+      "name": "2020-technical-note",
+      "path": "2020-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/e4bc88c3-a00f-4065-9dff-3806f94406ae/download/2020_technical_note.pdf",
+          "title": "2020 Technical Note"
+        }
+      ],
+      "title": "2020 Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2019-executive-summary",
+      "path": "2019-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/303a9eb4-5667-4e88-852d-a19b6a8fa9b6/download/2019_executive_summary.pdf",
+          "title": "2019 Executive Summary"
+        }
+      ],
+      "title": "2019 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2019-hospital-results",
+      "path": "2019-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/83ffe33f-651f-44be-876c-b1d04a1e992b/download/2019_hospital_results.pdf",
+          "title": "2019 Hospital Results"
+        }
+      ],
+      "title": "2019 Hospital Results"
+    },
+    {
+      "format": "PDF",
+      "name": "2019-hospital-statement",
+      "path": "2019-hospital-statement.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/38d91387-5097-4b1e-a3c3-d4defe062540/download/2019_hospital_statement.pdf",
+          "title": "2019 Hospital Statement"
+        }
+      ],
+      "title": "2019 Hospital Statement"
+    },
+    {
+      "format": "PDF",
+      "name": "2019-technical-note",
+      "path": "2019-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/b5b811d0-b991-46b0-b5d0-4efd58cc2bcf/download/2019_technical_note.pdf",
+          "title": "2019 Technical Note"
+        }
+      ],
+      "title": "2019 Technical Note"
+    },
+    {
+      "description": "This dataset contains the location of hospitals that performed Coronary Artery Bypass Graft (CABG) surgery in California from 2011 to 2018. It also provides performance ratings for the following outcome measures related to the CABG surgery: risk-adjusted operative mortality, post-operative stroke, and 30-day readmission; and number of adverse events and cases for each CABG outcome measure. The methodology, including risk models that generated the rates and performance ratings differed among years. Users should exercise caution when comparing trends of rates over time (see metadata for more information).",
+      "format": "CSV",
+      "hash": "12ce359a0e6e3e50cf6ca5977ecf5f43",
+      "name": "2011-2018-california-hospital-performance-ratings-for-coronary-artery-bypass-graft-cabg-surgery",
+      "path": "2011-2018-california-hospital-performance-ratings-for-coronary-artery-bypass-graft-cabg-surgery.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "County",
+            "type": "string"
+          },
+          {
+            "name": "Hospital",
+            "type": "string"
+          },
+          {
+            "name": "OSHPD ID",
+            "type": "string"
+          },
+          {
+            "name": "Performance Measure",
+            "type": "string"
+          },
+          {
+            "name": "# of Cases",
+            "type": "string"
+          },
+          {
+            "name": "# of Adverse Events",
+            "type": "string"
+          },
+          {
+            "name": "Risk-adjusted Rate",
+            "type": "string"
+          },
+          {
+            "name": "Performance Rating",
+            "type": "string"
+          },
+          {
+            "name": "Longitude",
+            "type": "string"
+          },
+          {
+            "name": "Latitude",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/ce4bdc8d-0473-4959-bb2d-6b22260ae1be/download/california-hospital-performance-ratings-for-coronary-artery-bypass-graft-cabg-surgery-2011-2018.csv",
+          "title": "2011-2018 California Hospital Performance Ratings for Coronary Artery Bypass Graft (CABG) Surgery "
+        }
+      ],
+      "title": "2011-2018 California Hospital Performance Ratings for Coronary Artery Bypass Graft (CABG) Surgery "
+    },
+    {
+      "description": "This dataset contains the location of hospitals that performed Coronary Artery Bypass Graft (CABG) surgery in California from 2011 to 2018. It also provides performance ratings for the following outcome measures related to the CABG surgery: risk-adjusted operative mortality, post-operative stroke, and 30-day readmission; and number of adverse events and cases for each CABG outcome measure. The methodology, including risk models that generated the rates and performance ratings differed among years. Users should exercise caution when comparing trends of rates over time (see metadata for more information).",
+      "format": "PDF",
+      "name": "2011-2018-data-dictionary",
+      "path": "2011-2018-data-dictionary.pdf",
+      "schema": {
+        "fields": [
+          {
+            "name": "California Hospital Perfor",
+            "type": "string"
+          },
+          {
+            "name": "mance Ratings for Co",
+            "type": "string"
+          },
+          {
+            "name": "ronary Arter",
+            "type": "string"
+          },
+          {
+            "name": "y Bypass Graft (CABG) Surgery",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/f9588337-dd46-45cb-9218-32faede8c220/download/data-dictionary-cabg-report-hospital-summary-.pdf",
+          "title": "2011-2018 Data Dictionary "
+        }
+      ],
+      "title": "2011-2018 Data Dictionary "
+    },
+    {
+      "format": "PDF",
+      "name": "2017-2018-executive-summary",
+      "path": "2017-2018-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/e5e63934-91ad-4b39-846e-1a672ca797b4/download/2017-2018-executive-summary.pdf",
+          "title": "2017-2018 Executive Summary"
+        }
+      ],
+      "title": "2017-2018 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2017-2018-hospital-results",
+      "path": "2017-2018-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/db5a6180-5931-4805-947c-6a194143f784/download/2017-2018-hospital-results.pdf",
+          "title": "2017-2018 Hospital Results"
+        }
+      ],
+      "title": "2017-2018 Hospital Results"
+    },
+    {
+      "format": "PDF",
+      "name": "2017-2018-surgeon-results",
+      "path": "2017-2018-surgeon-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/ba529ef6-c4ef-4b56-8bf4-a7618e3ae6aa/download/2017-2018-surgeon-results.pdf",
+          "title": "2017-2018 Surgeon Results"
+        }
+      ],
+      "title": "2017-2018 Surgeon Results"
+    },
+    {
+      "format": "PDF",
+      "name": "2017-2018-technical-note",
+      "path": "2017-2018-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/59516b69-16ee-44f7-8ae9-8f82018472f1/download/2017-2018-technical-note.pdf",
+          "title": "2017-2018 Technical Note"
+        }
+      ],
+      "title": "2017-2018 Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2017-executive-summary",
+      "path": "2017-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/1b9006da-ae93-4348-921f-fe70b7055770/download/2017-executive-summary.pdf",
+          "title": "2017 Executive Summary"
+        }
+      ],
+      "title": "2017 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2017-hospital-results",
+      "path": "2017-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/51e78126-5217-49ab-bf4a-9d96767ce073/download/2017-hospital-results.pdf",
+          "title": "2017 Hospital Results"
+        }
+      ],
+      "title": "2017 Hospital Results"
+    },
+    {
+      "format": "PDF",
+      "name": "2017-hospital-statement",
+      "path": "2017-hospital-statement.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/24a34f0e-9695-424e-a54d-57ddfb6e710b/download/2017-hospital-statement.pdf",
+          "title": "2017 Hospital Statement"
+        }
+      ],
+      "title": "2017 Hospital Statement"
+    },
+    {
+      "format": "PDF",
+      "name": "2017-technical-note",
+      "path": "2017-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/9694f676-5bd4-41a3-ab5b-888ddf11e6e7/download/2017-technical-note.pdf",
+          "title": "2017 Technical Note"
+        }
+      ],
+      "title": "2017 Technical Note"
+    },
+    {
+      "format": "PDF",
+      "name": "2015-2016-executive-summary",
+      "path": "2015-2016-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/ea47ca6b-829b-4136-8fff-a505fc0a7779/download/2016-executive-summary.pdf",
+          "title": "2015-2016 Executive Summary"
+        }
+      ],
+      "title": "2015-2016 Executive Summary"
+    },
+    {
+      "format": "PDF",
+      "name": "2015-2016-hospital-results",
+      "path": "2015-2016-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/cc84d7da-8ed3-4a6d-a843-6371d6b04a81/download/2016-hospital-results.pdf",
+          "title": "2015-2016 Hospital Results"
+        }
+      ],
+      "title": "2015-2016 Hospital Results"
+    },
+    {
+      "format": "PDF",
+      "name": "2015-2016-hospital-statements",
+      "path": "2015-2016-hospital-statements.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/3c320b0d-1183-4d79-bb12-474c26b80c94/download/2016-hospital-statements.pdf",
+          "title": "2015-2016 Hospital Statements"
+        }
+      ],
+      "title": "2015-2016 Hospital Statements"
+    },
+    {
+      "format": "PDF",
+      "name": "2015-2016-surgeon-results",
+      "path": "2015-2016-surgeon-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/fe7918e1-ebe5-4256-b108-ba78661303ee/download/2015-2016-surgeon-results.pdf",
+          "title": "2015-2016 Surgeon Results"
+        }
+      ],
+      "title": "2015-2016 Surgeon Results"
+    },
+    {
+      "format": "PDF",
+      "name": "2015-2016-technical-note",
+      "path": "2015-2016-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/aa0aca1b-d66c-47d0-b7f5-374f97d7821a/download/cabg-2016-ccorp_tech-note-final.pdf",
+          "title": "2015-2016 Technical Note"
+        }
+      ],
+      "title": "2015-2016 Technical Note"
+    },
+    {
+      "description": "2015 CABG Executive Summary",
+      "format": "PDF",
+      "name": "2015-executive-summary",
+      "path": "2015-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/e2127f3a-e712-412a-b931-ea151c053c03/download/2015-executive-summary.pdf",
+          "title": "2015 Executive Summary"
+        }
+      ],
+      "title": "2015 Executive Summary"
+    },
+    {
+      "description": "2015 Hospitals Results",
+      "format": "PDF",
+      "name": "2015-hospital-results",
+      "path": "2015-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/233851b6-0acf-4c0e-83e3-5865073be7a7/download/2015-hospital-results.pdf",
+          "title": "2015 Hospital Results"
+        }
+      ],
+      "title": "2015 Hospital Results"
+    },
+    {
+      "description": "2015 Hospital Statements",
+      "format": "PDF",
+      "name": "2015-hospital-statements",
+      "path": "2015-hospital-statements.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/f0e5ef98-18df-4f05-bff0-0d1d3d32bb14/download/2015-hospital-statements.pdf",
+          "title": "2015 Hospital Statements"
+        }
+      ],
+      "title": "2015 Hospital Statements"
+    },
+    {
+      "description": "2015 Technical Note",
+      "format": "PDF",
+      "name": "2015-technical-note",
+      "path": "2015-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/7603cead-8181-4063-bd4b-054d256bf750/download/2015-technical-note.pdf",
+          "title": "2015 Technical Note"
+        }
+      ],
+      "title": "2015 Technical Note"
+    },
+    {
+      "description": "2013-2014 Executive Summary",
+      "format": "PDF",
+      "name": "2013-2014-executive-summary",
+      "path": "2013-2014-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/22a144e0-9915-4b21-967c-bf166d408c2b/download/2013-2014-executive-summary.pdf",
+          "title": "2013-2014 Executive Summary"
+        }
+      ],
+      "title": "2013-2014 Executive Summary"
+    },
+    {
+      "description": "2013-2014 Hospital Results",
+      "format": "PDF",
+      "name": "2013-2014-hospital-results",
+      "path": "2013-2014-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/5c08b432-daec-4f03-b344-2adb35029384/download/2013-2014-hospital-results.pdf",
+          "title": "2013-2014 Hospital Results"
+        }
+      ],
+      "title": "2013-2014 Hospital Results"
+    },
+    {
+      "description": "2013-2014 Surgeon Results",
+      "format": "PDF",
+      "name": "2013-2014-surgeon-results",
+      "path": "2013-2014-surgeon-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/e14f435d-eb6d-4506-9080-a514d5c8eb8f/download/2013-2014-surgeon-results.pdf",
+          "title": "2013-2014 Surgeon Results"
+        }
+      ],
+      "title": "2013-2014 Surgeon Results"
+    },
+    {
+      "description": "2013-2014 Hospital Statements",
+      "format": "PDF",
+      "name": "2013-2014-hospital-statements",
+      "path": "2013-2014-hospital-statements.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/183f4cbe-0e24-4b11-ab3f-7e33853cb06a/download/2013-2014-hospital-statements.pdf",
+          "title": "2013-2014 Hospital Statements"
+        }
+      ],
+      "title": "2013-2014 Hospital Statements"
+    },
+    {
+      "description": "2013-2014 Technical Note",
+      "format": "PDF",
+      "name": "2013-2014-technical-note",
+      "path": "2013-2014-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/3a543a63-2ae6-414b-a4f9-3b0ee84f2ec0/download/2013-2014-technical-note.pdf",
+          "title": "2013-2014 Technical Note"
+        }
+      ],
+      "title": "2013-2014 Technical Note"
+    },
+    {
+      "description": "2013 Executive Summary",
+      "format": "PDF",
+      "name": "2013-executive-summary",
+      "path": "2013-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/f8bcb448-2aec-4b09-863f-28d58a31a725/download/2013-executive-summary.pdf",
+          "title": "2013 Executive Summary"
+        }
+      ],
+      "title": "2013 Executive Summary"
+    },
+    {
+      "description": "2013 Hospital Results",
+      "format": "PDF",
+      "name": "2013-hospital-results",
+      "path": "2013-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/50c7d7dd-efe0-416d-836a-db9160fd174a/download/2013-hospital-results.pdf",
+          "title": "2013 Hospital Results"
+        }
+      ],
+      "title": "2013 Hospital Results"
+    },
+    {
+      "description": "2013 Hospital Statements",
+      "format": "PDF",
+      "name": "2013-hospital-statements",
+      "path": "2013-hospital-statements.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/7a088360-ce74-46d7-84d0-9ef09089b55f/download/2013-hospital-statements.pdf",
+          "title": "2013 Hospital Statements"
+        }
+      ],
+      "title": "2013 Hospital Statements"
+    },
+    {
+      "description": "2013 Technical Note",
+      "format": "PDF",
+      "name": "2013-technical-note",
+      "path": "2013-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/e8d8950f-e6d8-44da-9bf2-ea34a6b69f64/download/2013-technical-notes.pdf",
+          "title": "2013 Technical Note"
+        }
+      ],
+      "title": "2013 Technical Note"
+    },
+    {
+      "description": "2011-2012 Executive Summary",
+      "format": "PDF",
+      "name": "2011-2012-executive-summary",
+      "path": "2011-2012-executive-summary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/e27bb64c-31ab-41d2-ba5d-68f108df0a19/download/2011-2012-executive-summary.pdf",
+          "title": "2011-2012 Executive Summary"
+        }
+      ],
+      "title": "2011-2012 Executive Summary"
+    },
+    {
+      "description": "2011-2012 Hospital Results",
+      "format": "PDF",
+      "name": "2011-2012-hospital-results",
+      "path": "2011-2012-hospital-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/8657d0fa-3746-4b2b-849a-56ba869da405/download/2011-2012-hospital-results.pdf",
+          "title": "2011-2012 Hospital Results"
+        }
+      ],
+      "title": "2011-2012 Hospital Results"
+    },
+    {
+      "description": "2011-2012 Surgeon Results",
+      "format": "PDF",
+      "name": "2011-2012-surgeon-results",
+      "path": "2011-2012-surgeon-results.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/f9f7f4e9-54a2-4f1f-8ee4-7772dc11e34e/download/2011-2012-surgeons-results.pdf",
+          "title": "2011-2012 Surgeon Results"
+        }
+      ],
+      "title": "2011-2012 Surgeon Results"
+    },
+    {
+      "description": "2011-2012 Hospital Statements",
+      "format": "PDF",
+      "name": "2011-2012-hospital-statements",
+      "path": "2011-2012-hospital-statements.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/4b6d1edc-4f84-4837-9460-37d68bb1f52d/download/2011-2012-hospital-statements.pdf",
+          "title": "2011-2012 Hospital Statements"
+        }
+      ],
+      "title": "2011-2012 Hospital Statements"
+    },
+    {
+      "description": "2011-2012 Technical Note",
+      "format": "PDF",
+      "name": "2011-2012-technical-note",
+      "path": "2011-2012-technical-note.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/303ede06-bba1-4c3a-9054-8c608222262e/download/2011-2012-technical-note.pdf",
+          "title": "2011-2012 Technical Note"
+        }
+      ],
+      "title": "2011-2012 Technical Note"
+    },
+    {
+      "description": "2011 Hospital Report (full report)",
+      "format": "PDF",
+      "name": "2011-hospital-report-full-report",
+      "path": "2011-hospital-report-full-report.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/5acfd7f3-e121-4d53-906f-85027ceaaf8a/download/2011-hospital-full-report.pdf",
+          "title": "2011 Hospital Report (full report)"
+        }
+      ],
+      "title": "2011 Hospital Report (full report)"
+    },
+    {
+      "description": "2009-2010 Hospital and Surgeon Report (full report)",
+      "format": "PDF",
+      "name": "2009-2010-hospital-and-surgeon-report-full-report",
+      "path": "2009-2010-hospital-and-surgeon-report-full-report.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/9b16d53f-d70d-4f28-96ae-1dd07edcc84e/download/2009-2010-hospital-and-surgeon-report.pdf",
+          "title": "2009-2010 Hospital and Surgeon Report (full report)"
+        }
+      ],
+      "title": "2009-2010 Hospital and Surgeon Report (full report)"
+    },
+    {
+      "description": "2009 Hospital Report (full report)",
+      "format": "PDF",
+      "name": "2009-hospital-report-full-report",
+      "path": "2009-hospital-report-full-report.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/d63e347e-c49d-4789-b729-78930deb72cc/download/2009-hospital-report-full-report.pdf",
+          "title": "2009 Hospital Report (full report)"
+        }
+      ],
+      "title": "2009 Hospital Report (full report)"
+    },
+    {
+      "description": "2007-2008 Hospital and Surgeon Report (full report)",
+      "format": "PDF",
+      "name": "2007-2008-hospital-and-surgeon-report-full-report",
+      "path": "2007-2008-hospital-and-surgeon-report-full-report.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/03c0ee69-4b8c-424b-bc06-f996bdf1985e/download/2007-2008-hospital-and-surgeon-report-full-report.pdf",
+          "title": "2007-2008 Hospital and Surgeon Report (full report)"
+        }
+      ],
+      "title": "2007-2008 Hospital and Surgeon Report (full report)"
+    },
+    {
+      "description": "2007 Hospital Report (full report)",
+      "format": "PDF",
+      "name": "2007-hospital-report-full-report",
+      "path": "2007-hospital-report-full-report.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/30d408ba-c924-45c3-ae09-1960a2803b20/download/2007-hospital-report-full-report.pdf",
+          "title": "2007 Hospital Report (full report)"
+        }
+      ],
+      "title": "2007 Hospital Report (full report)"
+    },
+    {
+      "description": "2005-2006 Hospital and Surgeon Report (full report)",
+      "format": "PDF",
+      "name": "2005-2006-hospital-and-surgeon-report-full-report",
+      "path": "2005-2006-hospital-and-surgeon-report-full-report.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/cdfbe77b-abdc-4e2f-b1da-db47b2064b74/resource/1bd7d07b-e593-43ce-818a-5624736d2c36/download/2005-2006-hospital-and-surgeon-report-full-report.pdf",
+          "title": "2005-2006 Hospital and Surgeon Report (full report)"
+        }
+      ],
+      "title": "2005-2006 Hospital and Surgeon Report (full report)"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Health Care Access and Information, Information Services Division, Healthcare Analytics Branch, Quality and Performance Section",
+      "web": "https://hcai.ca.gov/data/healthcare-quality/coronary-artery-bypass-graft-outcomes-reports/"
+    }
+  ],
+  "temporal_coverage": "2011-2022",
+  "title": "California Hospital Performance Ratings for Coronary Artery Bypass Graft (CABG) Surgery"
+}

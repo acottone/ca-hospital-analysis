@@ -1,0 +1,239 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "\t\r\nDepartment of Health Care Access and Information Discharge Data, 2019-2022; Agency for Healthcare Research and Quality (AHRQ) Patient Safety Indicators, SAS Software.",
+  "contact_email": "dataandreports@hcai.ca.gov",
+  "data_collection_tool": "https://hcai.ca.gov/data-and-reports/submit-data/patient-data/",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "The dataset contains in-hospital postoperative sepsis cases, elective surgical discharges, risk-adjusted sepsis rates, and performance ratings for California hospitals. This dataset does not include sepsis acquired in outpatient settings. ",
+  "geo_coverage": "Statewide ",
+  "geographic_granularity": "statewide",
+  "keywords": [
+    "AHRQ",
+    "Postoperative sepsis",
+    "agency for healthcare research and quality",
+    "hospital quality",
+    "inpatient discharge",
+    "patient safety indicators",
+    "performance ratings",
+    "quality indicators",
+    "risk adjusted rate"
+  ],
+  "limitations": "Limitations",
+  "name": "postoperative-sepsis-outcomes-for-elective-surgeries-in-california-hospitals",
+  "program_web_page": "https://hcai.ca.gov/data-and-reports/healthcare-quality/ahrq-quality-indicators/",
+  "related_resources": "http://www.qualityindicators.ahrq.gov/ This information is provided as a courtesy. The State does not control any third party web services or any of the material on their sites. It does not imply approval or endorsement of the organization represented by the website or the website content. See CalHHS Terms of Use for additional information.",
+  "resources": [
+    {
+      "description": "The dataset contains in-hospital postoperative sepsis cases, elective surgical discharges, risk-adjusted sepsis rates, and performance ratings for California hospitals. This dataset does not include sepsis acquired in outpatient settings.",
+      "format": "CSV",
+      "hash": "0c21f36cd6f303095e86a0168be8e4ab",
+      "name": "ahrq-postoperative-sepsis-rates-2019-2022",
+      "path": "ahrq-postoperative-sepsis-rates-2019-2022.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "County",
+            "type": "string"
+          },
+          {
+            "name": "OSHPDID",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Name",
+            "type": "string"
+          },
+          {
+            "name": "Postoperative Sepsis Cases",
+            "type": "string"
+          },
+          {
+            "name": "Elective Surgical Discharges",
+            "type": "string"
+          },
+          {
+            "name": "Risk-adjusted Postoperative Sepsis Rate",
+            "type": "string"
+          },
+          {
+            "name": "Risk-adjusted Performance Rating",
+            "type": "string"
+          },
+          {
+            "name": "Latitude",
+            "type": "string"
+          },
+          {
+            "name": "Longitude",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/737a04bb-22f0-417f-8917-c9ef072fa6c1/download/2019-2022-postoperative-sepsis-rates.csv",
+          "title": "AHRQ Postoperative Sepsis Rates 2019-2022"
+        }
+      ],
+      "title": "AHRQ Postoperative Sepsis Rates 2019-2022"
+    },
+    {
+      "description": "Data dictionary for AHRQ Postoperative Sepsis Report, 2019-2021",
+      "format": "PDF",
+      "name": "data-dictionary-postoperative-sepsis-indicator-2019-2022",
+      "path": "data-dictionary-postoperative-sepsis-indicator-2019-2022.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/ba111b1c-7a4f-4d3f-8183-7077770f8ee0/download/data-dictionary-psi-2019-2022.pdf",
+          "title": "Data Dictionary Postoperative Sepsis Indicator 2019-2022"
+        }
+      ],
+      "title": "Data Dictionary Postoperative Sepsis Indicator 2019-2022"
+    },
+    {
+      "description": "The dataset contains in-hospital postoperative sepsis cases, elective surgical discharges, risk-adjusted sepsis rates, and performance ratings for California hospitals. This dataset does not include sepsis acquired in outpatient settings.",
+      "format": "PDF",
+      "name": "ahrq-postoperative-sepsis-rates-2022",
+      "path": "ahrq-postoperative-sepsis-rates-2022.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/4d00db15-7c13-4b35-ba61-e399339c59cd/download/ahrq_psi_v2023_postoperativesepsis2022.pdf",
+          "title": "AHRQ Postoperative Sepsis Rates 2022"
+        }
+      ],
+      "title": "AHRQ Postoperative Sepsis Rates 2022"
+    },
+    {
+      "description": "Executive summary for 2022 AHRQ postoperative sepsis report",
+      "format": "PDF",
+      "name": "ahrq-postoperative-sepsis-executive-summary-2022",
+      "path": "ahrq-postoperative-sepsis-executive-summary-2022.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/823aeb41-4e2b-4baa-8ef6-3c0b020aff30/download/psi_executivesummary_2022data.pdf",
+          "title": "AHRQ Postoperative Sepsis Executive Summary 2022"
+        }
+      ],
+      "title": "AHRQ Postoperative Sepsis Executive Summary 2022"
+    },
+    {
+      "description": "Tech note for 2022 AHRQ postoperative sepsis results",
+      "format": "PDF",
+      "name": "ahrq-postoperative-sepsis-tech-note-2022",
+      "path": "ahrq-postoperative-sepsis-tech-note-2022.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/31538648-fa8b-4df7-b311-0598eb7c5ca2/download/sepsis_technical_note_2022data.pdf",
+          "title": "AHRQ Postoperative Sepsis Tech Note 2022"
+        }
+      ],
+      "title": "AHRQ Postoperative Sepsis Tech Note 2022"
+    },
+    {
+      "description": "The dataset contains in-hospital postoperative sepsis cases, elective surgical discharges, risk-adjusted sepsis rates, and performance ratings for California hospitals. This dataset does not include sepsis acquired in outpatient settings.",
+      "format": "PDF",
+      "name": "ahrq-postoperative-sepsis-rates-2021",
+      "path": "ahrq-postoperative-sepsis-rates-2021.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/6cc5420c-7033-4ab0-87f7-58d4cc893e4e/download/ahrq_psi_v2022_postoperativesepsis2021-ada.pdf",
+          "title": "AHRQ Postoperative Sepsis Rates 2021"
+        }
+      ],
+      "title": "AHRQ Postoperative Sepsis Rates 2021"
+    },
+    {
+      "description": "Executive summary for 2021 AHRQ postoperative sepsis report",
+      "format": "PDF",
+      "name": "ahrq-postoperative-sepsis-executive-summary-2021",
+      "path": "ahrq-postoperative-sepsis-executive-summary-2021.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/4627b6bc-4c6e-4cdc-8fc0-0f103b102277/download/psi_executivesummary_2021data-ada.pdf",
+          "title": "AHRQ Postoperative Sepsis Executive Summary 2021"
+        }
+      ],
+      "title": "AHRQ Postoperative Sepsis Executive Summary 2021"
+    },
+    {
+      "description": "Tech note for 2021 AHRQ postoperative sepsis results",
+      "format": "PDF",
+      "name": "ahrq-postoperative-sepsis-tech-note-2021",
+      "path": "ahrq-postoperative-sepsis-tech-note-2021.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/fe115bcb-935c-42c4-890a-22e2d6e7134c/download/sepsis_technical_note_2021data-ada.pdf",
+          "title": "AHRQ Postoperative Sepsis Tech Note 2021"
+        }
+      ],
+      "title": "AHRQ Postoperative Sepsis Tech Note 2021"
+    },
+    {
+      "description": "Executive summary for 2019-2020 AHRQ postoperative sepsis report",
+      "format": "PDF",
+      "name": "ahrq-postoperative-sepsis-executive-summary-2019-2020",
+      "path": "ahrq-postoperative-sepsis-executive-summary-2019-2020.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/325f72a9-694e-4216-9b6b-e04d402b85aa/download/psi_executivesummary_20192020data_ada.pdf",
+          "title": "AHRQ Postoperative Sepsis Executive Summary 2019-2020"
+        }
+      ],
+      "title": "AHRQ Postoperative Sepsis Executive Summary 2019-2020"
+    },
+    {
+      "description": "Tech note for 2019-2020 AHRQ postoperative sepsis results",
+      "format": "PDF",
+      "name": "ahrq-postoperative-sepsis-tech-note-2019-2020",
+      "path": "ahrq-postoperative-sepsis-tech-note-2019-2020.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/744b35f1-ae0d-4c4f-b67a-74d00fa7f330/download/sepsis_technical_note_20192020data_ada.pdf",
+          "title": "AHRQ Postoperative Sepsis Tech Note 2019-2020"
+        }
+      ],
+      "title": "AHRQ Postoperative Sepsis Tech Note 2019-2020"
+    },
+    {
+      "description": "The dataset contains in-hospital postoperative sepsis cases, elective surgical discharges, risk-adjusted sepsis rates, and performance ratings for California hospitals. This dataset does not include sepsis acquired in outpatient settings.",
+      "format": "PDF",
+      "name": "ahrq-postoperative-sepsis-rates-2019",
+      "path": "ahrq-postoperative-sepsis-rates-2019.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/258c5fdb-61ff-4ea4-86a0-5d249cb805ff/download/ahrq_v2021_postoperativesepsis2019.ada.pdf",
+          "title": "AHRQ Postoperative Sepsis Rates 2019"
+        }
+      ],
+      "title": "AHRQ Postoperative Sepsis Rates 2019"
+    },
+    {
+      "description": "The dataset contains in-hospital postoperative sepsis cases, elective surgical discharges, risk-adjusted sepsis rates, and performance ratings for California hospitals. This dataset does not include sepsis acquired in outpatient settings.",
+      "format": "PDF",
+      "name": "ahrq-postoperative-sepsis-rates-2020",
+      "path": "ahrq-postoperative-sepsis-rates-2020.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/5d9057ec-dfbf-4c47-9f13-6b9a3db640b0/resource/4a52b4af-f877-4c86-afd4-c8b80bc81db5/download/ahrq_v2021_postoperativesepsis2020.ada.pdf",
+          "title": "AHRQ Postoperative Sepsis Rates 2020"
+        }
+      ],
+      "title": "AHRQ Postoperative Sepsis Rates 2020"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Health Care Access and Information, Information Services Division/Healthcare Analytics Branch",
+      "web": "https://hcai.ca.gov/data-and-reports/healthcare-quality/ahrq-quality-indicators/"
+    }
+  ],
+  "temporal_coverage": "2019, 2020, 2021, 2022",
+  "title": "Postoperative Sepsis Outcomes for Elective Surgeries in California Hospitals"
+}

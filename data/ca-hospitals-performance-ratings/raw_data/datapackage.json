@@ -1,0 +1,240 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "Department of Health Care Access and Information Patient Discharge Data, 2016-2022; California Hospital Performance Ratings for Coronary Artery Bypass Graft (CABG) Surgery Data; Agency for Healthcare Research and Quality (AHRQ) Inpatient Quality Indicators; The California Elective Percutaneous Coronary Intervention Program Report.",
+  "contact_email": "dataandreports@hcai.ca.gov",
+  "data_collection_tool": "https://hcai.ca.gov/data/submit-data/patient-data/",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "The dataset provides performance ratings for coronary artery bypass graft (CABG) surgery, inpatient mortality indicators (IMIs), and elective percutaneous coronary intervention (PCI). The outcome measures include: operative mortality for isolated CABG; inpatient mortality for acute stroke, acute myocardial infarction, heart failure, gastrointestinal hemorrhage, hip fracture, pneumonia, abdominal aortic aneurysm repair, carotid endarterectomy, esophageal resection, pancreatic resection, percutaneous coronary intervention; three outcome measures for elective PCI without on-site cardiac surgery: mortality, post-PCI stroke, and post-PCI emergency coronary artery bypass graft surgery; postoperative sepsis following elective surgeries. It includes risk-adjusted rates, number of adverse events and cases. ",
+  "geo_coverage": "Statewide",
+  "geographic_granularity": "location point",
+  "keywords": [
+    "PCI mortality",
+    "aaa repair",
+    "abdominal aortic aneurysm",
+    "acute myocardial infarction",
+    "acute stroke",
+    "agency for healthcare research and quality",
+    "ahrq",
+    "ami",
+    "angioplasty",
+    "brain surgery",
+    "cardiac bypass",
+    "cardiac surgery",
+    "carotic endarterectomy",
+    "coronary artery bypass graft",
+    "elective PCI",
+    "gastro-intestinal hemorrhage",
+    "healthcare",
+    "healthcare quality",
+    "heart bypass",
+    "heart failure",
+    "hemorrhagic stroke",
+    "hip fracture",
+    "hospital quality",
+    "inpatient quality indicators",
+    "ischemic stroke",
+    "measures",
+    "mortality",
+    "outcome",
+    "pancreatic resection",
+    "patient",
+    "pci",
+    "percutaneous coronary intervention",
+    "performance rating",
+    "pneumonia",
+    "postoperative sepsis",
+    "risk-adjusted rate",
+    "stents",
+    "subarachnoid stroke"
+  ],
+  "limitations": "Limitations",
+  "name": "california-hospital-performance-ratings",
+  "program_web_page": "https://hcai.ca.gov/visualizations/hospital-performance-ratings-summary-report/",
+  "related_resources": "The Society of Thoracic Surgeons: http://www.sts.ogr/. http://www.qualityindicators.ahrq.gov/. ACC-NCDR CathPCI Registry. This information is provided as a courtesy. The State does not control any third party web services or any of the material on their sites. It does not imply approval or endorsement of the organization represented by the website or the website content. See CalHHS Terms of Use for additional information.",
+  "resources": [
+    {
+      "description": "The dataset provides performance ratings for coronary artery bypass graft (CABG) surgery, inpatient mortality indicators (IMIs), elective percutaneous coronary intervention (PCI), and Postoperative sepsis (PSI). The outcome measures include: operative mortality for isolated CABG;  inpatient mortality for acute stroke, acute myocardial infarction, heart failure, gastrointestinal hemorrhage, hip fracture, pneumonia,  abdominal aortic aneurysm repair, carotid endarterectomy, esophageal resection, pancreatic resection, percutaneous coronary intervention;  three outcome measures for elective percutaneous coronary intervention without on-site cardiac surgery: mortality, post-PCI stroke, post-PCI emergency coronary artery bypass graft surgery, and postoperative sepsis.  It includes risk-adjusted rates, number of adverse events and cases. ",
+      "format": "CSV",
+      "hash": "11c4395badd20d4d050364941f44656e",
+      "name": "california-hospital-performance-ratings-2017-2022",
+      "path": "california-hospital-performance-ratings-2017-2022.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "County",
+            "type": "string"
+          },
+          {
+            "name": "Hospital",
+            "type": "string"
+          },
+          {
+            "name": "OSHPDID",
+            "type": "number"
+          },
+          {
+            "name": "system",
+            "type": "string"
+          },
+          {
+            "name": "Type of Report",
+            "type": "string"
+          },
+          {
+            "name": "Performance Measure",
+            "type": "string"
+          },
+          {
+            "name": "# of Adverse Events",
+            "type": "number"
+          },
+          {
+            "name": "# of Cases",
+            "type": "number"
+          },
+          {
+            "name": "Risk-adjusted Rate",
+            "type": "number"
+          },
+          {
+            "name": "Hospital Ratings",
+            "type": "string"
+          },
+          {
+            "name": "Latitude",
+            "type": "number"
+          },
+          {
+            "name": "Longitude",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/3ae59d3c-aef0-4742-a16e-65d4e3c27d4a/resource/ad2ccbd3-01be-4dae-997f-417fde510d83/download/csv_hospitalreports1722_odp.csv",
+          "title": "California Hospital Performance Ratings 2017-2022"
+        }
+      ],
+      "title": "California Hospital Performance Ratings 2017-2022"
+    },
+    {
+      "description": "The dataset provides performance ratings for coronary artery bypass graft (CABG) surgery, inpatient mortality indicators (IMIs), and elective percutaneous coronary intervention (PCI). The outcome measures include: operative mortality for isolated CABG;  inpatient mortality for acute stroke, acute myocardial infarction, heart failure, gastrointestinal hemorrhage, hip fracture, pneumonia,  abdominal aortic aneurysm repair, carotid endarterectomy, esophageal resection, pancreatic resection, percutaneous coronary intervention;  three outcome measures for elective percutaneous coronary intervention without on-site cardiac surgery: mortality, post-PCI stroke, post-PCI emergency coronary artery bypass graft surgery, and postoperative sepsis.  It includes risk-adjusted rates, number of adverse events and cases. ",
+      "format": "PDF",
+      "name": "data-dictionary-of-hospital-performance-ratings",
+      "path": "data-dictionary-of-hospital-performance-ratings.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/3ae59d3c-aef0-4742-a16e-65d4e3c27d4a/resource/ea100eaf-7b31-4645-afcd-97c75a09bd97/download/data-dictionary-of-hospital-performance-ratings1622.pdf",
+          "title": "Data Dictionary of Hospital Performance Ratings"
+        }
+      ],
+      "title": "Data Dictionary of Hospital Performance Ratings"
+    },
+    {
+      "description": "The dataset provides performance ratings for coronary artery bypass graft (CABG) surgery, inpatient mortality indicators (IMIs), and elective percutaneous coronary intervention (PCI). The outcome measures include: operative mortality for isolated CABG;  inpatient mortality for acute stroke, acute myocardial infarction, heart failure, gastrointestinal hemorrhage, hip fracture, pneumonia,  abdominal aortic aneurysm repair, carotid endarterectomy, esophageal resection, pancreatic resection, percutaneous coronary intervention;  three outcome measures for elective PCI without on-site cardiac surgery: mortality, post-PCI stroke, and post-PCI emergency coronary artery bypass graft surgery.  It includes risk-adjusted rates, number of adverse events and cases. ",
+      "format": "CSV",
+      "hash": "bbd1ffc1572ba03ce35f400f776f428d",
+      "name": "california-hospital-performance-ratings-2016-2021",
+      "path": "california-hospital-performance-ratings-2016-2021.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "County",
+            "type": "string"
+          },
+          {
+            "name": "OSHPDID",
+            "type": "string"
+          },
+          {
+            "name": "Performance Measure",
+            "type": "string"
+          },
+          {
+            "name": "Risk-adjusted Rate",
+            "type": "string"
+          },
+          {
+            "name": "Longitude",
+            "type": "string"
+          },
+          {
+            "name": "Latitude",
+            "type": "string"
+          },
+          {
+            "name": "Type of Report",
+            "type": "string"
+          },
+          {
+            "name": "Hospital Ratings",
+            "type": "string"
+          },
+          {
+            "name": "# of Cases",
+            "type": "string"
+          },
+          {
+            "name": "# of Adverse Events",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "CNT_WORSE",
+            "type": "string"
+          },
+          {
+            "name": "CNT_BETTER",
+            "type": "string"
+          },
+          {
+            "name": "Rating",
+            "type": "string"
+          },
+          {
+            "name": "Procedure Condition",
+            "type": "string"
+          },
+          {
+            "name": "Performance Measure2",
+            "type": "string"
+          },
+          {
+            "name": "hospital",
+            "type": "string"
+          },
+          {
+            "name": "system",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/3ae59d3c-aef0-4742-a16e-65d4e3c27d4a/resource/9af7d9e9-067e-490e-a1e8-7d09758e92ae/download/csv_hospitalreports1621e_odp.csv",
+          "title": "California Hospital Performance Ratings 2016-2021"
+        }
+      ],
+      "title": "California Hospital Performance Ratings 2016-2021"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Health Care Access and Information, Office of Information Services",
+      "web": "https://hcai.ca.gov/data/"
+    }
+  ],
+  "temporal_coverage": "2016-2022",
+  "title": "California Hospital Performance Ratings"
+}

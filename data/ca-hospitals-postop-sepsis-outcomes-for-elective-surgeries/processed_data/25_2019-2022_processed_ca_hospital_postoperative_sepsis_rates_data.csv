@@ -1,0 +1,1188 @@
+year,county,oshpd_id,hospital,#_of_cases,elective_surgical_discharges,risk_adjusted_rate,hospital_rating
+2019,alameda,106010735,alameda hospital,0,84,0.0,average
+2020,alameda,106010735,alameda hospital,0,71,0.0,average
+2021,alameda,106010735,alameda hospital,0,96,0.0,average
+2022,alameda,106010735,alameda hospital,0,89,0.0,average
+2019,alameda,106010937,alta bates summit medical center,16,1464,1.01,below average
+2020,alameda,106010937,alta bates summit medical center,13,1079,1.1,below average
+2021,alameda,106010937,alta bates summit medical center,10,1141,1.07,below average
+2022,alameda,106010937,alta bates summit medical center,12,1033,1.13,below average
+2019,alameda,106010739,alta bates summit medical center  alta bates campus,3,733,0.65,average
+2020,alameda,106010739,alta bates summit medical center  alta bates campus,3,521,0.9,average
+2021,alameda,106010739,alta bates summit medical center  alta bates campus,4,592,0.97,average
+2022,alameda,106010739,alta bates summit medical center  alta bates campus,0,514,0.0,average
+2019,alameda,106014233,eden medical center,1,488,0.32,average
+2020,alameda,106014233,eden medical center,2,425,0.73,average
+2021,alameda,106014233,eden medical center,5,396,2.03,below average
+2022,alameda,106014233,eden medical center,0,336,0.0,average
+2019,alameda,106010846,highland hospital,0,77,0.0,average
+2020,alameda,106010846,highland hospital,0,373,0.0,average
+2021,alameda,106010846,highland hospital,1,445,0.22,average
+2022,alameda,106010846,highland hospital,1,525,0.2,average
+2019,alameda,106014132,kaiser foundation hospital  fremont,2,480,0.38,average
+2020,alameda,106014132,kaiser foundation hospital  fremont,1,285,0.3,average
+2021,alameda,106014132,kaiser foundation hospital  fremont,1,242,0.36,average
+2022,alameda,106014132,kaiser foundation hospital  fremont,0,55,0.0,average
+2019,alameda,106014326,kaiser foundation hospital  oakland/richmond,12,3061,0.21,above average
+2020,alameda,106014326,kaiser foundation hospital  oakland/richmond,11,2589,0.23,above average
+2021,alameda,106014326,kaiser foundation hospital  oakland/richmond,8,2655,0.2,above average
+2022,alameda,106014326,kaiser foundation hospital  oakland/richmond,9,2442,0.31,average
+2019,alameda,106014337,kaiser foundation hospital  san leandro,6,1313,0.57,average
+2020,alameda,106014337,kaiser foundation hospital  san leandro,3,504,0.45,average
+2021,alameda,106014337,kaiser foundation hospital  san leandro,5,610,0.53,average
+2022,alameda,106014337,kaiser foundation hospital  san leandro,2,537,0.33,average
+2019,alameda,106010967,saint rose hospital,0,388,0.0,average
+2020,alameda,106010967,saint rose hospital,0,212,0.0,average
+2021,alameda,106010967,saint rose hospital,1,215,2.11,average
+2022,alameda,106010967,saint rose hospital,0,198,0.0,average
+2019,alameda,106013619,san leandro hospital,1,72,0.88,average
+2019,alameda,10601405,stanford health care  valleycare,4,879,0.67,average
+2020,alameda,10601405,stanford health care  valleycare,3,665,0.6,average
+2021,alameda,10601405,stanford health care  valleycare,4,611,0.59,average
+2022,alameda,10601405,stanford health care  valleycare,2,613,0.3,average
+2019,alameda,106010987,washington hospital  fremont,1,1440,0.14,average
+2020,alameda,106010987,washington hospital  fremont,2,1016,0.43,average
+2021,alameda,106010987,washington hospital  fremont,3,571,0.95,average
+2022,alameda,106010987,washington hospital  fremont,4,592,1.33,average
+2019,amador,106034002,sutter amador hospital,2,90,1.56,average
+2020,amador,106034002,sutter amador hospital,1,93,1.13,average
+2021,amador,106034002,sutter amador hospital,0,79,0.0,average
+2022,amador,106034002,sutter amador hospital,0,70,0.0,average
+2019,butte,106040962,enloe medical center  esplanade,3,1838,0.26,average
+2020,butte,106040962,enloe medical center  esplanade,4,1602,0.35,average
+2021,butte,106040962,enloe medical center  esplanade,2,1287,0.26,average
+2022,butte,106040962,enloe medical center  esplanade,1,1245,0.1,average
+2019,butte,106040802,orchard hospital,0,3,0.0,average
+2019,butte,106040937,oroville hospital,8,526,0.55,average
+2020,butte,106040937,oroville hospital,11,490,0.97,average
+2021,butte,106040937,oroville hospital,11,407,1.17,below average
+2022,butte,106040937,oroville hospital,1,419,0.13,average
+2019,calaveras,106050932,mark twain medical center,0,63,0.0,average
+2020,calaveras,106050932,mark twain medical center,0,40,0.0,average
+2021,calaveras,106050932,mark twain medical center,0,32,0.0,average
+2022,calaveras,106050932,mark twain medical center,0,36,0.0,average
+2019,contra costa,106070924,contra costa regional medical center,0,255,0.0,average
+2020,contra costa,106070924,contra costa regional medical center,0,183,0.0,average
+2021,contra costa,106070924,contra costa regional medical center,0,156,0.0,average
+2022,contra costa,106070924,contra costa regional medical center,0,135,0.0,average
+2019,contra costa,106071018,john muir medical center  concord campus,10,1726,0.61,average
+2020,contra costa,106071018,john muir medical center  concord campus,11,1395,0.73,average
+2021,contra costa,106071018,john muir medical center  concord campus,17,1441,0.99,below average
+2022,contra costa,106071018,john muir medical center  concord campus,5,1402,0.37,average
+2019,contra costa,106070988,john muir medical center  walnut creek campus,8,2390,0.43,average
+2020,contra costa,106070988,john muir medical center  walnut creek campus,6,2066,0.39,average
+2021,contra costa,106070988,john muir medical center  walnut creek campus,6,1964,0.4,average
+2022,contra costa,106070988,john muir medical center  walnut creek campus,6,2067,0.39,average
+2019,contra costa,106074097,kaiser foundation hospital  antioch,3,835,0.5,average
+2020,contra costa,106074097,kaiser foundation hospital  antioch,3,330,0.42,average
+2021,contra costa,106074097,kaiser foundation hospital  antioch,3,321,0.58,average
+2022,contra costa,106074097,kaiser foundation hospital  antioch,4,330,0.74,average
+2019,contra costa,10607099,kaiser foundation hospital  walnut creek,5,445,0.43,average
+2020,contra costa,10607099,kaiser foundation hospital  walnut creek,5,341,0.59,average
+2021,contra costa,10607099,kaiser foundation hospital  walnut creek,1,371,0.12,average
+2022,contra costa,10607099,kaiser foundation hospital  walnut creek,4,400,0.57,average
+2019,contra costa,106074017,san ramon regional medical center,1,633,0.19,average
+2020,contra costa,106074017,san ramon regional medical center,1,476,0.3,average
+2021,contra costa,106074017,san ramon regional medical center,0,424,0.0,average
+2022,contra costa,106074017,san ramon regional medical center,0,427,0.0,average
+2019,contra costa,106070934,sutter delta medical center,1,116,0.83,average
+2020,contra costa,106070934,sutter delta medical center,2,81,2.27,average
+2021,contra costa,106070934,sutter delta medical center,0,62,0.0,average
+2022,contra costa,106070934,sutter delta medical center,0,41,0.0,average
+2019,del norte,106084001,sutter coast hospital,0,59,0.0,average
+2020,del norte,106084001,sutter coast hospital,0,76,0.0,average
+2021,del norte,106084001,sutter coast hospital,0,53,0.0,average
+2022,del norte,106084001,sutter coast hospital,2,63,3.79,average
+2019,el dorado,106090793,barton memorial hospital,1,269,0.81,average
+2020,el dorado,106090793,barton memorial hospital,0,157,0.0,average
+2021,el dorado,106090793,barton memorial hospital,1,79,1.63,average
+2022,el dorado,106090793,barton memorial hospital,1,104,1.19,average
+2019,el dorado,106090933,marshall medical center,1,385,0.32,average
+2020,el dorado,106090933,marshall medical center,0,283,0.0,average
+2021,el dorado,106090933,marshall medical center,0,220,0.0,average
+2022,el dorado,106090933,marshall medical center,1,153,0.51,average
+2019,fresno,106100797,adventist health reedley,0,26,0.0,average
+2020,fresno,106100797,adventist health reedley,0,13,0.0,average
+2021,fresno,106100797,adventist health reedley,0,26,0.0,average
+2022,fresno,106100797,adventist health reedley,0,22,0.0,average
+2019,fresno,106100005,clovis community medical center,3,1269,0.31,average
+2020,fresno,106100005,clovis community medical center,1,622,0.2,average
+2021,fresno,106100005,clovis community medical center,1,606,0.2,average
+2022,fresno,106100005,clovis community medical center,4,676,0.77,average
+2019,fresno,106100717,community regional medical center  fresno,21,3450,0.58,average
+2020,fresno,106100717,community regional medical center  fresno,23,3010,0.83,average
+2021,fresno,106100717,community regional medical center  fresno,15,3446,0.49,average
+2022,fresno,106100717,community regional medical center  fresno,13,3623,0.35,average
+2019,fresno,106104047,fresno surgical hospital,0,1743,0.0,average
+2020,fresno,106104047,fresno surgical hospital,0,1524,0.0,average
+2021,fresno,106104047,fresno surgical hospital,0,1052,0.0,average
+2022,fresno,106104047,fresno surgical hospital,0,877,0.0,average
+2019,fresno,106104062,kaiser foundation hospital  fresno,3,651,0.49,average
+2020,fresno,106104062,kaiser foundation hospital  fresno,1,410,0.21,average
+2021,fresno,106104062,kaiser foundation hospital  fresno,0,329,0.0,average
+2022,fresno,106104062,kaiser foundation hospital  fresno,1,421,0.3,average
+2019,fresno,106100899,saint agnes medical center,3,2232,0.16,average
+2020,fresno,106100899,saint agnes medical center,3,1781,0.19,average
+2021,fresno,106100899,saint agnes medical center,7,1502,0.42,average
+2022,fresno,106100899,saint agnes medical center,5,1607,0.28,average
+2019,humboldt,106121002,mad river community hospital,0,68,0.0,average
+2020,humboldt,106121002,mad river community hospital,0,31,0.0,average
+2021,humboldt,106121002,mad river community hospital,0,17,0.0,average
+2022,humboldt,106121002,mad river community hospital,0,48,0.0,average
+2019,humboldt,106121051,redwood memorial hospital,0,38,0.0,average
+2020,humboldt,106121051,redwood memorial hospital,2,23,2.71,average
+2021,humboldt,106121051,redwood memorial hospital,0,15,0.0,average
+2022,humboldt,106121051,redwood memorial hospital,0,14,0.0,average
+2019,humboldt,10612108,saint joseph hospital  eureka,3,667,0.42,average
+2020,humboldt,10612108,saint joseph hospital  eureka,3,518,0.44,average
+2021,humboldt,10612108,saint joseph hospital  eureka,1,453,0.18,average
+2022,humboldt,10612108,saint joseph hospital  eureka,2,502,0.34,average
+2019,imperial,106130699,el centro regional medical center,1,176,1.03,average
+2020,imperial,106130699,el centro regional medical center,1,65,1.68,average
+2021,imperial,106130699,el centro regional medical center,3,92,2.42,below average
+2022,imperial,106130699,el centro regional medical center,1,69,2.39,average
+2019,imperial,10613076,pioneers memorial healthcare district,1,128,1.19,average
+2020,imperial,10613076,pioneers memorial healthcare district,0,74,0.0,average
+2021,imperial,10613076,pioneers memorial healthcare district,0,108,0.0,average
+2022,imperial,10613076,pioneers memorial healthcare district,0,32,0.0,average
+2019,inyo,106141273,northern inyo hospital,0,52,0.0,average
+2020,inyo,106141273,northern inyo hospital,0,55,0.0,average
+2021,inyo,106141273,northern inyo hospital,0,12,0.0,average
+2022,inyo,106141273,northern inyo hospital,0,6,0.0,average
+2019,kern,106150788,adventist health bakersfield,6,1570,0.58,average
+2020,kern,106150788,adventist health bakersfield,0,1057,0.0,above average
+2021,kern,106150788,adventist health bakersfield,4,1043,0.66,average
+2022,kern,106150788,adventist health bakersfield,0,1000,0.0,average
+2019,kern,106154101,bakersfield heart hospital,1,149,0.39,average
+2020,kern,106154101,bakersfield heart hospital,0,347,0.0,average
+2021,kern,106154101,bakersfield heart hospital,0,197,0.0,average
+2022,kern,106154101,bakersfield heart hospital,0,144,0.0,average
+2019,kern,106150722,bakersfield memorial hospital,7,1530,0.65,average
+2020,kern,106150722,bakersfield memorial hospital,10,1298,1.22,below average
+2021,kern,106150722,bakersfield memorial hospital,2,1072,0.3,average
+2022,kern,106150722,bakersfield memorial hospital,2,1015,0.34,average
+2019,kern,106150706,delano regional medical center,0,98,0.0,average
+2020,kern,106150706,delano regional medical center,1,75,2.08,average
+2021,kern,106150706,delano regional medical center,1,66,3.85,average
+2022,kern,106150706,delano regional medical center,1,134,2.27,average
+2019,kern,106150775,good samaritan hospital  bakersfield,0,7,0.0,average
+2019,kern,106150736,kern medical center,0,454,0.0,average
+2020,kern,106150736,kern medical center,3,408,1.28,average
+2021,kern,106150736,kern medical center,3,397,0.92,average
+2022,kern,106150736,kern medical center,2,406,0.64,average
+2019,kern,106150737,kern valley healthcare district,0,3,0.0,average
+2019,kern,106150761,mercy hospital  bakersfield,2,943,0.35,average
+2020,kern,106150761,mercy hospital  bakersfield,4,747,0.88,average
+2021,kern,106150761,mercy hospital  bakersfield,1,620,0.32,average
+2022,kern,106150761,mercy hospital  bakersfield,1,670,0.24,average
+2019,kern,106150782,ridgecrest regional hospital,0,67,0.0,average
+2020,kern,106150782,ridgecrest regional hospital,1,63,1.2,average
+2021,kern,106150782,ridgecrest regional hospital,0,43,0.0,average
+2022,kern,106150782,ridgecrest regional hospital,0,28,0.0,average
+2019,kings,106164029,adventist health hanford,2,892,0.46,average
+2020,kings,106164029,adventist health hanford,2,483,0.86,average
+2021,kings,106164029,adventist health hanford,0,431,0.0,average
+2022,kings,106164029,adventist health hanford,2,336,0.81,average
+2019,lake,106171049,adventist health clearlake,0,10,0.0,average
+2020,lake,106171049,adventist health clearlake,0,11,0.0,average
+2021,lake,106171049,adventist health clearlake,0,8,0.0,average
+2022,lake,106171049,adventist health clearlake,0,11,0.0,average
+2019,lake,106171395,sutter lakeside hospital,3,59,3.19,below average
+2020,lake,106171395,sutter lakeside hospital,0,32,0.0,average
+2021,lake,106171395,sutter lakeside hospital,1,44,0.88,average
+2022,lake,106171395,sutter lakeside hospital,0,52,0.0,average
+2019,lassen,106184008,banner lassen medical center,0,12,0.0,average
+2020,lassen,106184008,banner lassen medical center,0,5,0.0,average
+2021,lassen,106184008,banner lassen medical center,0,6,0.0,average
+2022,lassen,106184008,banner lassen medical center,0,3,0.0,average
+2019,los angeles,106190323,adventist health glendale,4,1488,0.35,average
+2020,los angeles,106190323,adventist health glendale,4,1048,0.5,average
+2021,los angeles,106190323,adventist health glendale,5,1197,0.58,average
+2022,los angeles,106190323,adventist health glendale,5,1318,0.53,average
+2019,los angeles,106190878,adventist health white memorial,1,1350,0.12,average
+2020,los angeles,106190878,adventist health white memorial,0,1145,0.0,average
+2021,los angeles,106190878,adventist health white memorial,0,1045,0.0,average
+2022,los angeles,106190878,adventist health white memorial,0,831,0.0,average
+2019,los angeles,106190017,alhambra hospital medical center,1,76,1.12,average
+2020,los angeles,106190017,alhambra hospital medical center,0,87,0.0,average
+2021,los angeles,106190017,alhambra hospital medical center,1,92,1.15,average
+2022,los angeles,106190017,alhambra hospital medical center,1,118,1.26,average
+2019,los angeles,106190034,antelope valley hospital,2,759,0.38,average
+2020,los angeles,106190034,antelope valley hospital,1,613,0.24,average
+2021,los angeles,106190034,antelope valley hospital,1,456,0.34,average
+2022,los angeles,106190034,antelope valley hospital,3,425,0.95,average
+2019,los angeles,106190081,beverly hospital,2,471,0.49,average
+2020,los angeles,106190081,beverly hospital,2,392,0.76,average
+2021,los angeles,106190081,beverly hospital,5,412,1.64,below average
+2022,los angeles,106190081,beverly hospital,2,507,0.75,average
+2019,los angeles,106190125,california hospital medical center  los angeles,4,576,0.87,average
+2020,los angeles,106190125,california hospital medical center  los angeles,0,363,0.0,average
+2021,los angeles,106190125,california hospital medical center  los angeles,1,410,0.59,average
+2022,los angeles,106190125,california hospital medical center  los angeles,1,466,0.4,average
+2019,los angeles,106190137,casa colina hospital,0,491,0.0,average
+2020,los angeles,106190137,casa colina hospital,2,474,0.69,average
+2021,los angeles,106190137,casa colina hospital,1,376,0.34,average
+2022,los angeles,106190137,casa colina hospital,1,320,0.37,average
+2019,los angeles,1061905,cedars-sinai marina del rey hospital,2,1234,0.45,average
+2020,los angeles,1061905,cedars-sinai marina del rey hospital,0,742,0.0,average
+2021,los angeles,1061905,cedars-sinai marina del rey hospital,2,802,0.71,average
+2022,los angeles,1061905,cedars-sinai marina del rey hospital,1,716,0.33,average
+2019,los angeles,106190555,cedars-sinai medical center,69,8720,0.69,below average
+2020,los angeles,106190555,cedars-sinai medical center,77,6208,1.03,below average
+2021,los angeles,106190555,cedars-sinai medical center,61,6118,0.82,below average
+2022,los angeles,106190555,cedars-sinai medical center,62,6079,0.81,below average
+2019,los angeles,106190148,centinela hospital medical center,0,239,0.0,average
+2020,los angeles,106190148,centinela hospital medical center,0,204,0.0,average
+2021,los angeles,106190148,centinela hospital medical center,3,187,1.25,average
+2022,los angeles,106190148,centinela hospital medical center,1,153,0.66,average
+2019,los angeles,106190176,city of hope helford clinical research hospital,23,1360,0.78,below average
+2020,los angeles,106190176,city of hope helford clinical research hospital,16,1333,0.56,average
+2021,los angeles,106190176,city of hope helford clinical research hospital,15,1459,0.47,average
+2022,los angeles,106190176,city of hope helford clinical research hospital,10,1386,0.31,average
+2019,los angeles,106190766,coast plaza hospital,1,28,3.3,average
+2020,los angeles,106190766,coast plaza hospital,0,28,0.0,average
+2021,los angeles,106190766,coast plaza hospital,0,27,0.0,average
+2022,los angeles,106190766,coast plaza hospital,0,44,0.0,average
+2019,los angeles,106190587,college medical center,0,17,0.0,average
+2020,los angeles,106190587,college medical center,0,5,0.0,average
+2021,los angeles,106190587,college medical center,0,5,0.0,average
+2022,los angeles,106190587,college medical center,0,3,0.0,average
+2019,los angeles,106190197,community and mission hospital of huntington park  slauson,0,10,0.0,average
+2020,los angeles,106190197,community and mission hospital of huntington park  slauson,0,9,0.0,average
+2021,los angeles,106190197,community and mission hospital of huntington park  slauson,0,11,0.0,average
+2022,los angeles,106190197,community and mission hospital of huntington park  slauson,1,11,4.12,average
+2021,los angeles,106190475,community hospital long beach,0,4,0.0,average
+2019,los angeles,106190681,docs surgical hospital,0,274,0.0,average
+2020,los angeles,106190681,docs surgical hospital,0,434,0.0,average
+2021,los angeles,106190681,docs surgical hospital,0,599,0.0,average
+2022,los angeles,106190681,docs surgical hospital,0,490,0.0,average
+2019,los angeles,106190256,east los angeles doctors hospital,0,26,0.0,average
+2020,los angeles,106190256,east los angeles doctors hospital,0,77,0.0,average
+2021,los angeles,106190256,east los angeles doctors hospital,0,89,0.0,average
+2022,los angeles,106190256,east los angeles doctors hospital,1,62,4.05,average
+2019,los angeles,106190298,emanate health foothill presbyterian hospital,3,321,0.57,average
+2020,los angeles,106190298,emanate health foothill presbyterian hospital,5,185,1.57,average
+2021,los angeles,106190298,emanate health foothill presbyterian hospital,2,162,1.0,average
+2022,los angeles,106190298,emanate health foothill presbyterian hospital,2,165,0.83,average
+2019,los angeles,106190413,emanate health inter - community hospital,4,645,0.62,average
+2020,los angeles,106190413,emanate health inter - community hospital,3,524,0.65,average
+2021,los angeles,106190413,emanate health inter - community hospital,3,561,0.62,average
+2022,los angeles,106190413,emanate health inter - community hospital,1,508,0.21,average
+2019,los angeles,106190636,emanate health queen of the valley hospital,4,1001,0.66,average
+2020,los angeles,106190636,emanate health queen of the valley hospital,3,879,0.64,average
+2021,los angeles,106190636,emanate health queen of the valley hospital,4,918,0.84,average
+2022,los angeles,106190636,emanate health queen of the valley hospital,7,857,1.53,below average
+2019,los angeles,10619028,encino hospital medical center,0,9,0.0,average
+2020,los angeles,10619028,encino hospital medical center,0,7,0.0,average
+2021,los angeles,10619028,encino hospital medical center,0,14,0.0,average
+2022,los angeles,10619028,encino hospital medical center,0,11,0.0,average
+2019,los angeles,106190315,garfield medical center,4,700,0.62,average
+2020,los angeles,106190315,garfield medical center,6,689,0.99,average
+2021,los angeles,106190315,garfield medical center,5,644,0.89,average
+2022,los angeles,106190315,garfield medical center,9,698,1.62,below average
+2019,los angeles,106190522,glendale memorial hospital and medical center,3,596,0.63,average
+2020,los angeles,106190522,glendale memorial hospital and medical center,2,421,0.82,average
+2021,los angeles,106190522,glendale memorial hospital and medical center,1,443,0.29,average
+2022,los angeles,106190522,glendale memorial hospital and medical center,5,596,1.21,average
+2019,los angeles,106190392,good samaritan hospital  los angeles,7,993,0.63,average
+2020,los angeles,106190392,good samaritan hospital  los angeles,14,861,1.63,below average
+2021,los angeles,106190392,good samaritan hospital  los angeles,5,1040,0.55,average
+2022,los angeles,106190392,good samaritan hospital  los angeles,7,910,0.9,average
+2019,los angeles,106190352,greater el monte community hospital,0,5,0.0,average
+2020,los angeles,106190352,greater el monte community hospital,0,9,0.0,average
+2021,los angeles,106190352,greater el monte community hospital,0,4,0.0,average
+2022,los angeles,106190352,greater el monte community hospital,0,3,0.0,average
+2019,los angeles,106190949,henry mayo newhall hospital,1,473,0.23,average
+2020,los angeles,106190949,henry mayo newhall hospital,1,336,0.39,average
+2021,los angeles,106190949,henry mayo newhall hospital,1,307,0.5,average
+2022,los angeles,106190949,henry mayo newhall hospital,1,321,0.54,average
+2019,los angeles,106190382,hollywood presbyterian medical center,3,572,0.35,average
+2020,los angeles,106190382,hollywood presbyterian medical center,7,775,0.69,average
+2021,los angeles,106190382,hollywood presbyterian medical center,1,875,0.14,average
+2022,los angeles,106190382,hollywood presbyterian medical center,3,760,0.65,average
+2019,los angeles,1061904,huntington memorial hospital,9,3722,0.29,average
+2020,los angeles,1061904,huntington memorial hospital,14,2310,0.64,average
+2021,los angeles,1061904,huntington memorial hospital,10,2143,0.53,average
+2022,los angeles,1061904,huntington memorial hospital,11,2156,0.63,average
+2019,los angeles,106196035,kaiser foundation hospital  baldwin park,3,638,0.28,average
+2020,los angeles,106196035,kaiser foundation hospital  baldwin park,5,509,0.63,average
+2021,los angeles,106196035,kaiser foundation hospital  baldwin park,5,461,0.7,average
+2022,los angeles,106196035,kaiser foundation hospital  baldwin park,3,507,0.36,average
+2019,los angeles,106196403,kaiser foundation hospital  downey,11,1073,0.71,average
+2020,los angeles,106196403,kaiser foundation hospital  downey,9,804,0.71,average
+2021,los angeles,106196403,kaiser foundation hospital  downey,4,931,0.39,average
+2022,los angeles,106196403,kaiser foundation hospital  downey,5,945,0.47,average
+2019,los angeles,106190432,kaiser foundation hospital  panorama city,5,1009,0.37,average
+2020,los angeles,106190432,kaiser foundation hospital  panorama city,2,715,0.28,average
+2021,los angeles,106190432,kaiser foundation hospital  panorama city,4,581,0.5,average
+2022,los angeles,106190432,kaiser foundation hospital  panorama city,4,590,0.52,average
+2019,los angeles,106190431,kaiser foundation hospital  south bay,8,1780,0.48,average
+2020,los angeles,106190431,kaiser foundation hospital  south bay,3,933,0.3,average
+2021,los angeles,106190431,kaiser foundation hospital  south bay,2,519,0.25,average
+2022,los angeles,106190431,kaiser foundation hospital  south bay,5,533,0.6,average
+2019,los angeles,106190429,kaiser foundation hospital  sunset,26,4192,0.38,average
+2020,los angeles,106190429,kaiser foundation hospital  sunset,26,3277,0.53,average
+2021,los angeles,106190429,kaiser foundation hospital  sunset,23,3261,0.62,average
+2022,los angeles,106190429,kaiser foundation hospital  sunset,21,3062,0.55,average
+2019,los angeles,106190434,kaiser foundation hospital  west los angeles,5,1831,0.31,average
+2020,los angeles,106190434,kaiser foundation hospital  west los angeles,8,981,0.63,average
+2021,los angeles,106190434,kaiser foundation hospital  west los angeles,8,799,0.73,average
+2022,los angeles,106190434,kaiser foundation hospital  west los angeles,5,960,0.51,average
+2019,los angeles,10619145,kaiser foundation hospital  woodland hills,5,574,0.36,average
+2020,los angeles,10619145,kaiser foundation hospital  woodland hills,3,350,0.46,average
+2021,los angeles,10619145,kaiser foundation hospital  woodland hills,2,345,0.28,average
+2022,los angeles,10619145,kaiser foundation hospital  woodland hills,2,692,0.28,average
+2019,los angeles,106194219,keck hospital of university of southern california,56,4813,0.61,below average
+2020,los angeles,106194219,keck hospital of university of southern california,19,3914,0.26,above average
+2021,los angeles,106194219,keck hospital of university of southern california,26,4032,0.31,above average
+2022,los angeles,106194219,keck hospital of university of southern california,32,4129,0.4,average
+2019,los angeles,106190661,l.a. downtown medical center,0,45,0.0,average
+2021,los angeles,106190661,l.a. downtown medical center,0,77,0.0,average
+2022,los angeles,106190661,l.a. downtown medical center,0,170,0.0,average
+2019,los angeles,10619024,lakewood regional medical center,0,444,0.0,average
+2020,los angeles,10619024,lakewood regional medical center,1,235,0.39,average
+2021,los angeles,10619024,lakewood regional medical center,3,160,1.5,average
+2022,los angeles,10619024,lakewood regional medical center,1,78,1.31,average
+2019,los angeles,106190198,los angeles community hospital,0,28,0.0,average
+2020,los angeles,106190198,los angeles community hospital,0,44,0.0,average
+2021,los angeles,106190198,los angeles community hospital,1,80,0.38,average
+2022,los angeles,106190198,los angeles community hospital,0,110,0.0,average
+2019,los angeles,106191227,los angeles county/harbor  ucla medical center,7,1632,0.41,average
+2020,los angeles,106191227,los angeles county/harbor  ucla medical center,1,971,0.12,average
+2021,los angeles,106191227,los angeles county/harbor  ucla medical center,2,1084,0.24,average
+2022,los angeles,106191227,los angeles county/harbor  ucla medical center,9,1262,0.78,average
+2019,los angeles,106191231,los angeles county/olive view  ucla medical center,3,858,0.35,average
+2020,los angeles,106191231,los angeles county/olive view  ucla medical center,2,625,0.35,average
+2021,los angeles,106191231,los angeles county/olive view  ucla medical center,5,744,0.75,average
+2022,los angeles,106191231,los angeles county/olive view  ucla medical center,4,677,0.54,average
+2019,los angeles,106191306,los angeles county/rancho los amigos national rehabilitation center,0,453,0.0,average
+2020,los angeles,106191306,los angeles county/rancho los amigos national rehabilitation center,1,287,0.68,average
+2021,los angeles,106191306,los angeles county/rancho los amigos national rehabilitation center,2,158,0.97,average
+2022,los angeles,106191306,los angeles county/rancho los amigos national rehabilitation center,2,177,1.7,average
+2019,los angeles,106191228,los angeles county/university of southern california medical center,13,2195,0.56,average
+2020,los angeles,106191228,los angeles county/university of southern california medical center,17,1625,1.04,below average
+2021,los angeles,106191228,los angeles county/university of southern california medical center,9,1964,0.5,average
+2022,los angeles,106191228,los angeles county/university of southern california medical center,7,2096,0.33,average
+2019,los angeles,106190521,memorial hospital of gardena,1,99,1.02,average
+2020,los angeles,106190521,memorial hospital of gardena,0,75,0.0,average
+2021,los angeles,106190521,memorial hospital of gardena,0,51,0.0,average
+2022,los angeles,106190521,memorial hospital of gardena,1,73,1.57,average
+2019,los angeles,106190525,memorialcare long beach medical center,15,3672,0.44,average
+2020,los angeles,106190525,memorialcare long beach medical center,13,2611,0.6,average
+2021,los angeles,106190525,memorialcare long beach medical center,11,2450,0.61,average
+2022,los angeles,106190525,memorialcare long beach medical center,12,1861,0.6,average
+2019,los angeles,106190529,methodist hospital of southern california,7,1494,0.58,average
+2020,los angeles,106190529,methodist hospital of southern california,4,1192,0.44,average
+2021,los angeles,106190529,methodist hospital of southern california,2,1018,0.27,average
+2022,los angeles,106190529,methodist hospital of southern california,2,1017,0.27,average
+2019,los angeles,106190524,mission community hospital  panorama campus,2,510,0.95,average
+2020,los angeles,106190524,mission community hospital  panorama campus,0,596,0.0,average
+2021,los angeles,106190524,mission community hospital  panorama campus,2,582,1.46,average
+2022,los angeles,106190524,mission community hospital  panorama campus,0,568,0.0,average
+2019,los angeles,106190547,monterey park hospital,1,243,0.75,average
+2020,los angeles,106190547,monterey park hospital,1,155,1.17,average
+2021,los angeles,106190547,monterey park hospital,1,161,1.02,average
+2022,los angeles,106190547,monterey park hospital,1,35,2.59,average
+2019,los angeles,106190568,northridge hospital medical center,1,893,0.16,average
+2020,los angeles,106190568,northridge hospital medical center,0,507,0.0,average
+2021,los angeles,106190568,northridge hospital medical center,1,335,0.36,average
+2022,los angeles,106190568,northridge hospital medical center,2,435,0.47,average
+2019,los angeles,10619057,norwalk community hospital,0,20,0.0,average
+2020,los angeles,10619057,norwalk community hospital,2,7,1.8,average
+2021,los angeles,10619057,norwalk community hospital,0,4,0.0,average
+2022,los angeles,10619057,norwalk community hospital,0,16,0.0,average
+2019,los angeles,106190696,pacifica hospital of the valley,0,44,0.0,average
+2020,los angeles,106190696,pacifica hospital of the valley,0,48,0.0,average
+2021,los angeles,106190696,pacifica hospital of the valley,0,29,0.0,average
+2022,los angeles,106190696,pacifica hospital of the valley,0,33,0.0,average
+2019,los angeles,106196405,palmdale regional medical center,5,746,0.92,average
+2020,los angeles,106196405,palmdale regional medical center,0,595,0.0,average
+2021,los angeles,106196405,palmdale regional medical center,4,480,1.46,average
+2022,los angeles,106196405,palmdale regional medical center,6,619,1.58,below average
+2019,los angeles,106190631,pih health hospital - whittier,4,1370,0.41,average
+2020,los angeles,106190631,pih health hospital - whittier,4,947,0.62,average
+2021,los angeles,106190631,pih health hospital - whittier,12,855,1.48,below average
+2022,los angeles,106190631,pih health hospital - whittier,13,983,1.28,below average
+2019,los angeles,106190243,pih health hospital  downey,0,426,0.0,average
+2020,los angeles,106190243,pih health hospital  downey,0,295,0.0,average
+2021,los angeles,106190243,pih health hospital  downey,0,283,0.0,average
+2022,los angeles,106190243,pih health hospital  downey,0,120,0.0,average
+2019,los angeles,10619063,pomona valley hospital medical center,4,765,0.59,average
+2020,los angeles,10619063,pomona valley hospital medical center,1,550,0.2,average
+2021,los angeles,10619063,pomona valley hospital medical center,4,723,0.54,average
+2022,los angeles,10619063,pomona valley hospital medical center,2,666,0.41,average
+2019,los angeles,106190385,providence holy cross medical center,17,1838,0.79,below average
+2020,los angeles,106190385,providence holy cross medical center,11,1392,0.58,average
+2021,los angeles,106190385,providence holy cross medical center,11,1538,0.61,average
+2022,los angeles,106190385,providence holy cross medical center,7,1480,0.38,average
+2019,los angeles,10619068,providence little company of mary medical center  san pedro,1,173,0.59,average
+2020,los angeles,10619068,providence little company of mary medical center  san pedro,1,110,1.07,average
+2021,los angeles,10619068,providence little company of mary medical center  san pedro,2,202,1.89,average
+2022,los angeles,10619068,providence little company of mary medical center  san pedro,0,196,0.0,average
+2019,los angeles,10619047,providence little company of mary medical center  torrance,6,1290,0.48,average
+2020,los angeles,10619047,providence little company of mary medical center  torrance,8,1065,0.77,average
+2021,los angeles,10619047,providence little company of mary medical center  torrance,3,1111,0.22,average
+2022,los angeles,10619047,providence little company of mary medical center  torrance,2,949,0.18,average
+2019,los angeles,106190756,providence saint johns health center,14,3499,0.64,average
+2020,los angeles,106190756,providence saint johns health center,7,2036,0.44,average
+2021,los angeles,106190756,providence saint johns health center,6,2556,0.37,average
+2022,los angeles,106190756,providence saint johns health center,8,2751,0.43,average
+2019,los angeles,106190758,providence saint joseph medical center,6,1615,0.47,average
+2020,los angeles,106190758,providence saint joseph medical center,2,1169,0.23,average
+2021,los angeles,106190758,providence saint joseph medical center,3,966,0.38,average
+2022,los angeles,106190758,providence saint joseph medical center,5,979,0.66,average
+2019,los angeles,106190517,providence tarzana medical center,6,1155,0.64,average
+2020,los angeles,106190517,providence tarzana medical center,2,875,0.25,average
+2021,los angeles,106190517,providence tarzana medical center,4,925,0.49,average
+2022,los angeles,106190517,providence tarzana medical center,1,858,0.11,average
+2019,los angeles,106190796,ronald reagan ucla medical center,41,4349,0.62,below average
+2020,los angeles,106190796,ronald reagan ucla medical center,38,3699,0.67,average
+2021,los angeles,106190796,ronald reagan ucla medical center,32,3820,0.54,average
+2022,los angeles,106190796,ronald reagan ucla medical center,24,3937,0.42,average
+2019,los angeles,106190754,saint francis medical center,3,502,0.85,average
+2020,los angeles,106190754,saint francis medical center,2,236,1.03,average
+2021,los angeles,106190754,saint francis medical center,1,262,0.71,average
+2022,los angeles,106190754,saint francis medical center,0,178,0.0,average
+2019,los angeles,106190053,saint mary medical center  long beach,3,753,0.71,average
+2020,los angeles,106190053,saint mary medical center  long beach,1,566,0.31,average
+2021,los angeles,106190053,saint mary medical center  long beach,0,439,0.0,average
+2022,los angeles,106190053,saint mary medical center  long beach,0,511,0.0,average
+2019,los angeles,106190762,saint vincent medical center,5,978,0.41,average
+2020,los angeles,106190762,saint vincent medical center,0,18,0.0,average
+2019,los angeles,106190673,san dimas community hospital,0,78,0.0,average
+2020,los angeles,106190673,san dimas community hospital,0,58,0.0,average
+2021,los angeles,106190673,san dimas community hospital,0,82,0.0,average
+2022,los angeles,106190673,san dimas community hospital,0,90,0.0,average
+2019,los angeles,1061902,san gabriel valley medical center,4,742,0.9,average
+2020,los angeles,1061902,san gabriel valley medical center,2,430,1.0,average
+2021,los angeles,1061902,san gabriel valley medical center,1,565,0.33,average
+2022,los angeles,1061902,san gabriel valley medical center,1,517,0.53,average
+2019,los angeles,106190687,santa monica  ucla medical center and orthopedic hospital,16,1798,0.94,below average
+2020,los angeles,106190687,santa monica  ucla medical center and orthopedic hospital,14,1108,1.07,below average
+2021,los angeles,106190687,santa monica  ucla medical center and orthopedic hospital,7,1492,0.42,average
+2022,los angeles,106190687,santa monica  ucla medical center and orthopedic hospital,13,1486,0.75,average
+2019,los angeles,106190708,sherman oaks hospital,0,135,0.0,average
+2020,los angeles,106190708,sherman oaks hospital,0,78,0.0,average
+2021,los angeles,106190708,sherman oaks hospital,1,77,5.19,average
+2022,los angeles,106190708,sherman oaks hospital,0,69,0.0,average
+2019,los angeles,10619011,southern california hospital at culver city,4,544,1.09,average
+2020,los angeles,10619011,southern california hospital at culver city,0,526,0.0,average
+2021,los angeles,10619011,southern california hospital at culver city,1,675,0.22,average
+2022,los angeles,10619011,southern california hospital at culver city,4,750,0.87,average
+2019,los angeles,10619038,southern california hospital at hollywood,1,13,4.04,average
+2021,los angeles,10619038,southern california hospital at hollywood,0,14,0.0,average
+2022,los angeles,10619038,southern california hospital at hollywood,0,5,0.0,average
+2019,los angeles,106190422,torrance memorial medical center,12,3208,0.5,average
+2020,los angeles,106190422,torrance memorial medical center,15,2646,0.73,average
+2021,los angeles,106190422,torrance memorial medical center,12,2569,0.55,average
+2022,los angeles,106190422,torrance memorial medical center,7,2847,0.3,average
+2019,los angeles,106190818,university of southern california verdugo hills hospital,2,484,0.55,average
+2020,los angeles,106190818,university of southern california verdugo hills hospital,0,355,0.0,average
+2021,los angeles,106190818,university of southern california verdugo hills hospital,2,346,0.61,average
+2022,los angeles,106190818,university of southern california verdugo hills hospital,3,276,1.08,average
+2019,los angeles,106190812,valley presbyterian hospital,8,998,1.57,below average
+2020,los angeles,106190812,valley presbyterian hospital,4,751,1.33,average
+2021,los angeles,106190812,valley presbyterian hospital,4,758,1.56,average
+2022,los angeles,106190812,valley presbyterian hospital,3,737,1.09,average
+2019,los angeles,106190857,west covina medical center,0,53,0.0,average
+2020,los angeles,106190857,west covina medical center,0,53,0.0,average
+2021,los angeles,106190857,west covina medical center,0,81,0.0,average
+2022,los angeles,106190857,west covina medical center,0,45,0.0,average
+2019,los angeles,106190859,west hills hospital and medical center,0,430,0.0,average
+2020,los angeles,106190859,west hills hospital and medical center,1,315,0.42,average
+2021,los angeles,106190859,west hills hospital and medical center,5,251,1.05,average
+2022,los angeles,106190859,west hills hospital and medical center,3,284,0.65,average
+2019,los angeles,106190883,whittier hospital medical center,1,104,1.48,average
+2020,los angeles,106190883,whittier hospital medical center,0,107,0.0,average
+2021,los angeles,106190883,whittier hospital medical center,0,98,0.0,average
+2022,los angeles,106190883,whittier hospital medical center,1,172,1.17,average
+2019,madera,106201281,madera community hospital,1,193,0.5,average
+2020,madera,106201281,madera community hospital,2,99,1.87,average
+2021,madera,106201281,madera community hospital,1,67,0.95,average
+2022,madera,106201281,madera community hospital,0,69,0.0,average
+2019,marin,106210992,kaiser foundation hospital  san rafael,0,371,0.0,average
+2020,marin,106210992,kaiser foundation hospital  san rafael,2,170,0.49,average
+2021,marin,106210992,kaiser foundation hospital  san rafael,1,168,0.31,average
+2022,marin,106210992,kaiser foundation hospital  san rafael,3,192,1.04,average
+2019,marin,106211006,marinhealth medical center,1,753,0.17,average
+2020,marin,106211006,marinhealth medical center,4,630,0.9,average
+2021,marin,106211006,marinhealth medical center,1,643,0.22,average
+2022,marin,106211006,marinhealth medical center,2,513,0.44,average
+2019,marin,106214034,novato community hospital,0,524,0.0,average
+2020,marin,106214034,novato community hospital,1,448,0.91,average
+2021,marin,106214034,novato community hospital,0,493,0.0,average
+2022,marin,106214034,novato community hospital,0,455,0.0,average
+2019,mendocino,106234038,adventist health howard memorial,0,289,0.0,average
+2020,mendocino,106234038,adventist health howard memorial,1,356,0.79,average
+2021,mendocino,106234038,adventist health howard memorial,0,445,0.0,average
+2022,mendocino,106234038,adventist health howard memorial,0,400,0.0,average
+2019,mendocino,106231396,adventist health ukiah valley,1,159,0.34,average
+2020,mendocino,106231396,adventist health ukiah valley,0,152,0.0,average
+2021,mendocino,106231396,adventist health ukiah valley,0,140,0.0,average
+2022,mendocino,106231396,adventist health ukiah valley,1,167,0.43,average
+2019,mendocino,106231013,mendocino coast district hospital,0,4,0.0,average
+2019,merced,106240924,memorial hospital los banos,1,15,13.71,average
+2020,merced,106240924,memorial hospital los banos,0,16,0.0,average
+2021,merced,106240924,memorial hospital los banos,0,7,0.0,average
+2022,merced,106240924,memorial hospital los banos,0,13,0.0,average
+2019,merced,106240942,mercy medical center  merced,3,713,1.0,average
+2020,merced,106240942,mercy medical center  merced,1,464,0.39,average
+2021,merced,106240942,mercy medical center  merced,0,225,0.0,average
+2022,merced,106240942,mercy medical center  merced,0,272,0.0,average
+2019,mono,106260011,mammoth hospital,0,182,0.0,average
+2020,mono,106260011,mammoth hospital,0,152,0.0,average
+2021,mono,106260011,mammoth hospital,0,104,0.0,average
+2022,mono,106260011,mammoth hospital,0,55,0.0,average
+2019,monterey,106270744,community hospital of the monterey peninsula,7,1647,0.46,average
+2020,monterey,106270744,community hospital of the monterey peninsula,7,1379,0.58,average
+2021,monterey,106270744,community hospital of the monterey peninsula,13,1360,1.22,below average
+2022,monterey,106270744,community hospital of the monterey peninsula,7,1420,0.7,average
+2019,monterey,106270777,george l. mee memorial hospital,0,13,0.0,average
+2019,monterey,106274043,natividad medical center,0,168,0.0,average
+2020,monterey,106274043,natividad medical center,0,128,0.0,average
+2021,monterey,106274043,natividad medical center,0,195,0.0,average
+2022,monterey,106274043,natividad medical center,1,219,0.85,average
+2019,monterey,106270875,salinas valley memorial hospital,5,751,0.58,average
+2020,monterey,106270875,salinas valley memorial hospital,1,500,0.23,average
+2021,monterey,106270875,salinas valley memorial hospital,0,518,0.0,average
+2022,monterey,106270875,salinas valley memorial hospital,2,562,0.34,average
+2019,napa,106281078,adventist health saint helena,2,948,0.26,average
+2020,napa,106281078,adventist health saint helena,1,482,0.27,average
+2021,napa,106281078,adventist health saint helena,1,528,0.23,average
+2022,napa,106281078,adventist health saint helena,3,489,0.56,average
+2019,napa,106281047,queen of the valley medical center,3,369,1.55,average
+2020,napa,106281047,queen of the valley medical center,1,226,0.65,average
+2021,napa,106281047,queen of the valley medical center,2,345,0.6,average
+2022,napa,106281047,queen of the valley medical center,1,393,0.28,average
+2019,nevada,106291023,sierra nevada memorial hospital,0,73,0.0,average
+2020,nevada,106291023,sierra nevada memorial hospital,1,91,1.48,average
+2021,nevada,106291023,sierra nevada memorial hospital,0,88,0.0,average
+2022,nevada,106291023,sierra nevada memorial hospital,0,98,0.0,average
+2019,nevada,106291053,tahoe forest hospital,1,242,0.92,average
+2020,nevada,106291053,tahoe forest hospital,0,98,0.0,average
+2021,nevada,106291053,tahoe forest hospital,0,54,0.0,average
+2022,nevada,106291053,tahoe forest hospital,2,82,3.63,average
+2019,orange,106301098,ahmc anaheim regional medical center,0,623,0.0,average
+2020,orange,106301098,ahmc anaheim regional medical center,1,318,0.32,average
+2021,orange,106301098,ahmc anaheim regional medical center,3,289,0.85,average
+2022,orange,106301098,ahmc anaheim regional medical center,4,220,1.55,average
+2019,orange,106301188,anaheim global medical center,1,104,1.05,average
+2020,orange,106301188,anaheim global medical center,2,99,2.66,average
+2021,orange,106301188,anaheim global medical center,1,77,0.96,average
+2022,orange,106301188,anaheim global medical center,0,41,0.0,average
+2019,orange,10630114,chapman global medical center,0,612,0.0,average
+2020,orange,10630114,chapman global medical center,1,486,0.69,average
+2021,orange,10630114,chapman global medical center,1,492,0.82,average
+2022,orange,10630114,chapman global medical center,0,532,0.0,average
+2019,orange,106301357,foothill regional medical center,1,391,0.27,average
+2020,orange,106301357,foothill regional medical center,0,393,0.0,average
+2021,orange,106301357,foothill regional medical center,0,651,0.0,average
+2022,orange,106301357,foothill regional medical center,1,876,0.23,average
+2019,orange,106301175,fountain valley regional hospital and medical center  euclid,5,1354,0.54,average
+2020,orange,106301175,fountain valley regional hospital and medical center  euclid,11,994,1.31,below average
+2021,orange,106301175,fountain valley regional hospital and medical center  euclid,7,884,1.36,below average
+2022,orange,106301175,fountain valley regional hospital and medical center  euclid,4,753,1.03,average
+2019,orange,106301283,garden grove hospital and medical center,0,22,0.0,average
+2020,orange,106301283,garden grove hospital and medical center,0,13,0.0,average
+2021,orange,106301283,garden grove hospital and medical center,0,7,0.0,average
+2022,orange,106301283,garden grove hospital and medical center,0,6,0.0,average
+2019,orange,106301205,hoag memorial hospital presbyterian,14,2569,0.31,average
+2020,orange,106301205,hoag memorial hospital presbyterian,15,2196,0.44,average
+2021,orange,106301205,hoag memorial hospital presbyterian,8,2175,0.25,average
+2022,orange,106301205,hoag memorial hospital presbyterian,13,2259,0.41,average
+2019,orange,10630446,hoag orthopedic institute,0,4432,0.0,above average
+2020,orange,10630446,hoag orthopedic institute,2,2307,0.31,average
+2021,orange,10630446,hoag orthopedic institute,2,1610,0.37,average
+2022,orange,10630446,hoag orthopedic institute,0,1554,0.0,average
+2019,orange,106301209,huntington beach hospital,0,6,0.0,average
+2020,orange,106301209,huntington beach hospital,1,5,4.63,average
+2022,orange,106301209,huntington beach hospital,0,3,0.0,average
+2019,orange,106304409,kaiser foundation hospital  orange county  anaheim,18,2532,0.59,average
+2020,orange,106304409,kaiser foundation hospital  orange county  anaheim,17,1705,0.85,average
+2021,orange,106304409,kaiser foundation hospital  orange county  anaheim,16,1887,0.75,average
+2022,orange,106304409,kaiser foundation hospital  orange county  anaheim,11,2082,0.5,average
+2019,orange,106301234,la palma intercommunity hospital,0,11,0.0,average
+2020,orange,106301234,la palma intercommunity hospital,0,7,0.0,average
+2021,orange,106301234,la palma intercommunity hospital,0,9,0.0,average
+2022,orange,106301234,la palma intercommunity hospital,0,6,0.0,average
+2019,orange,106301248,los alamitos medical center,5,507,1.43,below average
+2020,orange,106301248,los alamitos medical center,2,454,0.55,average
+2021,orange,106301248,los alamitos medical center,1,258,0.5,average
+2022,orange,106301248,los alamitos medical center,2,218,1.32,average
+2019,orange,106300225,memorialcare orange coast medical center,13,2086,0.78,average
+2020,orange,106300225,memorialcare orange coast medical center,7,1273,0.68,average
+2021,orange,106300225,memorialcare orange coast medical center,6,1317,0.55,average
+2022,orange,106300225,memorialcare orange coast medical center,12,1490,0.94,below average
+2019,orange,106301317,memorialcare saddleback medical center,2,1331,0.14,average
+2020,orange,106301317,memorialcare saddleback medical center,3,1028,0.29,average
+2021,orange,106301317,memorialcare saddleback medical center,3,889,0.32,average
+2022,orange,106301317,memorialcare saddleback medical center,5,792,0.56,average
+2019,orange,106301337,mission hospital laguna beach,0,249,0.0,average
+2020,orange,106301337,mission hospital laguna beach,0,186,0.0,average
+2021,orange,106301337,mission hospital laguna beach,0,96,0.0,average
+2022,orange,106301337,mission hospital laguna beach,0,117,0.0,average
+2019,orange,106301262,mission hospital regional medical center,10,1506,0.65,average
+2020,orange,106301262,mission hospital regional medical center,15,1108,1.2,below average
+2021,orange,106301262,mission hospital regional medical center,4,983,0.37,average
+2022,orange,106301262,mission hospital regional medical center,11,1192,0.65,average
+2019,orange,106301566,orange county global medical center,0,217,0.0,average
+2020,orange,106301566,orange county global medical center,1,192,0.69,average
+2021,orange,106301566,orange county global medical center,2,257,0.75,average
+2022,orange,106301566,orange county global medical center,1,220,0.42,average
+2019,orange,106301297,placentia linda hospital,2,270,1.3,average
+2020,orange,106301297,placentia linda hospital,1,237,0.82,average
+2021,orange,106301297,placentia linda hospital,0,32,0.0,average
+2019,orange,10630134,saint joseph hospital  orange,5,2635,0.2,average
+2020,orange,10630134,saint joseph hospital  orange,7,2000,0.4,average
+2021,orange,10630134,saint joseph hospital  orange,1,1683,0.07,above average
+2022,orange,10630134,saint joseph hospital  orange,10,2231,0.53,average
+2019,orange,106301342,saint jude medical center,3,1268,0.23,average
+2020,orange,106301342,saint jude medical center,5,909,0.49,average
+2021,orange,106301342,saint jude medical center,4,961,0.35,average
+2022,orange,106301342,saint jude medical center,4,1183,0.27,average
+2019,orange,106301258,south coast global medical center,0,162,0.0,average
+2020,orange,106301258,south coast global medical center,0,128,0.0,average
+2021,orange,106301258,south coast global medical center,0,112,0.0,average
+2022,orange,106301258,south coast global medical center,0,158,0.0,average
+2019,orange,106301279,uc irvine medical center,19,2987,0.41,average
+2020,orange,106301279,uc irvine medical center,21,2754,0.47,average
+2021,orange,106301279,uc irvine medical center,26,2805,0.67,average
+2022,orange,106301279,uc irvine medical center,14,2770,0.37,average
+2019,orange,106301379,west anaheim medical center,0,32,0.0,average
+2020,orange,106301379,west anaheim medical center,0,29,0.0,average
+2021,orange,106301379,west anaheim medical center,0,20,0.0,average
+2022,orange,106301379,west anaheim medical center,0,5,0.0,average
+2019,placer,106314024,kaiser foundation hospital  roseville,6,1140,0.34,average
+2020,placer,106314024,kaiser foundation hospital  roseville,3,526,0.24,average
+2021,placer,106314024,kaiser foundation hospital  roseville,3,560,0.24,average
+2022,placer,106314024,kaiser foundation hospital  roseville,1,568,0.1,average
+2019,placer,106310791,sutter auburn faith hospital,1,596,0.33,average
+2020,placer,106310791,sutter auburn faith hospital,2,671,0.68,average
+2021,placer,106310791,sutter auburn faith hospital,1,613,0.4,average
+2022,placer,106310791,sutter auburn faith hospital,2,195,1.07,average
+2019,placer,106311,sutter roseville medical center,2,2280,0.13,average
+2020,placer,106311,sutter roseville medical center,4,1770,0.35,average
+2021,placer,106311,sutter roseville medical center,6,1918,0.47,average
+2022,placer,106311,sutter roseville medical center,8,1843,0.63,average
+2019,plumas,106320986,plumas district hospital,0,4,0.0,average
+2020,plumas,106320986,plumas district hospital,0,4,0.0,average
+2021,plumas,106320986,plumas district hospital,0,6,0.0,average
+2022,plumas,106320986,plumas district hospital,0,8,0.0,average
+2019,riverside,106331152,corona regional medical center  main,1,540,0.35,average
+2020,riverside,106331152,corona regional medical center  main,0,462,0.0,average
+2021,riverside,106331152,corona regional medical center  main,3,453,1.17,average
+2022,riverside,106331152,corona regional medical center  main,2,582,0.7,average
+2019,riverside,106331164,desert regional medical center,0,1021,0.0,average
+2020,riverside,106331164,desert regional medical center,3,500,1.02,average
+2021,riverside,106331164,desert regional medical center,1,270,0.67,average
+2022,riverside,106331164,desert regional medical center,1,405,0.61,average
+2019,riverside,106331168,eisenhower medical center,6,3781,0.25,average
+2020,riverside,106331168,eisenhower medical center,7,3026,0.32,average
+2021,riverside,106331168,eisenhower medical center,5,2583,0.27,average
+2022,riverside,106331168,eisenhower medical center,5,2865,0.23,average
+2019,riverside,106331194,hemet global medical center,0,323,0.0,average
+2020,riverside,106331194,hemet global medical center,4,278,1.56,average
+2021,riverside,106331194,hemet global medical center,1,197,0.69,average
+2022,riverside,106331194,hemet global medical center,1,204,0.45,average
+2019,riverside,106331216,john f. kennedy memorial hospital,0,221,0.0,average
+2020,riverside,106331216,john f. kennedy memorial hospital,0,218,0.0,average
+2021,riverside,106331216,john f. kennedy memorial hospital,0,119,0.0,average
+2022,riverside,106331216,john f. kennedy memorial hospital,0,102,0.0,average
+2019,riverside,106334048,kaiser foundation hospital  moreno valley,0,91,0.0,average
+2020,riverside,106334048,kaiser foundation hospital  moreno valley,0,54,0.0,average
+2021,riverside,106334048,kaiser foundation hospital  moreno valley,0,56,0.0,average
+2022,riverside,106334048,kaiser foundation hospital  moreno valley,0,58,0.0,average
+2019,riverside,106334025,kaiser foundation hospital  riverside,6,545,0.45,average
+2020,riverside,106334025,kaiser foundation hospital  riverside,0,402,0.0,above average
+2021,riverside,106334025,kaiser foundation hospital  riverside,3,470,0.42,average
+2022,riverside,106334025,kaiser foundation hospital  riverside,5,443,0.7,average
+2019,riverside,106334589,loma linda university medical center  murrieta,5,899,0.57,average
+2020,riverside,106334589,loma linda university medical center  murrieta,1,585,0.24,average
+2021,riverside,106334589,loma linda university medical center  murrieta,1,471,0.29,average
+2022,riverside,106334589,loma linda university medical center  murrieta,2,433,0.67,average
+2019,riverside,106334018,menifee global medical center,1,235,0.56,average
+2020,riverside,106334018,menifee global medical center,0,241,0.0,average
+2021,riverside,106334018,menifee global medical center,1,214,0.89,average
+2022,riverside,106334018,menifee global medical center,0,24,0.0,average
+2019,riverside,106331288,palo verde hospital,0,4,0.0,average
+2020,riverside,106331288,palo verde hospital,0,4,0.0,average
+2021,riverside,106331288,palo verde hospital,0,7,0.0,average
+2019,riverside,106331293,parkview community hospital medical center,0,1008,0.0,average
+2020,riverside,106331293,parkview community hospital medical center,1,634,0.63,average
+2021,riverside,106331293,parkview community hospital medical center,1,344,1.26,average
+2022,riverside,106331293,parkview community hospital medical center,0,397,0.0,average
+2019,riverside,106331312,riverside community hospital,14,1595,0.74,average
+2020,riverside,106331312,riverside community hospital,11,1360,0.74,average
+2021,riverside,106331312,riverside community hospital,10,1413,0.8,average
+2022,riverside,106331312,riverside community hospital,12,1485,0.88,average
+2019,riverside,106334487,riverside university health system  medical center,2,788,0.34,average
+2020,riverside,106334487,riverside university health system  medical center,3,708,0.58,average
+2021,riverside,106334487,riverside university health system  medical center,2,688,0.41,average
+2022,riverside,106334487,riverside university health system  medical center,4,748,0.69,average
+2019,riverside,106331326,san gorgonio memorial hospital,1,51,4.88,average
+2020,riverside,106331326,san gorgonio memorial hospital,0,27,0.0,average
+2021,riverside,106331326,san gorgonio memorial hospital,0,5,0.0,average
+2022,riverside,106331326,san gorgonio memorial hospital,0,8,0.0,average
+2019,riverside,106334068,southwest healthcare system  murrieta,2,2142,0.22,average
+2020,riverside,106334068,southwest healthcare system  murrieta,2,1445,0.3,average
+2021,riverside,106334068,southwest healthcare system  murrieta,2,1122,0.35,average
+2022,riverside,106334068,southwest healthcare system  murrieta,4,1231,0.51,average
+2019,riverside,106334564,temecula valley hospital,2,673,0.44,average
+2020,riverside,106334564,temecula valley hospital,3,531,0.75,average
+2021,riverside,106334564,temecula valley hospital,1,415,0.46,average
+2022,riverside,106334564,temecula valley hospital,5,533,1.41,average
+2021,riverside,106334533,vibra rehab hospital of rancho mirage,0,5,0.0,average
+2022,riverside,106334533,vibra rehab hospital of rancho mirage,0,3,0.0,average
+2019,sacramento,106340913,kaiser foundation hospital  sacramento,5,2273,0.15,above average
+2020,sacramento,106340913,kaiser foundation hospital  sacramento,4,1799,0.16,above average
+2021,sacramento,106340913,kaiser foundation hospital  sacramento,5,1743,0.24,average
+2022,sacramento,106340913,kaiser foundation hospital  sacramento,8,1735,0.46,average
+2019,sacramento,106342344,kaiser foundation hospital  south sacramento,2,1912,0.07,above average
+2020,sacramento,106342344,kaiser foundation hospital  south sacramento,3,1200,0.14,above average
+2021,sacramento,106342344,kaiser foundation hospital  south sacramento,6,1285,0.3,average
+2022,sacramento,106342344,kaiser foundation hospital  south sacramento,5,1308,0.29,average
+2019,sacramento,106340947,mercy general hospital,9,2592,0.36,average
+2020,sacramento,106340947,mercy general hospital,2,1982,0.12,above average
+2021,sacramento,106340947,mercy general hospital,5,1954,0.27,average
+2022,sacramento,106340947,mercy general hospital,3,2187,0.15,above average
+2019,sacramento,106344029,mercy hospital of folsom,1,595,0.35,average
+2020,sacramento,106344029,mercy hospital of folsom,1,442,0.43,average
+2021,sacramento,106344029,mercy hospital of folsom,5,343,2.73,below average
+2022,sacramento,106344029,mercy hospital of folsom,0,304,0.0,average
+2019,sacramento,10634095,mercy san juan hospital,3,1602,0.23,average
+2020,sacramento,10634095,mercy san juan hospital,4,1226,0.38,average
+2021,sacramento,10634095,mercy san juan hospital,3,1034,0.33,average
+2022,sacramento,10634095,mercy san juan hospital,3,995,0.32,average
+2019,sacramento,106340951,methodist hospital of sacramento,1,812,0.41,average
+2020,sacramento,106340951,methodist hospital of sacramento,2,572,1.17,average
+2021,sacramento,106340951,methodist hospital of sacramento,0,543,0.0,average
+2022,sacramento,106340951,methodist hospital of sacramento,0,370,0.0,average
+2019,sacramento,106341051,"sutter medical center, sacramento",18,4286,0.42,average
+2020,sacramento,106341051,"sutter medical center, sacramento",17,3321,0.57,average
+2021,sacramento,106341051,"sutter medical center, sacramento",19,3425,0.68,average
+2022,sacramento,106341051,"sutter medical center, sacramento",12,3014,0.48,average
+2019,sacramento,106341006,uc davis medical center,13,2689,0.38,average
+2020,sacramento,106341006,uc davis medical center,34,2700,0.97,below average
+2021,sacramento,106341006,uc davis medical center,29,2731,0.77,below average
+2022,sacramento,106341006,uc davis medical center,24,2551,0.74,average
+2019,san benito,106350784,hazel hawkins memorial hospital,0,72,0.0,average
+2020,san benito,106350784,hazel hawkins memorial hospital,0,47,0.0,average
+2021,san benito,106350784,hazel hawkins memorial hospital,0,30,0.0,average
+2022,san benito,106350784,hazel hawkins memorial hospital,0,45,0.0,average
+2019,san bernardino,106364231,arrowhead regional medical center,1,59,1.79,average
+2020,san bernardino,106364231,arrowhead regional medical center,5,480,1.35,average
+2021,san bernardino,106364231,arrowhead regional medical center,2,382,0.71,average
+2022,san bernardino,106364231,arrowhead regional medical center,0,409,0.0,average
+2019,san bernardino,10636443,barstow community hospital,0,50,0.0,average
+2020,san bernardino,10636443,barstow community hospital,0,18,0.0,average
+2021,san bernardino,10636443,barstow community hospital,0,16,0.0,average
+2022,san bernardino,10636443,barstow community hospital,0,31,0.0,average
+2020,san bernardino,106361144,chino valley medical center,0,4,0.0,average
+2019,san bernardino,106361458,colorado river medical center,0,5,0.0,average
+2019,san bernardino,106361323,community hospital of san bernardino,1,210,0.87,average
+2020,san bernardino,106361323,community hospital of san bernardino,0,102,0.0,average
+2021,san bernardino,106361323,community hospital of san bernardino,0,89,0.0,average
+2022,san bernardino,106361323,community hospital of san bernardino,0,75,0.0,average
+2021,san bernardino,106364144,desert valley hospital,0,10,0.0,average
+2019,san bernardino,106362041,hi-desert medical center,0,31,0.0,average
+2020,san bernardino,106362041,hi-desert medical center,0,13,0.0,average
+2019,san bernardino,106361223,kaiser foundation hospital  fontana,9,3170,0.23,above average
+2020,san bernardino,106361223,kaiser foundation hospital  fontana,10,2035,0.46,average
+2021,san bernardino,106361223,kaiser foundation hospital  fontana,14,2102,0.65,average
+2022,san bernardino,106361223,kaiser foundation hospital  fontana,11,2170,0.52,average
+2019,san bernardino,106361246,loma linda university medical center,17,4293,0.29,average
+2020,san bernardino,106361246,loma linda university medical center,8,3346,0.2,above average
+2021,san bernardino,106361246,loma linda university medical center,10,3034,0.25,above average
+2022,san bernardino,106361246,loma linda university medical center,5,2907,0.13,above average
+2019,san bernardino,106361166,montclair hospital medical center,0,9,0.0,average
+2020,san bernardino,106361166,montclair hospital medical center,0,9,0.0,average
+2021,san bernardino,106361166,montclair hospital medical center,0,10,0.0,average
+2022,san bernardino,106361166,montclair hospital medical center,0,12,0.0,average
+2019,san bernardino,106361308,redlands community hospital,3,2110,0.27,average
+2020,san bernardino,106361308,redlands community hospital,2,1357,0.35,average
+2021,san bernardino,106361308,redlands community hospital,7,1200,0.82,average
+2022,san bernardino,106361308,redlands community hospital,4,1082,0.69,average
+2019,san bernardino,106361339,saint bernardine medical center,11,1914,0.61,average
+2020,san bernardino,106361339,saint bernardine medical center,5,1555,0.4,average
+2021,san bernardino,106361339,saint bernardine medical center,1,1555,0.08,above average
+2022,san bernardino,106361339,saint bernardine medical center,2,1621,0.16,average
+2019,san bernardino,106361343,saint mary medical center  apple valley,4,753,0.61,average
+2020,san bernardino,106361343,saint mary medical center  apple valley,6,523,1.62,below average
+2021,san bernardino,106361343,saint mary medical center  apple valley,2,544,0.57,average
+2022,san bernardino,106361343,saint mary medical center  apple valley,0,535,0.0,average
+2019,san bernardino,106361318,san antonio regional hospital,5,1287,0.53,average
+2020,san bernardino,106361318,san antonio regional hospital,4,1030,0.49,average
+2021,san bernardino,106361318,san antonio regional hospital,6,791,0.86,average
+2022,san bernardino,106361318,san antonio regional hospital,2,800,0.29,average
+2019,san bernardino,10636137,victor valley global medical center,0,6,0.0,average
+2022,san bernardino,10636137,victor valley global medical center,0,13,0.0,average
+2019,san diego,106370652,alvarado hospital,1,512,0.16,average
+2020,san diego,106370652,alvarado hospital,1,478,0.31,average
+2021,san diego,106370652,alvarado hospital,0,317,0.0,average
+2022,san diego,106370652,alvarado hospital,0,268,0.0,average
+2019,san diego,106370714,grossmont hospital,6,1692,0.48,average
+2020,san diego,106370714,grossmont hospital,5,1101,0.54,average
+2021,san diego,106370714,grossmont hospital,4,1125,0.51,average
+2022,san diego,106370714,grossmont hospital,9,1134,0.84,average
+2019,san diego,10637073,kaiser foundation hospital  san diego  zion,23,2502,0.67,average
+2020,san diego,10637073,kaiser foundation hospital  san diego  zion,20,1981,0.76,average
+2021,san diego,10637073,kaiser foundation hospital  san diego  zion,10,1961,0.44,average
+2022,san diego,10637073,kaiser foundation hospital  san diego  zion,13,2143,0.55,average
+2019,san diego,106370755,palomar health downtown campus,3,2305,0.2,average
+2020,san diego,106370755,palomar health downtown campus,3,1032,0.39,average
+2021,san diego,106370755,palomar health downtown campus,3,421,0.96,average
+2021,san diego,106374382,palomar medical center,2,294,0.67,average
+2022,san diego,106374382,palomar medical center,2,673,0.34,average
+2019,san diego,106370759,paradise valley hospital,0,168,0.0,average
+2020,san diego,106370759,paradise valley hospital,0,80,0.0,average
+2021,san diego,106370759,paradise valley hospital,0,92,0.0,average
+2022,san diego,106370759,paradise valley hospital,0,85,0.0,average
+2019,san diego,106370977,pomerado hospital,1,424,0.32,average
+2020,san diego,106370977,pomerado hospital,1,247,0.58,average
+2021,san diego,106370977,pomerado hospital,1,184,0.86,average
+2022,san diego,106370977,pomerado hospital,0,188,0.0,average
+2019,san diego,106371256,scripps green hospital,4,3546,0.17,above average
+2020,san diego,106371256,scripps green hospital,5,2567,0.27,average
+2021,san diego,106371256,scripps green hospital,9,2276,0.62,average
+2022,san diego,106371256,scripps green hospital,9,2253,0.53,average
+2019,san diego,106371394,scripps memorial hospital  encinitas,0,969,0.0,average
+2020,san diego,106371394,scripps memorial hospital  encinitas,2,780,0.39,average
+2021,san diego,106371394,scripps memorial hospital  encinitas,2,729,0.46,average
+2022,san diego,106371394,scripps memorial hospital  encinitas,7,720,1.59,below average
+2019,san diego,106370771,scripps memorial hospital  la jolla,15,3358,0.44,average
+2020,san diego,106370771,scripps memorial hospital  la jolla,9,2769,0.37,average
+2021,san diego,106370771,scripps memorial hospital  la jolla,9,2582,0.39,average
+2022,san diego,106370771,scripps memorial hospital  la jolla,7,2400,0.36,average
+2019,san diego,106370744,scripps mercy hospital,13,3077,0.65,average
+2020,san diego,106370744,scripps mercy hospital,15,2172,1.05,below average
+2021,san diego,106370744,scripps mercy hospital,9,2306,0.66,average
+2022,san diego,106370744,scripps mercy hospital,18,2505,1.22,below average
+2019,san diego,106370875,sharp chula vista medical center,5,588,0.76,average
+2020,san diego,106370875,sharp chula vista medical center,3,452,0.56,average
+2021,san diego,106370875,sharp chula vista medical center,3,460,0.62,average
+2022,san diego,106370875,sharp chula vista medical center,5,515,0.98,average
+2019,san diego,106370689,sharp coronado hospital and healthcare center,0,762,0.0,average
+2020,san diego,106370689,sharp coronado hospital and healthcare center,0,338,0.0,average
+2021,san diego,106370689,sharp coronado hospital and healthcare center,0,214,0.0,average
+2022,san diego,106370689,sharp coronado hospital and healthcare center,0,228,0.0,average
+2019,san diego,106370694,sharp memorial hospital,15,3409,0.34,average
+2020,san diego,106370694,sharp memorial hospital,10,2503,0.35,average
+2021,san diego,106370694,sharp memorial hospital,11,2615,0.38,average
+2022,san diego,106370694,sharp memorial hospital,14,2518,0.54,average
+2019,san diego,10637078,tri-city medical center  oceanside,4,881,0.56,average
+2020,san diego,10637078,tri-city medical center  oceanside,3,542,0.71,average
+2021,san diego,10637078,tri-city medical center  oceanside,2,564,0.36,average
+2022,san diego,10637078,tri-city medical center  oceanside,5,603,0.95,average
+2019,san diego,106370782,uc san diego health system  hillcrest medical center,35,5605,0.43,average
+2020,san diego,106370782,uc san diego health system  hillcrest medical center,31,4950,0.47,average
+2021,san diego,106370782,uc san diego health system  hillcrest medical center,32,4945,0.5,average
+2022,san diego,106370782,uc san diego health system  hillcrest medical center,27,5108,0.39,average
+2019,san francisco,106380929,california pacific medical center  d/p aph,0,249,0.0,average
+2019,san francisco,106380933,california pacific medical center  davies campus hospital,3,687,0.5,average
+2020,san francisco,106380933,california pacific medical center  davies campus hospital,2,526,0.54,average
+2021,san francisco,106380933,california pacific medical center  davies campus hospital,0,557,0.0,average
+2022,san francisco,106380933,california pacific medical center  davies campus hospital,0,573,0.0,average
+2019,san francisco,106384202,california pacific medical center  mission bernal campus,3,1039,0.77,average
+2020,san francisco,106384202,california pacific medical center  mission bernal campus,1,721,0.44,average
+2021,san francisco,106384202,california pacific medical center  mission bernal campus,1,828,0.28,average
+2022,san francisco,106384202,california pacific medical center  mission bernal campus,2,751,0.58,average
+2019,san francisco,106384176,california pacific medical center van ness campus,10,1307,0.37,average
+2020,san francisco,106384176,california pacific medical center van ness campus,13,1333,0.58,average
+2021,san francisco,106384176,california pacific medical center van ness campus,7,1477,0.27,average
+2022,san francisco,106384176,california pacific medical center van ness campus,8,1418,0.36,average
+2019,san francisco,106382715,chinese hospital,0,95,0.0,average
+2020,san francisco,106382715,chinese hospital,0,77,0.0,average
+2021,san francisco,106382715,chinese hospital,0,74,0.0,average
+2022,san francisco,106382715,chinese hospital,0,68,0.0,average
+2019,san francisco,106380857,kaiser foundation hospital  san francisco,12,2085,0.33,average
+2020,san francisco,106380857,kaiser foundation hospital  san francisco,14,1765,0.46,average
+2021,san francisco,106380857,kaiser foundation hospital  san francisco,6,2042,0.2,above average
+2022,san francisco,106380857,kaiser foundation hospital  san francisco,6,2044,0.21,above average
+2019,san francisco,106380939,priscilla chan & mark zuckerberg san francisco general hospital & trauma center,0,592,0.0,average
+2020,san francisco,106380939,priscilla chan & mark zuckerberg san francisco general hospital & trauma center,1,521,0.2,average
+2021,san francisco,106380939,priscilla chan & mark zuckerberg san francisco general hospital & trauma center,1,584,0.16,average
+2022,san francisco,106380939,priscilla chan & mark zuckerberg san francisco general hospital & trauma center,4,588,0.57,average
+2019,san francisco,10638096,saint francis memorial hospital,2,600,0.67,average
+2020,san francisco,10638096,saint francis memorial hospital,0,483,0.0,average
+2021,san francisco,10638096,saint francis memorial hospital,2,300,0.43,average
+2022,san francisco,10638096,saint francis memorial hospital,1,346,0.21,average
+2019,san francisco,106380965,"saint marys medical center, san francisco",8,897,1.03,below average
+2020,san francisco,106380965,"saint marys medical center, san francisco",4,494,1.13,average
+2021,san francisco,106380965,"saint marys medical center, san francisco",2,426,0.78,average
+2022,san francisco,106380965,"saint marys medical center, san francisco",2,369,0.49,average
+2019,san francisco,106381154,uc san francisco medical center,52,7277,0.6,below average
+2020,san francisco,106381154,uc san francisco medical center,41,6994,0.53,average
+2021,san francisco,106381154,uc san francisco medical center,34,7517,0.4,average
+2022,san francisco,106381154,uc san francisco medical center,36,6228,0.46,average
+2019,san joaquin,106390923,adventist health lodi memorial,1,225,0.4,average
+2020,san joaquin,106390923,adventist health lodi memorial,1,140,0.69,average
+2021,san joaquin,106390923,adventist health lodi memorial,0,77,0.0,average
+2022,san joaquin,106390923,adventist health lodi memorial,0,74,0.0,average
+2019,san joaquin,106390846,dameron hospital,1,553,0.46,average
+2020,san joaquin,106390846,dameron hospital,0,291,0.0,average
+2021,san joaquin,106390846,dameron hospital,1,257,0.63,average
+2022,san joaquin,106390846,dameron hospital,0,221,0.0,average
+2019,san joaquin,106392287,doctors hospital of manteca,1,338,0.77,average
+2020,san joaquin,106392287,doctors hospital of manteca,0,237,0.0,average
+2021,san joaquin,106392287,doctors hospital of manteca,0,214,0.0,average
+2022,san joaquin,106392287,doctors hospital of manteca,2,290,2.21,average
+2019,san joaquin,106394009,kaiser foundation hospital  manteca,0,582,0.0,above average
+2020,san joaquin,106394009,kaiser foundation hospital  manteca,1,388,0.13,average
+2021,san joaquin,106394009,kaiser foundation hospital  manteca,3,580,0.34,average
+2022,san joaquin,106394009,kaiser foundation hospital  manteca,1,581,0.12,average
+2019,san joaquin,106391042,saint josephs medical center of stockton,8,892,0.8,average
+2020,san joaquin,106391042,saint josephs medical center of stockton,11,787,1.35,below average
+2021,san joaquin,106391042,saint josephs medical center of stockton,5,619,0.58,average
+2022,san joaquin,106391042,saint josephs medical center of stockton,2,585,0.36,average
+2019,san joaquin,10639101,san joaquin general hospital,3,613,0.7,average
+2020,san joaquin,10639101,san joaquin general hospital,2,379,0.65,average
+2021,san joaquin,10639101,san joaquin general hospital,1,345,0.39,average
+2022,san joaquin,10639101,san joaquin general hospital,2,349,0.72,average
+2019,san joaquin,106391056,sutter tracy community hospital,2,176,2.63,average
+2020,san joaquin,106391056,sutter tracy community hospital,0,115,0.0,average
+2021,san joaquin,106391056,sutter tracy community hospital,0,145,0.0,average
+2022,san joaquin,106391056,sutter tracy community hospital,2,212,2.66,average
+2019,san luis obispo,10640048,french hospital medical center,0,981,0.0,average
+2020,san luis obispo,10640048,french hospital medical center,0,620,0.0,average
+2021,san luis obispo,10640048,french hospital medical center,1,429,0.22,average
+2022,san luis obispo,10640048,french hospital medical center,0,458,0.0,average
+2019,san luis obispo,106400466,marian regional medical center  arroyo grande,0,271,0.0,average
+2020,san luis obispo,106400466,marian regional medical center  arroyo grande,0,233,0.0,average
+2021,san luis obispo,106400466,marian regional medical center  arroyo grande,1,171,0.99,average
+2022,san luis obispo,106400466,marian regional medical center  arroyo grande,1,211,0.82,average
+2019,san luis obispo,106400524,sierra vista regional medical center,2,673,0.45,average
+2020,san luis obispo,106400524,sierra vista regional medical center,2,292,1.14,average
+2021,san luis obispo,106400524,sierra vista regional medical center,0,175,0.0,average
+2022,san luis obispo,106400524,sierra vista regional medical center,2,122,2.16,average
+2019,san luis obispo,106400548,twin cities community hospital,0,368,0.0,average
+2020,san luis obispo,106400548,twin cities community hospital,0,218,0.0,average
+2021,san luis obispo,106400548,twin cities community hospital,1,151,1.13,average
+2022,san luis obispo,106400548,twin cities community hospital,0,68,0.0,average
+2019,san mateo,106414139,kaiser foundation hospital  redwood city,1,1384,0.07,above average
+2020,san mateo,106414139,kaiser foundation hospital  redwood city,1,1061,0.09,above average
+2021,san mateo,106414139,kaiser foundation hospital  redwood city,3,1254,0.35,average
+2022,san mateo,106414139,kaiser foundation hospital  redwood city,3,1208,0.32,average
+2019,san mateo,106410806,kaiser foundation hospital  south san francisco,1,728,0.08,above average
+2020,san mateo,106410806,kaiser foundation hospital  south san francisco,1,403,0.14,average
+2021,san mateo,106410806,kaiser foundation hospital  south san francisco,0,576,0.0,above average
+2022,san mateo,106410806,kaiser foundation hospital  south san francisco,1,543,0.15,average
+2019,san mateo,106414018,menlo park surgical hospital,0,178,0.0,average
+2020,san mateo,106414018,menlo park surgical hospital,0,137,0.0,average
+2019,san mateo,106410852,peninsula medical center,6,1531,0.38,average
+2020,san mateo,106410852,peninsula medical center,7,1279,0.56,average
+2021,san mateo,106410852,peninsula medical center,1,1290,0.07,above average
+2022,san mateo,106410852,peninsula medical center,2,1281,0.16,average
+2019,san mateo,106410782,san mateo medical center,0,144,0.0,average
+2020,san mateo,106410782,san mateo medical center,0,56,0.0,average
+2021,san mateo,106410782,san mateo medical center,0,106,0.0,average
+2022,san mateo,106410782,san mateo medical center,2,127,2.66,average
+2019,san mateo,106410891,sequoia hospital,3,1471,0.39,average
+2020,san mateo,106410891,sequoia hospital,3,1074,0.49,average
+2021,san mateo,106410891,sequoia hospital,1,793,0.19,average
+2022,san mateo,106410891,sequoia hospital,1,856,0.16,average
+2019,san mateo,106410817,seton medical center,1,244,0.55,average
+2020,san mateo,106410817,seton medical center,0,135,0.0,average
+2021,san mateo,106410817,seton medical center,0,109,0.0,average
+2022,san mateo,106410817,seton medical center,1,98,0.97,average
+2019,santa barbara,106420483,goleta valley cottage hospital,1,1220,0.45,average
+2020,santa barbara,106420483,goleta valley cottage hospital,0,969,0.0,average
+2021,santa barbara,106420483,goleta valley cottage hospital,1,529,0.9,average
+2022,santa barbara,106420483,goleta valley cottage hospital,0,416,0.0,average
+2019,santa barbara,106420491,lompoc valley medical center,0,123,0.0,average
+2020,santa barbara,106420491,lompoc valley medical center,0,129,0.0,average
+2021,santa barbara,106420491,lompoc valley medical center,1,198,0.61,average
+2022,santa barbara,106420491,lompoc valley medical center,0,241,0.0,average
+2019,santa barbara,106420493,marian regional medical center,7,1324,0.79,average
+2020,santa barbara,106420493,marian regional medical center,0,956,0.0,average
+2021,santa barbara,106420493,marian regional medical center,3,905,0.56,average
+2022,santa barbara,106420493,marian regional medical center,2,940,0.38,average
+2019,santa barbara,106420514,santa barbara cottage hospital,3,2133,0.15,above average
+2020,santa barbara,106420514,santa barbara cottage hospital,8,1852,0.48,average
+2021,santa barbara,106420514,santa barbara cottage hospital,6,1688,0.39,average
+2022,santa barbara,106420514,santa barbara cottage hospital,7,1649,0.44,average
+2019,santa clara,106430763,el camino health,5,2662,0.23,average
+2020,santa clara,106430763,el camino health,2,1960,0.12,above average
+2021,santa clara,106430763,el camino health,7,1866,0.4,average
+2022,santa clara,106430763,el camino health,3,1695,0.19,average
+2019,santa clara,106430779,good samaritan hospital  san jose,2,1527,0.15,average
+2020,santa clara,106430779,good samaritan hospital  san jose,5,996,0.51,average
+2021,santa clara,106430779,good samaritan hospital  san jose,4,919,0.6,average
+2022,santa clara,106430779,good samaritan hospital  san jose,6,865,0.91,average
+2019,santa clara,106431506,kaiser foundation hospital  san jose,2,1438,0.1,above average
+2020,santa clara,106431506,kaiser foundation hospital  san jose,2,1060,0.11,above average
+2021,santa clara,106431506,kaiser foundation hospital  san jose,3,1130,0.23,average
+2022,santa clara,106431506,kaiser foundation hospital  san jose,4,1109,0.24,average
+2019,santa clara,106434153,kaiser foundation hospital  santa clara,14,2196,0.35,average
+2020,santa clara,106434153,kaiser foundation hospital  santa clara,9,1433,0.28,above average
+2021,santa clara,106434153,kaiser foundation hospital  santa clara,7,1577,0.25,average
+2022,santa clara,106434153,kaiser foundation hospital  santa clara,10,1576,0.38,average
+2019,santa clara,106430837,oconnor hospital,1,524,0.26,average
+2020,santa clara,106430837,oconnor hospital,1,333,0.49,average
+2021,santa clara,106430837,oconnor hospital,0,364,0.0,average
+2022,santa clara,106430837,oconnor hospital,2,373,0.77,average
+2019,santa clara,106430705,regional medical center of san jose,4,280,0.99,average
+2020,santa clara,106430705,regional medical center of san jose,3,236,1.1,average
+2021,santa clara,106430705,regional medical center of san jose,2,216,1.12,average
+2022,santa clara,106430705,regional medical center of san jose,0,241,0.0,average
+2019,santa clara,106434138,saint louise regional hospital,0,17,0.0,average
+2020,santa clara,106434138,saint louise regional hospital,0,28,0.0,average
+2021,santa clara,106434138,saint louise regional hospital,0,50,0.0,average
+2022,santa clara,106434138,saint louise regional hospital,0,46,0.0,average
+2019,santa clara,106430883,santa clara valley medical center,6,1162,0.49,average
+2020,santa clara,106430883,santa clara valley medical center,9,915,1.0,average
+2021,santa clara,106430883,santa clara valley medical center,3,860,0.39,average
+2022,santa clara,106430883,santa clara valley medical center,2,772,0.3,average
+2019,santa clara,106430905,stanford health care,68,7012,0.55,average
+2020,santa clara,106430905,stanford health care,76,7179,0.64,average
+2021,santa clara,106430905,stanford health care,57,7465,0.52,average
+2022,santa clara,106430905,stanford health care,51,7210,0.5,average
+2019,santa cruz,106440755,dominican hospital,4,764,0.6,average
+2020,santa cruz,106440755,dominican hospital,9,615,1.65,below average
+2021,santa cruz,106440755,dominican hospital,5,520,0.76,average
+2022,santa cruz,106440755,dominican hospital,7,446,1.24,below average
+2019,santa cruz,106444013,watsonville community hospital,1,90,1.23,average
+2020,santa cruz,106444013,watsonville community hospital,0,45,0.0,average
+2021,santa cruz,106444013,watsonville community hospital,0,79,0.0,average
+2022,santa cruz,106444013,watsonville community hospital,0,73,0.0,average
+2019,shasta,106450936,mayers memorial hospital,0,4,0.0,average
+2019,shasta,106450949,mercy medical center  redding,4,1335,0.46,average
+2020,shasta,106450949,mercy medical center  redding,2,800,0.34,average
+2021,shasta,106450949,mercy medical center  redding,0,387,0.0,average
+2022,shasta,106450949,mercy medical center  redding,3,538,0.59,average
+2019,shasta,106454013,patients hospital of redding,0,173,0.0,average
+2020,shasta,106454013,patients hospital of redding,0,143,0.0,average
+2021,shasta,106454013,patients hospital of redding,0,144,0.0,average
+2022,shasta,106454013,patients hospital of redding,0,55,0.0,average
+2019,shasta,10645094,shasta regional medical center,1,744,0.18,average
+2020,shasta,10645094,shasta regional medical center,0,652,0.0,average
+2021,shasta,10645094,shasta regional medical center,2,705,0.37,average
+2022,shasta,10645094,shasta regional medical center,1,866,0.18,average
+2019,siskiyou,106474007,fairchild medical center,0,106,0.0,average
+2020,siskiyou,106474007,fairchild medical center,0,88,0.0,average
+2021,siskiyou,106474007,fairchild medical center,0,67,0.0,average
+2022,siskiyou,106474007,fairchild medical center,1,71,3.33,average
+2019,siskiyou,106470871,mercy medical center mt. shasta,0,140,0.0,average
+2020,siskiyou,106470871,mercy medical center mt. shasta,0,61,0.0,average
+2021,siskiyou,106470871,mercy medical center mt. shasta,0,30,0.0,average
+2022,siskiyou,106470871,mercy medical center mt. shasta,0,46,0.0,average
+2019,solano,106480989,kaiser foundation hospital & rehabilitation center  vallejo,2,306,0.23,average
+2020,solano,106480989,kaiser foundation hospital & rehabilitation center  vallejo,1,220,0.15,average
+2021,solano,106480989,kaiser foundation hospital & rehabilitation center  vallejo,3,240,0.53,average
+2022,solano,106480989,kaiser foundation hospital & rehabilitation center  vallejo,2,207,0.33,average
+2019,solano,106484044,kaiser foundation hospital  vacaville,1,507,0.18,average
+2020,solano,106484044,kaiser foundation hospital  vacaville,1,407,0.23,average
+2021,solano,106484044,kaiser foundation hospital  vacaville,5,459,1.34,average
+2022,solano,106484044,kaiser foundation hospital  vacaville,1,488,0.35,average
+2019,solano,106481357,northbay medical center,2,459,0.53,average
+2020,solano,106481357,northbay medical center,3,340,0.99,average
+2021,solano,106481357,northbay medical center,1,324,0.34,average
+2022,solano,106481357,northbay medical center,2,233,0.84,average
+2019,solano,106481094,sutter solano medical center,6,463,1.22,below average
+2020,solano,106481094,sutter solano medical center,1,346,0.32,average
+2021,solano,106481094,sutter solano medical center,0,391,0.0,average
+2022,solano,106481094,sutter solano medical center,5,420,1.83,below average
+2019,sonoma,106490964,healdsburg district hospital,0,109,0.0,average
+2020,sonoma,106490964,healdsburg district hospital,0,60,0.0,average
+2021,sonoma,106490964,healdsburg district hospital,0,8,0.0,average
+2022,sonoma,106490964,healdsburg district hospital,0,6,0.0,average
+2019,sonoma,106494019,kaiser foundation hospital  santa rosa,4,686,0.53,average
+2020,sonoma,106494019,kaiser foundation hospital  santa rosa,2,280,0.46,average
+2021,sonoma,106494019,kaiser foundation hospital  santa rosa,2,241,0.51,average
+2022,sonoma,106494019,kaiser foundation hospital  santa rosa,1,310,0.26,average
+2019,sonoma,106491001,petaluma valley hospital,0,106,0.0,average
+2020,sonoma,106491001,petaluma valley hospital,0,41,0.0,average
+2021,sonoma,106491001,petaluma valley hospital,0,54,0.0,average
+2022,sonoma,106491001,petaluma valley hospital,0,77,0.0,average
+2019,sonoma,106491064,santa rosa memorial hospital  montgomery,0,1141,0.0,average
+2020,sonoma,106491064,santa rosa memorial hospital  montgomery,0,778,0.0,average
+2021,sonoma,106491064,santa rosa memorial hospital  montgomery,1,600,0.24,average
+2022,sonoma,106491064,santa rosa memorial hospital  montgomery,1,718,0.14,average
+2020,sonoma,106491338,sonoma specialty hospital,0,3,0.0,average
+2021,sonoma,106491338,sonoma specialty hospital,0,7,0.0,average
+2022,sonoma,106491338,sonoma specialty hospital,0,5,0.0,average
+2019,sonoma,106491076,sonoma valley hospital,1,168,1.46,average
+2020,sonoma,106491076,sonoma valley hospital,0,103,0.0,average
+2021,sonoma,106491076,sonoma valley hospital,0,65,0.0,average
+2022,sonoma,106491076,sonoma valley hospital,0,72,0.0,average
+2019,sonoma,106494106,sutter santa rosa regional hospital,3,1142,0.46,average
+2020,sonoma,106494106,sutter santa rosa regional hospital,4,1078,0.78,average
+2021,sonoma,106494106,sutter santa rosa regional hospital,0,1101,0.0,average
+2022,sonoma,106494106,sutter santa rosa regional hospital,5,739,1.16,average
+2019,stanislaus,106500852,doctors medical center,4,805,0.7,average
+2020,stanislaus,106500852,doctors medical center,3,608,0.96,average
+2021,stanislaus,106500852,doctors medical center,1,528,0.32,average
+2022,stanislaus,106500852,doctors medical center,1,369,0.49,average
+2019,stanislaus,106500867,emanuel medical center,2,287,0.86,average
+2020,stanislaus,106500867,emanuel medical center,1,139,0.69,average
+2021,stanislaus,106500867,emanuel medical center,0,117,0.0,average
+2022,stanislaus,106500867,emanuel medical center,0,4,0.0,average
+2019,stanislaus,106500939,memorial medical center  modesto,8,1785,0.68,average
+2020,stanislaus,106500939,memorial medical center  modesto,10,1228,1.25,below average
+2021,stanislaus,106500939,memorial medical center  modesto,8,1370,0.91,average
+2022,stanislaus,106500939,memorial medical center  modesto,7,1477,0.86,average
+2019,stanislaus,106504038,stanislaus surgical hospital,0,369,0.0,average
+2020,stanislaus,106504038,stanislaus surgical hospital,0,336,0.0,average
+2021,stanislaus,106504038,stanislaus surgical hospital,0,298,0.0,average
+2022,stanislaus,106504038,stanislaus surgical hospital,0,219,0.0,average
+2019,statewide,nan,,1328,299027,0.44,
+2020,statewide,nan,,1197,226512,0.53,
+2021,statewide,nan,,1054,219063,0.48,
+2022,statewide,nan,,1034,217046,0.48,
+2019,sutter,10651403,sutter surgical hospital  north valley,1,463,0.37,average
+2020,sutter,10651403,sutter surgical hospital  north valley,0,379,0.0,average
+2021,sutter,10651403,sutter surgical hospital  north valley,1,227,0.73,average
+2022,sutter,10651403,sutter surgical hospital  north valley,0,174,0.0,average
+2019,tehama,106521041,saint elizabeth community hospital,0,160,0.0,average
+2020,tehama,106521041,saint elizabeth community hospital,0,113,0.0,average
+2021,tehama,106521041,saint elizabeth community hospital,0,76,0.0,average
+2022,tehama,106521041,saint elizabeth community hospital,0,74,0.0,average
+2020,tulare,106540816,adventist health tulare,0,12,0.0,average
+2021,tulare,106540816,adventist health tulare,1,22,11.09,average
+2022,tulare,106540816,adventist health tulare,0,54,0.0,average
+2019,tulare,106540734,kaweah delta medical center,4,811,0.61,average
+2020,tulare,106540734,kaweah delta medical center,5,1185,0.56,average
+2021,tulare,106540734,kaweah delta medical center,7,1010,0.65,average
+2022,tulare,106540734,kaweah delta medical center,7,1190,0.69,average
+2019,tulare,106540798,sierra view medical center,0,253,0.0,average
+2020,tulare,106540798,sierra view medical center,1,206,1.42,average
+2021,tulare,106540798,sierra view medical center,1,181,1.38,average
+2022,tulare,106540798,sierra view medical center,0,108,0.0,average
+2019,tuolumne,106554011,adventist health sonora  greenley,1,422,0.34,average
+2020,tuolumne,106554011,adventist health sonora  greenley,1,274,0.57,average
+2021,tuolumne,106554011,adventist health sonora  greenley,2,271,0.75,average
+2022,tuolumne,106554011,adventist health sonora  greenley,2,226,0.88,average
+2019,ventura,106560525,adventist health simi valley,1,277,0.53,average
+2020,ventura,106560525,adventist health simi valley,1,198,0.81,average
+2021,ventura,106560525,adventist health simi valley,2,227,1.54,average
+2022,ventura,106560525,adventist health simi valley,1,195,0.77,average
+2019,ventura,106560473,community memorial hospital  san buenaventura,3,1678,0.3,average
+2020,ventura,106560473,community memorial hospital  san buenaventura,7,1241,0.82,average
+2021,ventura,106560473,community memorial hospital  san buenaventura,3,1069,0.37,average
+2022,ventura,106560473,community memorial hospital  san buenaventura,5,1062,0.59,average
+2019,ventura,106560492,los robles hospital and medical center,7,2357,0.47,average
+2020,ventura,106560492,los robles hospital and medical center,2,2167,0.19,average
+2021,ventura,106560492,los robles hospital and medical center,3,1761,0.28,average
+2022,ventura,106560492,los robles hospital and medical center,5,1643,0.55,average
+2020,ventura,106560501,ojai valley community hospital,0,24,0.0,average
+2021,ventura,106560501,ojai valley community hospital,0,4,0.0,average
+2022,ventura,106560501,ojai valley community hospital,0,4,0.0,average
+2019,ventura,106560508,saint johns pleasant valley hospital,2,150,1.86,average
+2020,ventura,106560508,saint johns pleasant valley hospital,2,108,1.99,average
+2021,ventura,106560508,saint johns pleasant valley hospital,0,96,0.0,average
+2022,ventura,106560508,saint johns pleasant valley hospital,0,83,0.0,average
+2019,ventura,106560529,saint johns regional medical center,6,883,0.76,average
+2020,ventura,106560529,saint johns regional medical center,2,669,0.49,average
+2021,ventura,106560529,saint johns regional medical center,3,603,0.53,average
+2022,ventura,106560529,saint johns regional medical center,2,651,0.31,average
+2019,yolo,10657401,sutter davis hospital,0,295,0.0,average
+2020,yolo,10657401,sutter davis hospital,0,120,0.0,average
+2021,yolo,10657401,sutter davis hospital,2,91,2.91,average
+2022,yolo,10657401,sutter davis hospital,0,57,0.0,average
+2019,yolo,106571086,woodland memorial hospital,1,461,0.43,average
+2020,yolo,106571086,woodland memorial hospital,0,282,0.0,average
+2021,yolo,106571086,woodland memorial hospital,0,254,0.0,average
+2022,yolo,106571086,woodland memorial hospital,0,243,0.0,average
+2019,yuba,106580996,adventist health and rideout,2,391,0.44,average
+2020,yuba,106580996,adventist health and rideout,2,338,0.74,average
+2021,yuba,106580996,adventist health and rideout,3,412,1.0,average
+2022,yuba,106580996,adventist health and rideout,1,315,0.5,average
