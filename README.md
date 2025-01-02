@@ -5,12 +5,17 @@ This branch is part of a larger independent project aimed at providing a compreh
 
 ## Datasets
 - **Number of Cancer Surgeries (Volume) Performed in California Hospitals**: Contains data for 11 types of cancer surgeries performed in California hospitals.
-Number of Cancer Surgeries (Volume) Performed in California Hospitals 
-- Dataset - California Health and Human Services Open Data Portal, data.chhs.ca.gov/dataset/number-of-cancer-surgeries-volume-performed-in-california-hospitals. Accessed Dec. 2024.
+
+Number of Cancer Surgeries (Volume) Performed in California Hospitals - Dataset - California Health and Human Services Open Data Portal, data.chhs.ca.gov/dataset/number-of-cancer-surgeries-volume-performed-in-california-hospitals. Accessed Dec. 2024.
+
 - **Elective Percutaneous Coronary Intervention (PCI) Program Reports**: Contains data on hospitals that are qualified to perform elective percutaneous coronary interventions (PCIs) without on-site cardiac surgery.
+
 Elective Percutaneous Coronary Intervention (PCI) Program Reports - Dataset - California Health and Human Services Open Data Portal, data.chhs.ca.gov/dataset/number-of-cancer-surgeries-volume-performed-in-california-hospitals. Accessed Dec. 2024.
+
 - **California Hospital Inpatient Mortality Rates and Quality Ratings**: Contains data for 6 medical conditions and 5 procedures in California hospitals.
+
 California Hospital Inpatient Mortality Rates and Quality Ratings - Dataset - California Health and Human Services Open Data Portal, data.chhs.ca.gov/dataset/number-of-cancer-surgeries-volume-performed-in-california-hospitals. Accessed Dec. 2024.
+
 - **Ischemic Stroke 30-Day Mortality and 30-Day Readmission Rates and Quality Ratings for CA Hospitals**: Contains data on ischemic stroke in California hospitals.
 Ischemic Stroke 30-Day Mortality and 30-Day Readmission Rates and Quality Ratings for CA Hospitals - Dataset - California Health and Human Services Open Data Portal, data.chhs.ca.gov/dataset/number-of-cancer-surgeries-volume-performed-in-california-hospitals. Accessed Dec. 2024.
 - **California Hospital Performance Ratings for Coronary Artery Bypass Graft (CABG) Surgery**: Contains data on CABG surgeries performed in California hospitals.
