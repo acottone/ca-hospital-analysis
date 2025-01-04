@@ -100,21 +100,7 @@ def write_additional_stats(df, columns, file):
 with open(eda_file, "a") as file:
     write_additional_stats(df, ['#_of_cases', '#_of_adverse_events', 'risk_adjusted_rate'], file)
 
-# 2.2 Categorical Variable Summary
-# Get unique values count for categoricalc olumns
-categorical_summary = df[['county', 'hospital', 'hospital_rating']].nunique().to_frame(name='unique_values')
-
-# Get the most frequent value for each categorical column
-mode_summary = df[['county', 'hospital', 'hospital_rating']].mode().loc[0]
-
-# Add summary to markdown file
-with open(eda_file, "a") as file:
-    file.write("## Categorical Variable Summary\n\n")
-    file.write(categorical_summary.to_markdown() + "\n\n")
-    file.write("### Mode of Categorical Variables\n\n")
-    file.write(mode_summary.to_markdown() + "\n\n")
-
-# 2.3 Grouped Summary by County
+# 2.2 Grouped Summary by County
 # Function to calculate grouped summary statistics for selected columns
 def write_grouped_summary(df, group_by_col, columns, file):
     """
@@ -128,7 +114,7 @@ def write_grouped_summary(df, group_by_col, columns, file):
 with open(eda_file, "a") as file:
     write_grouped_summary(df, 'county', ['#_of_cases', '#_of_adverse_events', 'risk_adjusted_rate'], file)
 
-# Function to detect outliers using Interquartile Range method
+# 2.3 Function to detect outliers using Interquartile Range method
 def detect_outliers(df, columns):
     """
     Detect outliers using IQR method.
