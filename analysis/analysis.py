@@ -657,23 +657,6 @@ with open(eda_file, "a") as file:
     file.write("## Hospital Clustering by Performance Metrics\n")
     file.write(f"![Hospital Clustering by Performance Metrics]({clustering_analysis_path})\n\n")
 
-# Perform K-means clustering on numeric columns
-X = df[['#_of_cases', '#_of_adverse_events', 'risk_adjusted_rate']]
-kmeans_cases = KMeans(n_clusters=3, random_state=42)
-df['Cluster_Cases'] = kmeans_cases.fit_predict(X)
-
-# Extract cluster centers and calculate cluster sizes
-cluster_centers_cases = pd.DataFrame(kmeans_cases.cluster_centers_, columns=X.columns)
-cluster_counts_cases = df['Cluster_Cases'].value_counts().sort_index()
-
-# Add results to markdown file
-with open(eda_file, "a") as file:
-    file.write("## K-means Clustering of Cases vs Adverse Events\n\n")
-    file.write("- **Cluster Statistics:**\n")
-    file.write(cluster_centers_cases.to_markdown(index=False) + "\n\n")
-    file.write("- **Cluster Sizes:**\n")
-    file.write(cluster_counts_cases.to_markdown() + "\n\n")
-
 # --- 8. ANOVA Test: Group Data by County and Perform ANOVA ---
 # Function to perform one-way ANOVA
 def perform_anova(df):
