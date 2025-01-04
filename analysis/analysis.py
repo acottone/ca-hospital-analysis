@@ -43,9 +43,8 @@ def create_directories(directories):
 
 directories = [
     './plots/trends/', './plots/boxplots/', './plots/correlation/', './plots/distributions/', './plots/counties/', 
-    './plots/performance/', './plots/pca/', './plots/hospitals/', './plots/pairplot/', './plots/heatmaps/', 
-    './plots/feature_importance/', './plots/cdf/', './plots/barplots/', './plots/bubble_plots/', './plots/vif/',
-    './plots/anomalies/', './plots/anova/', './plots/clusters/', './plots/chi-square/', './tables/chi-square/'
+    './plots/performance/', './plots/pca/', './plots/hospitals/', './plots/barplots/', './plots/vif/', 
+    './plots/clusters/', './plots/chi-square/', './tables/chi-square/'
 ]
 create_directories(directories)
 
@@ -64,6 +63,16 @@ with open(eda_file, "w") as file:
     file.write("# Exploratory Data Analysis\n\n")
 
 # --- 2. Exploratory Data Analysis (EDA) ---
+
+# Get the number of rows and columns in the dataset
+num_rows, num_columns = df.shape
+
+# Add this information to the markdown file along with outliers
+with open(eda_file, "a") as file:
+    file.write("## Dataset Overview\n\n")
+    file.write(f"Number of rows: {num_rows}\n")
+    file.write(f"Number of columns: {num_columns}\n\n")
+    
 # 2.1 Summary Statistics
 # Function to write summary statistics for selected numeric and categorical columns
 def write_summary_stats(df, columns, file, categorical_columns=None):
@@ -127,10 +136,17 @@ def detect_outliers(df, columns):
 # Detect outliers in the specified columns
 outliers = detect_outliers(df, ['#_of_cases', '#_of_adverse_events', 'risk_adjusted_rate'])
 
+# Subset of outliers (You can modify this to limit how many are written)
+outliers_subset = outliers.head(10)  # Example: Take the first 10 outliers
+
+# Count of outliers
+num_outliers = outliers.shape[0]
+
 # Add outlier detection results to markdown file
 with open(eda_file, "a") as file:
     file.write("## Outlier Detection\n\n")
-    file.write(outliers.to_markdown() + "\n\n")
+    file.write(f"Total number of outliers detected: {num_outliers}\n\n")
+    file.write(outliers_subset.to_markdown() + "\n\n")
 
 # --- 3. Visualizations ---
 # 3.1 Trends in Performance Measures Over Time
@@ -486,107 +502,7 @@ metric_labels = ['# of Cases', '# of Adverse Events', 'Risk Adjusted Rate']
 plot_county_hospital_metrics(data=df, metrics=metrics, metric_labels=metric_labels, 
                              title="Hospital Performance Metrics by County", markdown_file=eda_file)
 
-# 3.8 Pairplot of performance measures
-# Create a pairplot for selected columns
-pairplot_columns = ['#_of_cases', '#_of_adverse_events', 'risk_adjusted_rate', 'performance_measure']
-pairplot = sns.pairplot(df[pairplot_columns], hue='performance_measure', palette='viridis', height=2.5)
-pairplot._legend.set_bbox_to_anchor((1.05, 0.5)) 
-pairplot._legend.set_title("Performance Measure") 
-pairplot._legend.get_frame().set_edgecolor('gray')
-for text in pairplot._legend.texts:
-    text.set_fontsize(8)
-pairplot._legend.set_title("Performance Measure")
-pairplot._legend.title_fontsize = 10
-pairplot._legend.legendHandles = [plt.Line2D([0], [0], marker='o', color='w', label=t.get_text(), markersize=6, 
-                                  markerfacecolor=c) for t, c in zip(pairplot._legend.texts, 
-                                  sns.color_palette('viridis', len(pairplot._legend.texts)))]
-plt.suptitle('Pairplot of Performance Measures', y=1.02, fontsize=16)
-pairplot_path = './plots/pairplot/pairplot.png'
-plt.savefig(pairplot_path)
-plt.close()
-
-# Add pairplot to markdown file
-with open(eda_file, "a") as file:
-    file.write("## Pairplot of Performance Measures\n")
-    file.write(f"![Pairplot of Performance Measures]({pairplot_path})\n\n")
-
-# 3.9 Heatmap of performance measures by county over time
-# Pivot data for heatmap
-performance_data = df.pivot_table(
-    index='county', 
-    columns=['year', 'performance_measure'],
-    values=['#_of_cases', '#_of_adverse_events', 'risk_adjusted_rate']
-)
-
-# Generate heatmap for performance measures
-plt.figure(figsize=(14, 10))
-sns.heatmap(performance_data, annot=True, fmt=".1f", cmap='viridis', linewidths=0.5, linecolor='gray', 
-            cbar_kws={'shrink': 0.8, 'label': 'Performance Metric Value'}, annot_kws={"fontsize": 8})
-plt.title('Performance Measures by County Over Time', fontsize=16, pad=20)
-plt.xlabel('Year', fontsize=12)
-plt.ylabel('County', fontsize=12)
-plt.xticks(rotation=45, ha='right', fontsize=10)
-plt.yticks(fontsize=10)
-plt.tight_layout()
-heatmap_path = './plots/heatmaps/performance_by_county.png'
-plt.savefig(heatmap_path)
-plt.close()
-
-# Add heatmap to markdown file
-with open(eda_file, "a") as file:
-    file.write("## Performance Measures by County Over Time\n")
-    file.write(f"![Performance Measures by County Over Time]({heatmap_path})\n\n")
-
-# 3.10 Feature importance in predicting performance measure
-# Encode performance measure as numerical values for modeling
-le = LabelEncoder()
-df['performance_measure_encoded'] = le.fit_transform(df['performance_measure'])
-
-# Define features and target
-X = df[['#_of_cases', '#_of_adverse_events', 'risk_adjusted_rate']]
-y = df['performance_measure_encoded']
-
-# Train a random forest regressor to compute feature importance
-rf = RandomForestRegressor(random_state=42)
-rf.fit(X, y)
-
-# Plot feature importances as a bar chart
-feature_importances = pd.Series(rf.feature_importances_, index=X.columns).sort_values(ascending=False)
-plt.figure(figsize=(10, 6))
-sns.barplot(x=feature_importances.values, y=feature_importances.index, hue=feature_importances.index, palette="viridis")
-plt.title('Feature Importance in Predicting Performance Measure')
-plt.xlabel('Importance Score')
-plt.ylabel('Feature')
-plt.tight_layout()
-feature_importances_path = './plots/feature_importance/feature_importances.png'
-plt.savefig(feature_importances_path)
-plt.close()
-
-# Add the feature importance plot to the markdown file
-with open(eda_file, "a") as file:
-    file.write("## Feature Importance in Predicting Performance Measure\n")
-    file.write(f"![Feature Importance in Predicting Performance Measure]({feature_importances_path})\n\n")
-
-# 3.11 Cumulative distribution of # of cases
-# Plot the cumulative distribution function of # of cases
-viridis_color = to_hex(cm.viridis(0.5))
-plt.figure(figsize=(12, 8))
-sns.ecdfplot(df['#_of_cases'], color=viridis_color)
-plt.title('Cumulative Distribution of # of Cases', fontsize=16)
-plt.xlabel('# of Cases', fontsize=14)
-plt.ylabel('Proportion', fontsize=14)
-plt.grid(True, linestyle='--', linewidth=0.5)
-plt.tight_layout()
-cdf_cases_path = './plots/cdf/cdf_cases.png'
-plt.savefig(cdf_cases_path)
-plt.close()
-
-# Add the CDF plot to the markdown file
-with open(eda_file, "a") as file:
-    file.write("## Cumulative Distribution of # of Cases\n")
-    file.write(f"![Cumulative Distribution of # of Cases]({cdf_cases_path})\n\n")
-
-# 3.12 Average risk-adjusted rate by county
+# 3.8 Average risk-adjusted rate by county
 # Calculate the average risk adjusted rate for each county and sort the values
 random_color = to_hex(cm.viridis(random.uniform(0, 1)))
 avg_performance_by_county = df.groupby('county')['risk_adjusted_rate'].mean().sort_values()
@@ -607,26 +523,6 @@ plt.close()
 with open(eda_file, "a") as file:
     file.write("## Average Risk Adjusted Rate by County\n")
     file.write(f"![Average Risk Adjusted Rate by County]({avg_performance_bar_path})\n\n")
-
-# 3.13 Bubble plot of cases vs adverse events with risk-adjusted rate
-# Create a bubble plot showing # of cases vs # of adverse events
-plt.figure(figsize=(12, 8))
-sns.scatterplot(data=df, x='#_of_cases', y='#_of_adverse_events', size='risk_adjusted_rate', sizes=(20, 200), 
-                hue='performance_measure', palette='viridis')
-plt.title('Bubble Plot of Cases vs Adverse Events with Risk Adjusted Rate Size', fontsize=16)
-plt.xlabel('# of Cases', fontsize=14)
-plt.ylabel('# of Adverse Events', fontsize=14)
-plt.legend(title='Performance Measure', bbox_to_anchor=(1.05, 1), loc='upper left', title_fontsize=10, fontsize=8, 
-           markerscale=0.8)
-plt.tight_layout()
-bubble_plot_path = './plots/bubble_plots/bubble_plot_cases_adverse_events.png'
-plt.savefig(bubble_plot_path)
-plt.close()
-
-# Add bubble plot to markdown file
-with open(eda_file, "a") as file:
-    file.write("## Bubble Plot of Cases vs Adverse Events with Risk Adjusted Rate Size\n")
-    file.write(f"![Bubble Plot of Cases vs Adverse Events with Risk Adjusted Rate Size]({bubble_plot_path})\n\n")
 
 # --- 4. Multicollinearity Check using VIF ---
 # Function to calculate the Variance Inflation Factor for features
@@ -705,8 +601,6 @@ silhouette_avg_performance = silhouette_score(features_scaled, df['Cluster_Perfo
 
 # Add results to markdown file
 with open(eda_file, "a") as file:
-    file.write("## Hospitals Clustered by Performance Metrics\n\n")
-    file.write(df.to_markdown() + "\n\n") 
     file.write("## Silhouette Score for Clustering (Performance Metrics)\n\n")
     file.write(f"{silhouette_avg_performance:.2f}\n\n")
 
@@ -805,22 +699,6 @@ with open(eda_file, "a") as file:
     file.write(f"- **p-value:** {anova_results['p-value']}\n\n")
     significance = "Significant" if anova_results['p-value'] < 0.05 else "Not Significant"
     file.write(f"The difference in means across counties is **{significance}**.\n\n")
-
-# Create boxplot for risk adjusted rate grouped by county
-plt.figure(figsize=(10, 8))
-sns.boxplot(x='county', y='risk_adjusted_rate', data=df, hue='risk_adjusted_rate', palette='viridis')
-plt.title('Risk-Adjusted Rates by County')
-plt.xticks(rotation=45)
-plt.xlabel('County')
-plt.ylabel('Risk-Adjusted Rate')
-anova_boxplot_path = './plots/anova/anova_boxplot.png'
-plt.tight_layout()
-plt.savefig(anova_boxplot_path)
-plt.close()
-
-# Add plot to markdown
-with open(eda_file, "a") as file:
-    file.write(f"![Boxplot of Risk-Adjusted Rates by County]({anova_boxplot_path})\n\n")
 
 # --- 9. Chi-Square Test of Independence ---
 
