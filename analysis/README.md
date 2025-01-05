@@ -1,9 +1,50 @@
-# Exploratory Data Analysis
+# Exploratory Data Analysis (EDA) for California Hospital Ratings
+This section explores the combined dataset of California hospital ratings, covering the years 2011 to 2022. The goal of this EDA is to uncover patterns, relationships and insights related to hospital performance, risk-adjusted rates, and adverse events.
+
+## Dependencies
+This section uses the following libraries:
+- **matplotlib**: For generating visualizations and plots.
+  - **matplotlib.cm**: For colormaps.
+  - **matplotlib.colors**: For converting color formats and color maps.
+- **seaborn**: For data visualization and enhanced plotting.
+- **numpy**: For operations and array manipulations
+- **pandas**: For data manipulation, cleaning, and analysis
+- **os**: For file and directory management
+- **warnings**: For suppressing warnings.
+- **random**: For random number generation.
+- **sklearn**:
+  - **sklearn.preprocessing**: For scaling and encoding data.
+  - **sklearn.ensemble**: For building ensemble models.
+  - **sklearn.decomposition**: For performing PCA.
+  - **sklearn.cluster**: For clustering algorithms.
+  - **sklearn.metrics**: For evaluating the performance of clustering algorithms.
+- **statsmodels**:
+  - **statsmodels.tools.tools**: For adding constants to data.
+  - **statsmodels.stats.outliers_influence**: For VIF calculations.
+- **spicy**:
+  - **spicy.stats**: For statistical tests.
+
+## Global Settings
+- The font family for plots was set to 'Helvetica' to ensure consistancy across visualizations.
+- Warnings for font redering and palette issues were suppressed.
+- Plots were set to the stile "ticks" using Seaborn for readability.
+- A color map and color generation function were set using the "viridis" paletter for consistency.
+
+## Directory Setup
+A `create_directories` function was set to create directories for the plots, keeping them organized.
+
+## Loading the Dataset
+Data for the years 2005-2008 for removed for analysis since all relevant columns have values of 0. The `year` columns was also converted into a datetime format to ensure consistent and efficient handling of the year-based data.
 
 ## Dataset Overview
-
+The dataset contained 89,762 rows and 9 columns, each represented a hospital performance record over the years 2011-2022. 
 Number of rows: 89762
 Number of columns: 9
+
+The function `write_summary_stats` calculates the summary statistics for numeric and catergorical columns.
+
+- Numeric columns: `#_of_cases`, `#_of_adverse_events`, `risk_adjusted_rate`.
+- Categorical columns: `county`, `hospital`, `hospital_rating`.
 
 ## Numeric Summary Statistics
 
@@ -18,6 +59,8 @@ Number of columns: 9
 | 75%   |     104      |               3       |              3.49    |
 | max   |   15523      |             969       |            161.8     |
 
+The dataset covers 55 unique counties, with Los Angeles County being the most frequent, making up 24.19% of the data alone. There are also 374 unique hospitals, with UCLA West Valley Medical Center being the most frequent at 0.004% of the data, and 4 unique hospital_rating categories with `average` being the most common at 49.41% of the data.
+
 ## Categorical Summary Statistics
 
 |        | county      | hospital                        | hospital_rating   |
@@ -26,6 +69,8 @@ Number of columns: 9
 | unique | 55          | 374                             | 4                 |
 | top    | los angeles | ucla west valley medical center | average           |
 | freq   | 21709       | 317                             | 44355             |
+
+Additional summary statistics were calculated using the `write_additional_stats` function, which finds the median, variance, skewness, and kurtosis for each numeric column. Thes results show particularly high variability for `#_of_cases`, and high positive skew for all columns. This suggests that lower values are much more common for each column. Kurtosis is also very high.
 
 ## Additional Summary Statistics
 
@@ -36,21 +81,7 @@ Number of columns: 9
 | skew   |      14.8423 |               16.5413 |              5.33334 |
 | kurt   |     434.225  |              354.975  |             50.534   |
 
-## Categorical Variable Summary
-
-|                 |   unique_values |
-|:----------------|----------------:|
-| county          |              55 |
-| hospital        |             374 |
-| hospital_rating |               4 |
-
-### Mode of Categorical Variables
-
-|                 | 0                               |
-|:----------------|:--------------------------------|
-| county          | los angeles                     |
-| hospital        | ucla west valley medical center |
-| hospital_rating | average                         |
+Grouped summaries for each county were generated to find the mean values for each numeric column. Sacramento County has the highest average `#_of_cases` at 198.098 and the highest average `#_of_adverse_events` at 11.1602. Yuba County has the highest average `risk_adjusted_rate` at 5.11691. Modoc County has the lowest average `#_of_cases` at 0.458333. Glenn County has the lowest average of `#_of_adverse_events` at 0.0262172. Madera County has the lowest average `risk_adjusted_rate` at 0.119643.
 
 ## Grouped Summary by County
 
@@ -114,6 +145,10 @@ Number of columns: 9
 
 ## Outlier Detection
 
+The number of outliers in the dataset was detected using the function `detect_outliers` which utilizes the Interquartile Range (IQR) method to identify outliers in the numeric columns. 21,869 rows were identified to contain outliers in the dataset, making up 24.36% of the data.
+
+Example: Alameda Hospital in Alameda County had a risk-adjusted rate of 17.1 for acute stroke
+
 Total number of outliers detected: 21869
 
 |     | year                |   oshpd_id | county   | hospital         | performance_measure                  |   #_of_cases |   #_of_adverse_events |   risk_adjusted_rate | hospital_rating   |
@@ -129,23 +164,48 @@ Total number of outliers detected: 21869
 | 106 | 2013-01-01 00:00:00 |  106010735 | alameda  | alameda hospital | 30-day mortality (ischemic stroke)   |           16 |                   124 |                10.28 | average           |
 | 107 | 2013-01-01 00:00:00 |  106010735 | alameda  | alameda hospital | 30-day readmission (ischemic stroke) |           18 |                   109 |                16.56 | average           |
 
-## Trends Over Time
+## Plots
+
+### Trends Over Time
+
+The `plot_trends` function generates line plots to visualize the trends for each performance metric over time.
+
 ![Trends Over Time](./plots/trends/trend_over_time.png)
 
-## Distribution of # of Cases Across Counties
+`#_of_adverse_events` peaks between years 2012-2014. `#_of_cases` increases steadily after 2017. `risk_adjusted_rate` has the highest peaks at the years 2016 and 2020.
+
+## Boxplots for Performance Metrics Across Counties 
+
+The `save_boxplot` function generates boxplots for each performance metric across counties.
+
+### Distribution of # of Cases Across Counties
 ![Distribution of # of Cases Across Counties](./plots/boxplots/cases_by_county.png)
 
-## Distribution of Adverse Events Across Counties
+### Distribution of Adverse Events Across Counties
 ![Distribution of Adverse Events Across Counties](./plots/boxplots/adverse_events_by_county.png)
 
-## Distribution of Risk Adjusted Rate Across Counties
+### Distribution of Risk Adjusted Rate Across Counties
 ![Distribution of Risk Adjusted Rate Across Counties](./plots/boxplots/risk_adjusted_rate_by_county.png)
 
 ## Correlation Matrix
+
+The `plot_correlation_matrix` function generates a heatmap of the correlaton matrix for selected performance metrics.
+
 ![Correlation Matrix](./plots/correlation/correlation_matrix.png)
 
+The metrics all have slight positive correlations.
+
 ## Distributions of Key Variables
+
+The `plot_distributions` function generates histograms for performance metrics and their log-transformed versions (to address skew) to visualize their distributions.
+
 ![Distributions of Key Variables](./plots/distributions/distribution_with_transformed_metrics.png)
+
+## County-Specific Visualizations
+
+The function `plot_county_visualizations` function generates separate visualizations for each county, showing the metrics for each hospital in the county.
+
+Plots showing the metrics for only one hospital were note included (Yuba, Tuolumne, Trinity, Tehama, Sutter, San Benito, Mariposa, Madera, Lassen, Kings, Glenn, Del Norte, Colusa, Calaveras,
 
 ### Number of Cases by Hospital in alameda
 ![Number of Cases by Hospital in alameda](./plots/counties/alameda_#_of_cases.png)
@@ -156,26 +216,14 @@ Total number of outliers detected: 21869
 ### Number of Cases by Hospital in butte
 ![Number of Cases by Hospital in butte](./plots/counties/butte_#_of_cases.png)
 
-### Number of Cases by Hospital in calaveras
-![Number of Cases by Hospital in calaveras](./plots/counties/calaveras_#_of_cases.png)
-
-### Number of Cases by Hospital in colusa
-![Number of Cases by Hospital in colusa](./plots/counties/colusa_#_of_cases.png)
-
 ### Number of Cases by Hospital in contra costa
 ![Number of Cases by Hospital in contra costa](./plots/counties/contra costa_#_of_cases.png)
-
-### Number of Cases by Hospital in del norte
-![Number of Cases by Hospital in del norte](./plots/counties/del norte_#_of_cases.png)
 
 ### Number of Cases by Hospital in el dorado
 ![Number of Cases by Hospital in el dorado](./plots/counties/el dorado_#_of_cases.png)
 
 ### Number of Cases by Hospital in fresno
 ![Number of Cases by Hospital in fresno](./plots/counties/fresno_#_of_cases.png)
-
-### Number of Cases by Hospital in glenn
-![Number of Cases by Hospital in glenn](./plots/counties/glenn_#_of_cases.png)
 
 ### Number of Cases by Hospital in humboldt
 ![Number of Cases by Hospital in humboldt](./plots/counties/humboldt_#_of_cases.png)
@@ -189,26 +237,14 @@ Total number of outliers detected: 21869
 ### Number of Cases by Hospital in kern
 ![Number of Cases by Hospital in kern](./plots/counties/kern_#_of_cases.png)
 
-### Number of Cases by Hospital in kings
-![Number of Cases by Hospital in kings](./plots/counties/kings_#_of_cases.png)
-
 ### Number of Cases by Hospital in lake
 ![Number of Cases by Hospital in lake](./plots/counties/lake_#_of_cases.png)
-
-### Number of Cases by Hospital in lassen
-![Number of Cases by Hospital in lassen](./plots/counties/lassen_#_of_cases.png)
 
 ### Number of Cases by Hospital in los angeles
 ![Number of Cases by Hospital in los angeles](./plots/counties/los angeles_#_of_cases.png)
 
-### Number of Cases by Hospital in madera
-![Number of Cases by Hospital in madera](./plots/counties/madera_#_of_cases.png)
-
 ### Number of Cases by Hospital in marin
 ![Number of Cases by Hospital in marin](./plots/counties/marin_#_of_cases.png)
-
-### Number of Cases by Hospital in mariposa
-![Number of Cases by Hospital in mariposa](./plots/counties/mariposa_#_of_cases.png)
 
 ### Number of Cases by Hospital in mendocino
 ![Number of Cases by Hospital in mendocino](./plots/counties/mendocino_#_of_cases.png)
@@ -242,9 +278,6 @@ Total number of outliers detected: 21869
 
 ### Number of Cases by Hospital in sacramento
 ![Number of Cases by Hospital in sacramento](./plots/counties/sacramento_#_of_cases.png)
-
-### Number of Cases by Hospital in san benito
-![Number of Cases by Hospital in san benito](./plots/counties/san benito_#_of_cases.png)
 
 ### Number of Cases by Hospital in san bernardino
 ![Number of Cases by Hospital in san bernardino](./plots/counties/san bernardino_#_of_cases.png)
@@ -288,29 +321,14 @@ Total number of outliers detected: 21869
 ### Number of Cases by Hospital in stanislaus
 ![Number of Cases by Hospital in stanislaus](./plots/counties/stanislaus_#_of_cases.png)
 
-### Number of Cases by Hospital in sutter
-![Number of Cases by Hospital in sutter](./plots/counties/sutter_#_of_cases.png)
-
-### Number of Cases by Hospital in tehama
-![Number of Cases by Hospital in tehama](./plots/counties/tehama_#_of_cases.png)
-
-### Number of Cases by Hospital in trinity
-![Number of Cases by Hospital in trinity](./plots/counties/trinity_#_of_cases.png)
-
 ### Number of Cases by Hospital in tulare
 ![Number of Cases by Hospital in tulare](./plots/counties/tulare_#_of_cases.png)
-
-### Number of Cases by Hospital in tuolumne
-![Number of Cases by Hospital in tuolumne](./plots/counties/tuolumne_#_of_cases.png)
 
 ### Number of Cases by Hospital in ventura
 ![Number of Cases by Hospital in ventura](./plots/counties/ventura_#_of_cases.png)
 
 ### Number of Cases by Hospital in yolo
 ![Number of Cases by Hospital in yolo](./plots/counties/yolo_#_of_cases.png)
-
-### Number of Cases by Hospital in yuba
-![Number of Cases by Hospital in yuba](./plots/counties/yuba_#_of_cases.png)
 
 ### Adverse Events by Hospital in alameda
 ![Adverse Events by Hospital in alameda](./plots/counties/alameda_#_of_adverse_events.png)
@@ -321,26 +339,14 @@ Total number of outliers detected: 21869
 ### Adverse Events by Hospital in butte
 ![Adverse Events by Hospital in butte](./plots/counties/butte_#_of_adverse_events.png)
 
-### Adverse Events by Hospital in calaveras
-![Adverse Events by Hospital in calaveras](./plots/counties/calaveras_#_of_adverse_events.png)
-
-### Adverse Events by Hospital in colusa
-![Adverse Events by Hospital in colusa](./plots/counties/colusa_#_of_adverse_events.png)
-
 ### Adverse Events by Hospital in contra costa
 ![Adverse Events by Hospital in contra costa](./plots/counties/contra costa_#_of_adverse_events.png)
-
-### Adverse Events by Hospital in del norte
-![Adverse Events by Hospital in del norte](./plots/counties/del norte_#_of_adverse_events.png)
 
 ### Adverse Events by Hospital in el dorado
 ![Adverse Events by Hospital in el dorado](./plots/counties/el dorado_#_of_adverse_events.png)
 
 ### Adverse Events by Hospital in fresno
 ![Adverse Events by Hospital in fresno](./plots/counties/fresno_#_of_adverse_events.png)
-
-### Adverse Events by Hospital in glenn
-![Adverse Events by Hospital in glenn](./plots/counties/glenn_#_of_adverse_events.png)
 
 ### Adverse Events by Hospital in humboldt
 ![Adverse Events by Hospital in humboldt](./plots/counties/humboldt_#_of_adverse_events.png)
@@ -354,26 +360,14 @@ Total number of outliers detected: 21869
 ### Adverse Events by Hospital in kern
 ![Adverse Events by Hospital in kern](./plots/counties/kern_#_of_adverse_events.png)
 
-### Adverse Events by Hospital in kings
-![Adverse Events by Hospital in kings](./plots/counties/kings_#_of_adverse_events.png)
-
 ### Adverse Events by Hospital in lake
 ![Adverse Events by Hospital in lake](./plots/counties/lake_#_of_adverse_events.png)
-
-### Adverse Events by Hospital in lassen
-![Adverse Events by Hospital in lassen](./plots/counties/lassen_#_of_adverse_events.png)
 
 ### Adverse Events by Hospital in los angeles
 ![Adverse Events by Hospital in los angeles](./plots/counties/los angeles_#_of_adverse_events.png)
 
-### Adverse Events by Hospital in madera
-![Adverse Events by Hospital in madera](./plots/counties/madera_#_of_adverse_events.png)
-
 ### Adverse Events by Hospital in marin
 ![Adverse Events by Hospital in marin](./plots/counties/marin_#_of_adverse_events.png)
-
-### Adverse Events by Hospital in mariposa
-![Adverse Events by Hospital in mariposa](./plots/counties/mariposa_#_of_adverse_events.png)
 
 ### Adverse Events by Hospital in mendocino
 ![Adverse Events by Hospital in mendocino](./plots/counties/mendocino_#_of_adverse_events.png)
@@ -407,9 +401,6 @@ Total number of outliers detected: 21869
 
 ### Adverse Events by Hospital in sacramento
 ![Adverse Events by Hospital in sacramento](./plots/counties/sacramento_#_of_adverse_events.png)
-
-### Adverse Events by Hospital in san benito
-![Adverse Events by Hospital in san benito](./plots/counties/san benito_#_of_adverse_events.png)
 
 ### Adverse Events by Hospital in san bernardino
 ![Adverse Events by Hospital in san bernardino](./plots/counties/san bernardino_#_of_adverse_events.png)
@@ -453,29 +444,14 @@ Total number of outliers detected: 21869
 ### Adverse Events by Hospital in stanislaus
 ![Adverse Events by Hospital in stanislaus](./plots/counties/stanislaus_#_of_adverse_events.png)
 
-### Adverse Events by Hospital in sutter
-![Adverse Events by Hospital in sutter](./plots/counties/sutter_#_of_adverse_events.png)
-
-### Adverse Events by Hospital in tehama
-![Adverse Events by Hospital in tehama](./plots/counties/tehama_#_of_adverse_events.png)
-
-### Adverse Events by Hospital in trinity
-![Adverse Events by Hospital in trinity](./plots/counties/trinity_#_of_adverse_events.png)
-
 ### Adverse Events by Hospital in tulare
 ![Adverse Events by Hospital in tulare](./plots/counties/tulare_#_of_adverse_events.png)
-
-### Adverse Events by Hospital in tuolumne
-![Adverse Events by Hospital in tuolumne](./plots/counties/tuolumne_#_of_adverse_events.png)
 
 ### Adverse Events by Hospital in ventura
 ![Adverse Events by Hospital in ventura](./plots/counties/ventura_#_of_adverse_events.png)
 
 ### Adverse Events by Hospital in yolo
 ![Adverse Events by Hospital in yolo](./plots/counties/yolo_#_of_adverse_events.png)
-
-### Adverse Events by Hospital in yuba
-![Adverse Events by Hospital in yuba](./plots/counties/yuba_#_of_adverse_events.png)
 
 ### Risk Adjusted Rate by Hospital in alameda
 ![Risk Adjusted Rate by Hospital in alameda](./plots/counties/alameda_risk_adjusted_rate.png)
@@ -486,26 +462,14 @@ Total number of outliers detected: 21869
 ### Risk Adjusted Rate by Hospital in butte
 ![Risk Adjusted Rate by Hospital in butte](./plots/counties/butte_risk_adjusted_rate.png)
 
-### Risk Adjusted Rate by Hospital in calaveras
-![Risk Adjusted Rate by Hospital in calaveras](./plots/counties/calaveras_risk_adjusted_rate.png)
-
-### Risk Adjusted Rate by Hospital in colusa
-![Risk Adjusted Rate by Hospital in colusa](./plots/counties/colusa_risk_adjusted_rate.png)
-
 ### Risk Adjusted Rate by Hospital in contra costa
 ![Risk Adjusted Rate by Hospital in contra costa](./plots/counties/contra costa_risk_adjusted_rate.png)
-
-### Risk Adjusted Rate by Hospital in del norte
-![Risk Adjusted Rate by Hospital in del norte](./plots/counties/del norte_risk_adjusted_rate.png)
 
 ### Risk Adjusted Rate by Hospital in el dorado
 ![Risk Adjusted Rate by Hospital in el dorado](./plots/counties/el dorado_risk_adjusted_rate.png)
 
 ### Risk Adjusted Rate by Hospital in fresno
 ![Risk Adjusted Rate by Hospital in fresno](./plots/counties/fresno_risk_adjusted_rate.png)
-
-### Risk Adjusted Rate by Hospital in glenn
-![Risk Adjusted Rate by Hospital in glenn](./plots/counties/glenn_risk_adjusted_rate.png)
 
 ### Risk Adjusted Rate by Hospital in humboldt
 ![Risk Adjusted Rate by Hospital in humboldt](./plots/counties/humboldt_risk_adjusted_rate.png)
@@ -519,26 +483,14 @@ Total number of outliers detected: 21869
 ### Risk Adjusted Rate by Hospital in kern
 ![Risk Adjusted Rate by Hospital in kern](./plots/counties/kern_risk_adjusted_rate.png)
 
-### Risk Adjusted Rate by Hospital in kings
-![Risk Adjusted Rate by Hospital in kings](./plots/counties/kings_risk_adjusted_rate.png)
-
 ### Risk Adjusted Rate by Hospital in lake
 ![Risk Adjusted Rate by Hospital in lake](./plots/counties/lake_risk_adjusted_rate.png)
-
-### Risk Adjusted Rate by Hospital in lassen
-![Risk Adjusted Rate by Hospital in lassen](./plots/counties/lassen_risk_adjusted_rate.png)
 
 ### Risk Adjusted Rate by Hospital in los angeles
 ![Risk Adjusted Rate by Hospital in los angeles](./plots/counties/los angeles_risk_adjusted_rate.png)
 
-### Risk Adjusted Rate by Hospital in madera
-![Risk Adjusted Rate by Hospital in madera](./plots/counties/madera_risk_adjusted_rate.png)
-
 ### Risk Adjusted Rate by Hospital in marin
 ![Risk Adjusted Rate by Hospital in marin](./plots/counties/marin_risk_adjusted_rate.png)
-
-### Risk Adjusted Rate by Hospital in mariposa
-![Risk Adjusted Rate by Hospital in mariposa](./plots/counties/mariposa_risk_adjusted_rate.png)
 
 ### Risk Adjusted Rate by Hospital in mendocino
 ![Risk Adjusted Rate by Hospital in mendocino](./plots/counties/mendocino_risk_adjusted_rate.png)
@@ -572,9 +524,6 @@ Total number of outliers detected: 21869
 
 ### Risk Adjusted Rate by Hospital in sacramento
 ![Risk Adjusted Rate by Hospital in sacramento](./plots/counties/sacramento_risk_adjusted_rate.png)
-
-### Risk Adjusted Rate by Hospital in san benito
-![Risk Adjusted Rate by Hospital in san benito](./plots/counties/san benito_risk_adjusted_rate.png)
 
 ### Risk Adjusted Rate by Hospital in san bernardino
 ![Risk Adjusted Rate by Hospital in san bernardino](./plots/counties/san bernardino_risk_adjusted_rate.png)
@@ -618,20 +567,8 @@ Total number of outliers detected: 21869
 ### Risk Adjusted Rate by Hospital in stanislaus
 ![Risk Adjusted Rate by Hospital in stanislaus](./plots/counties/stanislaus_risk_adjusted_rate.png)
 
-### Risk Adjusted Rate by Hospital in sutter
-![Risk Adjusted Rate by Hospital in sutter](./plots/counties/sutter_risk_adjusted_rate.png)
-
-### Risk Adjusted Rate by Hospital in tehama
-![Risk Adjusted Rate by Hospital in tehama](./plots/counties/tehama_risk_adjusted_rate.png)
-
-### Risk Adjusted Rate by Hospital in trinity
-![Risk Adjusted Rate by Hospital in trinity](./plots/counties/trinity_risk_adjusted_rate.png)
-
 ### Risk Adjusted Rate by Hospital in tulare
 ![Risk Adjusted Rate by Hospital in tulare](./plots/counties/tulare_risk_adjusted_rate.png)
-
-### Risk Adjusted Rate by Hospital in tuolumne
-![Risk Adjusted Rate by Hospital in tuolumne](./plots/counties/tuolumne_risk_adjusted_rate.png)
 
 ### Risk Adjusted Rate by Hospital in ventura
 ![Risk Adjusted Rate by Hospital in ventura](./plots/counties/ventura_risk_adjusted_rate.png)
@@ -639,8 +576,10 @@ Total number of outliers detected: 21869
 ### Risk Adjusted Rate by Hospital in yolo
 ![Risk Adjusted Rate by Hospital in yolo](./plots/counties/yolo_risk_adjusted_rate.png)
 
-### Risk Adjusted Rate by Hospital in yuba
-![Risk Adjusted Rate by Hospital in yuba](./plots/counties/yuba_risk_adjusted_rate.png)
+## Performance Measure Visualizations
+
+A helper function `santize_filename` was implemented to address performance measures contained '/' which causes issues with directories. The `plot_performance_measure_vs_metrics` function generates boxplots for each performance measure against the performance metrics.
+Plots where the value is 0 for all metrics were removed (vsg, pancreatic resection (other), pancreatic resection (cancer), openrygb, laprygb, lapband, cabg, bpd, aaa repair (ruptured, open), aaa repair (ruptured, endovascular).
 
 ### Performance Measure for aaa repair (un-ruptured, endovascular)
 ![Performance Measure for aaa repair (un-ruptured, endovascular)](./plots/performance/aaa repair (un-ruptured, endovascular)_performance_vs_metrics.png)
@@ -648,26 +587,18 @@ Total number of outliers detected: 21869
 ### Performance Measure for aaa repair (un-ruptured, open)
 ![Performance Measure for aaa repair (un-ruptured, open)](./plots/performance/aaa repair (un-ruptured, open)_performance_vs_metrics.png)
 
-### Performance Measure for cabg
-![Performance Measure for cabg](./plots/performance/cabg_performance_vs_metrics.png)
-
 ### Performance Measure for esophageal resection
 ![Performance Measure for esophageal resection](./plots/performance/esophageal resection_performance_vs_metrics.png)
 
 ### Performance Measure for pancreatic resection
 ![Performance Measure for pancreatic resection](./plots/performance/pancreatic resection_performance_vs_metrics.png)
 
-### Performance Measure for pancreatic resection (cancer)
-![Performance Measure for pancreatic resection (cancer)](./plots/performance/pancreatic resection (cancer)_performance_vs_metrics.png)
-
-### Performance Measure for pancreatic resection (other)
-![Performance Measure for pancreatic resection (other)](./plots/performance/pancreatic resection (other)_performance_vs_metrics.png)
+The risk-adjusted rate is relatively high compared to number of cases.
 
 ### Performance Measure for pci
 ![Performance Measure for pci](./plots/performance/pci_performance_vs_metrics.png)
 
-### Performance Measure for aaa repair (ruptured, endovascular)
-![Performance Measure for aaa repair (ruptured, endovascular)](./plots/performance/aaa repair (ruptured, endovascular)_performance_vs_metrics.png)
+The amount of adverse events and risk-adjusted rate are relatively low compared to number of cases.
 
 ### Performance Measure for aaa repair unruptured
 ![Performance Measure for aaa repair unruptured](./plots/performance/aaa repair unruptured_performance_vs_metrics.png)
@@ -690,20 +621,23 @@ Total number of outliers detected: 21869
 ### Performance Measure for heart failure
 ![Performance Measure for heart failure](./plots/performance/heart failure_performance_vs_metrics.png)
 
+The risk-adjusted rate is somewhat high.
+
 ### Performance Measure for hip fracture
 ![Performance Measure for hip fracture](./plots/performance/hip fracture_performance_vs_metrics.png)
 
+The risk-adjusted rate is somewhat high compared to number of cases.
+
 ### Performance Measure for pneumonia
 ![Performance Measure for pneumonia](./plots/performance/pneumonia_performance_vs_metrics.png)
+
+The number of adverse events and risk-adjusted rate are relatively proportional to number of cases.
 
 ### Performance Measure for 30-day mortality (ischemic stroke)
 ![Performance Measure for 30-day mortality (ischemic stroke)](./plots/performance/30-day mortality (ischemic stroke)_performance_vs_metrics.png)
 
 ### Performance Measure for 30-day readmission (ischemic stroke)
 ![Performance Measure for 30-day readmission (ischemic stroke)](./plots/performance/30-day readmission (ischemic stroke)_performance_vs_metrics.png)
-
-### Performance Measure for aaa repair (ruptured, open)
-![Performance Measure for aaa repair (ruptured, open)](./plots/performance/aaa repair (ruptured, open)_performance_vs_metrics.png)
 
 ### Performance Measure for acute stroke hemorrhagic
 ![Performance Measure for acute stroke hemorrhagic](./plots/performance/acute stroke hemorrhagic_performance_vs_metrics.png)
@@ -717,11 +651,17 @@ Total number of outliers detected: 21869
 ### Performance Measure for hip fracture repair
 ![Performance Measure for hip fracture repair](./plots/performance/hip fracture repair_performance_vs_metrics.png)
 
+The number of adverse events and risk-adjusted rate is somewhat high compared to number of cases.
+
 ### Performance Measure for pancreatic cancer
 ![Performance Measure for pancreatic cancer](./plots/performance/pancreatic cancer_performance_vs_metrics.png)
 
+The risk-adjusted rate is high compared to number of cases
+
 ### Performance Measure for pancreatic other
 ![Performance Measure for pancreatic other](./plots/performance/pancreatic other_performance_vs_metrics.png)
+
+The risk-adjusted rate is high compared to number of cases.
 
 ### Performance Measure for aaa repair
 ![Performance Measure for aaa repair](./plots/performance/aaa repair_performance_vs_metrics.png)
@@ -732,6 +672,8 @@ Total number of outliers detected: 21869
 ### Performance Measure for postoperative sepsis
 ![Performance Measure for postoperative sepsis](./plots/performance/postoperative sepsis_performance_vs_metrics.png)
 
+The amount of adverse events and risk-adjusted rate are relatively low compared to number of cases.
+
 ### Performance Measure for acc puncture/lac
 ![Performance Measure for acc puncture/lac](./plots/performance/acc_puncture_lac_performance_vs_metrics.png)
 
@@ -741,23 +683,12 @@ Total number of outliers detected: 21869
 ### Performance Measure for neonatal bsi
 ![Performance Measure for neonatal bsi](./plots/performance/neonatal bsi_performance_vs_metrics.png)
 
+The amount of adverse events and risk-adjusted rate are relatively low compared to number of cases.
+
 ### Performance Measure for postop resp failure
 ![Performance Measure for postop resp failure](./plots/performance/postop resp failure_performance_vs_metrics.png)
 
-### Performance Measure for bpd (weight loss surgery)
-![Performance Measure for bpd (weight loss surgery)](./plots/performance/bpd (weight loss surgery)_performance_vs_metrics.png)
-
-### Performance Measure for lapband (weight loss surgery)
-![Performance Measure for lapband (weight loss surgery)](./plots/performance/lapband (weight loss surgery)_performance_vs_metrics.png)
-
-### Performance Measure for laprygb
-![Performance Measure for laprygb](./plots/performance/laprygb_performance_vs_metrics.png)
-
-### Performance Measure for openrygb (weight loss surgery)
-![Performance Measure for openrygb (weight loss surgery)](./plots/performance/openrygb (weight loss surgery)_performance_vs_metrics.png)
-
-### Performance Measure for vsg (weight loss surgery)
-![Performance Measure for vsg (weight loss surgery)](./plots/performance/vsg (weight loss surgery)_performance_vs_metrics.png)
+All metrics are relatively low.
 
 ### Performance Measure for elective pci emergency cabg
 ![Performance Measure for elective pci emergency cabg](./plots/performance/elective pci emergency cabg_performance_vs_metrics.png)
@@ -771,6 +702,8 @@ Total number of outliers detected: 21869
 ### Performance Measure for post-operative stroke
 ![Performance Measure for post-operative stroke](./plots/performance/post-operative stroke_performance_vs_metrics.png)
 
+The amount of adverse events and risk-adjusted rate are relatively low compared to number of cases.
+
 ### Performance Measure for cabg 30-day readmission
 ![Performance Measure for cabg 30-day readmission](./plots/performance/cabg 30-day readmission_performance_vs_metrics.png)
 
@@ -783,20 +716,40 @@ Total number of outliers detected: 21869
 ### Performance Measure for isolated cabg operative mortality
 ![Performance Measure for isolated cabg operative mortality](./plots/performance/isolated cabg operative mortality_performance_vs_metrics.png)
 
+The amount of adverse events and risk-adjusted rate are relatively low compared to number of cases.
+
 ### Performance Measure for isolated cabg 30-day readmission
 ![Performance Measure for isolated cabg 30-day readmission](./plots/performance/isolated cabg 30-day readmission_performance_vs_metrics.png)
+
+The number of adverse events and risk-adjust rate appear proportional to number of cases.
 
 ### Performance Measure for isolated cabg post-operative stroke
 ![Performance Measure for isolated cabg post-operative stroke](./plots/performance/isolated cabg post-operative stroke_performance_vs_metrics.png)
 
+The amount of adverse events and risk-adjusted rate are relatively low compared to number of cases.
+
 ### Performance Measure for tavr in-hospital/30-day mortality (tavr)
 ![Performance Measure for tavr in-hospital/30-day mortality (tavr)](./plots/performance/tavr in-hospital_30-day mortality (tavr)_performance_vs_metrics.png)
+
+The amount of adverse events and risk-adjusted rate are relatively low compared to number of cases.
 
 ### Performance Measure for tavr in-hospital/30-day stroke (tavr)
 ![Performance Measure for tavr in-hospital/30-day stroke (tavr)](./plots/performance/tavr in-hospital_30-day stroke (tavr)_performance_vs_metrics.png)
 
+The amount of adverse events and risk-adjusted rate are relatively low compared to number of cases.
+
+## County-Specific Hospital Metrics
+
+The `plot_county_hospital_metrics` function generates subplots for performance metrics for hospitals in each county. Subplots are limited by four for each plot for readability.
+
+Several hospitals show high adverse event numbers for measures regarding ischemic strokes.
+
 ### Hospital Performance Metrics by County in alameda - Chunk 1
 ![Hospital Performance Metrics by County in alameda - Chunk 1](./plots/hospitals/alameda_hospital_metrics_chunk_1.png)
+
+Alameda Hospital had the largest risk-adjusted rate for acute stroke hemorhagic. There is also a higher risk-adjusted rate than number of cases for acute stroke subarachnoid.
+
+Alta Bates Summit Medical Center and Highland Hospital both have the highest number of adverse events for ischemic stroke.
 
 ### Hospital Performance Metrics by County in alameda - Chunk 2
 ![Hospital Performance Metrics by County in alameda - Chunk 2](./plots/hospitals/alameda_hospital_metrics_chunk_2.png)
@@ -813,8 +766,12 @@ Total number of outliers detected: 21869
 ### Hospital Performance Metrics by County in butte - Chunk 1
 ![Hospital Performance Metrics by County in butte - Chunk 1](./plots/hospitals/butte_hospital_metrics_chunk_1.png)
 
+Orchard hospital showed high risk-adjusted rates for acute stroke, heart failure, pneumonia, ami, and acute stroke ischemic.
+
 ### Hospital Performance Metrics by County in calaveras - Chunk 1
 ![Hospital Performance Metrics by County in calaveras - Chunk 1](./plots/hospitals/calaveras_hospital_metrics_chunk_1.png)
+
+Mark Twain Medical Center show high risk-adjusted rate for acute stroke, ami, acute stroke ischemic, and hip fracture repair.
 
 ### Hospital Performance Metrics by County in colusa - Chunk 1
 ![Hospital Performance Metrics by County in colusa - Chunk 1](./plots/hospitals/colusa_hospital_metrics_chunk_1.png)
@@ -1140,13 +1097,15 @@ Total number of outliers detected: 21869
 ### Hospital Performance Metrics by County in yuba - Chunk 1
 ![Hospital Performance Metrics by County in yuba - Chunk 1](./plots/hospitals/yuba_hospital_metrics_chunk_1.png)
 
-## Feature Importance in Predicting Performance Measure
-![Feature Importance in Predicting Performance Measure](./plots/feature_importance/feature_importances.png)
-
 ## Average Risk Adjusted Rate by County
+
+The average `risk_adjusted_rate` per county is visualized using a barplot.
+
 ![Average Risk Adjusted Rate by County](./plots/barplots/avg_performance_by_county.png)
 
 ## Variance Inflation Factor (VIF) Check
+
+The `check_vif` function calculates the VIF for each feature in the dataset to check for multicollinearity.
 
 - **Thresholds**: VIF > 5 suggests high multicollinearity, while VIF > 10 indicates severe multicollinearity.
 
@@ -1159,12 +1118,23 @@ Total number of outliers detected: 21869
 
 ![VIF Bar Plot](./plots/vif/vif_plot.png)
 
+The VIF for each feature is low, suggesting multicollinearity is not an issue in this dataset.
+
 ## PCA
+
+Principal Component Analysis (PCA) was conducted on the data. The features were scaled using `StandardScaler` to ensure all features contribute equally to the analysis. The data was reduced to two principal components and a scatterplot was generated to visualize the components, colored by county.
+
 ![PCA](./plots/pca/pca_analysis.png)
 
-## Silhouette Score for Clustering (Performance Metrics)
+## Clustering Analysis
+
+The scaled features were used for further clustering analysis. K-means clustering was applied to group hospitals into 3 clusters based on the features.
+
+### Silhouette Score for Clustering (Performance Metrics)
 
 0.70
+
+A silhouette score of 0.70 indicates that the clustering is of good quality. The hospitals are reasonably grouped based on their metrics with minimal overlap.
 
 ## Cluster Means (Performance Metrics)
 
@@ -1174,6 +1144,12 @@ Total number of outliers detected: 21869
 |                     1 |       529.23 |                 20.82 |                 4.48 |        6.17 |                 2.64 |                     1.46 |   1.24 |   1.07 | heart failure          | average           |
 |                     2 |      4035.76 |                 16.48 |                 0.35 |        8.21 |                 2.34 |                     0.28 |   6.67 |  11.44 | elective surgeries     | average           |
 
+Hospitals in cluster 0 have a low typical `#_of_cases` of 42.55, `#_of_adverse_events` of 3.73, and a `risk_adjusted_rate` of 2.9. The focus is on procedures such as carotid endarterectomy, with a hospital_rating of `none`.
+
+Hospitals in cluster 1 handles 529.23 cases, with 20.82 adverse events, and a risk-adjusted rate of 4.48. Focus is on heart failure and hospital_rating `average`.
+
+Cluster 2 handle 4,036.76 cases, 16.48 adverse events, and a risk-adjusted rate of 0.25. Focus is on elective surgeries and hospital_rating `average`.
+
 ## Cluster Sizes (Performance Metrics)
 
 |   Cluster_Performance |   count |
@@ -1182,26 +1158,14 @@ Total number of outliers detected: 21869
 |                     1 |   13198 |
 |                     2 |     259 |
 
+Cluster 0 is the biggest, while cluster 2 is the largest. Cluster 0 have lower case numbers while cluster 2 has higher case numbers.
+
 ## Hospital Clustering by Performance Metrics
 ![Hospital Clustering by Performance Metrics](./plots/clusters/cluster_analysis.png)
 
-## K-means Clustering of Cases vs Adverse Events
-
-- **Cluster Statistics:**
-|   #_of_cases |   #_of_adverse_events |   risk_adjusted_rate |
-|-------------:|----------------------:|---------------------:|
-|      42.7027 |               3.74105 |              2.89649 |
-|     530.619  |              20.8591  |              4.47781 |
-|    4035.76   |              16.4777  |              0.35    |
-
-- **Cluster Sizes:**
-|   Cluster_Cases |   count |
-|----------------:|--------:|
-|               0 |   80810 |
-|               1 |    8750 |
-|               2 |     202 |
-
 ## Overall ANOVA Results Across Counties
+
+The ANOVA test was performed to compare the means of `risk_adjusted_rate` across counties to determine if the differences are statistically significant.
 
 - **F-statistic:** 12.04
 - **p-value:** 0.0
@@ -1209,6 +1173,8 @@ Total number of outliers detected: 21869
 The difference in means across counties is **Significant**.
 
 ## Chi-Square Test Results
+
+A Chi-Square Test of Independence was used to determine if there is a significant relationship between risk categories and `hospital_rating`.
 
 - Chi2 Statistic: 543.51
 - Degrees of Freedom: 8
@@ -1224,5 +1190,4 @@ Contingency Table (./tables/chi-square/chi_square_contingency_table.csv).
 
 ### Interpretation
 
-The Chi-Square test shows a statistically significant association between risk categories and hospital ratings (p < 0.05).
-
+The Chi-Square test shows a statistically significant association between risk categories and hospital ratings (p < 0.05). Hospitals with different risk profiles tend to have different ratings
